@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"37fa70fcb8aa94b00d456a7850416312"
+	{
+		"en"		"Extinguish the fire blocking your way to the helipad"
+		"es"		"Apaga el fuego bloqueando el camino al helipuerto"
+	}
+	"a62de2b3f69d49d860c02530f940f0a0"
+	{
+		"en"		"Go through the ventilation shaft"
+		"es"		"Avanza por el conducto de ventilación"
+	}
+	"27073e548cc92ba0c8ce63082fe07a0c"
+	{
+		"en"		"Pass through the flooded offices"
+		"es"		"Avanza por las oficinas inundadas"
+	}
+	"8d3daa28c618dfae22d1ba579b402c2d"
+	{
+		"en"		"Find a key for the storage door"
+		"es"		"Encuentra la llave del depósito"
+	}
+	"10cc5bf13939449e1673fdea64fd47bf"
+	{
+		"en"		"Find a way to open the shutter door"
+		"es"		"Encuentra una manera de abrir el portón"
+	}
+	"5ec6df3ab6d058b3bce0fdf875a45eed"
+	{
+		"en"		"Reach the office complex"
+		"es"		"Continúa hasta las oficinas"
+	}
+	"19d515e427c3cc2506c1f726321ebdda"
+	{
+		"en"		"Find a way to open the top of the elevator"
+		"es"		"Encuentra una manera de abrir la trampilla del elevador"
+	}
+	"9692591449ac81aa86408d35886391be"
+	{
+		"en"		"Find your way out"
+		"es"		"Encuentra una salida"
+	}
+	"030d77f9cffc9444e2a0798a8df222d4"
+	{
+		"en"		"Answer the radio"
+		"es"		"Contestá la radio"
+	}
+	"0adea241562e21249922d246d6674ab5"
+	{
+		"en"		"Search for what's left of the national guard"
+		"es"		"Buscá lo que quede de los militares"
+	}
+	"621a7bcf3d0460fa0dd0dfdb806b01e2"
+	{
+		"en"		"Find shelter"
+		"es"		"Encontrá refugio"
+	}
+	"96a15157c8ed5205d612ec7fa015ba13"
+	{
+		"en"		"Answer the radio!"
+		"es"		"Contestá la radio!"
+	}
+	"ff5cf0bd912f1e6b9f28a0f148d24306"
+	{
+		"en"		"All players must be in the cafeteria to proceed"
+		"es"		"Todos los jugadores deben estar en la cafetería para continuar"
+	}
+	"be45902f804c012e9fa0dc61daf87ade"
+	{
+		"en"		"How hard is it to gather all players in one area?"
+		"es"		"¿Tan difícil es reunir a todos los jugadores en un area?"
+	}
+	"7b0c403a61705814366076c1f8616dbd"
+	{
+		"en"		"Stay in the mission area!"
+		"es"		"¡Quédate en el área de la misión!"
+	}
+	"8f6da6a53c6aaca6fa367c16d04f6dba"
+	{
+		"en"		"Lost players will be teleported in 30 seconds!"
+		"es"		"Lost players will be teleported in 30 seconds!"
+	}
+}

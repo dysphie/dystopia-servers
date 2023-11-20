@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Hid Ragdolls"
+	{
+		"en"	"{lightpink}Ragdolls {red}hidden"
+		"es"	"{lightpink}Cadáveres {red}ocultados"
+	}
+
+	"Unhid Ragdolls"
+	{
+		"en"	"{lightpink}Ragdolls {green}unhidden"
+		"es"	"{lightpink}Cadáveres {green}visibles"
+	}
+}

@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"7d1c2b34c54b8da7790ffdfab5402cd7"
+	{
+		"en"		"The base has been overrun! Fight to the heli before its too late"
+		"es"		"La base ha sido invadida, corre al helicóptero antes de que sea muy tarde"
+	}
+	"732ebdafe369b2e4829dc73d3c57ea0e"
+	{
+		"en"		"Hold out for 2 minutes while the generator builds power"
+		"es"		"Aguanta por 2 minutos mientras el generador se enciende"
+	}
+	"6969e182ef5ce933bc0df0e78576fd07"
+	{
+		"en"		"Scavenge parts from vehicles (E) to fix the generator"
+		"es"		"Saca repuestos de los vehículos (E) para arreglar el generador"
+	}
+	"40bde7f2324ee2876dd8a09846b14ff4"
+	{
+		"en"		"Turn on power"
+		"es"		"Enciende la electricidad"
+	}
+	"8cb1ae1f13d02a915193778df3d6f0c7"
+	{
+		"en"		"Weld the cafeteria gate"
+		"es"		"Suelda el portón de la cafetería"
+	}
+	"428740cb764b760a37fc60de1ca8a03a"
+	{
+		"en"		"Pry the door open"
+		"es"		"Fuerza el portón"
+	}
+	"e693e4c83d17c6f2605ef6db70f83e2a"
+	{
+		"en"		"Continue across to the factory"
+		"es"		"Continúa por la fábrica"
+	}
+	"b3897e7be54f9b508df40435a89e7a69"
+	{
+		"en"		"Find a way across the lake"
+		"es"		"Encuentra un camino a través del lago"
+	}
+	"c76945a32e76c1f978fd7e55e63cef78"
+	{
+		"en"		"Clear the door"
+		"es"		"Limpia la puerta"
+	}
+	"0a419c2927f523ab88d126c4ecd0d5f3"
+	{
+		"en"		"Notify rescue"
+		"es"		"Notifica a los rescatistas"
+	}
+}

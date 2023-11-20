@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"3ceae6949a8c485ad3a0cbf6499aa694"
+	{
+		"en"		"FUSE IS LIT, GET BACK!!"
+		"es"		"LA DINAMITA ESTÁ ACTIVADA, RETROCEDE!!"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"9368d7d374d3e47c4e6efb975efe55c3"
+	{
+		"en"		"Board the helicopter"
+		"es"		"Sube al helicóptero"
+	}
+	"a307dfdef19faf1e7ffbfcc963c9c5b7"
+	{
+		"en"		"Find the stairwell door key"
+		"es"		"Encuentra la llave de la azotea"
+	}
+	"06eae446a92bde32506b78ab9556a976"
+	{
+		"en"		"Continue to the hospital"
+		"es"		"Continua hasta el hospital"
+	}
+	"f05e722fb26538dfedbabe7fbfcadf71"
+	{
+		"en"		"Use TNT to clear the road"
+		"es"		"Usa dinamita para despejar el camino"
+	}
+	"199185dad40bead089c529904818605e"
+	{
+		"en"		"Open gun store with a welder"
+		"es"		"Irrumpe en la armería con un soldador"
+	}
+	"26e54fe03d8a23591d593c94306c7e76"
+	{
+		"en"		"Find the barricade key"
+		"es"		"Encuentra la llave de la reja"
+	}
+	"19239e8a6ea466ee5562726f06172a09"
+	{
+		"en"		"Leave the shopping centre"
+		"es"		"Sal del centro comercial"
+	}
+	"0fbb044a90bdb54cdc95d3c5451249a9"
+	{
+		"en"		"Find the east wing key"
+		"es"		"Encuentra la llave del ala derecha"
+	}
+	"ed12ffbe5fe4cf2174f3fa123aba4b26"
+	{
+		"en"		"Open the centre with a welder"
+		"es"		"Irrumpe en el centro comercial con un soldador"
+	}
+	"05b9f79d9b77e1d843fc3ef666263a72"
+	{
+		"en"		"Open the elevator with a crowbar"
+		"es"		"Abre el elevador con una palanca"
+	}
+}

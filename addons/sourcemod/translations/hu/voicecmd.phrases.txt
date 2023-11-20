@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"hu"		"Beszéd"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"hu"		"Lőszerre van szükségem!"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"hu"		"Kövess!"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"hu"		"Segítség!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"hu"		"Állj meg itt!"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"hu"		"Nem"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"hu"		"Igen"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"hu"		"Köszönöm!"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"hu"		"Támadnak!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"hu"		"Megsebeztek!"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"hu"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"hu"		"Gránát!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"hu"		"Molotov!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"hu"		"TNT!"
+	}
+}

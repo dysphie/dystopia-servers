@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"tr"		"İletişim"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"tr"		"Mermiye ihtiyacım var"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"tr"		"Beni takip et"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"tr"		"Yardım!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"tr"		"Burada dur"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"tr"		"Hayır"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"tr"		"Evet"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"tr"		"Teşekkürler"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"tr"		"Geliyor!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"tr"		"Yaralı"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"tr"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"tr"		"El bombası!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"tr"		"Molotof!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"tr"		"TNT!"
+	}
+}

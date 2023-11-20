@@ -1,0 +1,89 @@
+"Phrases"
+{
+	"rules"
+	{
+		"en"	"/motd - Show rules"
+		"es"	"/motd - Mostrar las reglas"
+	}
+	"zombie view"
+	{
+		"en"	"/zombie - Enable zombie view (spec only)"
+		"es"	"/zombie - Activa vista zombi (solo specs)"
+	}
+	"hint"
+	{
+		"en"	"{hotpink}ꕤ{lightpink} Welcome to {hotpink}Dystopia{lightpink}!\nCommands: {hotpink}/menu{lightpink} Rules: {hotpink}/motd{lightpink}\nCommunity: 5765F2discord.me/dystopia{default}"
+		"es"	"{hotpink}ꕤ{lightpink} Bienvenida/o a {hotpink}Dystopia{lightpink}!\nComandos: {hotpink}/menu{lightpink} Reglas: {hotpink}/motd{lightpink}\nComunidad: 5765F2discord.me/dystopia{default}"
+		"pt"	"{hotpink}ꕤ{lightpink} Bem-vindo/a! à {hotpink}Dystopia{lightpink}!\nComandos: {hotpink}/menu{lightpink} Regras: {hotpink}/motd{lightpink}\nComunidade: 5765F2discord.me/dystopia{default}"
+	}
+	"nothing here"
+	{
+		"en"	"Nothing here"
+		"es"	"Nada aquí"
+	}
+	"info"
+	{
+		"en"	"/info - View information about the current map"
+		"es"	"/info - Ver información sobre el mapa actual"
+	}
+	"nominate map"
+	{
+		"en"	"/nominate - Pick next map"
+		"es"	"/nominar - Elegir el siguiente mapa"
+	}
+	"change map"
+	{
+		"en"	"/rtv - Change map"
+		"es"	"/cambiar - Cambiar de mapa"
+	}
+	"see map records"
+	{
+		"en"	"/records - See extraction records"
+		"es"	"/records - Ver récords de extracción"
+	}
+	"change name color"
+	{
+		"en"	"/color - Change name color"
+		"es"	"/color - Cambiar color del nombre"
+	}
+	"recover objective item"
+	{
+		"en"	"/bug - Recover objective item"
+		"es"	"/bug - Recuperar item del objetivo"
+	}
+	"call admin"
+	{
+		"en"	"/calladmin - Call admin"
+		"es"	"/calladmin - Llamar a un admin"
+	}
+	"rank"
+	{
+		"en"	"/rank - View your rank"
+		"es"	"/rango - Ver tu rango"
+	}
+	"top10"
+	{
+		"en"	"/top - List of players sorted by range"
+		"es"	"/top - Lista de personas ordenadas por rango"
+	}
+	"shepherd"
+	{
+		"en"	"/missing - Lists players missing from an area"
+		"es"	"/missing - Muestra lista de jugadores ausentes de un área"
+	}
+	"hide"
+	{
+		"en"	"/hide - Toggle rendering other players"
+		"es"	"/ocultar - Ocultar o mostrar al resto del equipo"
+	}
+	"profile"
+	{
+		"en"	"/profile <name> - View your profile or someone else's"
+		"es"	"/perfil <nombre> - Ver tu perfil o el de otra persona"
+	}
+	"maps"
+	{
+		"en"	"/maps <name> - Info about completed maps for a given person"
+		"es"	"/mapas <nombre> - Ver mapas completados de una persona"
+	}
+}

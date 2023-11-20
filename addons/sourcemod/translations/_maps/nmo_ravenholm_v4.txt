@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"8d720a7edb7b5b5cfc867c0d9e4c44bf"
+	{
+		"en"		"Pick up a key and open the door to escape!"
+		"es"		"¡Toma una llave y abre la puerta para escapar!"
+	}
+	"687a7098fb96e8dab239b5660cef2d33"
+	{
+		"en"		"Press E near to pole"
+		"es"		"Mantén E cerca del poste"
+	}
+	"b12f525c036333db57d4e1974b24fd5a"
+	{
+		"en"		"nmo_ravenholm - ported in to NMRIH by Extragamer, Drunk Steep and Atheist"
+		"es"		"nmo_ravenholm - adaptado para NMRIH por Extragamer, Drunk Steep y Atheist"
+	}
+	"bdc878d0b72aa55b3c7a4de16d68a3ca"
+	{
+		"en"		"I will let you through now. Go. We will meet again."
+		"es"		"Te dejaré pasar ahora. Vete. Nos volveremos a encontrar."
+	}
+	"0a1ba5f9a8930998db5f93403eaf9080"
+	{
+		"en"		"Make haste, brothers! Restore them to working condition!"
+		"es"		"¡Rápido, hermanos! Háganlas funcionar de nuevo!"
+	}
+	"cb764bf97d7819ccdd5ad3cc82876283"
+	{
+		"en"		"But first you must help me mend my traps. You will need to procure some spare parts."
+		"es"		"Pero primero deben ayudarme a arreglar mis trampas. Tendrán que encontrar algunos repuestos"
+	}
+	"5c4f28ef504c1fc21bb5825e18c709b8"
+	{
+		"en"		"I suspect you have little wish to remain in Ravenholm, so I will show you the way out."
+		"es"		"Sospecho que no tienen muchas ganas de quedarse en Ravenholm, asi que les mostraré la salida."
+	}
+	"eff8a8d0c7cc9a922b1b83292d7cf463"
+	{
+		"en"		"Greetings, brothers. I am father Grigori. You have already met my congregation."
+		"es"		"¡Hola, hermanos! ¡Soy el padre Grigori! Ya veo que han conocido a mis feligreses."
+	}
+	"1f388239bb25a7627a348bc0cf52b639"
+	{
+		"en"		"To be continued..."
+		"es"		"Continuará..."
+	}
+	"d52fb400f96ff0eae6eedf6f3f6906ef"
+	{
+		"en"		"Guard yourself well, for dangers may lie within."
+		"es"		"Manténganse alerta, el camino puede ser peligroso."
+	}
+	"27ef8761beb7d0874acc72cdd770d3d9"
+	{
+		"en"		"There is hope for you if you can reach the large building with a tower."
+		"es"		"Hay esperanza para ustedes si pueden llegar a la torre."
+	}
+	"dcefe6f2c91bf729252efbc2e2ed1baf"
+	{
+		"en"		"Well done, brothers. The traps will prevent my flock from getting unruly."
+		"es"		"Buen trabajo, hermanos. Las trampas mantendrán a mi rebaño en orden."
+	}
+	"988e40256245594f004d4ccbca5b4d69"
+	{
+		"en"		"Press E to activate a trap"
+		"es"		"Mantén E para activar una trampa"
+	}
+	"46eaae82c854e24c07c2e4e42a334285"
+	{
+		"en"		"Kill the zombie boss!"
+		"es"		"Mata al jefe zombi!"
+	}
+	"52a10443df889a4ff6cf36f98bcd9dbd"
+	{
+		"en"		"Keep going to the deep of the city"
+		"es"		"Continúa avanzando hasta el centro de la ciudad"
+	}
+	"3d0842b5bda1103f17deee69965944af"
+	{
+		"en"		"Repair the gas trap by using backup tools"
+		"es"		"Repara las trampas de gas usando repuestos"
+	}
+	"1cb16bd61a94617386159ae1f8f38921"
+	{
+		"en"		"Repair the propeller trap by using backup tools"
+		"es"		"Repara las trampa de cuchillas usando repuestos"
+	}
+	"200474ab88298e7b9dae521c5364416c"
+	{
+		"en"		"Repair the electric trap by using backup tools"
+		"es"		"Repara la trampa eléctrica usando repuestos"
+	}
+	"9ab8d97b1c388a2aec1452fd9c7cc8ff"
+	{
+		"en"		"Keep going to the center of the city"
+		"es"		"Continúa avanzando hasta el centro de la ciudad"
+	}
+	"7d390221652026ea8c83154bfe098340"
+	{
+		"en"		"Turn off the electricity to open the door"
+		"es"		"Apaga la electricidad para abrir la puerta"
+	}
+	"ea0efe6a77acfbb4aaceb085ffe6a9d9"
+	{
+		"en"		"Find a way to blow up the passage"
+		"es"		"Encuentra una manera de detonar el pasaje"
+	}
+	"6b14ab78a11a8028ae88eae83af95b87"
+	{
+		"en"		"Find a way to the surface"
+		"es"		"Encuentra un camino hacia la superficie"
+	}
+	"90fc6d0e4ed930c84bf03dd1cb24707d"
+	{
+		"en"		"Saw off the pole"
+		"es"		"Saw off the pole"
+	}
+	"c4856dc8af52d1a138abcf6447ce00cb"
+	{
+		"en"		"Activate a trap"
+		"es"		"Activate a trap"
+	}
+}

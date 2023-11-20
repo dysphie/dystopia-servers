@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"df1ff45e0fec4c0a75640b3fad74628f"
+	{
+		"en"		"Escape through the roofs"
+		"es"		"Escapa por los techos"
+	}
+}

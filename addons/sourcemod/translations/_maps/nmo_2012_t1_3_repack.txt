@@ -1,0 +1,383 @@
+"Phrases"
+{
+	"e4feedfd565491d36e592038c38966e4"
+	{
+		"en"		"Close the ark gates"
+		"es"		"Cierra la entrada al arca"
+	}
+	"eac963c209d13a098bd9fe8178f3a2aa"
+	{
+		"en"		"Board the ark"
+		"es"		"Entra al arca"
+	}
+	"f466093415c417201112a146ea4c4812"
+	{
+		"en"		"Open the security door"
+		"es"		"Abre la puerta de seguridad"
+	}
+	"4a40867ca3afb1ecfee80d3c861fd40d"
+	{
+		"en"		"Step into Area B4"
+		"es"		"Entra al área B4"
+	}
+	"64b30b75a2f9bff7be52e1c00f0a97fe"
+	{
+		"en"		"Find a C4 to blow up the rock"
+		"es"		"Encuentra la bomba para explotar la roca"
+	}
+	"fde7de6225e5b4c6526070a6368b7d02"
+	{
+		"en"		"Enter the cave"
+		"es"		"Entra a la cueva"
+	}
+	"163a2460cb9b3641c7a393e523f6a716"
+	{
+		"en"		"Break into the pilot's cabin and start the plane"
+		"es"		"Irrumpe en la cabina y enciende el avión"
+	}
+	"0b5b90cf5b6c0aa68ff0f6bc7708e4f6"
+	{
+		"en"		"Board the plane"
+		"es"		"Aborda el avión"
+	}
+	"a58df5d8360263b52c4ffff3a5505e18"
+	{
+		"en"		"Switch the valve and swim to the surface"
+		"es"		"Gira la válvula y nada hacia la superficie"
+	}
+	"ec2dbe64bbd4f671ec1d3b38b009ad17"
+	{
+		"en"		"Blow up both walls"
+		"es"		"Detona ambas paredes"
+	}
+	"7e61ae3e988e3d6853479b249810f40d"
+	{
+		"en"		"Weld the door and step into the sewers"
+		"es"		"Suelda la entrada a las alcantarillas y baja"
+	}
+	"6622a319944d1da59623a9e0ee259cf6"
+	{
+		"en"		"Use the gas can to blow up the wall next to the elevator and reach the roof"
+		"es"		"Usa la garrafa para derribar la pared vecina al ascensor y sube al techo"
+	}
+	"67704cbe0b0bf4963b839bac6e88c720"
+	{
+		"en"		"Take the elevator to the roof"
+		"es"		"Toma el ascensor hasta el techo"
+	}
+	"4e955b425188751c9a0597fa7e31c74e"
+	{
+		"en"		"A horde is approaching, collect supplies and defend the building"
+		"es"		"Se acerca una horda, busca suministros y defiende el edificio"
+	}
+	"148582fc8a1ee1311e8f22bbdba1ae41"
+	{
+		"en"		"The wall to the left blocks the path, go to the right"
+		"es"		"Un muro bloquea el camino izquierdo, ve a la derecha"
+	}
+	"b7d6457785526522c0cf58a50b44112a"
+	{
+		"en"		"The debris to the right blocks the path, go to the left"
+		"es"		"Los escombros bloquean el camino derecho, ve a la izquierda"
+	}
+	"b7a1665c95d719be8d411d131fbc9007"
+	{
+		"en"		"Leave the shelter"
+		"es"		"Sal del refugio subterráneo"
+	}
+	"7a75e1d4731e0d6834407e26f51d5780"
+	{
+		"en"		"What is that!?"
+		"es"		"¿¡Qué es eso!?"
+	}
+	"9fec2a4532919f79601f633f24775378"
+	{
+		"en"		"The city is devastated, head to the nearest sturdy structure for safety."
+		"es"		"Caen escombros por todas partes, date prisa y entra al edificio"
+	}
+	"d620a2f88b3d042a5485306268e02bf5"
+	{
+		"en"		"Leave the shelter, watch out for traps"
+		"es"		"Sal del subsuelo, ten cuidado con las trampas"
+	}
+	"e96b6cf45ec656524582cafed4884e48"
+	{
+		"en"		"Map created for CSS Zombie Escape"
+		"es"		"Mapa originario del modo Zombie Escape de CSS"
+	}
+	"ed3dafbff9ba85e18636b15f951d8815"
+	{
+		"en"		"Made to suit the game"
+		"es"		"Adaptado para que coincida con el juego."
+	}
+	"4e010f178fdac6edb7176b33fc9096a4"
+	{
+		"en"		"Mapped by Mapper and Bob Loblaw"
+		"es"		"Mapa por Mapper y Bob Loblaw"
+	}
+	"1a657f552a975b406c4c68595a28ce22"
+	{
+		"en"		"Ported by Fong"
+		"es"		"Adaptado por Fong"
+	}
+	"54d8bcaaa6e81bc9c4c593e86d978b43"
+	{
+		"en"		"It looks like we can cross with the help of a rope"
+		"es"		"Parece que podemos cruzar con la ayuda de una cuerda"
+	}
+	"2df8b64eaa4fc7fab4dff56d53eb7f57"
+	{
+		"en"		"Crap, the security system closed the entrance"
+		"es"		"Mierda, el sistema de seguridad cerró la puerta"
+	}
+	"88ed305af88f8a6111a8d3e5c265b551"
+	{
+		"en"		"B4 doors are closing"
+		"es"		"El área B4 se está cerrando"
+	}
+	"da38f46d0cdbc7ef11269659ba425327"
+	{
+		"en"		"B4 doors are opening"
+		"es"		"Se abre el área B4"
+	}
+	"c02a71b99ef972b3fc58efaf530e54f2"
+	{
+		"en"		"Go to the upper floor, don't let the zombies in or you'll lose"
+		"es"		"Ve al último piso, no dejes que los zombis entren o la misión fallará"
+	}
+	"5426370f109f433bf9dd20d9b835745f"
+	{
+		"en"		"Defend the ark until the gates close"
+		"es"		"¡Defiende el arca hasta que la entrada se cierre!"
+	}
+	"e544b7b04e5287db477da4ed6ee12f8e"
+	{
+		"en"		"You must hurry or you will freeze to death"
+		"es"		"Debes apresurarte o morirás congelado"
+	}
+	"5ecdd676404efea65100ac46e53467bc"
+	{
+		"en"		"The machinery is stuck"
+		"es"		"La maquinaria está atascada"
+	}
+	"dc01d4c36e8c32438474c25fff76696f"
+	{
+		"en"		"Careful, the ark is full of zombies"
+		"es"		"Cuidado, el arca está llena de zombis"
+	}
+	"8fefc48d36a4f1791008bf442db2dcb8"
+	{
+		"en"		"The machinery is back in action"
+		"es"		"Los engranajes están de vuelta en acción"
+	}
+	"e28e8be723fa4fed8119bb9519fd1c50"
+	{
+		"en"		"Stay back!"
+		"es"		"¡Vete!"
+	}
+	"cb58cf38a0ca7ca91614efaafc478932"
+	{
+		"en"		"The gas can is empty, siphon some gas from the generator back at the shelter"
+		"es"		"La garrafa está vacía, vuelve al refugio y cárgala"
+	}
+	"c5f7dd95ffd14705255663c3733baa35"
+	{
+		"en"		"You need a welder to open the door"
+		"es"		"Necesitas un soldador para abrir la puerta de hierro."
+	}
+	"9cb453b4032ad41bef5a0d954d6caa69"
+	{
+		"en"		"It's too safe outside, we could try "
+		"es"		"It's too dangerous outside, let's try taking the underground passage"
+	}
+	"442c946e1a9379dcb82c36cec2df9e8e"
+	{
+		"en"		"The ark base is invaded by zombies"
+		"es"		"¡La base del arca está invadida por zombis!"
+	}
+	"52346b9f9d9290b9fd1d26cc466dd8f1"
+	{
+		"en"		"Quickly barricade the door with planks"
+		"es"		"Bloquea rápidamente la puerta con tablas"
+	}
+	"bc8b42e902e2a815196fa22286f62944"
+	{
+		"en"		"Water valve open"
+		"es"		"Válvula de agua abierta"
+	}
+	"d42a0f07c4c9ebd2e5d620e18b1b8695"
+	{
+		"en"		"We need a toolbox to fix it"
+		"es"		"Necesitamos una caja de herramientas para arreglarlo"
+	}
+	"3ae07eaa35989680c68ae3f13564b0bd"
+	{
+		"en"		"The elevator seems to work but the controls are broken"
+		"es"		"El ascensor parece funcionar, pero su botón está roto"
+	}
+	"08bd531c413a63d47a06b0ced5d5501b"
+	{
+		"en"		"The plane ramp is opening"
+		"es"		"La rampa del avión se está abriendo"
+	}
+	"81d3bb27634b872640ea04524c06b0ff"
+	{
+		"en"		"Careful, there are zombies in the cargo area"
+		"es"		"¡Cuidado, hay zombis en el área de carga!"
+	}
+	"f99933fe00970d59243c511a42f5687f"
+	{
+		"en"		"The cave is full of zombies"
+		"es"		"La cueva está llena de zombis"
+	}
+	"9f97656768157629ce35f5b46982ab89"
+	{
+		"en"		"The path is blocked"
+		"es"		"El camino esta bloqueado"
+	}
+	"0e3f20e8f5a2a7b4ad5b4c0dba81a428"
+	{
+		"en"		"The elevator broke down, find something to destroy the wall"
+		"es"		"El ascensor está roto, necesitarás algo para destruir la pared"
+	}
+	"59fb040a17aa433be27fec2142a25791"
+	{
+		"en"		"Don't stay in the water for too long"
+		"es"		"No te quedes en el agua mucho tiempo"
+	}
+	"69ee4f57a72c9dd6f40f976921b92ffe"
+	{
+		"en"		"We must start over"
+		"es"		"Tenemos que empezar desde cero"
+	}
+	"38c5f652d5eea48a12f80a9850c076fb"
+	{
+		"en"		"The cockpit door is locked from the inside"
+		"es"		"La puerta de la cabina está cerrada desde adentro"
+	}
+	"8c914458b179e7cd7f31b2db34e8284f"
+	{
+		"en"		"There's a door with a keypad"
+		"es"		"Hay una puerta con contraseña"
+	}
+	"b92eff7df2f8bcd1e7e80403fc389759"
+	{
+		"en"		"There are zombies on the plane, we must kill them all"
+		"es"		"Hay zombis en el avión, hay que matarlos"
+	}
+	"9d6d29abcdd8552b85cf5866ebf08d2c"
+	{
+		"en"		"We should be careful"
+		"es"		"Creo que deberíamos tener cuidado"
+	}
+	"aa77ad815defaa7a3f3d1c6ec154c32f"
+	{
+		"en"		"A horde is approaching!"
+		"es"		"¡Se acerca una horda!"
+	}
+	"2f9149110ee095ba5f6cc463859e4f6e"
+	{
+		"en"		"Careful, zombies are destroying the walls"
+		"es"		"Ten cuidado, los zombis están destruyendo las paredes"
+	}
+	"3903b7c66d5a6b6bebf7ae82461b8cbf"
+	{
+		"en"		"Zombies have breached the building's main entrance"
+		"es"		"Los zombis destruyeron la puerta principal del edificio"
+	}
+	"cfa395e092e123a57ff2f8e601d390df"
+	{
+		"en"		"Leave, it's about to explode!"
+		"es"		"¡Vete rápido, va a explotar!"
+	}
+	"eb8e0d662409b865be6351ebac535d36"
+	{
+		"en"		"Barricades collected, everyone should regroup in the building"
+		"es"		"Maderas recogidas, todos deben reunirse en el edificio"
+	}
+	"be3c8a9b5fc9f82c3ca4e1fa22ad9b5d"
+	{
+		"en"		"We need something to strengthen this building"
+		"es"		"Necesitamos algo para fortalecer el edificio"
+	}
+	"b1d783c6120afe94d2cc475ead1ecc1c"
+	{
+		"en"		"Everyone to the building, gather!"
+		"es"		"¡Reúnanse todos en el edificio!"
+	}
+	"ddc21613a070e5d05aa1f5d3d8b7b0a3"
+	{
+		"en"		"Everyone gather!"
+		"es"		"¡Reúnanse todos!"
+	}
+	"a0d3fd601052a7b524d87f5a171ade94"
+	{
+		"en"		"Luckily we are still alive, let's keep going"
+		"es"		"Por suerte sobrevivimos, sigamos avanzando"
+	}
+	"233b651ae0ca59a84315656bd4fb1b35"
+	{
+		"en"		"The plane has encountered a problem, we're going to crash"
+		"es"		"El avión tuvo un accidente y nos vamos a estrellar"
+	}
+	"5dcb2eb1d3b1587e7f27956af11bce10"
+	{
+		"en"		"There's a ominous feeling"
+		"es"		"Tengo un mal presentimiento"
+	}
+	"34e6bf94850017bdb387b0861cfdb40d"
+	{
+		"en"		"We finally cleared all the zombies on the plane."
+		"es"		"Finalmente limpiamos a los zombis en el avión."
+	}
+	"72cff5d695d00fb9eb96b57161c11498"
+	{
+		"en"		"The bomb has been placed, get away quickly!"
+		"es"		"Bomba colocada ¡Aléjate!"
+	}
+	"426c9b4dab6760c7d836f8d0d79b30fa"
+	{
+		"en"		"It looks like the airport has also been overrun"
+		"es"		"Parece que el aeropuerto también ha sucumbido"
+	}
+	"08588caf1726bc166ab98c2334a3a06e"
+	{
+		"en"		"Hold out until the airplane's hatch opens"
+		"es"		"Aguanta hasta que se abra la puerta del avión"
+	}
+	"c5e2e54883efc95137842ef904717ce6"
+	{
+		"en"		"We've done it, let's head back"
+		"es"		"Listo, volvamos"
+	}
+	"d104b224ec240c3bd46c297e424cdb4f"
+	{
+		"en"		"Siphoning fuel from the generator"
+		"es"		"Extrayendo combustible del generador"
+	}
+	"af03a4412d020231fb33ba063070a677"
+	{
+		"en"		"It will take some time to crack it."
+		"es"		"Descifrar el código llevará tiempo"
+	}
+	"ca48c52d0662e0b17873e941fe46a089"
+	{
+		"en"		"The door finally opened"
+		"es"		"La puerta finalmente se abrió"
+	}
+	"1d6958164ae0525b82fcc7d17340d78d"
+	{
+		"en"		"Be careful, the pipes look very unstable."
+		"es"		"Ten cuidado, las tuberías se ven muy frágiles"
+	}
+	"41d1608d102a8b80f29ccbd972e403ac"
+	{
+		"en"		"We must send someone through the left pipe to open main door"
+		"es"		"Debemos enviar a alguien por la tubería izquierda para abrir la puerta principal"
+	}
+	"ae76b3a8aa632f1d9bdb8663659d6a9e"
+	{
+		"en"		"The entrance is blocked, let's go back and find something to break it."
+		"es"		"La entrada está bloqueada, regresa y encuentra algo para romperla"
+	}
+}

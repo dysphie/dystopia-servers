@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(TEAM) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"*TOT*(TEAM) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(ZUSCHAUER) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(TOT) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(ZUSCHAUER) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(Evakuiert) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(ZUSCHAUER) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(ADMIN) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(TOT) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"de"		"(EVAKUIERT) {1}: "
+	}
+}

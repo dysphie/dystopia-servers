@@ -1,0 +1,39 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"IsLinux"
+			{
+				"windows"	"0"
+				"linux"		"1"
+			}
+
+			"PatchOffset"
+			{
+				"linux"	"532"
+			}
+		}
+		
+		"Addresses"
+		{
+			"CNMRiH_MeleeBase::CheckMeleeHit"
+			{
+				"linux"
+				{
+					"signature"	"CNMRiH_MeleeBase::CheckMeleeHit"
+				}
+			}
+		}
+
+		"Signatures"
+		{
+			"CNMRiH_MeleeBase::CheckMeleeHit"
+			{
+				"library"	"server"
+				"linux"		"@_ZN16CNMRiH_MeleeBase13CheckMeleeHitER6VectorS1_"
+			}
+		}
+	}
+}

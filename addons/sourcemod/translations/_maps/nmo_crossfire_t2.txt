@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"544912512ba857697c1ba47124ab18eb"
+	{
+		"en"		"Find the key for the door"
+		"es"		"Encuentra la llave para la puerta"
+	}
+	"51a7837bc98f079203fc14078315f394"
+	{
+		"en"		"Protect the bunker entrance against zombie attacks"
+		"es"		"Protege la entrada del búnker de los ataques de zombies"
+	}
+	"cc5c73803601dcc0991eec81b649fc97"
+	{
+		"en"		"Press the red button to close the bunker"
+		"es"		"Pulsa el botón rojo para cerrar el búnker"
+	}
+	"569e1cbd0537df5ed7d7d3fc6561d8ca"
+	{
+		"en"		"Find the code on the computer to close the bunker"
+		"es"		"Encuentra el código en la computadora para cerrar el búnker"
+	}
+	"c51dcd63bf171cec40656c8a9b2d884f"
+	{
+		"en"		"Make your way to the bunker"
+		"es"		"Dirígete hacia el búnker"
+	}
+	"bfc41c52690a1eaf4359e27481bae44a"
+	{
+		"en"		"Gather all the food and water supplies"
+		"es"		"Reúne todos los suministros de comida y agua"
+	}
+	"4587588224e055a665ec31401ae56773"
+	{
+		"en"		"Fix the pipe with a toxic fume leak using a welder and a toolbox"
+		"es"		"Repara la tubería con una fuga de gas tóxico utilizando un soldador y una caja de herramientas"
+	}
+	"d00574a3e9854ab25ef11b812db72b84"
+	{
+		"en"		"Find a ham radio to contact other survivors"
+		"es"		"Encuentra una radio para contactar a otros sobrevivientes"
+	}
+	"31696f1859c4a74ea6f04f5327d1ca0d"
+	{
+		"en"		"Find a way to get outside"
+		"es"		"Encuentra una forma de salir afuera"
+	}
+}

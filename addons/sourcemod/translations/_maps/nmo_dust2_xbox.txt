@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"5ba2e57ea222f222b27e9e0bbcc348a6"
+	{
+		"en"		"Задание выполнено. Ожидайте эвакуацию\\Mission complete. Wait for evacuation"
+		"es"		"Задание выполнено. Ожидайте эвакуацию\\Mission complete. Wait for evacuation"
+	}
+	"821c21e367b5dace1e61ddd996940aa8"
+	{
+		"en"		"К сожалению ему уже не помочь. Возьмите рацию и свяжитесь с командованием\\It's too late to help him. Take the radio and contact the command"
+		"es"		"К сожалению ему уже не помочь. Возьмите рацию и свяжитесь с командованием\\It's too late to help him. Take the radio and contact the command"
+	}
+	"1f0b00b2cf86e8dad66400935dc0e030"
+	{
+		"en"		"Узнайте, что случилось с кричавшим человеком\\Find what happened to the one who screamed"
+		"es"		"Узнайте, что случилось с кричавшим человеком\\Find what happened to the one who screamed"
+	}
+	"887d2e649a5089eb7d55b576b4ee8afb"
+	{
+		"en"		"Вы обнаружили мертвого товарища и разбитую рацию. Найдите огнетушитель, чтобы потушить огонь\\You found the dead mate and a broken radio. Find extinguisher to put out a fire"
+		"es"		"Вы обнаружили мертвого товарища и разбитую рацию. Найдите огнетушитель, чтобы потушить огонь\\You found the dead mate and a broken radio. Find extinguisher to put out a fire"
+	}
+	"7c72c317a714eefb13f4e95131840651"
+	{
+		"en"		"Продвигайтесь дальше\\Move on"
+		"es"		"Продвигайтесь дальше\\Move on"
+	}
+	"8b9afdfac90d1606f2a33c3239fe2a86"
+	{
+		"en"		"Обезвредьте оставшиеся бомбы\\Defuse the remained bombs"
+		"es"		"Обезвредьте оставшиеся бомбы\\Defuse the remained bombs"
+	}
+	"de41852762bd39a5341831becbe9c928"
+	{
+		"en"		"Здесь держали оборону террористы. Уничтожьте их баррикады, чтобы двигаться дальше\\Here the terrorists held the positions. Destroy their barricades to move on"
+		"es"		"Здесь держали оборону террористы. Уничтожьте их баррикады, чтобы двигаться дальше\\Here the terrorists held the positions. Destroy their barricades to move on"
+	}
+	"6eed6461e89f401f6e365dddba5a2821"
+	{
+		"en"		"Найдите код. Затем, введите пароль на панелях, чтобы включить свет\\Find the code and enter the password on the panels to turn lights on"
+		"es"		"Найдите код. Затем, введите пароль на панелях, чтобы включить свет\\Find the code and enter the password on the panels to turn lights on"
+	}
+	"86e12560d90c938a4d99c4aceb5c5a58"
+	{
+		"en"		"Кромешная темнота и мертвецы. Найдите способ запустить генератор\\Total darkness and dead men. Find a way to start the generator"
+		"es"		"Кромешная темнота и мертвецы. Найдите способ запустить генератор\\Total darkness and dead men. Find a way to start the generator"
+	}
+	"d4f7087370ac2d2bc6e02772512342f8"
+	{
+		"en"		"Кто-то держал здесь оборону, но безуспешно. Продвигайтесь дальше\\Here the terrorists held the positions. Destroy their barricades to move on"
+		"es"		"Кто-то держал здесь оборону, но безуспешно. Продвигайтесь дальше\\Here the terrorists held the positions. Destroy their barricades to move on"
+	}
+	"afc32488fe369a89e8a3b5018e98842d"
+	{
+		"en"		"Возьмите ключи и отоприте ворота\\Take the keys and unlock the gate"
+		"es"		"Возьмите ключи и отоприте ворота\\Take the keys and unlock the gate"
+	}
+	"57ae47724e26e90df791d8c24b91f007"
+	{
+		"en"		"Вы нашли сумку и ключи. Заберите все найденные бомбы и откройте ворота\\You found the bag and keys. Grab all the bombs you found and open the gate"
+		"es"		"Вы нашли сумку и ключи. Заберите все найденные бомбы и откройте ворота\\You found the bag and keys. Grab all the bombs you found and open the gate"
+	}
+	"1ea7b2d2b2f3771b238c113d0d4c1125"
+	{
+		"en"		"Эти ящики - ваш последний шанс. Попробуйте их обыскать\\These crates are your last chance. Check them"
+		"es"		"Эти ящики - ваш последний шанс. Попробуйте их обыскать\\These crates are your last chance. Check them"
+	}
+	"9586a3216c59d7bdbc7553ca0d6761b8"
+	{
+		"en"		"Someone screamed behind the fire, but you cannot help. Keep searching."
+		"es"		"Alguien gritó detrás del fuego, pero no puedes ayudar. Continúa buscando"
+	}
+	"20dbf23f1d898c3a1e4965d094137036"
+	{
+		"en"		"Find something suitable to transport the bombs"
+		"es"		"Encuentra algo adecuado para transportar las bombas"
+	}
+	"491e43aec7ed9b887fb3b08950f10c91"
+	{
+		"en"		"Defuse at least 5 bombs in this area"
+		"es"		"Desactiva al menos 5 bombas en el área"
+	}
+	"c36868840ff8f8668fbccdda67a701b0"
+	{
+		"en"		"Move on to the next area"
+		"es"		"Avanza hacia el siguiente área"
+	}
+	"24749ecbc69189e74abe24a66c6b239e"
+	{
+		"en"		"Defuse the bomb and place it on the cart"
+		"es"		"Desactiva la bomba y colócala en el carrito"
+	}
+	"599c57ed90b535c97c8d06bcd1f0111e"
+	{
+		"en"		"Find a way to restore contact with the commanding officer"
+		"es"		"Encuentra una forma de restablecer el contacto con el oficial al mando"
+	}
+}

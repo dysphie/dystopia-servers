@@ -1,0 +1,549 @@
+"Phrases"
+{
+	"c5280fda55fdab6446e2611124f64663"
+	{
+		"en"		"Retrieve experimental data"
+		"es"		"Recupera los datos del experimento"
+	}
+	"f9a6e61ee3379c2095ba4a4eaea6709d"
+	{
+		"en"		"Go to the lab area"
+		"es"		"Ve a los laboratorios"
+	}
+	"efbc83054e81993771e68b2c766e72dc"
+	{
+		"en"		"Leave the cargo station"
+		"es"		"Sal de la estación de carga"
+	}
+	"4f0e46cff883a6396f22d6453e883ba9"
+	{
+		"en"		"Go to the cargo station"
+		"es"		"Ve a la estación de carga"
+	}
+	"368233f74fe4be6aadb511bffa7ac978"
+	{
+		"en"		"Open the locked door"
+		"es"		"Desbloquea la puerta"
+	}
+	"ceaff553ed70c5e9139b35a06963dbf4"
+	{
+		"en"		"前往活动站"
+		"es"		"前往活动站"
+	}
+	"e5db4ce054609e165578a3a0ca793fc1"
+	{
+		"en"		"Activate the laser gun"
+		"es"		"Activa el rayo láser"
+	}
+	"8801dc40550226422927711934a0667d"
+	{
+		"en"		"Start up the power supply in the storage area"
+		"es"		"Enciende la fuente de energía en el depósito"
+	}
+	"a9a2c1e6067d4ec177417e368f2d433d"
+	{
+		"en"		"Go to the storage area"
+		"es"		"Ve al depósito"
+	}
+	"4965ec89189cee28aa710227a0c94c8c"
+	{
+		"en"		"Dangerous elevator"
+		"es"		"Ascensor peligroso"
+	}
+	"41004c016385cf1053baee4f19064af5"
+	{
+		"en"		"Find the elevator"
+		"es"		"Encuentra el ascensor"
+	}
+	"cad3b0a806f227ce783e0021e284ca55"
+	{
+		"en"		"Take the electric tram"
+		"es"		"Toma el monorriel"
+	}
+	"b294ed92df8b0f1737f7c3569a7ab7cc"
+	{
+		"en"		"临近实验区"
+		"es"		"临近实验区"
+	}
+	"0ca9214c1e84f7542ea8706a19999e72"
+	{
+		"en"		"Open the door"
+		"es"		"Abre la puerta"
+	}
+	"47b696a35ec1ca70e76d05c555fdc651"
+	{
+		"en"		"Turn on the circuit breaker"
+		"es"		"Enciende el interruptor del circuito"
+	}
+	"0709c3e222814714fa2c1955a5665ae1"
+	{
+		"en"		"Go to the underground tunnel"
+		"es"		"Ve al túnel subterráneo"
+	}
+	"7b3a64be25929185753203b3da90f1f6"
+	{
+		"en"		"Escape from the bar"
+		"es"		"Escapa del bar"
+	}
+	"f9dc34267a95bb500ff61b65da2815ba"
+	{
+		"en"		"Open the security door"
+		"es"		"Abre la puerta de seguridad"
+	}
+	"1b24022d27c7a407873aa7c84970910a"
+	{
+		"en"		"The elevator has arrived!"
+		"es"		"¡Llegó el ascensor!"
+	}
+	"79a1d2853cd9ef6000b1f6147cc59557"
+	{
+		"en"		"Made by: Patch and Cain
+Ported by: 头号顽家"
+		"es"		"Hecho por：Patch and Cain
+Adaptado por：头号顽家"
+	}
+	"9f7902c4fc1a8ab75317e5e399dfd581"
+	{
+		"en"		"Zombies are also coming outside. Split into separate groups to survive!"
+		"es"		"¡Los zombis también vienen de afuera! ¡Divídanse en varios grupos para resistir!"
+	}
+	"123c76173302e4293c6b55c34171d9f2"
+	{
+		"en"		"The alarm has been triggered! Watch out for the zombies coming from both sides!"
+		"es"		"¡Se ha activado la alarma! ¡Presta atención a los zombies que vienen de ambos lados!"
+	}
+	"8a21a1815623d49ef994284426f3c091"
+	{
+		"en"		"Our mission this time is extremely dangerous. 
+There's no turning back once we go in...
+Grab some supplies and we'll begin the mission"
+		"es"		"Nuestra misión esta vez es extremadamente peligrosa. 
+No hay vuelta atrás una vez que entremos... 
+Toma suministros y comenzaremos la misión."
+	}
+	"4c8f32292aa7f40d44426b31082a2be3"
+	{
+		"en"		"We're blocked, smash through this metal plate!"
+		"es"		"Estamos bloqueados, ¡rompan esta placa de metal!"
+	}
+	"1b8efefc2fd73d797a7d4255b3251968"
+	{
+		"en"		"Break down this iron plate and let's go!"
+		"es"		"¡Quita este tablero de metal! ¡Vamos!"
+	}
+	"8b71f3079389ed352ac06461d6ac16e3"
+	{
+		"en"		"Decryption will take 50 seconds... 
+The previous explosion attracted a large number of zombies, be careful!!"
+		"es"		"La descodificación tardará 50 segundos... 
+La explosión anterior atrajo a una gran cantidad de zombis, ¡Ten cuidado!"
+	}
+	"5baa7bc8da5439c6356469f6a7489012"
+	{
+		"en"		"Barricades are broken, survive！"
+		"es"		"Barricadas rotas ¡Aguanta!"
+	}
+	"f521eef3012c2fe3f393a70013997a26"
+	{
+		"en"		"Decryption will take 40 seconds...
+The iron door behind us has opened, be careful!"
+		"es"		"La descodificación tardará 40 segundos... 
+¡La puerta de hierro detrás de nosotros se ha abierto, ten cuidado!"
+	}
+	"a57900dd2cc2b24413ba01bd2a3a7879"
+	{
+		"en"		"Defend! Clear out some of the zombies before entering the pipe!"
+		"es"		"¡Defiéndete! ¡Elimina algunos de los zombis antes de entrar en la tubería!"
+	}
+	"2aa6ce44cb6d6eb148a5a70f95c0fdae"
+	{
+		"en"		"We're blocked, chop down this iron board! 
+Be careful! The zombies behind us have been released."
+		"es"		"¡Estamos bloqueados, destruye la rejilla de ventilación! 
+¡Ten cuidado! Los zombis detrás de nosotros han sido liberados."
+	}
+	"2f24647afa8cb575d19c30c0f2be2491"
+	{
+		"en"		"The right door is about to be smashed, hold on!"
+		"es"		"¡La puerta derecha está siendo destrozada, aguanta!"
+	}
+	"6b3d88f73d371c6f1564bb8ab0800e02"
+	{
+		"en"		"The door is open! Jump onto the pipes!"
+		"es"		"¡La puerta está abierta! ¡Salta a la tubería!"
+	}
+	"0e2a8b81c9d03ff74cd2ca75f7bba063"
+	{
+		"en"		"Decryption will take 40 seconds... 
+Reviving fallen teammates..."
+		"es"		"El proceso tardará 40 segundos... 
+Reviviendo a supervivientes caídos..."
+	}
+	"b8d0951c1e2deddb7c2e9e97a79be146"
+	{
+		"en"		"The door is open, hurry up and go!"
+		"es"		"¡La puerta está abierta, apúrate y ve!"
+	}
+	"53d966260059d8208555b0462fd636fc"
+	{
+		"en"		"The door on the right is broken! Watch out on both sides!"
+		"es"		"¡La puerta de la derecha se rompió! ¡Atención a ambos lados!"
+	}
+	"aee1f9fd4ecfd65b8a32ee57db61b3df"
+	{
+		"en"		"Decoding will take 30 seconds.. This place is hell!"
+		"es"		"El proceso tardará 30 segundos...
+Este lugar es un infierno!"
+	}
+	"5212c607adb0aaf5145d1b6c1653715c"
+	{
+		"en"		"Door is open, cover each other!"
+		"es"		"¡La puerta está abierta, ¡cúbranse!"
+	}
+	"0436f402d550765cc639fd5f070b9899"
+	{
+		"en"		"The wall next to the bathroom was broken through!"
+		"es"		"¡La pared al lado del baño fue derribada!"
+	}
+	"d97c2932b52b63aacd20682fda6a4f4a"
+	{
+		"en"		"Cracking the door will take 50 seconds...
+Hold the bathroom door!"
+		"es"		"¡Descifrar la puerta tardará 50 segundos... 
+Aguanta la puerta del baño!"
+	}
+	"63c4e538833f8baf1917863448808043"
+	{
+		"en"		"The ventilation duct is making noise, hurry through the restroom!"
+		"es"		"¡El conducto de ventilación está haciendo ruido, ¡apúrate a través del baño!"
+	}
+	"22ff83826e5ac20ddb7a5f49fe5fc163"
+	{
+		"en"		"Bathroom door will open in 40 seconds...
+The glass on both sides has been broken!"
+		"es"		"La puerta del baño se abrirá en 40 segundos...
+¡Los vidrios de ambos lados se han roto!"
+	}
+	"9aac841dacba05628e4b171ac9573b75"
+	{
+		"en"		"The door is open! Stick together and move forward. 
+There's a healing station behind the barrier ahead."
+		"es"		"¡La puerta está abierta! Manténganse juntos y avancen. 
+Hay una estación de curación detrás de la barrera"
+	}
+	"627c1b201a6760a77766d9f9728b66d8"
+	{
+		"en"		"Wall will be destroyed in 60 seconds...
+Reviving fallen teammates..."
+		"es"		"¡La pared será destruida en 60 segundos... 
+Reviviendo a supervivientes caídos..."
+	}
+	"e0161b9a6253f0152f445169faeb728f"
+	{
+		"en"		"The iron plate is broken, watch out for zombies! Use that electric box to blow up the wall!"
+		"es"		"¡La placa de hierro está rota, cuidado con los zombis! ¡Usa esa caja eléctrica para volar la pared!"
+	}
+	"c0032682e886cc9ce5e55899b2a9c20e"
+	{
+		"en"		"The zombies can use elevators now?!! 
+Hold on, I need 60 seconds to dismantle this iron plate!"
+		"es"		"¡¿Los zombies ahora pueden usar ascensores?! 
+¡Aguanta, necesito 1 minuto para quitar esta chapa!"
+	}
+	"be9c88f51014324c65008693c3966f14"
+	{
+		"en"		"Hope this crappy elevator doesn't fall..."
+		"es"		"Espero que este ascensor no se caiga..."
+	}
+	"d3360a3f757d53a19e95d360cb1a37e9"
+	{
+		"en"		"The zombies broke through the barrier!"
+		"es"		"¡Los zombies rompieron la barricada!"
+	}
+	"3588da720453dc292427efc3b51422f0"
+	{
+		"en"		"The elevator door will open in 40 seconds.
+This elevator doesn't look like it can run again. Let's support each other!"
+		"es"		"La puerta del ascensor se abrirá en 40 segundos.
+Este ascensor no parece que pueda funcionar de nuevo. ¡Apoyémonos mutuamente!"
+	}
+	"49ef81feb472db5223a6145436431173"
+	{
+		"en"		"Watch your head! Pass through here to get to the elevator!"
+		"es"		"¡Cuidado con la cabeza! ¡Pasa por aquí para llegar al ascensor!"
+	}
+	"90c2e62f90fe63a12f2fe998d59248b7"
+	{
+		"en"		"The gate is about to open! Go through quickly!"
+		"es"		"¡La puerta está a punto de abrirse! ¡Pasa rápido!"
+	}
+	"706ff4df9069dbc7e35b0bcfc5b9cd79"
+	{
+		"en"		"Go and open the gate quickly! Guard the entrance!"
+		"es"		"¡Ve y abre la puerta rápidamente! ¡Guarda la entrada!"
+	}
+	"4a391d01a31a25d067a5e49e85c23494"
+	{
+		"en"		"Zombies are coming through the ventilation ducts above, let's go first!"
+		"es"		"¡Los zombies están viniendo por los conductos de ventilación de arriba, vayamos primero!"
+	}
+	"4263ddf290463b94fedd7c0b943c8c5b"
+	{
+		"en"		"The door is open!"
+		"es"		"¡La puerta está abierta!"
+	}
+	"6a45ae4cb75752d41317d306d097689d"
+	{
+		"en"		"Decryption will take 60 seconds...
+Reviving fallen teammates...
+Defend against zombies coming from under the stairs!"
+		"es"		"El proceso tardará 60 segundos...
+Reviviendo a supervivientes caídos...
+¡Defiendan contra los zombies que vienen por debajo de las escaleras!"
+	}
+	"ce6515baa55316eb2ad9729a4e3c0e23"
+	{
+		"en"		"Decryption will take 35 seconds...
+Zombies are following through the ventilation ducts and underground tunnels!"
+		"es"		"El proceso tardará 35 segundos...
+¡Los zombies están siguiendo por los conductos de ventilación y túneles subterráneos!"
+	}
+	"708a0a086f323f0c8deba024f68976d7"
+	{
+		"en"		"The path is blocked, smash these damn wooden boards, watch your back!"
+		"es"		"¡El camino está bloqueado, rompan los tablones de madera, cuiden sus espaldas!"
+	}
+	"730ae23712bcfcae8030d3db9a398e12"
+	{
+		"en"		"Decryption will take 60 seconds...
+The path is by the door behind the counter!"
+		"es"		"El proceso tardará 60 segundos...
+¡El camino está por la puerta detrás del mostrador!"
+	}
+	"06a26785301ce1075f2cc50e80ea58d7"
+	{
+		"en"		"Decryption will take 20 seconds...
+Reviving fallen teammates..."
+		"es"		"El proceso tardará 20 segundos...
+Reviviendo a supervivientes caídos..."
+	}
+	"fb1d407d9335e7f6b7a44cf1d2f7df9d"
+	{
+		"en"		"Survive！"
+		"es"		"¡Aguanta!"
+	}
+	"628b65e34078c50ae0bd0850f8824187"
+	{
+		"en"		"The door is open, let's go! Turn on the power and open the gate"
+		"es"		"¡La puerta está abierta, vamos! ¡Un grupo encienda la energía y el otro abra la puerta!"
+	}
+	"a2b19d7201eba1e6e231a1952fbf419f"
+	{
+		"en"		"Breaking the iron door will take 85 seconds...
+Zombies are coming down from the ventilation duct, go to the door and hold them off!"
+		"es"		"Romper la puerta de hierro llevará 85 segundos...
+Los zombies están bajando por el conducto de ventilación
+¡Vayan a la puerta y deténganlos!"
+	}
+	"500bffd5f66217290ae67d4370c2f5ac"
+	{
+		"en"		"The door is open, watch out for zombies! You can reach the next area by going through that pipeline."
+		"es"		"¡La puerta está abierta, cuidado con los zombis! Pueden llegar a la siguiente área pasando por las tuberías"
+	}
+	"d269560b659601fc4729296c34fce608"
+	{
+		"en"		"Zombies are coming out of that door!"
+		"es"		"¡Los zombies están saliendo por esa puerta!"
+	}
+	"cd34f1046ae3fef8a2043b38582b3788"
+	{
+		"en"		"The iron door will open within 40 seconds..."
+		"es"		"La puerta de hierro se abrirá en 40 segundos..."
+	}
+	"52513544f3e45a0abc1e48bfd9a0d59a"
+	{
+		"en"		"The door is open, let's go."
+		"es"		"La puerta está abierta, vamos."
+	}
+	"96df704183dd7cb9eb72fb845f7be0cb"
+	{
+		"en"		"正在就近复苏阵亡的队友...
+把那门上的插销给扳回去。"
+		"es"		"正在就近复苏阵亡的队友...
+把那门上的插销给扳回去。"
+	}
+	"9dcefabc36715e312726065ef58d2cea"
+	{
+		"en"		"Alright, keep up and don't fall behind!"
+		"es"		"Bien, mantengan el ritmo y no se queden atrás!"
+	}
+	"8145aea04c858c7d5717ea7973991211"
+	{
+		"en"		"It will take 35 seconds to dismantle this door..."
+		"es"		"Nos tomará 35 segundos desmantelar esta puerta..."
+	}
+	"ec97410a5fb58c608aeb0a384da8a321"
+	{
+		"en"		"Door's open..."
+		"es"		"La puerta está abierta..."
+	}
+	"4cb72e4f2ee9dfe329a08e77ed536cc1"
+	{
+		"en"		"Wait for the laser to turn off before continuing"
+		"es"		"Espera a que el rayo láser se apague antes de continuar"
+	}
+	"ae50a77e031d27ee7564c8682689490c"
+	{
+		"en"		"Door will open in 60 seconds"
+		"es"		"La puerta se abrirá en 60 segundos..."
+	}
+	"13675df5fd9115eefff342e5d44e0db0"
+	{
+		"en"		"There are still too many zombies in here, open that door!"
+		"es"		"¡Aún hay muchos zombis aquí! ¡Abre esa puerta!"
+	}
+	"86107db524111bab87ecf0b5b9939c3b"
+	{
+		"en"		"Laser cannon enabled, move out of the way!"
+		"es"		"¡El rayo láser está activado, apártense!"
+	}
+	"804331d160a45f60bb203a92f79465b4"
+	{
+		"en"		"We need to use the laser cannon to blast the door open! Go to the control room and turn on the laser cannon switch!"
+		"es"		"¡Necesitamos usar el rayo láser para abrir la puerta! Ve a la sala de control y enciende el interruptor del cañón láser"
+	}
+	"6ad497e81dab1ef8758aff9a4aae9865"
+	{
+		"en"		"铁闸门将在70秒内打开..."
+		"es"		"铁闸门将在70秒内打开..."
+	}
+	"1df0049130bfdd289c2ee8c354450055"
+	{
+		"en"		"我们需要开启电源才能打开铁闸门！"
+		"es"		"我们需要开启电源才能打开铁闸门！"
+	}
+	"4e0a50a8558d24a4f4b58059c7807a06"
+	{
+		"en"		"好了，继续前进！"
+		"es"		"好了，继续前进！"
+	}
+	"8102ace9598d7538e7d0d8966f719c95"
+	{
+		"en"		"破译门需要30秒..."
+		"es"		"破译门需要30秒..."
+	}
+	"5242cc9246b676214227c37bee3f9ab6"
+	{
+		"en"		"好了！我们走！"
+		"es"		"好了！我们走！"
+	}
+	"729c6d9e895ec8996dc36746335cc593"
+	{
+		"en"		"拆开门需要30秒..."
+		"es"		"拆开门需要30秒..."
+	}
+	"e2903b3a696e5afb48a0554032887fed"
+	{
+		"en"		"前方涌来很多丧尸，突围！"
+		"es"		"前方涌来很多丧尸，突围！"
+	}
+	"61f5cef1832986a25113aaef14583cfa"
+	{
+		"en"		"丧尸被爆炸声吸引了！快上楼防守！
+门在40秒后被炸毁..."
+		"es"		"丧尸被爆炸声吸引了！快上楼防守！
+门在40秒后被炸毁..."
+	}
+	"26a9064cb1c9868a3ddafb3d720ec161"
+	{
+		"en"		"有路了，顺着管道爬过去，别掉下去了！"
+		"es"		"有路了，顺着管道爬过去，别掉下去了！"
+	}
+	"b32c387fc8a811c64756978beef954eb"
+	{
+		"en"		"实验资料拿到了，咱们可以离开这鬼地方了..."
+		"es"		"实验资料拿到了，咱们可以离开这鬼地方了..."
+	}
+	"69eee2dc1fcb1a004e41fff941a3edd2"
+	{
+		"en"		"门开了！撤离！撤离！"
+		"es"		"门开了！撤离！撤离！"
+	}
+	"32d1000c502d8d8901f567b8930f08bd"
+	{
+		"en"		"守住，别让丧尸冲破防线！"
+		"es"		"守住，别让丧尸冲破防线！"
+	}
+	"dd54a2add40178c2b79e5953e2ab0794"
+	{
+		"en"		"实验室通道将在60秒内坍塌！
+ 小心周围的丧尸！"
+		"es"		"实验室通道将在60秒内坍塌！
+ 小心周围的丧尸！"
+	}
+	"8f844970cbba425e6a24d15c3394c86f"
+	{
+		"en"		"门开了，掩护队友爬上去！"
+		"es"		"门开了，掩护队友爬上去！"
+	}
+	"22c52a713c42e8a67ff8e5d4a7aa5b12"
+	{
+		"en"		"门将在35内打开...
+正在就近复苏阵亡的队友...
+左右两边来丧尸了，守住！"
+		"es"		"门将在35内打开...
+正在就近复苏阵亡的队友...
+左右两边来丧尸了，守住！"
+	}
+	"a7913f38df3e02f3deee4feab9bf4f8b"
+	{
+		"en"		"快穿过管道！"
+		"es"		"快穿过管道！"
+	}
+	"944e9e80d647b996b6d56eced8bd1536"
+	{
+		"en"		"门开了，我们通过管道上去！"
+		"es"		"门开了，我们通过管道上去！"
+	}
+	"2e7c3be4e432a1d93e1ea9b4ca8a51c5"
+	{
+		"en"		"主控室的门将在60秒内打开..."
+		"es"		"主控室的门将在60秒内打开..."
+	}
+	"09d89326415e804be1f6983621b0b67e"
+	{
+		"en"		"活动室的门将在20秒内打开..."
+		"es"		"活动室的门将在20秒内打开..."
+	}
+	"947cbcda6cc4874f34948c6d23c30e41"
+	{
+		"en"		"第二扇门将在40秒内打开..."
+		"es"		"第二扇门将在40秒内打开..."
+	}
+	"7b76f89ff45d10378590970cf830c2b1"
+	{
+		"en"		"第一扇门将在60秒内打开..."
+		"es"		"第一扇门将在60秒内打开..."
+	}
+	"412f5be1faacdf0810e375ebb8806e13"
+	{
+		"en"		"实验区的封锁已解除，大门将在40秒后打开...
+突围！"
+		"es"		"实验区的封锁已解除，大门将在40秒后打开...
+突围！"
+	}
+	"5f764d2d992f2b8bc6edb3ce4abb62dc"
+	{
+		"en"		"门开了，快爬上去！"
+		"es"		"门开了，快爬上去！"
+	}
+	"0571c694172e2c0ad850e97ef376415c"
+	{
+		"en"		"门将在60秒后打开...
+正在就近复苏阵亡的队友...
+到处都是该死的丧尸，守住实验区大门！"
+		"es"		"门将在60秒后打开...
+正在就近复苏阵亡的队友...
+到处都是该死的丧尸，守住实验区大门！"
+	}
+}

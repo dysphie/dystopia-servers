@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"12f2e6b87ee7470b73c8365ac0e08df1"
+	{
+		"en"		"Complete all the games and leave"
+		"es"		"Completa todos los juegos y escapa"
+	}
+	"186287dcfb34733e1383f6ed9e4460ac"
+	{
+		"en"		"Respawn disabled!"
+		"es"		"¡Respawn desactivado!"
+	}
+	"99fa45c9f86f938828d5958c8557a77c"
+	{
+		"en"		"You can now swim safely to the other side"
+		"es"		"Ahora puedes nadar sin peligro hasta el otro lado"
+	}
+	"1dc6d96a46d80802bd5a38cd77c0e091"
+	{
+		"en"		"Bridge to the other side and disable the toxic water"
+		"es"		"Cruza y desactiva el agua tóxica"
+	}
+	"bb12378a34a139e4a667ede30251db2f"
+	{
+		"en"		"+1 crate"
+		"es"		"+1 caja"
+	}
+	"ee5b2167c31ac598ba9add054a3426b0"
+	{
+		"en"		"All players must be here"
+		"es"		"Todo el equipo debe estar presente"
+	}
+}

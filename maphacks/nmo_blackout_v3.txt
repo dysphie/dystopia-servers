@@ -1,0 +1,37 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove_all { "classname" "nmrih_health_station_location" }
+		$remove_all { "classname" "nmrih_health_station" }
+		$remove { "id" "879374" }
+	}
+	"entities"
+	{
+		$remove { "targetname" "safe" }
+
+		"nmrih_game_state"
+		{
+			"targetname" "state"
+		}
+
+		$remove_connections { "targetname" "nrf" }
+		
+		$modify
+		{
+			"match"
+			{
+				"targetname" "nrf"
+			}
+			"insert"
+			{
+				"OnTrigger" "state,ExtractAllPlayers,,5,-1"
+				"OnTrigger" "scripts,RunScriptCode,textTimer21_9(),0,-1"
+				"OnTrigger" "zb_target35,Kill,,0,-1"
+				"OnTrigger" "zb_maker35,Kill,,0,-1"
+				"OnTrigger" "35_hurt,Enable,,0,-1"
+				"OnTrigger" "35_hurt,Kill,,1,-1"
+			}
+		}
+	}
+}

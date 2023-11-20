@@ -1,0 +1,133 @@
+"Phrases"
+{
+	"a794c9a3efe61d8c81944c8584359ca7"
+	{
+		"en"		"Go to the trainstation"
+		"es"		"Ve a la estación del tranvía"
+	}
+	"1bfbbc2614e6cee10b82e73ad441a1c4"
+	{
+		"en"		"Wait for the train to arrive!"
+		"es"		"Espera a que llegue el tranvía"
+	}
+	"a3075fb8fae833182eea4656ab2bff0f"
+	{
+		"en"		"Press 3 buttons to open door 32"
+		"es"		"Presiona 3 botones para abrir la puerta 32"
+	}
+	"69f8af1077c55e2899e8bccf990dadd8"
+	{
+		"en"		"Wait for doors 7 and 8 to open"
+		"es"		"Espera a que se abran las puertas 7 y 8"
+	}
+	"f741c3c0405e48e43216e4a65dfe8b99"
+	{
+		"en"		"Find console boxes to open door 17"
+		"es"		"Encuentra consolas para abrir la puerta 17"
+	}
+	"0ee59f6d92663b5bada6993b4604d49c"
+	{
+		"en"		"Get in the elevator!"
+		"es"		"¡Entra al ascensor!"
+	}
+	"544cbaecb18a404797df27c8b2603a70"
+	{
+		"en"		"Difficulty chosen: Hard"
+		"es"		"Dificultad elegida: Difícil"
+	}
+	"a5d5b8c4f28f95d27e46d79b0e612333"
+	{
+		"en"		"Difficulty chosen: Easy"
+		"es"		"Dificultad elegida: Fácil"
+	}
+	"ba12612694c88d3a15b62815eba4c04c"
+	{
+		"en"		"All buttons are pressed, door 32 is opened"
+		"es"		"Todos los botones fueron presionados, la puerta 32 se ha abierto"
+	}
+	"d792982df66c3fb9899532983dea2ee2"
+	{
+		"en"		"buttons pressed 2/3 (they open door 32)"
+		"es"		"Botones presionados 2/3 (abren la puerta 32)"
+	}
+	"5a9de62108964ff1290e8cefa1f20493"
+	{
+		"en"		"buttons pressed 1/3 (they open door 32)"
+		"es"		"Botones presionados 1/3 (abren la puerta 32)"
+	}
+	"8389db740330785ec90a5e6ef26eec96"
+	{
+		"en"		"buttons pressed 0/3 (they open door 32)"
+		"es"		"Botones presionados 0/3 (abren la puerta 32)"
+	}
+	"6fbf31f277d9f5bc5a0e68755cd8c4e2"
+	{
+		"en"		"all console boxes found, get to the door 17"
+		"es"		"Todas las consolas fueron encontradas, ve a la puerta 17"
+	}
+	"5d2bb8d5717128c6cecf9936ef57dd38"
+	{
+		"en"		"console boxes 2/3 (should be brought to door 17)"
+		"es"		"Consolas 2/3 (Llévalas a la puerta 17)"
+	}
+	"6f738a653b86be8b1b610bd939de1b5e"
+	{
+		"en"		"console boxes 1/3 (should be brought to door 17)"
+		"es"		"Consolas 1/3 (Llévalas a la puerta 17)"
+	}
+	"72cd69210aebdc36e85dc1bc509289e1"
+	{
+		"en"		"console boxes 0/3 (should be brought to door 17)"
+		"es"		"Consolas 0/3 (Llévalas a la puerta 17)"
+	}
+	"e607d483dd4b290c4c28f3246907c503"
+	{
+		"en"		"you found a console box. Bring it to the door17"
+		"es"		"Encontraste una consola, llévala a la puerta 17"
+	}
+	"2b895ba9bfd3560d108db1f44847ae3d"
+	{
+		"en"		"the rescue train has arrived! Escape"
+		"es"		"¡El tranvía ha llegado! Escapa"
+	}
+	"91686126ebf645be5d952121cb9f792e"
+	{
+		"en"		"wait 30 seconds until doors 7 and 8 open"
+		"es"		"Espera 30 segundos a que se abran las puertas 7 y 8"
+	}
+	"dd619037d757ed779835a13cdf608775"
+	{
+		"en"		"when water completely fills the tunnels door17 opens"
+		"es"		"La puerta 17 se abrirá cuando los túneles se inunden completamente"
+	}
+	"c72397dd201f3426f443286a1ba2e2c2"
+	{
+		"en"		"console boxes are placed. Go back to the door17"
+		"es"		"Las consolas fueron colocadas. Regresa a la puerta 17"
+	}
+	"d52b3d470fd9761f0c9efba8d5c4b3a9"
+	{
+		"en"		"press 3 buttons to open door 32"
+		"es"		"Presiona 3 botones para abrir la puerta 32"
+	}
+	"8b8b6f5a4b7f9c3fe30a807f1ea088ca"
+	{
+		"en"		"A button has been pressed"
+		"es"		"Un botón fue presionado"
+	}
+	"ebf4764f1c3a4191058945db1026eee7"
+	{
+		"en"		"the rescue train has almost arrived, prepare to get in!"
+		"es"		"El tranvía ya casi llega ¡Prepárate para abordarlo!"
+	}
+	"43832e3285faa69f405a6770949679d8"
+	{
+		"en"		"hold on! the rescue train will arrive in 2 minutes!"
+		"es"		"¡Aguanta! ¡El tranvía llegará en 2 minutos!"
+	}
+	"84b9b0a5ae26cd82d1fdc35b0248c695"
+	{
+		"en"		"All buttons are pressed. Opening door32"
+		"es"		"Todos los botones fueron presionados. Abriendo la puerta 32"
+	}
+}

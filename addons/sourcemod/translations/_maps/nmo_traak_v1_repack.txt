@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"6aafc12e736aa231469e6c0f32688464"
+	{
+		"en"		"Elevator will start in 15 seconds"
+		"es"		"El elevador arrancará en 15 segundos"
+	}
+	"576e3575c2fab9c4403c91849ac1ba52"
+	{
+		"en"		"All players must be in elevator!"
+		"es"		"Todos los jugadores deben estar en el elevador!"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"1c40425b1eca80e6fe02277db7e9e897"
+	{
+		"en"		"Map by Pass"
+		"es"		"Mapa por Pass"
+	}
+	"c7e1edb7dabfa605f6fedf5aeb2a186c"
+	{
+		"en"		"Survive until boat leaves"
+		"es"		"Sobrevive hasta que se zarpe el buque"
+	}
+	"cc0df03e5bbcdcb66e8e74a9cf0717a7"
+	{
+		"en"		"Get on boat"
+		"es"		"Aborda el buque"
+	}
+	"f5446a22e48e5d4596e92e8aa0d90ec8"
+	{
+		"en"		"Search corpses to find key"
+		"es"		"Revisa los cadáveres hasta encontrar una llave"
+	}
+	"d7b1e12627909f2631303ff0a6b42ea0"
+	{
+		"en"		"Find boat and escape"
+		"es"		"Localiza el buque y escapa"
+	}
+	"f76a5015622d467d824156903e4c4968"
+	{
+		"en"		"Find a way into the house"
+		"es"		"Encuentra una manera de entrar a la casa"
+	}
+	"d84090d572d3a709c48b537d410bb885"
+	{
+		"en"		"Reach the surface"
+		"es"		"Ve a la superficie"
+	}
+	"f6cbb2beb35f42e272e683d9c1427a2d"
+	{
+		"en"		"Power the elevator"
+		"es"		"Activa la corriente del elevador"
+	}
+	"e8a8cf2f94f430c6b053c3546ae5d6a1"
+	{
+		"en"		"press buttons near doors and wait for them to open to proceed"
+		"es"		"Presiona los botones al lado de las puertas y espera a que se abran"
+	}
+	"b7375503beb637fefb6b3073d7cd4884"
+	{
+		"en"		"Make it to the sewer"
+		"es"		"Llega a las alcantarillas"
+	}
+}

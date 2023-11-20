@@ -1,0 +1,3667 @@
+"Phrases"
+{
+	"0f2755708e611f49666b44c4ba1cebb5"
+	{
+		"en"		"Light and shadow"
+		"es"		"Luz y sombra"
+	}
+	"11c00187fcf0d7cd7c0a80a3e104b457"
+	{
+		"en"		"Guard the shadow and bury the light"
+		"es"		"Custodia la sombra y entierra la luz"
+	}
+	"a1a73652f560f6d3992f5b86251def49"
+	{
+		"en"		"Climb to the top of the tower, follow the footsteps of the shadow, and drive out the light"
+		"es"		"Sube a la cima de la torre, sigue los pasos de la sombra y expulsa la luz"
+	}
+	"87fae954e9be3621a5bab88fa628abf5"
+	{
+		"en"		"Survive the attack of light and shadow"
+		"es"		"Sobrevive al ataque de luz y sombra"
+	}
+	"4d2c65d0baa0a68b1daa68d8fc69002f"
+	{
+		"en"		"Destroy 23 cores and central block to prevent erosion"
+		"es"		"Destruye 23 núcleos y el bloque central para detener la erosión"
+	}
+	"b84ef0046baad33d5fe129b22bbef89b"
+	{
+		"en"		"Enter the central area"
+		"es"		"Entra en el área central"
+	}
+	"79e24214cecb19e2ec6bea6c2b2fdfd0"
+	{
+		"en"		"Protect the shadow and open the passage to the center"
+		"es"		"Protege la sombra y abre el pasaje hacia el centro"
+	}
+	"63915795fdf8f10060b0b70fc607586e"
+	{
+		"en"		"Defensive platform helps shadow"
+		"es"		"La plataforma defensiva ayuda a la sombra"
+	}
+	"451556005c129bf645123383a9030c25"
+	{
+		"en"		"Enter the black platform to activate the shadow"
+		"es"		"Entra en la plataforma negra para activar la sombra"
+	}
+	"dbcaefd0104d11e0c8c38af3a05e6d25"
+	{
+		"en"		"Destroy the cores on both sides"
+		"es"		"Destruye los núcleos en ambos lados"
+	}
+	"86ff9ee78345828491cdd675e7bd0e46"
+	{
+		"en"		"Find the way to open the lower level"
+		"es"		"Encuentra la manera de abrir el nivel inferior"
+	}
+	"84d44199770e0d4066a74a5f68f8e673"
+	{
+		"en"		"<<< 23 >>>"
+		"es"		"<<< 23 >>>"
+	}
+	"1035adb4c7f60448b7647e516ae89bed"
+	{
+		"en"		"<<< 22 >>>"
+		"es"		"<<< 22 >>>"
+	}
+	"4a633ffcfc2a1cd303936825b3e76677"
+	{
+		"en"		"<<< 21 >>>"
+		"es"		"<<< 21 >>>"
+	}
+	"dbc441c80ad6a2d59225360b4317fef0"
+	{
+		"en"		"<<< 20 >>>"
+		"es"		"<<< 20 >>>"
+	}
+	"c4fb2acd283104b877fb02816526d026"
+	{
+		"en"		"<<< 18 >>>"
+		"es"		"<<< 18 >>>"
+	}
+	"61bbeb1024fd55c43c50d3579deaffdb"
+	{
+		"en"		"<<< 19 >>>"
+		"es"		"<<< 19 >>>"
+	}
+	"09a1b369bd83ccf19fd6f9a8ffc2fe55"
+	{
+		"en"		"<<< 17 >>>"
+		"es"		"<<< 17 >>>"
+	}
+	"7d4fb9b5e3f566c89eefe5e258ef5011"
+	{
+		"en"		"<<< 16 >>>"
+		"es"		"<<< 16 >>>"
+	}
+	"908ffe322121eb4ddfb429721b2d11be"
+	{
+		"en"		"<<< 15 >>>"
+		"es"		"<<< 15 >>>"
+	}
+	"a0012349ac4c413564715937930f6a8c"
+	{
+		"en"		"<<< 14 >>>"
+		"es"		"<<< 14 >>>"
+	}
+	"838f8dbdd5ad7d44fe2ba26b4f99e599"
+	{
+		"en"		"<<< 13 >>>"
+		"es"		"<<< 13 >>>"
+	}
+	"bde508c2ddc7618007d1ec3464a63fb3"
+	{
+		"en"		"<<< 12 >>>"
+		"es"		"<<< 12 >>>"
+	}
+	"ed455dc34654cf233575d26fa4e4ec9b"
+	{
+		"en"		"<<< 11 >>>"
+		"es"		"<<< 11 >>>"
+	}
+	"120a6fcec44cfc71c1d12e51b39940d9"
+	{
+		"en"		"<<< 10 >>>"
+		"es"		"<<< 10 >>>"
+	}
+	"0f58c6db97cca2f9da4ec8219d72b9d2"
+	{
+		"en"		"<<< 9 >>>"
+		"es"		"<<< 9 >>>"
+	}
+	"594427696ec7ff12c5c7596aa0068faf"
+	{
+		"en"		"<<< 8 >>>"
+		"es"		"<<< 8 >>>"
+	}
+	"fd472d8092dbdf802b8007abe45dfbc1"
+	{
+		"en"		"<<< 7 >>>"
+		"es"		"<<< 7 >>>"
+	}
+	"c684cc566c99df3068ed0e97586e4e6e"
+	{
+		"en"		"<<< 6 >>>"
+		"es"		"<<< 6 >>>"
+	}
+	"ddf762a349d0a38249ed34002b68e859"
+	{
+		"en"		"<<< 5 >>>"
+		"es"		"<<< 5 >>>"
+	}
+	"06620d43b4fac0cdd1d3b22b3bbe171c"
+	{
+		"en"		"<<< 4 >>>"
+		"es"		"<<< 4 >>>"
+	}
+	"01b044a32375efd474dbd04c72a92a48"
+	{
+		"en"		"<<< 3 >>>"
+		"es"		"<<< 3 >>>"
+	}
+	"5847744294883df624c85792356fbef5"
+	{
+		"en"		"<<< 2 >>>"
+		"es"		"<<< 2 >>>"
+	}
+	"98f7fe6bf81a73def8c3be90fddd22c2"
+	{
+		"en"		"<<< 1 >>>"
+		"es"		"<<< 1 >>>"
+	}
+	"b3095e28b65440f837b8ddc0e95637bf"
+	{
+		"en"		"1 second"
+		"es"		"1 segundo"
+	}
+	"f7f1c075c1d30aed4784ef41b1d9bc1e"
+	{
+		"en"		"2 seconds"
+		"es"		"2 segundos"
+	}
+	"09b05a13af9814be3142e1fba879992a"
+	{
+		"en"		"3 seconds"
+		"es"		"3 segundos"
+	}
+	"08b85b668c2e78ae9b3d50054a31ff0c"
+	{
+		"en"		"4 seconds"
+		"es"		"4 segundos"
+	}
+	"90a3dcd7ead4f4c42b85186e96717500"
+	{
+		"en"		"5 seconds"
+		"es"		"5 segundos"
+	}
+	"8d2e6f298359528f1a53f5f61d10d850"
+	{
+		"en"		"6 seconds"
+		"es"		"6 segundos"
+	}
+	"6ef69bcffb6b5f45f89f7a473ea4033e"
+	{
+		"en"		"7 seconds"
+		"es"		"7 segundos"
+	}
+	"b824cb1dc81e0e7638c6df680f0b28ea"
+	{
+		"en"		"8 seconds"
+		"es"		"8 segundos"
+	}
+	"41e9614d4f986431726158d5c0a072ff"
+	{
+		"en"		"9 seconds"
+		"es"		"9 segundos"
+	}
+	"fd86d90e38b3705e3590035705f66112"
+	{
+		"en"		"10 seconds"
+		"es"		"10 segundos"
+	}
+	"15d3fc273f43b885bc0078baee5b95a1"
+	{
+		"en"		"20 seconds"
+		"es"		"20 segundos"
+	}
+	"b5fb541f3a77db1eba7f5ec83c3c262e"
+	{
+		"en"		"19 seconds"
+		"es"		"19 segundos"
+	}
+	"2ec8499d0aa690233e2dd183e48ce570"
+	{
+		"en"		"18 seconds"
+		"es"		"18 segundos"
+	}
+	"5e5f30f4e4e6b4c8c41ace9aae94c713"
+	{
+		"en"		"17 seconds"
+		"es"		"17 segundos"
+	}
+	"971cbaaf094e345bf1969ab1d1abd946"
+	{
+		"en"		"16 seconds"
+		"es"		"16 segundos"
+	}
+	"f3b72774f9ea7c6c20d84fc52971d605"
+	{
+		"en"		"15 seconds"
+		"es"		"15 segundos"
+	}
+	"1668704190dd354d1e034d43f0140237"
+	{
+		"en"		"14 seconds"
+		"es"		"14 segundos"
+	}
+	"98e2329dd7c1d1ad5d87a1113c7e234b"
+	{
+		"en"		"13 seconds"
+		"es"		"13 segundos"
+	}
+	"3f29352e4a3eca7d171d4048793e5b38"
+	{
+		"en"		"12 seconds"
+		"es"		"12 segundos"
+	}
+	"53099fc554da79edf6397af3c815f8b2"
+	{
+		"en"		"11 seconds"
+		"es"		"11 segundos"
+	}
+	"3d393dc956fea776f25db075df639cb1"
+	{
+		"en"		"30 seconds"
+		"es"		"30 segundos"
+	}
+	"f6c83fc72ab6fcb6b3438edc0caeaa49"
+	{
+		"en"		"29 seconds"
+		"es"		"29 segundos"
+	}
+	"5f779357d9d00393bc6a5e28910538d4"
+	{
+		"en"		"28 seconds"
+		"es"		"28 segundos"
+	}
+	"294cb2254137adf21fd987a47cf84e14"
+	{
+		"en"		"27 seconds"
+		"es"		"27 segundos"
+	}
+	"6f274cc82a41bc4fd34b142850dbb1c9"
+	{
+		"en"		"26 seconds"
+		"es"		"26 segundos"
+	}
+	"78a77d3a10446d7ddfbc84dc9066f77e"
+	{
+		"en"		"25 seconds"
+		"es"		"25 segundos"
+	}
+	"e218f58892ec9b7ea53030400c666979"
+	{
+		"en"		"24 seconds"
+		"es"		"24 segundos"
+	}
+	"28ec61b7215372481bfa0057a90269ec"
+	{
+		"en"		"23 seconds"
+		"es"		"23 segundos"
+	}
+	"14b54b1e02ce2ebdc25907d1327ea30e"
+	{
+		"en"		"22 seconds"
+		"es"		"22 segundos"
+	}
+	"89d95f9cffb16363e785be5f83513461"
+	{
+		"en"		"21 seconds"
+		"es"		"21 segundos"
+	}
+	"f561aaf6ef0bf14d4208bb46a4ccb3ad"
+	{
+		"en"		"xxx"
+		"es"		"xxx"
+	}
+	"a4cb41cb8aa08b6a8beea9c586ebc7c1"
+	{
+		"en"		"Now You Meet Your End"
+		"es"		"Ahora encuentras tu fin"
+	}
+	"ee03b05e333e05564353586eabcfb1f0"
+	{
+		"en"		"The shadow knight has died!!!
+Even the shadow knight cannot save you"
+		"es"		"¡¡¡El caballero de la sombra ha muerto!!!
+Incluso el caballero de la sombra no puede salvarte"
+	}
+	"55a875e9a4df8d2f67a7a0010bf9257c"
+	{
+		"en"		"The shadow has been sealed, we will be exposed to strong light"
+		"es"		"La sombra ha sido sellada, estaremos expuestos a una luz fuerte"
+	}
+	"5569b525ee11799fea4d7c450c71b4b0"
+	{
+		"en"		"The shadow has been completely eroded
+It's all over"
+		"es"		"La sombra ha sido completamente erosionada
+Todo ha terminado"
+	}
+	"32c027c5af5ec9789f69cee9ef22b15c"
+	{
+		"en"		"We failed
+No one can escape the erosion of light"
+		"es"		"Hemos fallado
+Nadie puede escapar de la erosión de la luz"
+	}
+	"8fbf9fea511d25f929eca01d597c20c3"
+	{
+		"en"		"The shadow has been destroyed
+We failed"
+		"es"		"La sombra ha sido destruida
+Hemos fallado"
+	}
+	"6aff5f42ca4fdd9a5254b5a4e493fb8f"
+	{
+		"en"		"The power of the shadow has been temporarily exhausted"
+		"es"		"El poder de la sombra se ha agotado temporalmente"
+	}
+	"169494abb5d8ccae63c0a8b06cb10f5a"
+	{
+		"en"		"The illusion was not successfully lifted
+The power of light and shadow has increased again"
+		"es"		"No se logró levantar la ilusión
+El poder de la luz y la sombra ha aumentado de nuevo"
+	}
+	"2260d1f36b2c87319941dc5670e40c29"
+	{
+		"en"		"Trapped in an illusion!!
+Find the core that controls the illusion
+Destroy it with powerful attacks"
+		"es"		"Atrapado en una ilusión!!
+Encuentra el núcleo que controla la ilusión
+Destruyelo con ataques poderosos"
+	}
+	"e57742de65ebd8b6f10ebfe09c1a4e03"
+	{
+		"en"		"The shadow killed the light!!!
+Did we win?
+Everything is starting to disappear
+Even the shadow itself no longer exists
+Without light, where does the shadow come from---------------"
+		"es"		"¡¡¡La sombra mató a la luz!!!
+¿Ganamos?
+Todo está empezando a desaparecer
+Incluso la sombra misma ya no existe
+Sin luz, ¿de dónde viene la sombra---------------"
+	}
+	"685a35190522d6a1ee266408df4917d5"
+	{
+		"en"		"The light intends to seal the shadow
+Quickly shatter its aura"
+		"es"		"La luz tiene la intención de sellar la sombra
+Rápidamente destroza su aura"
+	}
+	"39fcb530f5e5eab60c5ff5b00fb2ae00"
+	{
+		"en"		"All energy is gathered here through the core
+What does the shadow intend to do?
+It looks very weak
+We must do our best to protect it"
+		"es"		"Toda la energía se reúne aquí a través del núcleo
+¿Qué pretende hacer la sombra?
+Se ve muy débil
+Debemos hacer todo lo posible para protegerlo"
+	}
+	"7396d1804d0611d99c112e490b353488"
+	{
+		"en"		"The shadow has appeared!!"
+		"es"		"¡¡La sombra ha aparecido!!"
+	}
+	"1d5a812942a68f80cbe13fa5136e0846"
+	{
+		"en"		"This is the real core
+Find a way to gather in the center
+Wait for the shadow to descend"
+		"es"		"Este es el verdadero núcleo
+Encuentra una manera de reunirte en el centro
+Espera a que descienda la sombra"
+	}
+	"7bb282d43d7aebebcf3382866cd25f45"
+	{
+		"en"		"The light has shattered
+But everything seems to be not over yet
+--------------
+The light is gathering again
+But the light has become weaker
+Our attack was effective"
+		"es"		"La luz se ha hecho añicos
+Pero todo parece no haber terminado todavía
+--------------
+La luz se está reuniendo de nuevo
+Pero la luz se ha debilitado
+Nuestro ataque fue efectivo"
+	}
+	"fab73e33e4ff0f40ce7f38ec57dc804e"
+	{
+		"en"		"The light is accumulating energy for the final blow
+This is its most vulnerable time
+Use powerful attacks to shatter it
+The light and its followers have no hope
+Now the light will face human judgment"
+		"es"		"La luz está acumulando energía para el golpe final
+Este es su momento más vulnerable
+Usa ataques poderosos para destrozarlo
+La luz y sus seguidores no tienen esperanza
+Ahora la luz enfrentará el juicio humano"
+	}
+	"fb8456e1bd81c4b1b822a87815fad039"
+	{
+		"en"		"No one chooses to become a shadow knight
+The shadow has chosen you"
+		"es"		"Nadie elige convertirse en un caballero de la sombra
+La sombra te ha elegido"
+	}
+	"08a1d906e3caa66c7ef70bdcdde48c06"
+	{
+		"en"		"The light is still hindering us, we must defend against them
+Hold on until the central platform descends to the bottom"
+		"es"		"La luz todavía nos está obstaculizando, debemos defendernos de ellos
+Aguanta hasta que la plataforma central descienda hasta el fondo"
+	}
+	"5fc304267f922101f2fefdba35cef9cc"
+	{
+		"en"		"The central area elevator has been activated"
+		"es"		"El ascensor del área central ha sido activado"
+	}
+	"5dc24f7562e9a1217462cbfa1e99cf1f"
+	{
+		"en"		"Find a way to destroy or activate all the lower cores
+The core is very hard
+It must be destroyed with powerful attacks
+The middle core is guarded by guards"
+		"es"		"Encuentra una manera de destruir o activar todos los núcleos inferiores
+El núcleo es muy duro
+Debe ser destruido con ataques poderosos
+El núcleo del medio está custodiado por guardias"
+	}
+	"fb749a815e932fd2c2c399fd58f3d248"
+	{
+		"en"		"The shadow is giving us strength
+Enter it to become a shadow knight
+Under the protection of the shadow, we will bury the light with our own hands"
+		"es"		"La sombra nos está dando fuerza
+Entra en ella para convertirte en un caballero de la sombra
+Bajo la protección de la sombra, enterraremos la luz con nuestras propias manos"
+	}
+	"aabc9f0dc7be294fcbe9fd2aff85ded5"
+	{
+		"en"		"From now on, there is no turning back
+Follow the shadow forward"
+		"es"		"A partir de ahora, no hay vuelta atrás
+Sigue adelante con la sombra"
+	}
+	"39ad4f71a5f27d47626631c1d4d30220"
+	{
+		"en"		"Gather and enter the central platform
+We are going straight to the top of the tower
+Leaving our homeland, expelling the culprit who eroded the earth"
+		"es"		"Reúnanse y entren en la plataforma central
+Vamos directamente a la cima de la torre
+Dejando nuestra tierra, expulsando al culpable que la erosionó"
+	}
+	"840ed1e4e16c01fde130f5fa2a906ac9"
+	{
+		"en"		"We did it!
+The light has been weakened
+We must use the remaining power of the shadow to expel the light from the earth!"
+		"es"		"¡Lo hicimos!
+La luz ha sido debilitada
+¡Debemos usar el poder restante de la sombra para expulsar la luz de la tierra!"
+	}
+	"81739414b00e4f7084f22426dc5d54bd"
+	{
+		"en"		"All cores have been destroyed
+But something is still operating
+The power of the shadow has been controlled by light"
+		"es"		"Todos los núcleos han sido destruidos
+Pero algo todavía está funcionando
+El poder de la sombra ha sido controlado por la luz"
+	}
+	"25a171761efd8f09b50449b7540a7d86"
+	{
+		"en"		"The protection of the central block has been eliminated
+Quickly destroy it to stop the erosion"
+		"es"		"La protección del bloque central ha sido eliminada
+Destruyelo rápidamente para detener la erosión"
+	}
+	"2cbe1f48363d27b9562840ca8b26c1ca"
+	{
+		"en"		"This should be the central area of the tower
+The entrance is starting to close
+We must move forward"
+		"es"		"Este debería ser el área central de la torre
+La entrada está empezando a cerrarse
+Debemos avanzar"
+	}
+	"8a3c6c0a835c59abda90d6d370ab7671"
+	{
+		"en"		"The shadow's energy has recovered a little
+Quickly follow and protect it to continue moving forward
+It will take us to the central area"
+		"es"		"La energía de la sombra se ha recuperado un poco
+Sigue rápidamente y protégelo para seguir avanzando
+Nos llevará al área central"
+	}
+	"12ae4005e3e0674584e6bc4597d20858"
+	{
+		"en"		"The shadow is helping us
+It will help us kill the invaders
+But its energy is still too weak
+More mutants have appeared"
+		"es"		"La sombra nos está ayudando
+Nos ayudará a matar a los invasores
+Pero su energía todavía es demasiado débil
+Han aparecido más mutantes"
+	}
+	"a5b459e512e80721442da91c97784cb8"
+	{
+		"en"		"Defend against zombies, don't let them enter the black platform
+Protect the shadow!!!"
+		"es"		"Defiende contra los zombis, no los dejes entrar en la plataforma negra
+¡Protege la sombra!"
+	}
+	"3b7f8d2d159d99be64dc9d909a14f914"
+	{
+		"en"		"A strange voice enters our minds
+It needs us to enter the black platform in the center to help it"
+		"es"		"Una extraña voz entra en nuestras mentes
+Necesita que entremos en la plataforma negra en el centro para ayudarla"
+	}
+	"3360a5db33b3926d65bcd9ae08e4e385"
+	{
+		"en"		"The core has been activated
+The entrance is starting to close"
+		"es"		"El núcleo ha sido activado
+La entrada está empezando a cerrarse"
+	}
+	"babdfd94db511b0488d2fbe4db604e37"
+	{
+		"en"		"The entire tower appears to have consciousness
+Our arrival seems to have been noticed"
+		"es"		"La torre parece tener conciencia
+Nuestra llegada parece haber sido notada"
+	}
+	"ef46f8e85207df6ad3e0be937e17ab2f"
+	{
+		"en"		"264 seconds"
+		"es"		"264 segundos"
+	}
+	"d37518c78e9a92b418fa6956b4bdf446"
+	{
+		"en"		"265 seconds"
+		"es"		"265 segundos"
+	}
+	"275109914644e058bdc3302a00afd7ed"
+	{
+		"en"		"266 seconds"
+		"es"		"266 segundos"
+	}
+	"a64d94de7d013b359a2ef215d683b93e"
+	{
+		"en"		"267 seconds"
+		"es"		"267 segundos"
+	}
+	"52e6c6cdb75112f41e67fc8c49dc89f4"
+	{
+		"en"		"268 seconds"
+		"es"		"268 segundos"
+	}
+	"539e0c17c2a30c8f9425b328473b8438"
+	{
+		"en"		"269 seconds"
+		"es"		"269 segundos"
+	}
+	"283296cc044799d0c3cbd894cb8f027c"
+	{
+		"en"		"270 seconds"
+		"es"		"270 segundos"
+	}
+	"2836adfc51a6cd83b2a1db77e3e7fcba"
+	{
+		"en"		"271 seconds"
+		"es"		"271 segundos"
+	}
+	"873c6460d222f3f8279e3b1cdc6bf848"
+	{
+		"en"		"272 seconds"
+		"es"		"272 segundos"
+	}
+	"5812e000003c787e3fc166eb5cdf2a22"
+	{
+		"en"		"273 seconds"
+		"es"		"273 segundos"
+	}
+	"dec78dcbd9422cfc92e71e9d5107af19"
+	{
+		"en"		"274 seconds"
+		"es"		"274 segundos"
+	}
+	"b2f34b1b8a0aff424651dd931bacf897"
+	{
+		"en"		"275 seconds"
+		"es"		"275 segundos"
+	}
+	"e6e634b49a11e5010ad07f8384b1fe75"
+	{
+		"en"		"276 seconds"
+		"es"		"276 segundos"
+	}
+	"272effba587d51b123ab58084b1f95c5"
+	{
+		"en"		"277 seconds"
+		"es"		"277 segundos"
+	}
+	"4aa201e638e7e38367eb2ad894882b52"
+	{
+		"en"		"278 seconds"
+		"es"		"278 segundos"
+	}
+	"57889e39376564f2a0bde9d7cf7f541e"
+	{
+		"en"		"279 seconds"
+		"es"		"279 segundos"
+	}
+	"cef5302b53543a9120339916535d3b6d"
+	{
+		"en"		"280 seconds"
+		"es"		"280 segundos"
+	}
+	"6fde5b82fac35d0b19b5949107cac01e"
+	{
+		"en"		"281 seconds"
+		"es"		"281 segundos"
+	}
+	"5da1ba4837775fd8688e479b5a120534"
+	{
+		"en"		"282 seconds"
+		"es"		"282 segundos"
+	}
+	"01802a399aab8ea58677790b834c7be5"
+	{
+		"en"		"283 seconds"
+		"es"		"283 segundos"
+	}
+	"4a153c468598647afaa726e48c1550ec"
+	{
+		"en"		"284 seconds"
+		"es"		"284 segundos"
+	}
+	"974350b2a81c6b9d14cf903942f7638b"
+	{
+		"en"		"285 seconds"
+		"es"		"285 segundos"
+	}
+	"ee95c11a32819fac5e5aff1082271404"
+	{
+		"en"		"286 seconds"
+		"es"		"286 segundos"
+	}
+	"b7567d058e7365e6f38129b64c826e7e"
+	{
+		"en"		"287 seconds"
+		"es"		"287 segundos"
+	}
+	"71bb82308ab99b4358b4c61c3f8a5a23"
+	{
+		"en"		"288 seconds"
+		"es"		"288 segundos"
+	}
+	"2d814d757ae3165bdaa3324bdf2d1ebc"
+	{
+		"en"		"289 seconds"
+		"es"		"289 segundos"
+	}
+	"a5ab5699f35d5c1a4bf60753551abb4f"
+	{
+		"en"		"290 seconds"
+		"es"		"290 segundos"
+	}
+	"16b5fd1a5fa90de7bc915135a72dcbc4"
+	{
+		"en"		"291 seconds"
+		"es"		"291 segundos"
+	}
+	"45ac4760da81f4644f96eff783effea5"
+	{
+		"en"		"292 seconds"
+		"es"		"292 segundos"
+	}
+	"4b56ffb400dcfc9420301a647b042915"
+	{
+		"en"		"293 seconds"
+		"es"		"293 segundos"
+	}
+	"30477af1efc0b0ef09a22c3e76c0841c"
+	{
+		"en"		"294 seconds"
+		"es"		"294 segundos"
+	}
+	"9a069a4a9398df3526c4d3f6c508da7f"
+	{
+		"en"		"295 seconds"
+		"es"		"295 segundos"
+	}
+	"69cb091a5cbdc600b1dad4fde7de657f"
+	{
+		"en"		"296 seconds"
+		"es"		"296 segundos"
+	}
+	"2a467765531ae4181a5f2745c149c502"
+	{
+		"en"		"297 seconds"
+		"es"		"297 segundos"
+	}
+	"6bc08405df73f892c4fbb50a068773c4"
+	{
+		"en"		"298 seconds"
+		"es"		"298 segundos"
+	}
+	"201e9f1d98481412317458054c5c786d"
+	{
+		"en"		"299 seconds"
+		"es"		"299 segundos"
+	}
+	"4152c644e8aae3502ff3d90b789ebfce"
+	{
+		"en"		"300 seconds"
+		"es"		"300 segundos"
+	}
+	"0fd65219ca44f898620f5fdb5c0c1fb6"
+	{
+		"en"		"301 seconds"
+		"es"		"301 segundos"
+	}
+	"5e3590142b31812ae992c766609b9bd6"
+	{
+		"en"		"302 seconds"
+		"es"		"302 segundos"
+	}
+	"332539b922e870775a4c16db979900f4"
+	{
+		"en"		"303 seconds"
+		"es"		"303 segundos"
+	}
+	"573e4ad17f20dc3ddd862acfe27492c9"
+	{
+		"en"		"304 seconds"
+		"es"		"304 segundos"
+	}
+	"c1a1d23e133b75fdd98022f55aaf1720"
+	{
+		"en"		"305 seconds"
+		"es"		"305 segundos"
+	}
+	"9fe4b8b5a1e5b565f9ad4f03499ca779"
+	{
+		"en"		"306 seconds"
+		"es"		"306 segundos"
+	}
+	"71998cef529332df1bacc74b9606f995"
+	{
+		"en"		"307 seconds"
+		"es"		"307 segundos"
+	}
+	"caf5b9cdb647cd881c0369115b67df52"
+	{
+		"en"		"308 seconds"
+		"es"		"308 segundos"
+	}
+	"951bbedf027ec51ac6db48c1aea87b4c"
+	{
+		"en"		"309 seconds"
+		"es"		"309 segundos"
+	}
+	"5636cadf34176d77fd66004c1e8b51bb"
+	{
+		"en"		"310 seconds"
+		"es"		"310 segundos"
+	}
+	"3333495cc78ea0c38339593dcd8c1a95"
+	{
+		"en"		"311 seconds"
+		"es"		"311 segundos"
+	}
+	"5d0a51ab8e1978d7c4c1bbdde2e63741"
+	{
+		"en"		"312 seconds"
+		"es"		"312 segundos"
+	}
+	"0c34104f8973c0bf8e58d522a21d196e"
+	{
+		"en"		"313 seconds"
+		"es"		"313 segundos"
+	}
+	"e5ee056faadb1ade21ea4b64c15cefd5"
+	{
+		"en"		"314 seconds"
+		"es"		"314 segundos"
+	}
+	"5c88e5ca86122f8dacbe31b584d068b7"
+	{
+		"en"		"315 seconds"
+		"es"		"315 segundos"
+	}
+	"cb14f9903e62dc8be1280429b09539d6"
+	{
+		"en"		"316 seconds"
+		"es"		"316 segundos"
+	}
+	"10a0f14cab30cfcb50871f9f41675508"
+	{
+		"en"		"317 seconds"
+		"es"		"317 segundos"
+	}
+	"21df24b2427a5900c99ab02dcb6320df"
+	{
+		"en"		"318 seconds"
+		"es"		"318 segundos"
+	}
+	"fd551ab4ba916cbfb6ca2e5b6bebaba4"
+	{
+		"en"		"319 seconds"
+		"es"		"319 segundos"
+	}
+	"a628a5aa72c8e72c550d4a998c143cb8"
+	{
+		"en"		"320 seconds"
+		"es"		"320 segundos"
+	}
+	"5c68ae0466d98c50fe90a0a86cd4ab35"
+	{
+		"en"		"321 seconds"
+		"es"		"321 segundos"
+	}
+	"03c68fb0bf041f059cf4fedb0e8be55e"
+	{
+		"en"		"322 seconds"
+		"es"		"322 segundos"
+	}
+	"7e200f108ed2a41738c31ca36e589293"
+	{
+		"en"		"323 seconds"
+		"es"		"323 segundos"
+	}
+	"36fb237abe1f7068b9fdbb746ede2500"
+	{
+		"en"		"324 seconds"
+		"es"		"324 segundos"
+	}
+	"5c2f000e78f3458627fb7478fd68dfd4"
+	{
+		"en"		"325 seconds"
+		"es"		"325 segundos"
+	}
+	"d0059c8921b5018df8e7a62d28256092"
+	{
+		"en"		"326 seconds"
+		"es"		"326 segundos"
+	}
+	"41b8eb29ca63f600bbfd469bf3651762"
+	{
+		"en"		"327 seconds"
+		"es"		"327 segundos"
+	}
+	"930f219483de3163f249806929e2f294"
+	{
+		"en"		"328 seconds"
+		"es"		"328 segundos"
+	}
+	"57f3402f7ef02d7731fd595b51e76c20"
+	{
+		"en"		"329 seconds"
+		"es"		"329 segundos"
+	}
+	"3970e29d6750e6f93110cba20de87095"
+	{
+		"en"		"330 seconds"
+		"es"		"330 segundos"
+	}
+	"2f328abd471edd3c7834431790a67082"
+	{
+		"en"		"331 seconds"
+		"es"		"331 segundos"
+	}
+	"8092fab705e860c968d5a864e2b3b26e"
+	{
+		"en"		"332 seconds"
+		"es"		"332 segundos"
+	}
+	"19df04306dc0c3c6f137b561aaa2d820"
+	{
+		"en"		"333 seconds"
+		"es"		"333 segundos"
+	}
+	"dfda4f79a693181c36540147e66edc13"
+	{
+		"en"		"334 seconds"
+		"es"		"334 segundos"
+	}
+	"6bf2e1535435815ea5cd01c7bfc524a6"
+	{
+		"en"		"335 seconds"
+		"es"		"335 segundos"
+	}
+	"9f80c75c741ea7547cc6c78243f938ab"
+	{
+		"en"		"336 seconds"
+		"es"		"336 segundos"
+	}
+	"ae21a22afa91d003f5646a5b8270a607"
+	{
+		"en"		"337 seconds"
+		"es"		"337 segundos"
+	}
+	"ed6e4d36c827f82e452978ca7a11c40f"
+	{
+		"en"		"338 seconds"
+		"es"		"338 segundos"
+	}
+	"c2ee3ce9be27a157823e7d8e57ccc311"
+	{
+		"en"		"339 seconds"
+		"es"		"339 segundos"
+	}
+	"6ac6d6dab77c6b34ad030a4f4348d8a3"
+	{
+		"en"		"340 seconds"
+		"es"		"340 segundos"
+	}
+	"8142cbd57255f23461b499b8e6adbba3"
+	{
+		"en"		"341 seconds"
+		"es"		"341 segundos"
+	}
+	"5947bd63d1910754b8452b28fa316e93"
+	{
+		"en"		"342 seconds"
+		"es"		"342 segundos"
+	}
+	"7e0cb14277666db895d555703c22b80b"
+	{
+		"en"		"343 seconds"
+		"es"		"343 segundos"
+	}
+	"6b34ec9bed130384279385b59fe27bae"
+	{
+		"en"		"344 seconds"
+		"es"		"344 segundos"
+	}
+	"afcf0f1bf1e3283242f7abcf959b6220"
+	{
+		"en"		"345 seconds"
+		"es"		"345 segundos"
+	}
+	"053979253782e78f583891cb0a1632f2"
+	{
+		"en"		"346 seconds"
+		"es"		"346 segundos"
+	}
+	"963a2b1f0002c41ff07109f5cffb22b9"
+	{
+		"en"		"347 seconds"
+		"es"		"347 segundos"
+	}
+	"375d8bcb51b8ef16a83365751be7f950"
+	{
+		"en"		"348 seconds"
+		"es"		"348 segundos"
+	}
+	"e36b75a08f12883ef3eeda1a244906ea"
+	{
+		"en"		"349 seconds"
+		"es"		"349 segundos"
+	}
+	"52da0bf93711c31fd0cc1ccad3b591ac"
+	{
+		"en"		"350 seconds"
+		"es"		"350 segundos"
+	}
+	"3cc2a89b3af85c97f4c739e6eef3ee05"
+	{
+		"en"		"351 seconds"
+		"es"		"351 segundos"
+	}
+	"3f37e478348cfc66f8f6707de26c2236"
+	{
+		"en"		"352 seconds"
+		"es"		"352 segundos"
+	}
+	"5fd48838d8591eab406db37a9dc670af"
+	{
+		"en"		"353 seconds"
+		"es"		"353 segundos"
+	}
+	"85b8076ff132cdd74ac685daa5fbc417"
+	{
+		"en"		"354 seconds"
+		"es"		"354 segundos"
+	}
+	"33c6cf3869f685ce717effeddc332324"
+	{
+		"en"		"355 seconds"
+		"es"		"355 segundos"
+	}
+	"7347b6160b56a8597ab8012da914b1db"
+	{
+		"en"		"356 seconds"
+		"es"		"356 segundos"
+	}
+	"c402a3cb0994cb9581503ddd28eb015a"
+	{
+		"en"		"357 seconds"
+		"es"		"357 segundos"
+	}
+	"d50e7fc8587d7ad6bad91b8e3323fc3f"
+	{
+		"en"		"358 seconds"
+		"es"		"358 segundos"
+	}
+	"cc9b14cdab7cabbda6bedc0c750bd138"
+	{
+		"en"		"359 seconds"
+		"es"		"359 segundos"
+	}
+	"d0e84cb60012edbe0b9e5ea13e865ee8"
+	{
+		"en"		"360 seconds"
+		"es"		"360 segundos"
+	}
+	"9a5b08bbd6850e3752f63c8cfdb3b392"
+	{
+		"en"		"361 seconds"
+		"es"		"361 segundos"
+	}
+	"e9acd5b8c0e5a3cbf10c49a33f0477ef"
+	{
+		"en"		"362 seconds"
+		"es"		"362 segundos"
+	}
+	"c90a73429dbed19c094307bf084a38ae"
+	{
+		"en"		"363 seconds"
+		"es"		"363 segundos"
+	}
+	"c2403ddad3179a82941d8994efe92402"
+	{
+		"en"		"364 seconds"
+		"es"		"364 segundos"
+	}
+	"379aa49188ff207574cf5ca6d0987fa9"
+	{
+		"en"		"365 seconds"
+		"es"		"365 segundos"
+	}
+	"34005b3bda69ee4813e968f83d624cac"
+	{
+		"en"		"366 seconds"
+		"es"		"366 segundos"
+	}
+	"f9101c0dcfe28cca192496e6d9617e1b"
+	{
+		"en"		"367 seconds"
+		"es"		"367 segundos"
+	}
+	"be7cc6c1eeaa244cee79843285e7b739"
+	{
+		"en"		"368 seconds"
+		"es"		"368 segundos"
+	}
+	"6a9267df7132ef96bb1f785f9d5f8962"
+	{
+		"en"		"369 seconds"
+		"es"		"369 segundos"
+	}
+	"5adeb2f7ced4efcf3dac915dcfa1594c"
+	{
+		"en"		"370 seconds"
+		"es"		"370 segundos"
+	}
+	"1807c4fbf05383038f7007ed6b0a8a63"
+	{
+		"en"		"371 seconds"
+		"es"		"371 segundos"
+	}
+	"f85b08656ec03aa928ba4a914fbc6512"
+	{
+		"en"		"372 seconds"
+		"es"		"372 segundos"
+	}
+	"a7fb474112a81d1af122546a53edd848"
+	{
+		"en"		"373 seconds"
+		"es"		"373 segundos"
+	}
+	"a7504c99373a647f0184871ac2fa56ac"
+	{
+		"en"		"374 seconds"
+		"es"		"374 segundos"
+	}
+	"ccc6c41bfd4ca079c2e4e6d57eec1bcb"
+	{
+		"en"		"375 seconds"
+		"es"		"375 segundos"
+	}
+	"46c712c2a4626b400ee3b7953222e09e"
+	{
+		"en"		"376 seconds"
+		"es"		"376 segundos"
+	}
+	"f497a19266c77107937dfa96ca4643b8"
+	{
+		"en"		"377 seconds"
+		"es"		"377 segundos"
+	}
+	"7735acbb556cc89b36ec4d5312e9dfd1"
+	{
+		"en"		"378 seconds"
+		"es"		"378 segundos"
+	}
+	"1897aad6385760016144c638fe58bb1b"
+	{
+		"en"		"379 seconds"
+		"es"		"379 segundos"
+	}
+	"50b9ddc2e58c83bbf801116172657866"
+	{
+		"en"		"380 seconds"
+		"es"		"380 segundos"
+	}
+	"da9ba984ee891649927a33bea5a292f1"
+	{
+		"en"		"381 seconds"
+		"es"		"381 segundos"
+	}
+	"bda5c53438ebba17dfd64991e4c21302"
+	{
+		"en"		"382 seconds"
+		"es"		"382 segundos"
+	}
+	"d7d07488b80e0fcae07c13f5458f46ee"
+	{
+		"en"		"383 seconds"
+		"es"		"383 segundos"
+	}
+	"12497b562107865fc73e48930ef09709"
+	{
+		"en"		"384 seconds"
+		"es"		"384 segundos"
+	}
+	"0bb710fd1a7a13c5625f730903dbba63"
+	{
+		"en"		"385 seconds"
+		"es"		"385 segundos"
+	}
+	"02221cacc8c1b0046b3b496781057606"
+	{
+		"en"		"386 seconds"
+		"es"		"386 segundos"
+	}
+	"dd47dfe198dbe9cde8c1410f2578c91b"
+	{
+		"en"		"387 seconds"
+		"es"		"387 segundos"
+	}
+	"6065cb623131bacb6c1ab4fc7de8f252"
+	{
+		"en"		"388 seconds"
+		"es"		"388 segundos"
+	}
+	"07152de257856fa3f6892ea5163e0847"
+	{
+		"en"		"389 seconds"
+		"es"		"389 segundos"
+	}
+	"be7f2cfb952670e18fdb7fd241f08bb7"
+	{
+		"en"		"390 seconds"
+		"es"		"390 segundos"
+	}
+	"6c39887515674cc594726d75dba5bd68"
+	{
+		"en"		"391 seconds"
+		"es"		"391 segundos"
+	}
+	"b0702e9c90cb8d11796a74f7edeeb450"
+	{
+		"en"		"392 seconds"
+		"es"		"392 segundos"
+	}
+	"bbd23b21dada52a962f53a6fc24f0c05"
+	{
+		"en"		"393 seconds"
+		"es"		"393 segundos"
+	}
+	"69bc0f03d96da31aaae70703de246033"
+	{
+		"en"		"394 seconds"
+		"es"		"394 segundos"
+	}
+	"5be7c5a0a326299e877cf0ccc87753e6"
+	{
+		"en"		"395 seconds"
+		"es"		"395 segundos"
+	}
+	"62e1af35b54b12acf4e92ccaab5e8aa7"
+	{
+		"en"		"396 seconds"
+		"es"		"396 segundos"
+	}
+	"f39f0972a1320f39c548a2f18b651106"
+	{
+		"en"		"397 seconds"
+		"es"		"397 segundos"
+	}
+	"c9ee6ccc170b73d7d43cbf110951aba3"
+	{
+		"en"		"398 seconds"
+		"es"		"398 segundos"
+	}
+	"598b796b7f89f2cdf4f19c15925bf012"
+	{
+		"en"		"399 seconds"
+		"es"		"399 segundos"
+	}
+	"f42c3a037955dd08c70ba631790c4f0f"
+	{
+		"en"		"400 seconds"
+		"es"		"400 segundos"
+	}
+	"e29a9fc53d8817610ac56b6a015ada4e"
+	{
+		"en"		"401 seconds"
+		"es"		"401 segundos"
+	}
+	"8ddc27304a7f068d99a884d88fe3cae7"
+	{
+		"en"		"402 seconds"
+		"es"		"402 segundos"
+	}
+	"5e1b5829f6d203548820a64749931e95"
+	{
+		"en"		"403 seconds"
+		"es"		"403 segundos"
+	}
+	"243699a9221981981552db349440e7d2"
+	{
+		"en"		"404 seconds"
+		"es"		"404 segundos"
+	}
+	"022f2967c398bd723838c3154e466f59"
+	{
+		"en"		"405 seconds"
+		"es"		"405 segundos"
+	}
+	"58673f4298301ae3719fce85ecc7fed3"
+	{
+		"en"		"406 seconds"
+		"es"		"406 segundos"
+	}
+	"c713946c2905b03d59e8f04f3e93c5ef"
+	{
+		"en"		"407 seconds"
+		"es"		"407 segundos"
+	}
+	"1fb1198620e5581021e5a844f5712851"
+	{
+		"en"		"408 seconds"
+		"es"		"408 segundos"
+	}
+	"a98398dbed6244c6644ba6c354a4fa66"
+	{
+		"en"		"409 seconds"
+		"es"		"409 segundos"
+	}
+	"d5041b0cd801a2e57b1087475390a48b"
+	{
+		"en"		"410 seconds"
+		"es"		"410 segundos"
+	}
+	"88de94a8f2f2c4c0038e213311ae6fb4"
+	{
+		"en"		"411 seconds"
+		"es"		"411 segundos"
+	}
+	"941ac9e5d7ec09e993e43cfc23f3d3d9"
+	{
+		"en"		"412 seconds"
+		"es"		"412 segundos"
+	}
+	"e91a2b0505a98e627dc85cbf01e8397b"
+	{
+		"en"		"413 seconds"
+		"es"		"413 segundos"
+	}
+	"4934fcc076e24e956ae3e66c87f2e43e"
+	{
+		"en"		"414 seconds"
+		"es"		"414 segundos"
+	}
+	"d04c693577055ed18a18ee7d9b748a68"
+	{
+		"en"		"415 seconds"
+		"es"		"415 segundos"
+	}
+	"7cb9c679a949512e742cbd9a9743ab72"
+	{
+		"en"		"416 seconds"
+		"es"		"416 segundos"
+	}
+	"fa77c50c0a8533495a8acffdf605f2a4"
+	{
+		"en"		"417 seconds"
+		"es"		"417 segundos"
+	}
+	"c66a97ce1a70923d3796f4fdc867ff2b"
+	{
+		"en"		"418 seconds"
+		"es"		"418 segundos"
+	}
+	"7c16d7151ca70119da96555bc86d4845"
+	{
+		"en"		"419 seconds"
+		"es"		"419 segundos"
+	}
+	"776cc442993a3fe3a5458a76a4b01781"
+	{
+		"en"		"420 seconds"
+		"es"		"420 segundos"
+	}
+	"afa63a4e974e8935ca82c0690aff233b"
+	{
+		"en"		"421 seconds"
+		"es"		"421 segundos"
+	}
+	"c2a365bef76f88eeae6948d339748a39"
+	{
+		"en"		"422 seconds"
+		"es"		"422 segundos"
+	}
+	"ea100a4679901d13b8a9e9613a47db81"
+	{
+		"en"		"423 seconds"
+		"es"		"423 segundos"
+	}
+	"d5a4ced0ff94931bedcd1f05b1972cce"
+	{
+		"en"		"424 seconds"
+		"es"		"424 segundos"
+	}
+	"5eda687be8e956698098dd2c9ef59004"
+	{
+		"en"		"425 seconds"
+		"es"		"425 segundos"
+	}
+	"7a699c8cf5693a8232cb0aa707dc3dba"
+	{
+		"en"		"426 seconds"
+		"es"		"426 segundos"
+	}
+	"22cc12a3b6cf4a01eba100c422783b00"
+	{
+		"en"		"427 seconds"
+		"es"		"427 segundos"
+	}
+	"04fdee39f751b94e3f9af75b295adbc2"
+	{
+		"en"		"428 seconds"
+		"es"		"428 segundos"
+	}
+	"58a18e77b01cbb65ba2b3e2aac2450f7"
+	{
+		"en"		"429 seconds"
+		"es"		"429 segundos"
+	}
+	"f17ac1804f4a0ab49990235466252a34"
+	{
+		"en"		"430 seconds"
+		"es"		"430 segundos"
+	}
+	"505f20dd7f496d10ae9a625e52f373d8"
+	{
+		"en"		"431 seconds"
+		"es"		"431 segundos"
+	}
+	"8cd4065d8a13407aa0bc669b2ff993c4"
+	{
+		"en"		"432 seconds"
+		"es"		"432 segundos"
+	}
+	"ac345693009d3b55103a958d4dd90a0c"
+	{
+		"en"		"433 seconds"
+		"es"		"433 segundos"
+	}
+	"c26a2cf67a7c1ce9c1502ed47620f361"
+	{
+		"en"		"434 seconds"
+		"es"		"434 segundos"
+	}
+	"7a2d9105de2da7350b7e102fce4b6131"
+	{
+		"en"		"435 seconds"
+		"es"		"435 segundos"
+	}
+	"0c48e2ce06e9028204a7a9ce624391e2"
+	{
+		"en"		"436 seconds"
+		"es"		"436 segundos"
+	}
+	"8c1932bec071c98eba18425b8f2ce9a1"
+	{
+		"en"		"437 seconds"
+		"es"		"437 segundos"
+	}
+	"92349a54349f5633fdc6d870201d0c4e"
+	{
+		"en"		"438 seconds"
+		"es"		"438 segundos"
+	}
+	"a31d1a217b2a5be022e7fcca7cdbcaae"
+	{
+		"en"		"439 seconds"
+		"es"		"439 segundos"
+	}
+	"22f1f581d023c3e1ee18e4776b571b47"
+	{
+		"en"		"440 seconds"
+		"es"		"440 segundos"
+	}
+	"159683a02daad7a1deb74508381cc3f3"
+	{
+		"en"		"441 seconds"
+		"es"		"441 segundos"
+	}
+	"be87d80a549bfd135e058d1099afc3f6"
+	{
+		"en"		"442 seconds"
+		"es"		"442 segundos"
+	}
+	"2fac11b0a6c3451cd245ebed273d99c6"
+	{
+		"en"		"443 seconds"
+		"es"		"443 segundos"
+	}
+	"13a2f3e649f0fbd092fb8277ea461a04"
+	{
+		"en"		"444 seconds"
+		"es"		"444 segundos"
+	}
+	"778dddb573d8694c6f6700ee24906dd4"
+	{
+		"en"		"445 seconds"
+		"es"		"445 segundos"
+	}
+	"36ffa0ad87cb6da963dec101571b3ebf"
+	{
+		"en"		"446 seconds"
+		"es"		"446 segundos"
+	}
+	"8e1f496b112d34b63d2f3bc8ea16b7b0"
+	{
+		"en"		"447 seconds"
+		"es"		"447 segundos"
+	}
+	"11e3bba73a070ce6882433f5abfc997a"
+	{
+		"en"		"448 seconds"
+		"es"		"448 segundos"
+	}
+	"7b8ad70cad564d0f9a53bc5ced046ac4"
+	{
+		"en"		"449 seconds"
+		"es"		"449 segundos"
+	}
+	"26df0beb58449499345390e8aae595e7"
+	{
+		"en"		"450 seconds"
+		"es"		"450 segundos"
+	}
+	"6fc54f068637f651a88dec60230ae2bb"
+	{
+		"en"		"451 seconds"
+		"es"		"451 segundos"
+	}
+	"b548fc6b8aef3b2c773790c01bb2ea72"
+	{
+		"en"		"452 seconds"
+		"es"		"452 segundos"
+	}
+	"9e0a05703334923a4cbd392fd0454c35"
+	{
+		"en"		"453 seconds"
+		"es"		"453 segundos"
+	}
+	"bad9b0739b23df313de07f30c085914a"
+	{
+		"en"		"454 seconds"
+		"es"		"454 segundos"
+	}
+	"8e94e2c43d9dbff80c731c01fad4e350"
+	{
+		"en"		"455 seconds"
+		"es"		"455 segundos"
+	}
+	"261918df52941f99f98db49ff8386a83"
+	{
+		"en"		"456 seconds"
+		"es"		"456 segundos"
+	}
+	"0b8b07f843718b2fbb71a31a3ba52f7c"
+	{
+		"en"		"457 seconds"
+		"es"		"457 segundos"
+	}
+	"77f9d5cbde262937cd7d479cbc5e29db"
+	{
+		"en"		"458 seconds"
+		"es"		"458 segundos"
+	}
+	"3b4c876720c1faaef2fcb9c15915bc87"
+	{
+		"en"		"459 seconds"
+		"es"		"459 segundos"
+	}
+	"be9ee6226abb016f312d143be7ef717d"
+	{
+		"en"		"460 seconds"
+		"es"		"460 segundos"
+	}
+	"60f0d53d8f1de08d7a5e0757f254f49f"
+	{
+		"en"		"461 seconds"
+		"es"		"461 segundos"
+	}
+	"f1c2b0b32d8bfb67df16f6e544ca5f45"
+	{
+		"en"		"462 seconds"
+		"es"		"462 segundos"
+	}
+	"c5df5a10a778124f45bc98bad60e818a"
+	{
+		"en"		"463 seconds"
+		"es"		"463 segundos"
+	}
+	"bea15c51c1205cd0606239298bb50082"
+	{
+		"en"		"464 seconds"
+		"es"		"464 segundos"
+	}
+	"ca15a127d23766a61d7fbb8e3e8e22b9"
+	{
+		"en"		"465 seconds"
+		"es"		"465 segundos"
+	}
+	"a5c9849b49b8400f6ae328331f2b202f"
+	{
+		"en"		"466 seconds"
+		"es"		"466 segundos"
+	}
+	"16a446430850b19fab3b1448206c4487"
+	{
+		"en"		"467 seconds"
+		"es"		"467 segundos"
+	}
+	"a12b2d51816c39592f8402a5b1fd6e5a"
+	{
+		"en"		"468 seconds"
+		"es"		"468 segundos"
+	}
+	"21871359a91fd2d720ae37353657c1f7"
+	{
+		"en"		"469 seconds"
+		"es"		"469 segundos"
+	}
+	"0d280f5bd751dcd8589fc19220aec3e5"
+	{
+		"en"		"470 seconds"
+		"es"		"470 segundos"
+	}
+	"a248fa5c0fe127579cb2e9257171a826"
+	{
+		"en"		"471 seconds"
+		"es"		"471 segundos"
+	}
+	"45a40fc6cb23b9b8c1a782c669503429"
+	{
+		"en"		"472 seconds"
+		"es"		"472 segundos"
+	}
+	"3c49628f8163aa0c6d9a47e5afa4ab25"
+	{
+		"en"		"473 seconds"
+		"es"		"473 segundos"
+	}
+	"6e8f148f295e4d33d522e34302eaa847"
+	{
+		"en"		"474 seconds"
+		"es"		"474 segundos"
+	}
+	"6b4939e1fd4762268d9488c546a0b5a4"
+	{
+		"en"		"475 seconds"
+		"es"		"475 segundos"
+	}
+	"fa7e616803099273b3af842443c7dbfb"
+	{
+		"en"		"476 seconds"
+		"es"		"476 segundos"
+	}
+	"502173a516a8be95059bce18e6dea804"
+	{
+		"en"		"477 seconds"
+		"es"		"477 segundos"
+	}
+	"9ed6c2be6078cdb7133f6451d17da596"
+	{
+		"en"		"478 seconds"
+		"es"		"478 segundos"
+	}
+	"1fcca90e03e1cf181c6c4c94e8f537c1"
+	{
+		"en"		"479 seconds"
+		"es"		"479 segundos"
+	}
+	"52a3988a114d78a518f8afea9d560e25"
+	{
+		"en"		"480 seconds"
+		"es"		"480 segundos"
+	}
+	"3e5ec2dd2d02cfb7fbd463166ab1cf18"
+	{
+		"en"		"481 seconds"
+		"es"		"481 segundos"
+	}
+	"5231bcc0d6437ea2c8314b3846270843"
+	{
+		"en"		"482 seconds"
+		"es"		"482 segundos"
+	}
+	"4c588361ca7ae0fdc022522803c85441"
+	{
+		"en"		"483 seconds"
+		"es"		"483 segundos"
+	}
+	"9dbbe254a979041112ec0f617e7c01fd"
+	{
+		"en"		"484 seconds"
+		"es"		"484 segundos"
+	}
+	"eef8432bc37c436946c6200d3f115aaf"
+	{
+		"en"		"485 seconds"
+		"es"		"485 segundos"
+	}
+	"a6f01ff1ce8a1911634f8e7965306eea"
+	{
+		"en"		"486 seconds"
+		"es"		"486 segundos"
+	}
+	"c10d6ae7ce6603db470022fdb046f4e2"
+	{
+		"en"		"487 seconds"
+		"es"		"487 segundos"
+	}
+	"49dff4cec90ddca9326b85e2beab5bb7"
+	{
+		"en"		"488 seconds"
+		"es"		"488 segundos"
+	}
+	"a0e4dc507ffb7035213ab7ec0516b818"
+	{
+		"en"		"489 seconds"
+		"es"		"489 segundos"
+	}
+	"6ac8e85eb36f415ad38053959d6cf6eb"
+	{
+		"en"		"490 seconds"
+		"es"		"490 segundos"
+	}
+	"b301d753bcdaef7aed9e6d1aa9d13189"
+	{
+		"en"		"491 seconds"
+		"es"		"491 segundos"
+	}
+	"a3ea04075ef60b39a94b11da202a59f4"
+	{
+		"en"		"492 seconds"
+		"es"		"492 segundos"
+	}
+	"9e787b0ebe2719346ba10260b2254329"
+	{
+		"en"		"493 seconds"
+		"es"		"493 segundos"
+	}
+	"7c11001e9d98c269095260a737d70631"
+	{
+		"en"		"494 seconds"
+		"es"		"494 segundos"
+	}
+	"3d87b68643d79eaa59124f5494400a8e"
+	{
+		"en"		"495 seconds"
+		"es"		"495 segundos"
+	}
+	"be963741ae731e8d63281d53102432fb"
+	{
+		"en"		"496 seconds"
+		"es"		"496 segundos"
+	}
+	"a4354fb2df01795d301e164f60927d9f"
+	{
+		"en"		"497 seconds"
+		"es"		"497 segundos"
+	}
+	"4c678f31436d9ff32df5bbe5c278bac7"
+	{
+		"en"		"498 seconds"
+		"es"		"498 segundos"
+	}
+	"c187ecf0131f2493df9df6a0e8c10e89"
+	{
+		"en"		"499 seconds"
+		"es"		"499 segundos"
+	}
+	"02921f07b3f42bcf8700148c117d9ec9"
+	{
+		"en"		"500 seconds"
+		"es"		"500 segundos"
+	}
+	"fef33dba1c6ca061c41e7465c485e04c"
+	{
+		"en"		"501 seconds"
+		"es"		"501 segundos"
+	}
+	"ebe40c535e2c97b2ea7dd45651442af7"
+	{
+		"en"		"502 seconds"
+		"es"		"502 segundos"
+	}
+	"b4f5dc340e97eabc0f1e0c8a1091ad03"
+	{
+		"en"		"503 seconds"
+		"es"		"503 segundos"
+	}
+	"4bd1f35189f7e06a071345142eee5d8d"
+	{
+		"en"		"504 seconds"
+		"es"		"504 segundos"
+	}
+	"8fa7416fce58ec5cc86a9e769e7b3138"
+	{
+		"en"		"505 seconds"
+		"es"		"505 segundos"
+	}
+	"60135980218908353677d05b4d805079"
+	{
+		"en"		"506 seconds"
+		"es"		"506 segundos"
+	}
+	"d39a1dd4110b86754ade900c4e45ab17"
+	{
+		"en"		"507 seconds"
+		"es"		"507 segundos"
+	}
+	"e9e737c4fd074dcfa1bd8d1eb60c1a66"
+	{
+		"en"		"508 seconds"
+		"es"		"508 segundos"
+	}
+	"b7ff32b47c64e1f90505e7706b84b64a"
+	{
+		"en"		"509 seconds"
+		"es"		"509 segundos"
+	}
+	"36feddbec46639cf91493185242be4c9"
+	{
+		"en"		"510 seconds"
+		"es"		"510 segundos"
+	}
+	"e20dfac2942fa550bcb4af8a3a9193ef"
+	{
+		"en"		"511 seconds"
+		"es"		"511 segundos"
+	}
+	"1931ba97f1e2fd6fbecfde57205ecb06"
+	{
+		"en"		"512 seconds"
+		"es"		"512 segundos"
+	}
+	"1eb2911f1cdb417fce39c21abac69eac"
+	{
+		"en"		"513 seconds"
+		"es"		"513 segundos"
+	}
+	"7bf520f2aece79b67575ab890c545ce5"
+	{
+		"en"		"514 seconds"
+		"es"		"514 segundos"
+	}
+	"071fd65e89caa26dfc60d63a54fbc64d"
+	{
+		"en"		"515 seconds"
+		"es"		"515 segundos"
+	}
+	"bad2ba65e8bc65c7f4d75a59af076522"
+	{
+		"en"		"516 seconds"
+		"es"		"516 segundos"
+	}
+	"418c8f2cc053231c34bcb1f8ecbda3f5"
+	{
+		"en"		"517 seconds"
+		"es"		"517 segundos"
+	}
+	"1ad62b592b03232036accd9556d55c65"
+	{
+		"en"		"518 seconds"
+		"es"		"518 segundos"
+	}
+	"4c8d5f075d62131572b228d6ebd6e14f"
+	{
+		"en"		"519 seconds"
+		"es"		"519 segundos"
+	}
+	"01521c15ca5efc45e427a8f32f13165b"
+	{
+		"en"		"520 seconds"
+		"es"		"520 segundos"
+	}
+	"f896539c4c853233d2ee334ada609005"
+	{
+		"en"		"521 seconds"
+		"es"		"521 segundos"
+	}
+	"68c04ba87d8b4a7e539363fff16774ab"
+	{
+		"en"		"522 seconds"
+		"es"		"522 segundos"
+	}
+	"3742ec3443faddd7714ff4117759ea75"
+	{
+		"en"		"523 seconds"
+		"es"		"523 segundos"
+	}
+	"35b168c4dd383ca0e9dc84e98becaaac"
+	{
+		"en"		"524 seconds"
+		"es"		"524 segundos"
+	}
+	"6a4ab83b53327060e5d17b6e374ee3b7"
+	{
+		"en"		"525 seconds"
+		"es"		"525 segundos"
+	}
+	"9f8e5a90724b7fb2502cbf88b62d436a"
+	{
+		"en"		"526 seconds"
+		"es"		"526 segundos"
+	}
+	"1049a720d456f37dc391a9b91d9a8acd"
+	{
+		"en"		"527 seconds"
+		"es"		"527 segundos"
+	}
+	"93911dc5e375d2036078d3aee73b4c94"
+	{
+		"en"		"528 seconds"
+		"es"		"528 segundos"
+	}
+	"95d989ca2782195f8fc94e05494b7041"
+	{
+		"en"		"529 seconds"
+		"es"		"529 segundos"
+	}
+	"033d3c35b7e62b7b0e62d172fcf482ce"
+	{
+		"en"		"530 seconds"
+		"es"		"530 segundos"
+	}
+	"3ee1bd738a52d257159be6576ecb3a08"
+	{
+		"en"		"531 seconds"
+		"es"		"531 segundos"
+	}
+	"df7e098da8a1ca75141c2068854f7a89"
+	{
+		"en"		"532 seconds"
+		"es"		"532 segundos"
+	}
+	"ad11edbe8c03e50665aa17e13d42befc"
+	{
+		"en"		"533 seconds"
+		"es"		"533 segundos"
+	}
+	"7165984747dd5afcc843c1f81acd55bc"
+	{
+		"en"		"534 seconds"
+		"es"		"534 segundos"
+	}
+	"40e582183992325b09dd817a9ab8ce79"
+	{
+		"en"		"535 seconds"
+		"es"		"535 segundos"
+	}
+	"68bfe40c44cdf308337a3d11b7266767"
+	{
+		"en"		"536 seconds"
+		"es"		"536 segundos"
+	}
+	"6d34b580304014bbd95172220a61bd42"
+	{
+		"en"		"537 seconds"
+		"es"		"537 segundos"
+	}
+	"b696f005a961e9a351cccb456e87ef65"
+	{
+		"en"		"538 seconds"
+		"es"		"538 segundos"
+	}
+	"9745781a026b02ef95b6832156a739d4"
+	{
+		"en"		"539 seconds"
+		"es"		"539 segundos"
+	}
+	"3e6cc08f35a17d665ce5afc0227d1d18"
+	{
+		"en"		"540 seconds"
+		"es"		"540 segundos"
+	}
+	"9c6b0bb57e2816020bb94b15e5452a48"
+	{
+		"en"		"541 seconds"
+		"es"		"541 segundos"
+	}
+	"92cc93d4f34ec169e55a3fc5bb933f06"
+	{
+		"en"		"542 seconds"
+		"es"		"542 segundos"
+	}
+	"5ea87b2b2a0b9ffc5c48b608480872b3"
+	{
+		"en"		"543 seconds"
+		"es"		"543 segundos"
+	}
+	"d5f3cdd1039cb89f6a399da6a016af09"
+	{
+		"en"		"544 seconds"
+		"es"		"544 segundos"
+	}
+	"05900338e95776acad2b817b1d0612d4"
+	{
+		"en"		"545 seconds"
+		"es"		"545 segundos"
+	}
+	"cd2a955edf9ef55b8cd017b8c006fb70"
+	{
+		"en"		"546 seconds"
+		"es"		"546 segundos"
+	}
+	"2677c460f00ccf5c272a74be6eab237a"
+	{
+		"en"		"547 seconds"
+		"es"		"547 segundos"
+	}
+	"f236ef49929d93465911747da09fb380"
+	{
+		"en"		"548 seconds"
+		"es"		"548 segundos"
+	}
+	"63e4d4c5185e0f349e7b3f526276f162"
+	{
+		"en"		"549 seconds"
+		"es"		"549 segundos"
+	}
+	"1573da62def2c3bc55807ce4172f3e96"
+	{
+		"en"		"550 seconds"
+		"es"		"550 segundos"
+	}
+	"acd7fa3923cfbd9adcd9d9f1d2a46288"
+	{
+		"en"		"551 seconds"
+		"es"		"551 segundos"
+	}
+	"898da82043eb06c4511727a4af6bde7b"
+	{
+		"en"		"552 seconds"
+		"es"		"552 segundos"
+	}
+	"4f772733afd0963c1ade31817033fd4c"
+	{
+		"en"		"553 seconds"
+		"es"		"553 segundos"
+	}
+	"21bcbb323ce4329063b8f64c6f2ba2af"
+	{
+		"en"		"554 seconds"
+		"es"		"554 segundos"
+	}
+	"9d2c875f1ba42e45e2dabf0dfa5b2b79"
+	{
+		"en"		"555 seconds"
+		"es"		"555 segundos"
+	}
+	"1d7a7e2ea16f49578e006fc54cd34a4e"
+	{
+		"en"		"556 seconds"
+		"es"		"556 segundos"
+	}
+	"2644f48c597a8a4d73d3f44519e556b2"
+	{
+		"en"		"557 seconds"
+		"es"		"557 segundos"
+	}
+	"96330e8cf996f5417dc64506e0626e36"
+	{
+		"en"		"558 seconds"
+		"es"		"558 segundos"
+	}
+	"a6a102a70b3fa10fe557b6e1fa7f714e"
+	{
+		"en"		"559 seconds"
+		"es"		"559 segundos"
+	}
+	"2ab5a446ecb6c1fd376ec4217b5e477a"
+	{
+		"en"		"560 seconds"
+		"es"		"560 segundos"
+	}
+	"d331aa6d9856d10033eec48ccbaf40a5"
+	{
+		"en"		"561 seconds"
+		"es"		"561 segundos"
+	}
+	"37828c3f8a9940f53207ec6b106f1b2b"
+	{
+		"en"		"562 seconds"
+		"es"		"562 segundos"
+	}
+	"ccac8530796dc99b83c18f36ee16c692"
+	{
+		"en"		"563 seconds"
+		"es"		"563 segundos"
+	}
+	"4cb3d232fd1ef40d0617cb4902ab10d6"
+	{
+		"en"		"564 seconds"
+		"es"		"564 segundos"
+	}
+	"4563d1804a2737cdf47c041e2778ae58"
+	{
+		"en"		"565 seconds"
+		"es"		"565 segundos"
+	}
+	"78fa85773b203135bfe68bd8260ac731"
+	{
+		"en"		"566 seconds"
+		"es"		"566 segundos"
+	}
+	"4eb2b61cb7f9f14812f910fd7ca59ced"
+	{
+		"en"		"567 seconds"
+		"es"		"567 segundos"
+	}
+	"b9260a3e2eac9642000dac789e6955de"
+	{
+		"en"		"568 seconds"
+		"es"		"568 segundos"
+	}
+	"0daaccf81a2ad47acc0c65380135ce40"
+	{
+		"en"		"569 seconds"
+		"es"		"569 segundos"
+	}
+	"ef8da8283699691a5d1650cc32b137e7"
+	{
+		"en"		"570 seconds"
+		"es"		"570 segundos"
+	}
+	"f11a64cb4f4981919bb95ff9726c3c24"
+	{
+		"en"		"571 seconds"
+		"es"		"571 segundos"
+	}
+	"5284a33e340801b2b4083982dce040a5"
+	{
+		"en"		"572 seconds"
+		"es"		"572 segundos"
+	}
+	"ecf51a09a5a62286d4d663eb5b5bb64e"
+	{
+		"en"		"573 seconds"
+		"es"		"573 segundos"
+	}
+	"1e8fb214b97d8f04a46d84bda6eae02a"
+	{
+		"en"		"574 seconds"
+		"es"		"574 segundos"
+	}
+	"62d098cecce74b9d327ed430e46d797f"
+	{
+		"en"		"575 seconds"
+		"es"		"575 segundos"
+	}
+	"0fa5c41bd1b878236f6578d7d30c0a1c"
+	{
+		"en"		"576 seconds"
+		"es"		"576 segundos"
+	}
+	"4370807350ce0e5b94adc284aad97f19"
+	{
+		"en"		"577 seconds"
+		"es"		"577 segundos"
+	}
+	"1fadc4d569e6b31cdc369a80ffdb39cb"
+	{
+		"en"		"578 seconds"
+		"es"		"578 segundos"
+	}
+	"a383669f049180e9d15f7e28ff177ba9"
+	{
+		"en"		"579 seconds"
+		"es"		"579 segundos"
+	}
+	"a59fc95e247d5e004016887121bd2111"
+	{
+		"en"		"580 seconds"
+		"es"		"580 segundos"
+	}
+	"832de7a04b5fd6ab7ea06856d5d90e98"
+	{
+		"en"		"581 seconds"
+		"es"		"581 segundos"
+	}
+	"b298693072111ebaaa6c362d592750fc"
+	{
+		"en"		"582 seconds"
+		"es"		"582 segundos"
+	}
+	"69683cb341206b2f8ee0bca251451af9"
+	{
+		"en"		"Slay All"
+		"es"		"Slay All"
+	}
+	"52bfe89c73d9fa87f498188a2e2f101b"
+	{
+		"en"		"Rest In Peace"
+		"es"		"Rest In Peace"
+	}
+	"5ed9ae6ec6ef342ca07f7b13d97c5983"
+	{
+		"en"		"You Shall Die"
+		"es"		"You Shall Die"
+	}
+	"2c85e88e9f88667f73e861db58609c6b"
+	{
+		"en"		"Eliminate All"
+		"es"		"Eliminate All"
+	}
+	"f4f7343b113d3ddab1b4433a91a21210"
+	{
+		"en"		"201 seconds"
+		"es"		"201 segundos"
+	}
+	"c45b91b255d861a90fdb73a75c2514e6"
+	{
+		"en"		"202 seconds"
+		"es"		"202 segundos"
+	}
+	"5a9651cb674cc59981191e35a48910fb"
+	{
+		"en"		"203 seconds"
+		"es"		"203 segundos"
+	}
+	"69b37f69a82ad8eb945067ff8800e854"
+	{
+		"en"		"204 seconds"
+		"es"		"204 segundos"
+	}
+	"827ea94de38d8a50314a943773f6b534"
+	{
+		"en"		"205 seconds"
+		"es"		"205 segundos"
+	}
+	"e7622a530073324a0bedf0b1fb4a02ea"
+	{
+		"en"		"206 seconds"
+		"es"		"206 segundos"
+	}
+	"6f88de2c7e0fbcf57d3d93a2b6b122ea"
+	{
+		"en"		"207 seconds"
+		"es"		"207 segundos"
+	}
+	"29a26866392641f95d7a854873c61e57"
+	{
+		"en"		"208 seconds"
+		"es"		"208 segundos"
+	}
+	"e1000ccdfd68ce436a3dad322793df02"
+	{
+		"en"		"209 seconds"
+		"es"		"209 segundos"
+	}
+	"0a47d004951db54453b6461f9f0e0d91"
+	{
+		"en"		"210 seconds"
+		"es"		"210 segundos"
+	}
+	"675844513dceee1c033a3d8ddcca6a30"
+	{
+		"en"		"211 seconds"
+		"es"		"211 segundos"
+	}
+	"d0b959fee7d4f67d95b22d8704c5b042"
+	{
+		"en"		"212 seconds"
+		"es"		"212 segundos"
+	}
+	"5548742ef2abda6b87e40fef0c31086d"
+	{
+		"en"		"213 seconds"
+		"es"		"213 segundos"
+	}
+	"297162e13f6742dc35373c191c32fd72"
+	{
+		"en"		"214 seconds"
+		"es"		"214 segundos"
+	}
+	"942c2f7bed105d34acffe3f08b0c4b27"
+	{
+		"en"		"215 seconds"
+		"es"		"215 segundos"
+	}
+	"dc00989fd1ffdbaa51893def13a3d580"
+	{
+		"en"		"216 seconds"
+		"es"		"216 segundos"
+	}
+	"5e7d4c73808ecbb1ca7039f9542f90c8"
+	{
+		"en"		"217 seconds"
+		"es"		"217 segundos"
+	}
+	"528f81852e05218cb9fe3b463da13cff"
+	{
+		"en"		"218 seconds"
+		"es"		"218 segundos"
+	}
+	"0aa351cee8740cf5b81b513deae713a0"
+	{
+		"en"		"219 seconds"
+		"es"		"219 segundos"
+	}
+	"af2b2ef3e8f62901199bfe145c13c5f5"
+	{
+		"en"		"220 seconds"
+		"es"		"220 segundos"
+	}
+	"6e534bbc66cd2766c30657d3cb362706"
+	{
+		"en"		"221 seconds"
+		"es"		"221 segundos"
+	}
+	"9777ab6f4d994d1d2fba1ca20fb845ca"
+	{
+		"en"		"222 seconds"
+		"es"		"222 segundos"
+	}
+	"09f2ccf61af824c4da9679f404cd6898"
+	{
+		"en"		"223 seconds"
+		"es"		"223 segundos"
+	}
+	"ccbfe768ae08ffdc08a33895f3ce31f8"
+	{
+		"en"		"224 seconds"
+		"es"		"224 segundos"
+	}
+	"13a576b8d0f2b16ad034e033f356cb0b"
+	{
+		"en"		"225 seconds"
+		"es"		"225 segundos"
+	}
+	"26ecc03599aafae4591aef461ef447f8"
+	{
+		"en"		"226 seconds"
+		"es"		"226 segundos"
+	}
+	"5e0a7c9d6b2deb87c6db2006037b0cc5"
+	{
+		"en"		"227 seconds"
+		"es"		"227 segundos"
+	}
+	"b5715c5dd0f4db055c4d8c8dcc3a857c"
+	{
+		"en"		"228 seconds"
+		"es"		"228 segundos"
+	}
+	"23515fce79e25157515e9226ad8f1c85"
+	{
+		"en"		"229 seconds"
+		"es"		"229 segundos"
+	}
+	"3c161ed51ca41224ece3c6912cb21093"
+	{
+		"en"		"230 seconds"
+		"es"		"230 segundos"
+	}
+	"83f1d10fa4e791123252ba764f003bd1"
+	{
+		"en"		"231 seconds"
+		"es"		"231 segundos"
+	}
+	"a411010041ace0af557351f39964e900"
+	{
+		"en"		"232 seconds"
+		"es"		"232 segundos"
+	}
+	"43d4a4c43c9b6a1e22d145bbf2f30d31"
+	{
+		"en"		"233 seconds"
+		"es"		"233 segundos"
+	}
+	"1ccc169d6a7fa13c435e7628f5052971"
+	{
+		"en"		"234 seconds"
+		"es"		"234 segundos"
+	}
+	"89b82949525b0842f4c3c741a2fcde26"
+	{
+		"en"		"235 seconds"
+		"es"		"235 segundos"
+	}
+	"ab870fd664cd53d3e47c9900fed55936"
+	{
+		"en"		"236 seconds"
+		"es"		"236 segundos"
+	}
+	"2b01e0b07b627f3ace2efd0220d11450"
+	{
+		"en"		"237 seconds"
+		"es"		"237 segundos"
+	}
+	"3e960a5c4dce7c284d0aa569ab86bb0a"
+	{
+		"en"		"238 seconds"
+		"es"		"238 segundos"
+	}
+	"be0e7d36f5c494ed91a6e6ac48a2ef95"
+	{
+		"en"		"239 seconds"
+		"es"		"239 segundos"
+	}
+	"f16f220a370cd73378c2671337ac77ed"
+	{
+		"en"		"240 seconds"
+		"es"		"240 segundos"
+	}
+	"c1be11b9b6578f2341d731a142d31e24"
+	{
+		"en"		"241 seconds"
+		"es"		"241 segundos"
+	}
+	"7e87a9760b7cdd454d1a69474c441fab"
+	{
+		"en"		"242 seconds"
+		"es"		"242 segundos"
+	}
+	"f92430a59fc93fbc8338307463fb3c42"
+	{
+		"en"		"243 seconds"
+		"es"		"243 segundos"
+	}
+	"292a4a1d482e7475ff7a45146c3c130d"
+	{
+		"en"		"244 seconds"
+		"es"		"244 segundos"
+	}
+	"7705742548f12839f42245d25d13c622"
+	{
+		"en"		"245 seconds"
+		"es"		"245 segundos"
+	}
+	"6ed0789ae0b85f34c7915f08c326f3c3"
+	{
+		"en"		"246 seconds"
+		"es"		"246 segundos"
+	}
+	"a3b1e24e01aa9f0bf5a14bea285c7b13"
+	{
+		"en"		"247 seconds"
+		"es"		"247 segundos"
+	}
+	"178bbf0f881afbc841c65a831f161179"
+	{
+		"en"		"248 seconds"
+		"es"		"248 segundos"
+	}
+	"5767ee17964206dcec982f25588f4d87"
+	{
+		"en"		"249 seconds"
+		"es"		"249 segundos"
+	}
+	"a29061b4ac9b75c13bc47ecfa01567a3"
+	{
+		"en"		"250 seconds"
+		"es"		"250 segundos"
+	}
+	"a25f3d97a59dbac23946d10f084b0b8c"
+	{
+		"en"		"251 seconds"
+		"es"		"251 segundos"
+	}
+	"52ec10708df494c3c08c1f75997c699e"
+	{
+		"en"		"252 seconds"
+		"es"		"252 segundos"
+	}
+	"8913a09d1c0c9e7fb9e8482b92be7a86"
+	{
+		"en"		"253 seconds"
+		"es"		"253 segundos"
+	}
+	"253bc6aeff4b8513c6fc713fe0e09dc9"
+	{
+		"en"		"254 seconds"
+		"es"		"254 segundos"
+	}
+	"8741eaa5441b9840d6336168457527d1"
+	{
+		"en"		"255 seconds"
+		"es"		"255 segundos"
+	}
+	"7fac7d21d91d68ef3242b6c63866b9c3"
+	{
+		"en"		"256 seconds"
+		"es"		"256 segundos"
+	}
+	"2c86c821db5cb700b8194eb3a350b92f"
+	{
+		"en"		"257 seconds"
+		"es"		"257 segundos"
+	}
+	"7a99790b6adf252d8d869df4a6f6021d"
+	{
+		"en"		"258 seconds"
+		"es"		"258 segundos"
+	}
+	"fde01c277baf3a846e918dd1e1167541"
+	{
+		"en"		"259 seconds"
+		"es"		"259 segundos"
+	}
+	"75cf1827357026da0039bd579a4f2b55"
+	{
+		"en"		"260 seconds"
+		"es"		"260 segundos"
+	}
+	"91b72e3091e058fd9a03dedc7166da23"
+	{
+		"en"		"261 seconds"
+		"es"		"261 segundos"
+	}
+	"7e586cd5b215310584dd1a8c1481e1ac"
+	{
+		"en"		"262 seconds"
+		"es"		"262 segundos"
+	}
+	"14a018f433603423e40a7f0f12ce4e91"
+	{
+		"en"		"263 seconds"
+		"es"		"263 segundos"
+	}
+	"6f41206026eeeea349ee820a73ab0ae3"
+	{
+		"en"		"1 seconds"
+		"es"		"1 segundos"
+	}
+	"26b87f77206046d5b0128cdaccdd6180"
+	{
+		"en"		"2 seconds"
+		"es"		"2 segundos"
+	}
+	"1578d4b97f6c27e677bec3d0780b01d3"
+	{
+		"en"		"3 seconds"
+		"es"		"3 segundos"
+	}
+	"801f4ed1a4212f0af9052a1e94ed0498"
+	{
+		"en"		"4 seconds"
+		"es"		"4 segundos"
+	}
+	"31049a046554e16cc5b2947ad2c4a416"
+	{
+		"en"		"5 seconds"
+		"es"		"5 segundos"
+	}
+	"a07738ac4419ddce9f620995d366ed73"
+	{
+		"en"		"6 seconds"
+		"es"		"6 segundos"
+	}
+	"1ed830761de1848b07739b77e3d35c0e"
+	{
+		"en"		"7 seconds"
+		"es"		"7 segundos"
+	}
+	"1b72a8048d09b88c5d30b065a101f814"
+	{
+		"en"		"8 seconds"
+		"es"		"8 segundos"
+	}
+	"063f54eb055124bb421efe13faf7b933"
+	{
+		"en"		"9 seconds"
+		"es"		"9 segundos"
+	}
+	"fb9febaaa29fd1aa45defc3357cf7f00"
+	{
+		"en"		"10 seconds"
+		"es"		"10 segundos"
+	}
+	"8a4140542597e15ff3cec0b19c39e5c7"
+	{
+		"en"		"11 seconds"
+		"es"		"11 segundos"
+	}
+	"b6e21517498b553a8f35efe7761782ee"
+	{
+		"en"		"12 seconds"
+		"es"		"12 segundos"
+	}
+	"9eef9a2930ac0e01dc6fce3d53cd7e81"
+	{
+		"en"		"13 seconds"
+		"es"		"13 segundos"
+	}
+	"9c2f7a029a99be930c62553bae7d5295"
+	{
+		"en"		"14 seconds"
+		"es"		"14 segundos"
+	}
+	"1ec71a44dfd2a763d96ed334c7398f92"
+	{
+		"en"		"15 seconds"
+		"es"		"15 segundos"
+	}
+	"b6ac6923f0423809968d43c49c81e365"
+	{
+		"en"		"16 seconds"
+		"es"		"16 segundos"
+	}
+	"a83ac8a6a6dcd1d0e9b152eed7aee8a7"
+	{
+		"en"		"17 seconds"
+		"es"		"17 segundos"
+	}
+	"ea9218e5227a5694743803f7ae397cdb"
+	{
+		"en"		"18 seconds"
+		"es"		"18 segundos"
+	}
+	"9bcb8a8a36045e8a68835cc30189ce67"
+	{
+		"en"		"19 seconds"
+		"es"		"19 segundos"
+	}
+	"3418f26cb1b19285574c44b75f779e3c"
+	{
+		"en"		"20 seconds"
+		"es"		"20 segundos"
+	}
+	"6d80475fc703cbc8ae9d0a47c8224d8c"
+	{
+		"en"		"21 seconds"
+		"es"		"21 segundos"
+	}
+	"e8d57bbf058b3ac6c976a3543ea8da46"
+	{
+		"en"		"22 seconds"
+		"es"		"22 segundos"
+	}
+	"2b8bf0c483487db4e5327b2e4f7d98c3"
+	{
+		"en"		"23 seconds"
+		"es"		"23 segundos"
+	}
+	"a356b12fde96407847e285d70ccf97f7"
+	{
+		"en"		"24 seconds"
+		"es"		"24 segundos"
+	}
+	"318ea7594fb39351b6d347a5fb587ef5"
+	{
+		"en"		"25 seconds"
+		"es"		"25 segundos"
+	}
+	"9872a6bdf6356277378c785f5b840500"
+	{
+		"en"		"26 seconds"
+		"es"		"26 segundos"
+	}
+	"6c14201087bc819392af9d76c50c9b15"
+	{
+		"en"		"27 seconds"
+		"es"		"27 segundos"
+	}
+	"13da185384db793db35a2e339c6b8c53"
+	{
+		"en"		"28 seconds"
+		"es"		"28 segundos"
+	}
+	"d7bb98bcbd8e50effce3d1a5d41b0c01"
+	{
+		"en"		"29 seconds"
+		"es"		"29 segundos"
+	}
+	"0232812134740e92d40adaf81979f710"
+	{
+		"en"		"30 seconds"
+		"es"		"30 segundos"
+	}
+	"2e10475a951d21bbbc372b9abeb9344f"
+	{
+		"en"		"31 seconds"
+		"es"		"31 segundos"
+	}
+	"09ea3cf4aecc1fff027a3a37ea804c23"
+	{
+		"en"		"32 seconds"
+		"es"		"32 segundos"
+	}
+	"00a091c66652ae3263cc9546e059c289"
+	{
+		"en"		"33 seconds"
+		"es"		"33 segundos"
+	}
+	"8714f0e0c91e1d5804b090c91f7f36f4"
+	{
+		"en"		"34 seconds"
+		"es"		"34 segundos"
+	}
+	"ace5a155fea7ee90c8fa3a4f06a6e0dc"
+	{
+		"en"		"35 seconds"
+		"es"		"35 segundos"
+	}
+	"af83e89d9b927b3bf7a97856deb20d14"
+	{
+		"en"		"36 seconds"
+		"es"		"36 segundos"
+	}
+	"f16c425951c5c81206fca77db1fbeeab"
+	{
+		"en"		"37 seconds"
+		"es"		"37 segundos"
+	}
+	"708ccc4913b26125a57ce8a3d3cb4142"
+	{
+		"en"		"38 seconds"
+		"es"		"38 segundos"
+	}
+	"2eca8144125e2005f7b5c22c1b43c3e2"
+	{
+		"en"		"39 seconds"
+		"es"		"39 segundos"
+	}
+	"c1feed39ea1ca81732ef13c219e8ebb6"
+	{
+		"en"		"40 seconds"
+		"es"		"40 segundos"
+	}
+	"e3c35e731470bf9f02374ac2834d45c7"
+	{
+		"en"		"41 seconds"
+		"es"		"41 segundos"
+	}
+	"29f11cf51bb6911741b575d050f6c61c"
+	{
+		"en"		"42 seconds"
+		"es"		"42 segundos"
+	}
+	"cba44da828b6d37652cf5b026138971d"
+	{
+		"en"		"43 seconds"
+		"es"		"43 segundos"
+	}
+	"423c35e5b8d53cd2622b7464a7dbdd8f"
+	{
+		"en"		"44 seconds"
+		"es"		"44 segundos"
+	}
+	"6b94f29c408df6c1d5aefc2d979cfb21"
+	{
+		"en"		"45 seconds"
+		"es"		"45 segundos"
+	}
+	"13ad402e087d76cd0e375662fef5a3c9"
+	{
+		"en"		"46 seconds"
+		"es"		"46 segundos"
+	}
+	"3452f5ac4ea177cd241fba390bf6e83d"
+	{
+		"en"		"47 seconds"
+		"es"		"47 segundos"
+	}
+	"289fd4d0985ab8a9dca3baa47888a739"
+	{
+		"en"		"48 seconds"
+		"es"		"48 segundos"
+	}
+	"e77d7080478252c5f4ce7d902a4a1e50"
+	{
+		"en"		"49 seconds"
+		"es"		"49 segundos"
+	}
+	"bdbc6a8ef0a4a2afb27ce27ea481ed77"
+	{
+		"en"		"50 seconds"
+		"es"		"50 segundos"
+	}
+	"d142a73a5c40dc607e140586a5ecd820"
+	{
+		"en"		"51 seconds"
+		"es"		"51 segundos"
+	}
+	"6d458127ef7d9a2bbc1d32d4826f0251"
+	{
+		"en"		"52 seconds"
+		"es"		"52 segundos"
+	}
+	"03cf23f14e6527307b24b65b0115490a"
+	{
+		"en"		"53 seconds"
+		"es"		"53 segundos"
+	}
+	"ac767748ef093efb3181ed3c676bc2b0"
+	{
+		"en"		"54 seconds"
+		"es"		"54 segundos"
+	}
+	"82f0b7a3231518224d40123aebd9c509"
+	{
+		"en"		"55 seconds"
+		"es"		"55 segundos"
+	}
+	"50cff327a72a0fc76910c919a32daafc"
+	{
+		"en"		"56 seconds"
+		"es"		"56 segundos"
+	}
+	"07e42fd9f487061665725233d56820e1"
+	{
+		"en"		"57 seconds"
+		"es"		"57 segundos"
+	}
+	"1f6aa61a7d1b31457ea36762dd7d54eb"
+	{
+		"en"		"58 seconds"
+		"es"		"58 segundos"
+	}
+	"61ec09f2c968e05fbfd5afb85bee6e0a"
+	{
+		"en"		"59 seconds"
+		"es"		"59 segundos"
+	}
+	"d9481222ccf2faaf92051e5752f7a3e5"
+	{
+		"en"		"60 seconds"
+		"es"		"60 segundos"
+	}
+	"7763261dfbf5410687f2af50e4f31886"
+	{
+		"en"		"61 seconds"
+		"es"		"61 segundos"
+	}
+	"45a2e32a313e636f02f7271fedb91134"
+	{
+		"en"		"62 seconds"
+		"es"		"62 segundos"
+	}
+	"eb1a72fbbaf92f4d3d84bdfede9510d7"
+	{
+		"en"		"63 seconds"
+		"es"		"63 segundos"
+	}
+	"7461e6aecf29c7f964e9dcea5f0881d4"
+	{
+		"en"		"64 seconds"
+		"es"		"64 segundos"
+	}
+	"1a932e0eda01a81ce02fe719ff9b5378"
+	{
+		"en"		"65 seconds"
+		"es"		"65 segundos"
+	}
+	"14f043b6bbd2814c8316fc79201f79c5"
+	{
+		"en"		"66 seconds"
+		"es"		"66 segundos"
+	}
+	"8f0993318fbb6a613e3c2058447b360f"
+	{
+		"en"		"67 seconds"
+		"es"		"67 segundos"
+	}
+	"d31fc002c68239c10e6592118e816504"
+	{
+		"en"		"68 seconds"
+		"es"		"68 segundos"
+	}
+	"8b2ca51ee91214de638371bd52608098"
+	{
+		"en"		"69 seconds"
+		"es"		"69 segundos"
+	}
+	"d62e2bef9c9dbbb272b02c42282fd486"
+	{
+		"en"		"70 seconds"
+		"es"		"70 segundos"
+	}
+	"26d796f32068a110ed605066a81c66aa"
+	{
+		"en"		"71 seconds"
+		"es"		"71 segundos"
+	}
+	"62060cedea0985a6fdd295bb2fc7bf17"
+	{
+		"en"		"72 seconds"
+		"es"		"72 segundos"
+	}
+	"d9773fdbd57bd5be7d478581a5c60ed0"
+	{
+		"en"		"73 seconds"
+		"es"		"73 segundos"
+	}
+	"6c7537ac63282e3aa17afdaa2ddf387c"
+	{
+		"en"		"74 seconds"
+		"es"		"74 segundos"
+	}
+	"9b6b86caacf59d3f737fce8d532897c7"
+	{
+		"en"		"75 seconds"
+		"es"		"75 segundos"
+	}
+	"a1c6d932048a20029ddb69fecddd8799"
+	{
+		"en"		"76 seconds"
+		"es"		"76 segundos"
+	}
+	"6a3aa295e14de7bcef7a153c1efbd5ef"
+	{
+		"en"		"77 seconds"
+		"es"		"77 segundos"
+	}
+	"4409829632e53046c4eaa1ec78d18fc4"
+	{
+		"en"		"78 seconds"
+		"es"		"78 segundos"
+	}
+	"b80de34e9b12ece07196e3619ce74117"
+	{
+		"en"		"79 seconds"
+		"es"		"79 segundos"
+	}
+	"e848e26b93bdbe3c5e37aff196029ac4"
+	{
+		"en"		"80 seconds"
+		"es"		"80 segundos"
+	}
+	"28b6cebaafef3d36703a1a6f7f12a0d4"
+	{
+		"en"		"81 seconds"
+		"es"		"81 segundos"
+	}
+	"91b5e2e573ff6dfddef100aab03db557"
+	{
+		"en"		"82 seconds"
+		"es"		"82 segundos"
+	}
+	"d89876dc8544ae924a907ef18f28fd53"
+	{
+		"en"		"83 seconds"
+		"es"		"83 segundos"
+	}
+	"61febd173c82c60a563f38639e6387d7"
+	{
+		"en"		"84 seconds"
+		"es"		"84 segundos"
+	}
+	"5f93313dc7a30199d88c0fdefe2fe734"
+	{
+		"en"		"85 seconds"
+		"es"		"85 segundos"
+	}
+	"3916dc5d261e89c30f4b0bfacc605c56"
+	{
+		"en"		"86 seconds"
+		"es"		"86 segundos"
+	}
+	"5e7237108fd30d2707659f88c599b532"
+	{
+		"en"		"87 seconds"
+		"es"		"87 segundos"
+	}
+	"7d7cd102355a02c9e09df8ce1767a81b"
+	{
+		"en"		"88 seconds"
+		"es"		"88 segundos"
+	}
+	"1954f21cc7905a5d50fb5e44de1a2d81"
+	{
+		"en"		"89 seconds"
+		"es"		"89 segundos"
+	}
+	"eeb475daf94e3d77e5a4545979e64b83"
+	{
+		"en"		"90 seconds"
+		"es"		"90 segundos"
+	}
+	"105085aac9c3deb0f0ba333ab3fe5930"
+	{
+		"en"		"91 seconds"
+		"es"		"91 segundos"
+	}
+	"c0cfdcddab7be3af716f63df52000369"
+	{
+		"en"		"92 seconds"
+		"es"		"92 segundos"
+	}
+	"d3a0aca667f9f451f10568a368b881b6"
+	{
+		"en"		"93 seconds"
+		"es"		"93 segundos"
+	}
+	"e1c8f1e8db52ea90d4f1bb9b9ac45fc2"
+	{
+		"en"		"94 seconds"
+		"es"		"94 segundos"
+	}
+	"834b8b763b743fb0f5aba37fcd10bfc9"
+	{
+		"en"		"95 seconds"
+		"es"		"95 segundos"
+	}
+	"387194dd07dc7e8e6eafd160b5af05f8"
+	{
+		"en"		"96 seconds"
+		"es"		"96 segundos"
+	}
+	"f7e7dfb21da6be81c7fe093cecdee666"
+	{
+		"en"		"97 seconds"
+		"es"		"97 segundos"
+	}
+	"00d2aa59685326aac26db767309875b1"
+	{
+		"en"		"98 seconds"
+		"es"		"98 segundos"
+	}
+	"03e220de96d4ad35ef7ff108021eaa49"
+	{
+		"en"		"99 seconds"
+		"es"		"99 segundos"
+	}
+	"29a99faceb8bd766e944b28789a714e9"
+	{
+		"en"		"100 seconds"
+		"es"		"100 segundos"
+	}
+	"7feaabada818a10a9943f107e658a9a5"
+	{
+		"en"		"101 seconds"
+		"es"		"101 segundos"
+	}
+	"1ed67d0017a7fac3075051146000211e"
+	{
+		"en"		"102 seconds"
+		"es"		"102 segundos"
+	}
+	"82c0496ecc04bc0ca24978e31f2d6a13"
+	{
+		"en"		"103 seconds"
+		"es"		"103 segundos"
+	}
+	"42a206b979121c3ed5d106b39296d2f1"
+	{
+		"en"		"104 seconds"
+		"es"		"104 segundos"
+	}
+	"fd0e75e01bdbcef4bd51720bd0c2e808"
+	{
+		"en"		"105 seconds"
+		"es"		"105 segundos"
+	}
+	"d8257aa9163cec51b39e20b04fca44ea"
+	{
+		"en"		"106 seconds"
+		"es"		"106 segundos"
+	}
+	"d6172bd362f85b30a73c4872efadb9ed"
+	{
+		"en"		"107 seconds"
+		"es"		"107 segundos"
+	}
+	"46abb6170b63e8810df480cb4ae3aa42"
+	{
+		"en"		"108 seconds"
+		"es"		"108 segundos"
+	}
+	"90a8b50946a3d128a189be4149d49918"
+	{
+		"en"		"109 seconds"
+		"es"		"109 segundos"
+	}
+	"a188c7eee8a00b9b3961cb7bd4b8a3ff"
+	{
+		"en"		"110 seconds"
+		"es"		"110 segundos"
+	}
+	"401dcefafad117bb2a21aa769cd9e6e0"
+	{
+		"en"		"111 seconds"
+		"es"		"111 segundos"
+	}
+	"8fd246fa8c1ff2c99b862e2971ae9569"
+	{
+		"en"		"112 seconds"
+		"es"		"112 segundos"
+	}
+	"3d9a1b1bc26bc19e48136e8096d44c18"
+	{
+		"en"		"113 seconds"
+		"es"		"113 segundos"
+	}
+	"667a262c693224fec62134c75a1d9277"
+	{
+		"en"		"114 seconds"
+		"es"		"114 segundos"
+	}
+	"15dfbaa3b4496a3481dc1d79a2f82b7e"
+	{
+		"en"		"115 seconds"
+		"es"		"115 segundos"
+	}
+	"70291124200629c0594b815fba343b72"
+	{
+		"en"		"116 seconds"
+		"es"		"116 segundos"
+	}
+	"ba92d466b4029bdd1d86bdab3e848768"
+	{
+		"en"		"117 seconds"
+		"es"		"117 segundos"
+	}
+	"c40e5a93fc2e04d4306486df62871ac7"
+	{
+		"en"		"118 seconds"
+		"es"		"118 segundos"
+	}
+	"038e3b79e23585cda023341f78bd2001"
+	{
+		"en"		"119 seconds"
+		"es"		"119 segundos"
+	}
+	"0480b06bc10a3b2e5382044d1f4c3872"
+	{
+		"en"		"120 seconds"
+		"es"		"120 segundos"
+	}
+	"aa505d072e2cdd224c135e4c11496c7f"
+	{
+		"en"		"121 seconds"
+		"es"		"121 segundos"
+	}
+	"e22bb9388580e856a520d89a56d02e40"
+	{
+		"en"		"122 seconds"
+		"es"		"122 segundos"
+	}
+	"98fa0e740243cf80dc093e6d0a360dee"
+	{
+		"en"		"123 seconds"
+		"es"		"123 segundos"
+	}
+	"29f118d82c5309378e9183ea78a40a1a"
+	{
+		"en"		"124 seconds"
+		"es"		"124 segundos"
+	}
+	"3b8929cb38d9ef3b565964447b6852d4"
+	{
+		"en"		"125 seconds"
+		"es"		"125 segundos"
+	}
+	"44f12edc5ced77039de1c3c63e128021"
+	{
+		"en"		"126 seconds"
+		"es"		"126 segundos"
+	}
+	"abcc5c54e242b6c24301d72a3741c400"
+	{
+		"en"		"127 seconds"
+		"es"		"127 segundos"
+	}
+	"f21057aee84d6599b4886aa9a330ba91"
+	{
+		"en"		"128 seconds"
+		"es"		"128 segundos"
+	}
+	"17e4b5057d150b7b1141ceb6d34fad8e"
+	{
+		"en"		"129 seconds"
+		"es"		"129 segundos"
+	}
+	"583775a183729f0b90aa21db31b2039f"
+	{
+		"en"		"130 seconds"
+		"es"		"130 segundos"
+	}
+	"30814608d42274a274a2b06d19482ba2"
+	{
+		"en"		"131 seconds"
+		"es"		"131 segundos"
+	}
+	"278529b4d1e5ab8d8794f540bd0ed2c6"
+	{
+		"en"		"132 seconds"
+		"es"		"132 segundos"
+	}
+	"804bd6471d5cbd2fbee391657afeb486"
+	{
+		"en"		"133 seconds"
+		"es"		"133 segundos"
+	}
+	"9811e91135ae1ba5fa3c343bc0f97aee"
+	{
+		"en"		"134 seconds"
+		"es"		"134 segundos"
+	}
+	"eb3ad36f208ac845f35354cecd134253"
+	{
+		"en"		"135 seconds"
+		"es"		"135 segundos"
+	}
+	"62cb0bfe3582251cee6f599b977d4266"
+	{
+		"en"		"136 seconds"
+		"es"		"136 segundos"
+	}
+	"e0a39183f2f39c7a62c99d9b54a16717"
+	{
+		"en"		"137 seconds"
+		"es"		"137 segundos"
+	}
+	"2a8a1e81dcf91a77737c73258b1b8543"
+	{
+		"en"		"138 seconds"
+		"es"		"138 segundos"
+	}
+	"e471d4f10d202018b3c3fb9baa9830cd"
+	{
+		"en"		"139 seconds"
+		"es"		"139 segundos"
+	}
+	"3f0b0f104d7c9973afdc7ebdbf3cf4da"
+	{
+		"en"		"140 seconds"
+		"es"		"140 segundos"
+	}
+	"e38d2bde4ca8c2a5a8ea9cbf674c1a0e"
+	{
+		"en"		"141 seconds"
+		"es"		"141 segundos"
+	}
+	"c354bd104d30b60a0a4a7a9cab75d95f"
+	{
+		"en"		"142 seconds"
+		"es"		"142 segundos"
+	}
+	"fe1284e0be6fa12b612fac2519a74f11"
+	{
+		"en"		"143 seconds"
+		"es"		"143 segundos"
+	}
+	"1167684317e0b1155b7d74fed49d4a5b"
+	{
+		"en"		"144 seconds"
+		"es"		"144 segundos"
+	}
+	"982d3e6895dc4f67d6a20931584d8c4f"
+	{
+		"en"		"145 seconds"
+		"es"		"145 segundos"
+	}
+	"b2d1efa7c91c68adabec972d02fc8fa2"
+	{
+		"en"		"146 seconds"
+		"es"		"146 segundos"
+	}
+	"cb843956a713034139629fab828bd5e5"
+	{
+		"en"		"147 seconds"
+		"es"		"147 segundos"
+	}
+	"5b46e795feccdee49382a97630d8dbab"
+	{
+		"en"		"148 seconds"
+		"es"		"148 segundos"
+	}
+	"ee870448d7b078ab59f018e8d5a571b0"
+	{
+		"en"		"149 seconds"
+		"es"		"149 segundos"
+	}
+	"ad36792a16b7ba4c277943c5c651eaf0"
+	{
+		"en"		"150 seconds"
+		"es"		"150 segundos"
+	}
+	"a048147634661cb68376233fac824452"
+	{
+		"en"		"151 seconds"
+		"es"		"151 segundos"
+	}
+	"47a7daa74b72e42684ff378b29ef0895"
+	{
+		"en"		"152 seconds"
+		"es"		"152 segundos"
+	}
+	"e01465a16ca27f65d83c7543a60de913"
+	{
+		"en"		"153 seconds"
+		"es"		"153 segundos"
+	}
+	"a4554ec548e0f013bf1a0b7f4cc97db9"
+	{
+		"en"		"154 seconds"
+		"es"		"154 segundos"
+	}
+	"a3a800ee4132a146b99d51032a96b5bf"
+	{
+		"en"		"155 seconds"
+		"es"		"155 segundos"
+	}
+	"2946623241cd5192e0fb5388238eaa60"
+	{
+		"en"		"156 seconds"
+		"es"		"156 segundos"
+	}
+	"ac734b3cf2de237712f5eb5490041688"
+	{
+		"en"		"157 seconds"
+		"es"		"157 segundos"
+	}
+	"c8734c378855e74771ed18029c81b7d5"
+	{
+		"en"		"158 seconds"
+		"es"		"158 segundos"
+	}
+	"b232ad78f9c46e908cfab11ddb74fdd5"
+	{
+		"en"		"159 seconds"
+		"es"		"159 segundos"
+	}
+	"a86ceb1894c69a2bb4977e72e690a8ce"
+	{
+		"en"		"160 seconds"
+		"es"		"160 segundos"
+	}
+	"a67c32dcfb77627455f6eb24ce004747"
+	{
+		"en"		"161 seconds"
+		"es"		"161 segundos"
+	}
+	"8c37f14916267932c5b464f1bcfe749b"
+	{
+		"en"		"162 seconds"
+		"es"		"162 segundos"
+	}
+	"20925dca272bf8b9896ad414013c09ac"
+	{
+		"en"		"163 seconds"
+		"es"		"163 segundos"
+	}
+	"143ab93447b8346ee81f2f4e6cb9069f"
+	{
+		"en"		"164 seconds"
+		"es"		"164 segundos"
+	}
+	"2dcb2013af71c7c196ebd3089debd61a"
+	{
+		"en"		"165 seconds"
+		"es"		"165 segundos"
+	}
+	"8194f5222c6ff9483b9ced1ff6eade39"
+	{
+		"en"		"166 seconds"
+		"es"		"166 segundos"
+	}
+	"9adfb89b04e034a41a892ab3cfc36c6d"
+	{
+		"en"		"167 seconds"
+		"es"		"167 segundos"
+	}
+	"e5ace7fd8ff76281a22538bfdcefc317"
+	{
+		"en"		"168 seconds"
+		"es"		"168 segundos"
+	}
+	"72245d5a8075832c86dd07e0157ba3fe"
+	{
+		"en"		"169 seconds"
+		"es"		"169 segundos"
+	}
+	"bd4ffff774c75e02e44a9d68dbe9a8d4"
+	{
+		"en"		"170 seconds"
+		"es"		"170 segundos"
+	}
+	"e20f45ea12d8cab5efe7e7ee19db8d65"
+	{
+		"en"		"171 seconds"
+		"es"		"171 segundos"
+	}
+	"915b1da521cdb1d7ffd9b1d092476c12"
+	{
+		"en"		"172 seconds"
+		"es"		"172 segundos"
+	}
+	"43bd874bfe56c048a2b656f25d3e2a1a"
+	{
+		"en"		"173 seconds"
+		"es"		"173 segundos"
+	}
+	"7b5152bdf0b04efdf455162231a54e6c"
+	{
+		"en"		"174 seconds"
+		"es"		"174 segundos"
+	}
+	"c588a01d539a782fc65c08b64a592a1e"
+	{
+		"en"		"175 seconds"
+		"es"		"175 segundos"
+	}
+	"f331997f24e7a2eae57335224d269e70"
+	{
+		"en"		"176 seconds"
+		"es"		"176 segundos"
+	}
+	"440e83c856e29d1925738e3600bd3516"
+	{
+		"en"		"177 seconds"
+		"es"		"177 segundos"
+	}
+	"239f9b7f4404583aaed0d43e264949f4"
+	{
+		"en"		"178 seconds"
+		"es"		"178 segundos"
+	}
+	"bf046834b820fd9aceef966d3a7dca9a"
+	{
+		"en"		"179 seconds"
+		"es"		"179 segundos"
+	}
+	"71dccdb0a6ab532363a747afe11da43b"
+	{
+		"en"		"180 seconds"
+		"es"		"180 segundos"
+	}
+	"12e5a752f895e8770d5ee42bc358221a"
+	{
+		"en"		"181 seconds"
+		"es"		"181 segundos"
+	}
+	"ff825d9484a0411b12054efb67774b25"
+	{
+		"en"		"182 seconds"
+		"es"		"182 segundos"
+	}
+	"8804cb0591fe9743ce2b96ae068c5187"
+	{
+		"en"		"183 seconds"
+		"es"		"183 segundos"
+	}
+	"96dc9c62a69385ee8cac5da45a37ad58"
+	{
+		"en"		"184 seconds"
+		"es"		"184 segundos"
+	}
+	"8a27b26264165109572f0507569d0390"
+	{
+		"en"		"185 seconds"
+		"es"		"185 segundos"
+	}
+	"9058709646f054e5ec1a262fbbb96eb1"
+	{
+		"en"		"186 seconds"
+		"es"		"186 segundos"
+	}
+	"288de6cfad931841d6326607d1e6abc5"
+	{
+		"en"		"187 seconds"
+		"es"		"187 segundos"
+	}
+	"ba5230fea477dd1f1c7a419139f669e8"
+	{
+		"en"		"188 seconds"
+		"es"		"188 segundos"
+	}
+	"b0342cf8394c31350b1826409fb3a5d9"
+	{
+		"en"		"189 seconds"
+		"es"		"189 segundos"
+	}
+	"1488637709aeebd6d1c4ef7db4496c7d"
+	{
+		"en"		"190 seconds"
+		"es"		"190 segundos"
+	}
+	"178f6fa2354d5926d0c8fb1f9dbc3638"
+	{
+		"en"		"191 seconds"
+		"es"		"191 segundos"
+	}
+	"4bd6604c0636a6cf8d6a2c749d4e950d"
+	{
+		"en"		"192 seconds"
+		"es"		"192 segundos"
+	}
+	"c1ed5b1abe5e25d289e7077f1502ec0d"
+	{
+		"en"		"193 seconds"
+		"es"		"193 segundos"
+	}
+	"ecb1e01cd59fca0f5246fa3297c9ec75"
+	{
+		"en"		"194 seconds"
+		"es"		"194 segundos"
+	}
+	"817b09aa8bf3b3359e49fd5b1518c519"
+	{
+		"en"		"195 seconds"
+		"es"		"195 segundos"
+	}
+	"91e0d18faf2537644a9a758e5dafc1c9"
+	{
+		"en"		"196 seconds"
+		"es"		"196 segundos"
+	}
+	"138622e532944068da1286ad364adfe9"
+	{
+		"en"		"197 seconds"
+		"es"		"197 segundos"
+	}
+	"ace8fb96c8b77aacb43e194173adcab8"
+	{
+		"en"		"198 seconds"
+		"es"		"198 segundos"
+	}
+	"8345642a406f2bbedde86f9e1693e6de"
+	{
+		"en"		"199 seconds"
+		"es"		"199 segundos"
+	}
+	"d567279840b299d98a04efe29b1b881d"
+	{
+		"en"		"200 seconds"
+		"es"		"200 segundos"
+	}
+	"f379d91c7652c989f1920b0be6d6a352"
+	{
+		"en"		"One day, a strange tower appeared on the earth
+Its arrival seemed to absorb the existence of light
+The whole world fell into darkness
+We must enter the tower to explore its secrets"
+		"es"		"Un día, una extraña torre descendió repentinamente sobre la tierra
+Su llegada absorbió la existencia de la luz
+El mundo entero cayó en la oscuridad
+Debemos entrar a la torre para explorar sus secretos"
+	}
+	"6ef9ab6da833b26f9e8bbb622db29db0"
+	{
+		"en"		"Light and Shadow: Prequel
+Mapped by lopb, ported by Fong
+Map fall damage has been turned off"
+		"es"		"Luz y Sombra: Precuela
+Hecho por lopb, adaptado por Fong
+El daño por caída se encuentra desactivado"
+	}
+	"fd31da5c0a1e76a89847fb64fedeb1fe"
+	{
+		"en"		"Go deep into the tower"
+		"es"		"Adéntrate en la torre"
+	}
+	"50dd4a6bb99a0ad652f0bc2e32a849ff"
+	{
+		"en"		"Erosion: 65%"
+		"es"		"Erosión: 65%"
+	}
+	"14d3d03e8b1c25d1d095aa40032012b1"
+	{
+		"en"		"Erosion: 75%"
+		"es"		"Erosión: 75%"
+	}
+	"ea6f42ecae8593635b77f5efffa90a39"
+	{
+		"en"		"Erosion: 85%"
+		"es"		"Erosión: 85%"
+	}
+	"90ffafd76a996f80b1eea35a969aa8ea"
+	{
+		"en"		"Erosion: 95%"
+		"es"		"Erosión: 95%"
+	}
+	"e5cb8b8e234004737a08d9ebf064cc3b"
+	{
+		"en"		"Erosion: 90%"
+		"es"		"Erosión: 90%"
+	}
+	"dc980b99abbc58cc4b4fa0c78ca90a4e"
+	{
+		"en"		"Erosion: 80%"
+		"es"		"Erosión: 80%"
+	}
+	"aab433b17304cde40bdd9de6d903d662"
+	{
+		"en"		"Erosion: 70%"
+		"es"		"Erosión: 70%"
+	}
+	"c921567ba21aa90046b81b4360ddbd67"
+	{
+		"en"		"Erosion: 60%"
+		"es"		"Erosión: 60%"
+	}
+	"0bb1a9bc5cf6a3f3c35441c99f68fc07"
+	{
+		"en"		"Erosion: 55%"
+		"es"		"Erosión: 55%"
+	}
+	"692ff4ba12f960272292936d8e5c4735"
+	{
+		"en"		"Erosion: 50%"
+		"es"		"Erosión: 50%"
+	}
+	"f52696d0d96c8b9376f09c9de815f53a"
+	{
+		"en"		"Erosion: 45%"
+		"es"		"Erosión: 45%"
+	}
+	"4822b280ae94ff2d818debc3c74d6522"
+	{
+		"en"		"Erosion: 40%"
+		"es"		"Erosión: 40%"
+	}
+	"c7b32d1d8a3094695b7c835e0b5f5000"
+	{
+		"en"		"Erosion: 35%"
+		"es"		"Erosión: 35%"
+	}
+	"186ed9895a8b7ffc20fad549abd19ea0"
+	{
+		"en"		"Erosion: 30%"
+		"es"		"Erosión: 30%"
+	}
+	"e4e14f782080105170427bbe9e851fed"
+	{
+		"en"		"Erosion: 25%"
+		"es"		"Erosión: 25%"
+	}
+	"7a8c9c49138c0fa37253f2c1a92e4e99"
+	{
+		"en"		"Erosion: 20%"
+		"es"		"Erosión: 20%"
+	}
+	"b0256c0548099f38839daf061d6bd52f"
+	{
+		"en"		"Erosion: 15%"
+		"es"		"Erosión: 15%"
+	}
+	"2891d35172a14a985f4b37c9ab941bd9"
+	{
+		"en"		"Erosion: 10%"
+		"es"		"Erosión: 10%"
+	}
+	"fd38126fed9f4dae9ca429c6c9dc8506"
+	{
+		"en"		"Erosion: 5%"
+		"es"		"Erosión: 5%"
+	}
+	"440923f0a42abb352eef06eb2c63021b"
+	{
+		"en"		"Erosion: 100%"
+		"es"		"Erosión: 100%"
+	}
+	"f1f0ec0c75e52a80a77b43ad6e22be4c"
+	{
+		"en"		"It's too late, the world has been eroded to nothing"
+		"es"		"Es demasiado tarde, el mundo ha sido erosionado hasta la nada"
+	}
+	"bf76ee29e92b8c809c8fc103fd884990"
+	{
+		"en"		"Erosion: 0%"
+		"es"		"Erosión: 0%"
+	}
+	"d371e230a30ade65fb90589d7aa8a1a3"
+	{
+		"en"		"Something is eroding this world"
+		"es"		"Algo está erosionando este mundo"
+	}
+}

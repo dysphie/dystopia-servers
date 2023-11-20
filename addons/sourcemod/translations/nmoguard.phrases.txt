@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"Objective Has Changed"
+	{
+		"en"	"Objective has changed, please re open the menu"
+	}
+
+	"Softlock Vote Success"
+	{
+		"en"	"Clone spawned at original coordinates"
+	}
+
+	"Softlock Vote Description"
+	{
+		"en"	"Clone lost objective item"
+	}
+
+	"Hit Recovery Limit"
+	{
+		"en"	"This item has been cloned too many times"
+	}
+
+	"No Items"
+	{
+		"en"	"No items available for recovery"
+	}
+
+	"Softlock Panel Title"
+	{
+		"en"	"Cycle through the available objective items"
+	}
+
+	"Softlock Panel Next"
+	{
+		"en"	"Next"
+	}
+
+	"Softlock Panel Prev"
+	{
+		"en"	"Previous"
+	}
+
+	"Softlock Panel Recover Hint"
+	{
+		"en"	"Once you've found the right item, vote to recover it"
+	}	
+
+	"Softlock Panel Recover"
+	{
+		"en"	"Vote to recover"
+	}
+
+	"Softlock Panel Exit"
+	{
+		"en"	"Exit"
+	}
+
+	"Objective Skip"
+	{
+		"en"	"Objective skip detected, attempting to fast-forward objective chain.."
+	}
+}

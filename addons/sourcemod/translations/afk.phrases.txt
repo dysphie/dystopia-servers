@@ -1,0 +1,54 @@
+"Phrases"
+{
+	"Player Went AFK"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"{darkorange}{1}{sandybrown} is going AFK for {darkorange}{2}"
+		"es"	"{darkorange}{1}{sandybrown} se fue AFK por {darkorange}{2}"
+	}
+
+	"Player Was Made AFK"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"{darkorange}{1}{sandybrown} was moved to AFK automatically"
+		"es"	"{darkorange}{1}{sandybrown} se fue AFK autom�ticamente"
+	}
+
+	"You Were Slain"
+	{
+		"en"	"{sandybrown}You were slain for being the last player alive while AFK"
+		"es"	"{sandybrown}Moriste porque tu tiempo de AFK expiró cuando eras la última persona viva"
+	}
+
+	"Player Exited Afk"
+	{
+		"#format"	"{1:N}"
+		"en"	"{darkorange}{1}{sandybrown} is no longer AFK"
+		"es"	"{darkorange}{1}{sandybrown} volvió de estar AFK"
+	}
+
+	"Nuke Inbound"
+	{
+		"#format" "{1:s}"
+		"en" "All alive players are AFK. Round will end in {1}"
+		"es" "Todas las personas vivas estan AFK. La ronda terminará en {1}"
+	}
+
+	"You Were Kicked"
+	{
+		"en"	"You were automatically kicked for inactivity"
+		"es"	"Fuiste expulsado/a automáticamente por inactividad"
+	}
+
+	"Must Be Alive"
+	{
+		"en"	"{sandybrown}You must be alive to use this command"
+		"es"	"{sandybrown}Solo las personas vivas pueden usar este comando"
+	}
+
+	"Already AFK"
+	{
+		"en"	"{sandybrown}You are already marked as AFK. Move to exit AFK status."
+		"es"	"{sandybrown}Ya estás marcado como AFK. Muévete para salir de ese estado."
+	}
+}

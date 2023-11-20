@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"el"		"Ομιλία"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"el"		"Χρειάζομαι σφαίρες!"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"el"		"Ακολούθα με!"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"el"		"Βοήθεια!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"el"		"Σταμάτηστε εδώ!"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"el"		"Όχι!"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"el"		"Ναι!"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"el"		"Ευχαριστώ!"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"el"		"Εισέρχεται!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"el"		"Είμαι Τραυματισμένος!"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"el"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"el"		"Βόμβα!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"el"		"Μολότοφ!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"el"		"Δυναμίτης!"
+	}	
+}

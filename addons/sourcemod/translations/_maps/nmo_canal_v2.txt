@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"fd79e5b28a0d20acddb97f8f7fb5cc1e"
+	{
+		"en"		"Use the radio"
+		"es"		"Usa la radio"
+	}
+	"6465f5f684851631ed9d632d90bb6600"
+	{
+		"en"		"Search the school for the radio shop key"
+		"es"		"Encuentra la llave de la tienda de radios en la escuela"
+	}
+	"f48dc11b07a6b39aad594f2f7415f718"
+	{
+		"en"		"Enter the code to lower water levels"
+		"es"		"Ingresa el código para reducir el nivel del agua"
+	}
+	"4f4215cb13be90c2263e8a9cf1a6f445"
+	{
+		"en"		"Break into the control room"
+		"es"		"Irrumpe en la sala de control"
+	}
+	"2d3c1c342b56a758ad8099cc29927cc3"
+	{
+		"en"		"Use propane to enter the gun store"
+		"es"		"Usa una garrafa para irrumpir en la armería"
+	}
+	"58e54053d2ce7df31cc36509047d9d63"
+	{
+		"en"		"Find a way to the pool"
+		"es"		"Encuentra un camino a la piscina"
+	}
+	"93cb6a969d8ca31cc616d71820e80598"
+	{
+		"en"		"Search the apartments"
+		"es"		"Investiga los apartamentos"
+	}
+	"13ca0c51669a924ce1d136866e74cfca"
+	{
+		"en"		"Prepare to go outside"
+		"es"		"Prepárate para ir afuera"
+	}
+}

@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"a87a7d31aa4465e0bd9f59cdc36e7973"
+	{
+		"en"		"Requires all players to activate the elevator."
+		"es"		"Requires all players to activate the elevator."
+	}
+	"b59c772efdd16e80b1c372f80e800933"
+	{
+		"en"		"Find a way to collect the reactor."
+		"es"		"Find a way to collect the reactor."
+	}
+	"38556345af31f31c6c4d6a798f3ae7a3"
+	{
+		"en"		"Hold out until the chopper arrives."
+		"es"		"Hold out until the chopper arrives."
+	}
+	"45aa28135059cef466f13db87c2ef691"
+	{
+		"en"		"Find and collect the laptop."
+		"es"		"Find and collect the laptop."
+	}
+	"e474f406fee00ec91ca391b635c6d72d"
+	{
+		"en"		"Find and collect the zombie sample."
+		"es"		"Find and collect the zombie sample."
+	}
+	"c79a5b26e4f2f75e5d5bc588e256b005"
+	{
+		"en"		"Find and collect the briefcase."
+		"es"		"Find and collect the briefcase."
+	}
+	"c5b8750947d5031358d688c9d050f363"
+	{
+		"en"		"Access the research labs."
+		"es"		"Access the research labs."
+	}
+	"ebf9e556cd0e892e6bfe8bf855fadf7a"
+	{
+		"en"		"Bypass the lock."
+		"es"		"Bypass the lock."
+	}
+	"3515adb2f76b220fd478de175e441793"
+	{
+		"en"		"Use the cart to collect samples."
+		"es"		"Use the cart to collect samples."
+	}
+	"8ffd6a0127446a255bc51fb25d1ed11f"
+	{
+		"en"		"Access the security room."
+		"es"		"Access the security room."
+	}
+	"ff15294e42693ebfc1b2a9f94f699317"
+	{
+		"en"		"Find an exit and escape."
+		"es"		"Find an exit and escape."
+	}
+	"26f7ca277a14b38fa0721964a19d641e"
+	{
+		"en"		"Find the keycode."
+		"es"		"Find the keycode."
+	}
+	"81264497254b771ce0790d7c56c47971"
+	{
+		"en"		"Find a way into the factory."
+		"es"		"Find a way into the factory."
+	}
+	"c9b4e72729fd60d8b56bac115c90db2b"
+	{
+		"en"		"Destroy the supply tanks."
+		"es"		"Destroy the supply tanks."
+	}
+	"bd45c3470107854e3ff5e5d7bdd7a018"
+	{
+		"en"		"Power up the console."
+		"es"		"Power up the console."
+	}
+	"29f5ceec2f6497fc0a8f190dce8c0490"
+	{
+		"en"		"Escape using the elevator."
+		"es"		"Escape using the elevator."
+	}
+	"dd8533c87df1f80c9e29470e80441465"
+	{
+		"en"		"Find all the fuses."
+		"es"		"Find all the fuses."
+	}
+	"c1e0f0a2bc2a7268c04885f18b408c0c"
+	{
+		"en"		"Access the fuse box."
+		"es"		"Access the fuse box."
+	}
+}

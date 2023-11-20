@@ -1,0 +1,39 @@
+"Maphack"
+{
+	"entities"
+	{
+		$remove_connections 
+		{
+			"targetname" "yidong_anniu2_case+1"
+		}
+
+		$modify
+		{
+			"match"	
+			{
+				"targetname" "yidong_anniu2_case+1"
+			}
+			"insert"
+			{
+				"OnHitMax" "AutoInstance1-track_5_b2,FireUser2,,0,-1"
+				"OnHitMax" "yidong_anniu2_case3,PickRandom,,0.5,-1"
+				"OnHitMax" "AutoInstance1-track_5_b18,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b16,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b19,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b6,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b17,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b15,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b14,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b13,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b11,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b8,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b7,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b10,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b9,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b20,FireUser2,,0,-1"
+				"OnHitMax" "AutoInstance1-track_5_b5,FireUser2,,0,-1"
+				"OnHitMin" "yidong_anniu2_case+1,Kill,,0.7,-1"	
+			}
+		}
+	}
+}

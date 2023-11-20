@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"35ab625ee08f1519485ad7ff2ff560b0"
+	{
+		"en"		"Find a way out of town"
+		"es"		"Encuentra una manera de salir del pueblo"
+	}
+	"782135c78f8bfce6af2894d544c3f920"
+	{
+		"en"		"Make it through the woods"
+		"es"		"Logra pasar por el bosque"
+	}
+	"fd42038fb64846f5d588caa73621e27d"
+	{
+		"en"		"Enter the underground military bunker"
+		"es"		"Entra al búnker subterráneo militar"
+	}
+	"ba5a1b9a0c092a10cdfb3336b4565af8"
+	{
+		"en"		"Find the armory"
+		"es"		"Encuentra la armería"
+	}
+	"fc644f3bf4e24c1205b9c79a2d6cd5fb"
+	{
+		"en"		"Unlock the armory with a keycard"
+		"es"		"Desbloquea la armería con una tarjeta"
+	}
+	"98456e708898dd4e325c72a19fd351db"
+	{
+		"en"		"Power up the rest of the bunker with a fuse"
+		"es"		"Dale energía al resto del búnker con un fusible"
+	}
+	"d322872bf3443b88d2c17c5b4c85e129"
+	{
+		"en"		"Find the escape tunnel"
+		"es"		"Encuentra el túnel de escape"
+	}
+	"2a9490ea0dc86f9ed752ba0f285cea6a"
+	{
+		"en"		"Weld through the gate and get "
+		"es"		"Weld through the gate and get "
+	}
+}

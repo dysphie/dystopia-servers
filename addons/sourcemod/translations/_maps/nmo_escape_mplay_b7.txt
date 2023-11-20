@@ -1,0 +1,101 @@
+"Phrases"
+{
+	"d4cb9d0269a455710324f75cbee09dfb"
+	{
+		"ru"		"Спасайтесь"
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+	"7f6fd77439912e22c1f238132b1c39c9"
+	{
+		"ru"		"Найдите код в компьютерной комнате и откройте двойные двери"
+		"en"		"Find a code in the computer room to unlock the double doors"
+		"es"		"Encuentra un código en la sala de ordenadores para desbloquear la puerta doble"
+	}
+	"81bf2fff70d765cd867c7d0caf454f6b"
+	{
+		"ru"		"Найдите монтировку и откройте ящик с паролем"
+		"en"		"Use the crowbar to pray open the crate containing the code"
+		"es"		"Usa la palanca para obtener el código dentro de la caja"
+	}
+	"54f7f09cc71fb79f71ec42669b4ff71b"
+	{
+		"ru"		"Найдите 3 предохранителя и починить электрощит"
+		"en"		"Find 3 breakers for the breaker box"
+		"es"		"Encuentra 3 disyuntores para el tablero eléctrico"
+	}
+	"f7d5afc9dba1ef6ae972420ff52e70cd"
+	{
+		"ru"		"Найдите сварку и откройте электрощит"
+		"en"		"Weld breaker box open"
+		"es"		"Abre el tablero eléctrico con un soldador"
+	}
+	"59e0bfbd15519662e7b712782c7179fe"
+	{
+		"ru"		"Откройте дверь"
+		"en"		"Open the door"
+		"es"		"Abre la puerta"
+	}
+	"e18f95552dc3cc5b5d76b30401a3ff4b"
+	{
+		"ru"		"Найдите запасной ключ чтобы открыть дверь"
+		"en"		"Find a spare key to open the door"
+		"es"		"Encuentra una llave para abrir la puerta"
+	}
+	"1e29d098a2da72e4fed97d4f130cf37f"
+	{
+		"ru"		"Найдите способ открыть люк"
+		"en"		"Find a way to open the hatch"
+		"es"		"Encuentra una manera de abrir la trampilla"
+	}
+	"a97a51079e4cbad1a79e8de4c96b0a49"
+	{
+		"en"		"Code 4263"
+		"es"		"Código 4263"
+	}
+	"5393d388c778b912e83390d2e97456bb"
+	{
+		"en"		"Code 1638"
+		"es"		"Código 1638"
+	}
+	"7fe71687c433e7f4311090361dae6680"
+	{
+		"en"		"Code 7982"
+		"es"		"Código 7982"
+	}
+	"287dccd8ff76876e17ed047868667ff2"
+	{
+		"en"		"Code 5691"
+		"es"		"Código 5691"
+	}
+	"cbc74262d1ee64f4ec0aefb494408c23"
+	{
+		"en"		"Code 3497"
+		"es"		"Código 3497"
+	}
+	"8a611118009f885161cac52f848f724c"
+	{
+		"en"		"Code 2518"
+		"es"		"Code 2518"
+	}
+	"60c1353344f1a205cec587474608f901"
+	{
+		"en"		"Code 1224"
+		"es"		"Code 1224"
+	}
+	"e5dbb23a44c428f565d329abc9efaf10"
+	{
+		"en"		"Code 4382"
+		"es"		"Code 4382"
+	}
+	"890c8d274354b111d5c426600f8cdcae"
+	{
+		"en"		"Code 7724"
+		"es"		"Code 7724"
+	}
+	"e4d78a3c91e1ae90608f3c8053d829a3"
+	{
+		"en"		"Code 9536"
+		"es"		"Code 9536"
+	}
+}

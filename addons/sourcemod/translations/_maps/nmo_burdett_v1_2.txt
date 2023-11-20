@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"c68271a63ddbc431c307beb7d2918275"
+	{
+		"en"		"out"
+		"es"		"out"
+	}
+}

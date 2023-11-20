@@ -1,0 +1,118 @@
+"Phrases"
+{
+	"1766b31cb6f1dce4208893212ede0617"
+	{
+		"en"		"You stayed here. Forever"
+		"es"		"Te quedaste aquí, para siempre"
+	}
+	"0f85599398860888802645db43df84ff"
+	{
+		"en"		"Clearance has failed. Run!"
+		"es"		"La liquidación ha fallado. Corre!"
+	}
+	"5f2ddaa49eb96fcb73fff60217b1f84a"
+	{
+		"en"		"Escape on Vertibird"
+		"es"		"Escapa en el Vertibird"
+	}
+	"4aaa4086073b7b3b21534ddf4e463d73"
+	{
+		"en"		"Help Dimon"
+		"es"		"Ayuda a Dimon"
+	}
+	"e33af0882af9439e143ec117f9ed5482"
+	{
+		"en"		"Deactivate nuclear warhead"
+		"es"		"Desactiva la bomba nuclear"
+	}
+	"0b9eb7c0fe404f4f7c1109ec58a0c2e7"
+	{
+		"en"		"Go to the beach"
+		"es"		"Camina hacia la playa"
+	}
+	"290b32870dfa3580b671f0852015eae5"
+	{
+		"en"		"Kill Gabe Newell"
+		"es"		"Mata a Gabe Newell"
+	}
+	"f656c2ac2164f88b5d3472f70319aaaf"
+	{
+		"en"		"Pick up a weapon"
+		"es"		"Agarra un arma"
+	}
+	"b44f5fa5bd33e0f8ac8e9cf6c582f6e1"
+	{
+		"en"		"Go to the armory"
+		"es"		"Ve a la armería"
+	}
+	"b9350dd63cff27e968a27759f728dc71"
+	{
+		"en"		"Destroy the sentry bot"
+		"es"		"Destruye la torreta"
+	}
+	"9e58e2ebbacddb08bdb5d336c73b277a"
+	{
+		"en"		"Complete the generalized occupational aptitude test"
+		"es"		"Completa la prueba de aptitud ocupacional"
+	}
+	"3a58fb9e8fb02d572919e7a907ea6ac8"
+	{
+		"en"		"Gain access"
+		"es"		"Obtén acceso"
+	}
+	"dd91e35221feecd7abf0705a2ed137f3"
+	{
+		"en"		"Break into the shelter"
+		"es"		"Entra al refugio"
+	}
+	"aa27652c575a3b98eefb0ea599660da0"
+	{
+		"en"		"!@#$%^&* Error 404 not found"
+		"es"		"!@#$%^&* Error 404 no encontrado"
+	}
+	"a9c1d2a7495cd1ecc9a2261a7ea1c30c"
+	{
+		"en"		"Dedicated to the great Creator of DAMAGE.Inc!"
+		"es"		"Dedicado al gran creador de DAMAGE.Inc!"
+	}
+	"ea413afc1ba28b67970a8d23922dcafd"
+	{
+		"en"		"You will be forever remembered!"
+		"es"		"Tu hazaña siempre será recordada!"
+	}
+	"e3c5dc42c50152e180c28bb6f2deb9c8"
+	{
+		"en"		"Map Ke?! Muchas gracias por tus pruebas"
+		"es"		"Map Ke?! Muchas gracias por tus pruebas"
+	}
+	"ff079622523906b2b16a6380ae185cd3"
+	{
+		"en"		"Map by RAK/Pla3/Dexter"
+		"es"		"Mapa por RAK/Pla3/Dexter"
+	}
+	"94c0aa1ba4609af0a5729bd67f30fe4b"
+	{
+		"en"		"Vertibird will fly away in 40 seconds"
+		"es"		"El Vertibird despegará en 40 segundos"
+	}
+	"937ec423003f961d231103fbc4e29ca2"
+	{
+		"en"		"44 seconds before detonation"
+		"es"		"44 segundos para la explosión"
+	}
+	"1c38664e4aa02322879c25c8232c9146"
+	{
+		"en"		"and  DAMAGE   DobriY"
+		"es"		"y  DAMAGE   DobriY"
+	}
+	"6f4a97c7f8d44cfa5489680613dd12f3"
+	{
+		"en"		"The secret is open"
+		"es"		"El secreto está abierto"
+	}
+	"cf4638f7d4bf8f43f3dad691f77134a1"
+	{
+		"en"		"+4 charge"
+		"es"		"+4 de carga"
+	}
+}

@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"hint"
+	{
+		"en"	"{lightpink}ꕤ Type {hotpink}/commands{lightpink} to see available commands"
+		"es"	"{lightpink}ꕤ Escribe {hotpink}/comandos{lightpink} para ver comandos disponibles"
+	}
+
+	"info_rtv"
+	{
+		"en"	"/rtv - Vote to change the map"
+		"es"	"/rtv - Votar para cambiar de mapa"
+	}
+	"info_nominate"
+	{
+		"en"	"/nominate - Pick the next map"
+		"es"	"/nominate - Elegir el próximo mapa"
+	}
+	"info_softlock"
+	{
+		"en"	"/softlock - Recover lost objective items"
+		"es"	"/softlock - Recupera items perdidos del objetivo actual"
+	}
+	"info_record"
+	{
+		"en"	"/record - List of past extractions, sorted by time"
+		"es"	"/record - Lista de extracciones, ordenadas por tiempo"
+	}
+}

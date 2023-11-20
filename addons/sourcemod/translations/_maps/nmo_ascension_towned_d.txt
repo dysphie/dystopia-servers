@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"b0448b82b4454b23b203ce95fcdb6135"
+	{
+		"en"		"Survive until train arrives"
+		"es"		"Sobrevive hasta que llegue el tren"
+	}
+	"37794703dcb3524f269549cb805445b6"
+	{
+		"en"		"Fix the radio"
+		"es"		"Arregla la radio"
+	}
+	"6b20e6987249bb2b2937ebed30311fab"
+	{
+		"en"		"Move to the evacuation site"
+		"es"		"Ve hacia el punto de evacuación"
+	}
+	"8e28d59ed81013aa4e8b1a97c11ad2cc"
+	{
+		"en"		"Find a crowbar to open the gate"
+		"es"		"Encuentra una palanca para abrir la puerta de la reja"
+	}
+	"03a7cbbccd3ecc5e7fbaa5af48f10db9"
+	{
+		"en"		"Move further into the underground"
+		"es"		"Sigue avanzando por el subterráneo"
+	}
+	"0f96337be1814a9d00be881426036e01"
+	{
+		"en"		"Survive"
+		"es"		"Sobrevive"
+	}
+	"33726eb37e8796a28b97c929bd39d547"
+	{
+		"en"		"Move further into the underground"
+		"es"		"Sigue avanzando por el subterráneo"
+	}
+	"478681fa5bc72aee72c742ccb062bc53"
+	{
+		"en"		"Find some TNT to blow up the gate"
+		"es"		"Encuentra explosivos para derribar el portón"
+	}
+	"1d59c1e7259c8a6f7d0e56a432c26033"
+	{
+		"en"		"Find fuel for generator to open the gate"
+		"es"		"Encuentra combustible para encender el generador y abrir el portón"
+	}
+	"b97c694f7ec1a0ad7a4edff14aa384a3"
+	{
+		"en"		"Open the gate and move to the street"
+		"es"		"Abre el portón y continúa por la calle"
+	}
+	"0c60e22bc32e597fee5ca9b4448218d8"
+	{
+		"en"		"Find a code for the storage room door"
+		"es"		"Encuentra un código para acceder al depósito"
+	}
+	"bcf26018d19d6e9facf771e258920226"
+	{
+		"en"		"Break lock and get into storage"
+		"es"		"Rompe el candado y entra al área de almacenamiento"
+	}
+	"5ebf790c22bb53f386685593241b13a5"
+	{
+		"en"		"Move to the building"
+		"es"		"Ve al edificio"
+	}
+	"7305293d2e7e4d61b7e364ab46b858c4"
+	{
+		"en"		"Use canisters to clear the path"
+		"es"		"Usa las garrafas para abrir el camino"
+	}
+	"6afba7830d72e39247d33f66331e04dd"
+	{
+		"en"		"Find a gasoline can and blow up the door"
+		"es"		"Usa una lata de combustible para destruir la puerta de la reja"
+	}
+	"ef13d2a07841107a2d6a4bd1c68d7f55"
+	{
+		"en"		"Move to the backyard"
+		"es"		"Ve al patio"
+	}
+	"9567be8b7c4c2845628b90234925d4f4"
+	{
+		"en"		"Find welder and weld latch"
+		"es"		"Suelda la barra de seguridad"
+	}
+	"f70fd6eee1d1ca101753a856d608c6e3"
+	{
+		"en"		"Move to the street"
+		"es"		"Ve a la calle"
+	}
+	"531c89cb178f8011e53c50c3694066d7"
+	{
+		"en"		"Find key for door to the next floor"
+		"es"		"Encuentra la llave de la puerta al siguiente piso"
+	}
+	"6887d59186b8dc21661ec9b8a61c9fce"
+	{
+		"en"		"Move inside the building"
+		"es"		"Entra al edificio"
+	}
+	"39d64924d6ee2f9c26da41ffe599cffd"
+	{
+		"en"		"Unlock first door with key"
+		"es"		"Abre la primera puerta con una llave"
+	}
+	"edad9685e5b7c45364557c118e3b90c9"
+	{
+		"en"		"Train Operator: We're here, get to the chrainer!"
+		"es"		"Chofer del tren: Estamos aquí ¡Súbanse!"
+	}
+	"57030d94973bb7721a8be1ee6df93617"
+	{
+		"en"		"Survive for 240 seconds, until train is arrive"
+		"es"		"Sobrevive por 4 minutos hasta que llegue el tren"
+	}
+	"48464b69939b114e3102833c2569321e"
+	{
+		"en"		"Train Operator: Hang On!"
+		"es"		"Chofer del tren: ¡Esperen!"
+	}
+	"4c949983c4993ce1fe1da1b6c5e64947"
+	{
+		"en"		"Train Operator: Wait, a horde is approaching you!"
+		"es"		"Chofer del tren: ¡Esperen, se les acerca una horda!"
+	}
+	"2c9433bacc0b3242f215b284d23febd5"
+	{
+		"en"		"Train Operator: We can pick up you by the way"
+		"es"		"Chofer del tren: Por cierto, puedo rescatarlos"
+	}
+	"8620b0dcf4d79e3325b9db678a13489c"
+	{
+		"en"		"You found a Secret Stash."
+		"es"		"Encontraste un stash secreto."
+	}
+}

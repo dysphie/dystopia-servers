@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"44bffa16d8a858bc8a44462b2e72be93"
+	{
+		"en"		"EVERYBODY ON THE BOAT"
+		"es"		"Todos deben subir al barco"
+	}
+	"6650785b4fd08a878823bfc6c54a780f"
+	{
+		"en"		"CLEAR THE HOUSE"
+		"es"		"Limpia la casa"
+	}
+	"1b125baec1d59c37b46af17b79e1f725"
+	{
+		"en"		"BRING LADDER ON THE ROOF"
+		"es"		"Lleva una escalera al techo"
+	}
+	"c0f47cb1b637da2c5413617063c76d89"
+	{
+		"en"		"FIND THE SURVIVOR ON THE ROOF"
+		"es"		"Encuentra al sobreviviente en el techo"
+	}
+	"aebc69e78e1fd47ecb780c5e0fb7751c"
+	{
+		"en"		"BRING THE LADDER TO BUILDING"
+		"es"		"Lleva una escalera al edificio"
+	}
+	"6b21a1ead085761eb06916ad3a58c09d"
+	{
+		"en"		"GIVE THE SURVIVOR A KIT"
+		"es"		"Dale un botiquín al sobreviviente"
+	}
+	"fd4a90447cb9eba49ef20508dc3bd64d"
+	{
+		"en"		"FIND THE SURVIVOR"
+		"es"		"Encuentra al sobreviviente"
+	}
+	"1162b6b9e63ff4d38ab3a6c31b90271e"
+	{
+		"en"		"THE END"
+		"es"		"El fin"
+	}
+	"cce169ea831ac4a5a17270eae90eacc1"
+	{
+		"en"		"SURVIVOR RESCUED"
+		"es"		"Sobreviviente rescatado"
+	}
+	"640eae9a0b8833a4a287726c6e43f453"
+	{
+		"en"		"Map by HAMMERCORE / Modified by yomox9"
+		"es"		"Mapa por HAMMERCORE / Modificado por yomox9"
+	}
+	"66d2b3b4dbf57a2eed43d5108783c853"
+	{
+		"en"		"ESCORT HIM TO THE END OF THE STREET"
+		"es"		"Escolta al sobreviviente hasta el final de la calle"
+	}
+	"e10f6a7e024ce92eed221b87a995589e"
+	{
+		"en"		"PROTECT THE SURVIVOR FROM ZOMBIES"
+		"es"		"Protege al sobreviviente de los zombis"
+	}
+	"8839cba7ee197d9e3d7a13e175f9ff94"
+	{
+		"en"		"CLEAR THE AREA BEHIND THE TRUCK"
+		"es"		"Limpia el área detrás del camión"
+	}
+}

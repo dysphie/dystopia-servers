@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"5633a04544dd98fa4be871fb200f89e0"
+	{
+		"en"		"Use the long range radio from the ship to call for help."
+		"es"		"Use the long range radio from the ship to call for help."
+	}
+	"6806655c470325960bf09ce93b597fa4"
+	{
+		"en"		"Mmmm.....redbull"
+		"es"		"Mmmm.....redbull"
+	}
+	"fb7ebc0ffedaab3f833d95680c8f255a"
+	{
+		"en"		"All aboard!!!!."
+		"es"		"All aboard!!!!."
+	}
+	"048b654250e91188b22e0e1b429532bf"
+	{
+		"en"		"Time to leave people I got more survivors to rescue."
+		"es"		"Time to leave people I got more survivors to rescue."
+	}
+	"d3ec10755a4dde8e121bd758b73f9bea"
+	{
+		"en"		"The rescue is on his way get ready to get extractedl."
+		"es"		"The rescue is on his way get ready to get extractedl."
+	}
+	"47ad15c556f3a3e8772a8617ea368abf"
+	{
+		"en"		"the secondary antenna is active now but it must be redirected manually."
+		"es"		"the secondary antenna is active now but it must be redirected manually."
+	}
+	"f521b0da64e1fcac116e3c04205c8d81"
+	{
+		"en"		"The radio has no signal."
+		"es"		"The radio has no signal."
+	}
+	"90a0f590e113b22bbb1d8d156279b04f"
+	{
+		"en"		"This console requires a key to be used."
+		"es"		"This console requires a key to be used."
+	}
+	"6e33e4c559da8e0e1f981195d1125a70"
+	{
+		"en"		"This antenna has been sabotaged."
+		"es"		"This antenna has been sabotaged."
+	}
+}

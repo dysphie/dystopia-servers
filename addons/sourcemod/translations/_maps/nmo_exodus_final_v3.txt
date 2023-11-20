@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"c265b4cd0270f391d8b29d931cdacd0a"
+	{
+		"en"		"Escape!!!"
+		"es"		"¡¡¡Escapa!!!"
+	}
+	"0b9cefee53d9b1976ac7664b65699b1e"
+	{
+		"en"		"Survive until the doors close!"
+		"es"		"¡Sobrevive hasta que se cierren las puertas!"
+	}
+	"787e3b2201d7c0c94060f799393090ec"
+	{
+		"en"		"Bring the uranium fuel rods to the freight lift inside bunker."
+		"es"		"Trae el combustible nuclear a la plataforma de carga dentro del refugio"
+	}
+	"bfddb38f0ccfb7cbee67969a22e405f1"
+	{
+		"en"		"Unlock the door back at trainstation and use the code on keypad."
+		"es"		"Desbloquea la puerta en la estación del tren y usa el código en el teclado numérico"
+	}
+	"d3bd499d706c1062960530e24d5561bf"
+	{
+		"en"		"Find something to unlock the padlock and turn off electricity to access tunnel."
+		"es"		"Encuentra algo para abrir el candado y desactivar la electricidad del túnel."
+	}
+	"35b2547680662b9f82106ac4eecb5386"
+	{
+		"en"		"Hack the PC."
+		"es"		"Hackea la computadora."
+	}
+	"1fbb0e788118c0b75b867f85b77336a1"
+	{
+		"en"		"Press the button inside bunker to call for help."
+		"es"		"Presiona el botón dentro del refugio para pedir ayuda."
+	}
+	"67f935444ae82e3910b9241ad4cfa8c8"
+	{
+		"en"		"Find a lever to open garage door."
+		"es"		"Encuentra una palanca para abrir el portón del garage"
+	}
+	"4cb093f77fca5b068529dfe856e25998"
+	{
+		"en"		"Blow up the gate."
+		"es"		"Haz estallar la reja."
+	}
+	"0d93662caedb362a63cf80cdf8ffeac1"
+	{
+		"en"		"Use a wrench to open padlock."
+		"es"		"Abre el candado con una llave inglesa"
+	}
+	"7b4e0235c43d05bfa4dfb7515b69bced"
+	{
+		"en"		"Power the generator to use lift and head underground."
+		"es"		"Enciende el generador para bajar por el ascensor "
+	}
+	"17b738417189118acb03321ed715f674"
+	{
+		"en"		"Dynamite has been placed!!"
+		"es"		"¡¡Dinamita colocada!!"
+	}
+	"5133ae69be823e604c33501efb117fce"
+	{
+		"en"		"Generator is now working, get on the lift!"
+		"es"		"El generador esta funcionando. Súbete al ascensor"
+	}
+	"54ee588829251c8e40485006f68c36f0"
+	{
+		"en"		"The bunker doors are closing. Get in before it's too late!"
+		"es"		"Las puertas del refugio se están cerrando ¡Entra antes de que sea muy tarde!"
+	}
+	"d2004e58fac32a2e214760c80d81bb8c"
+	{
+		"en"		"The power has been turned off, you can access through the tunnels."
+		"es"		"La electricidad ha sido desactivada, ahora puedes ir por los túneles."
+	}
+	"9033383161de5c7a5d2cf66ad18bb270"
+	{
+		"en"		"Ported by Miza."
+		"es"		"Adaptado por Miza."
+	}
+	"3c64d730d749e424e2c26c767a5815ee"
+	{
+		"en"		"Map by Citizen_001"
+		"es"		"Mapa por Citizen_001"
+	}
+	"c985f5f55d6d4168ab6af88f4e1b8e5c"
+	{
+		"en"		"No one has made it inside the bunker!"
+		"es"		"¡Nadie logro entrar al refugio!"
+	}
+	"9f38be5556f95aea4a8a90f3b72822a3"
+	{
+		"en"		"Thank you for playing!"
+		"es"		"¡Gracias por jugar!"
+	}
+	"3e99ddaf24b4140dfbe3e41427811ca1"
+	{
+		"en"		"British Guy - Worbat"
+		"es"		"British Guy - Worbat"
+	}
+	"5e0f3d43d12666239288d17afc13fa49"
+	{
+		"en"		"Exodus Dawn - Exodus Ruse - Exodus Finale - Created by Citizen_001"
+		"es"		"Exodus Dawn - Exodus Ruse - Exodus Finale - Creados por Citizen_001"
+	}
+	"e0ce405ed699f6183cd3bc2f739a47ae"
+	{
+		"en"		"Congratulations! You have made it to safety, and your journey has come to an end!"
+		"es"		"¡Felicidades! Has llegado a un lugar seguro y tu viaje ha llegado a su fin."
+	}
+	"b29033fe323c3e0feb6e39bd8095241c"
+	{
+		"en"		"Attempt to access the bunker before leaving!"
+		"es"		"Intenta acceder al refugio antes de irte!"
+	}
+	"64eb8749bad5f383e296b76b043ad93d"
+	{
+		"en"		"The generator must be running for the lift to work!"
+		"es"		"El generador debe estar encendido para que funcione el ascensor!"
+	}
+	"09c808eb6784a258d1b238a643b90849"
+	{
+		"en"		"You have just come from here, you must push forward."
+		"es"		"Vienes de aquí. Debes avanzar"
+	}
+}

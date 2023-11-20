@@ -1,0 +1,175 @@
+"Phrases"
+{
+	"f7134b714122e1fb867db4e5d58f10c2"
+	{
+		"en"		"Hint: Press and hold 'E' to open bags."
+		"es"		"Consejo: Mantén 'E' en los bolsos para abrirlos."
+	}
+	"906c4a8b9f79ff3c545400ab14181146"
+	{
+		"removed, already translated"		"Dica: Pressione e sugure 'E' para abrir bolsas."
+		"en"		" "
+		"es"		" "
+	}
+	"bd026549b17bac87a81bf1862f0909f3"
+	{
+		"removed, already translated"		"Eu preciso de um Soldador para abrir isto"
+		"en"		" "
+		"es"		" "
+	}
+	"12b71f5b56b190adbed99f3e114c61ec"
+	{
+		"en"		"I need a Welder to open this"
+		"es"		"Necesito un soldador para abrir esto"
+	}
+	"6347d4749228b6d5a345b806e7e78087"
+	{
+		"en"		"It's locked from the other side."
+		"es"		"Está bloqueada del otro lado."
+	}
+	"0082dffd3a838bd3a440b23466b0a9b5"
+	{
+		"en"		"Doesn't work. I must power the mechanism first."
+		"es"		"No funciona, debo darle electricidad a la maquinaria primero"
+	}
+	"e9127d0f5d6a66e1f315be5777600a11"
+	{
+		"en"		"There's no power."
+		"es"		"No hay electricidad."
+	}
+	"6fd20c3d742f9510fd94781803d1d57e"
+	{
+		"en"		"Doesn't work, the elevator must be stuck."
+		"es"		"No funciona, el elevador debe estar trabado"
+	}
+	"ea0246a2911a0ed6d9e714be6e8b8178"
+	{
+		"en"		"Something is blocking the door."
+		"es"		"Algo está bloqueando la puerta."
+	}
+	"179d96bd899f86c999c395af53e79cba"
+	{
+		"en"		"I unlocked the door."
+		"es"		"He desbloqueado la puerta."
+	}
+	"21ae08845f7765e72598f3916ee96389"
+	{
+		"removed, already translated"		"Nao tem energia."
+		"en"		" "
+		"es"		" "
+	}
+	"44d3ae54870d791552194f88f69c7371"
+	{
+		"removed, already translated"		"Nao funciona. Eu preciso ligar o mecanismo primeiro."
+		"en"		" "
+		"es"		" "
+	}
+	"3d44cb2dd159d3befc9d0ac1699021f9"
+	{
+		"removed, already translated"		"Eu destranquei a porta."
+		"en"		" "
+		"es"		" "
+	}
+	"aaa35d6b78d62361a4f91426ab709571"
+	{
+		"removed, already translated"		"Esta trancada pelo outro lado."
+		"en"		" "
+		"es"		" "
+	}
+	"65acef6e0a3433d7ed62f67ff81a3fd0"
+	{
+		"removed, already translated"		"Tem algo bloqueando a porta."
+		"en"		" "
+		"es"		" "
+	}
+	"ac28cfd8cff66cf50ed521af30b75556"
+	{
+		"removed, already translated"		"Nao funciona, o elevador deve estar preso."
+		"en"		" "
+		"es"		" "
+	}
+	"36bca9fba8acc9e0d07b01bdbcef0e8b"
+	{
+		"pt_p"		"Conserte e abasteça o helicóptero para poder fugir."
+		"pt"		"Conserte e abasteça o helicóptero para poder fugir."
+		"en"		"Repair and fuel the helicopter in order to escape."
+		"es"		"Repara y abastece de combustible al helicóptero para escapar."
+	}
+	"616ac4ee72ca4ad3c49f5dc451dbb47d"
+	{
+		"pt_p"		"Vá para o telhado do quartel do corpo de bombeiros."
+		"pt"		"Vá para o telhado do quartel do corpo de bombeiros."
+		"en"		"Go to the fire station's rooftop."
+		"es"		"Ve al techo de la estación de bomberos"
+	}
+	"345b807c96fe7beb62cbde570b0f7f7a"
+	{
+		"pt_p"		"Encontre um cartão para abrir a porta."
+		"pt"		"Encontre um cartão para abrir a porta."
+		"en"		"Find a keycard to open the door."
+		"es"		"Encuentra una tarjeta para abrir la puerta."
+	}
+	"988a5115b8458f42cfdfb3f7f26842fb"
+	{
+		"pt_p"		"Entre no armazém."
+		"pt"		"Entre no armazém."
+		"en"		"Enter the warehouse."
+		"es"		"Entra al depósito"
+	}
+	"b41eb8477cd80938c16d16ee8a770215"
+	{
+		"pt_p"		"Atravesse a farmácia."
+		"pt"		"Atravesse a farmácia."
+		"en"		"Go through the pharmacy."
+		"es"		"Atraviesa la farmacia"
+	}
+	"1f49f41f2a7094bdb056ef8a7e1d13ee"
+	{
+		"pt_p"		"Encontre um extintor para apagar o fogo."
+		"pt"		"Encontre um extintor para apagar o fogo."
+		"en"		"Find an extinguisher to put out the fire."
+		"es"		"Encuentra un extintor para apagar el fuego."
+	}
+	"f5c94a1dbd71b140f709f3f65afb396e"
+	{
+		"pt_p"		"Use a alavanca para abaixar a ponte."
+		"pt"		"Use a alavanca para abaixar a ponte."
+		"en"		"Use the lever to lower the bridge."
+		"es"		"Usa la palanca para bajar el puente."
+	}
+	"8aa8ad722ad5e06ef70c4822d76aa286"
+	{
+		"pt_p"		"Vá para o túnel e ligue o mecanismo da ponte."
+		"pt"		"Vá para o túnel e ligue o mecanismo da ponte."
+		"en"		"Go to the tunnel and power the bridge's mechanism."
+		"es"		"Ve hacia el tunel y enciende el mecanismo del puente"
+	}
+	"f6d3f1b9ea3114607f8a390070638ffc"
+	{
+		"pt_p"		"Use o guindaste para atravessar a barreira."
+		"pt"		"Use o guindaste para atravessar a barreira."
+		"en"		"Use the crane to cross the barrier."
+		"es"		"Usa la grúa para cruzar al otro lado de la calle."
+	}
+	"5f50b373797bedd7ddec1adcd7d305c0"
+	{
+		"pt_p"		"Encontre gasolina para o gerador."
+		"pt"		"Encontre gasolina para o gerador."
+		"en"		"Find gasoline for the generator."
+		"es"		"Encuentra combustible para el generador"
+	}
+	"3a3d31826aca1c711b5b7f4c7f0b4657"
+	{
+		"pt_p"		"Saia do hotel e atravesse a área em construção."
+		"pt"		"Saia do hotel e atravesse a área em construção."
+		"en"		"Leave the hotel and go through the construction site."
+		"es"		"Sal del hotel y atraviesa el área en construcción"
+	}
+	"a1866d630b563cf621e7189a9b978c24"
+	{
+		"pt_p"		"Solte o freio de emergência do elevador."
+		"pt"		"Solte o freio de emergência do elevador."
+		"en"		"Release the elevator's emergency brake."
+		"es"		"Suelta el freno de emergencia del elevador"
+	}
+}

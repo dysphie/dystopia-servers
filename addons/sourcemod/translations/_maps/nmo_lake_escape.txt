@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"f32ca4f22592a47301b7e9b62142fae5"
+	{
+		"en"		"Hurry up, I'm not waiting anymore."
+		"es"		"Apúrense, ya me cansé de esperar."
+	}
+	"6aefba768f45de0bed75411e443170ff"
+	{
+		"en"		"I need a key to start the ferry."
+		"es"		"Necesito una llave para poner en marcha la balsa."
+	}
+	"1b86ff4a64e0d2c003478dc33b25de11"
+	{
+		"en"		"Mmm... I could use a welder to open this door."
+		"es"		"Mmm... Podría usar un soldador para abrir este portón."
+	}
+	"699eef48aa5a91b6a79cdf91697efad5"
+	{
+		"en"		"Cross the lake to get to the escape van."
+		"es"		"Cruza el lago para llegar a la camioneta de rescate."
+	}
+}

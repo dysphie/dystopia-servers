@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"ko"		"음성"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"ko"		"총알이 필요해"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"ko"		"날 따라와"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"ko"		"도와줘!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"ko"		"여기서 멈춰"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"ko"		"아니"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"ko"		"그래"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"ko"		"고마워"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"ko"		"온다"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"ko"		"부상"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"ko"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"ko"		"수류탄!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"ko"		"화염병!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"ko"		"TNT!"
+	}
+}

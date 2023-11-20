@@ -1,0 +1,173 @@
+"Phrases"
+{
+	"795a5ccb3ab5663f4854343d0c1ed382"
+	{
+		"en"		"Someone's using the lever"
+		"es"		"Someone's using the lever"
+	}
+	"d80d534878ee905ef4657c5ed61a9c3d"
+	{
+		"en"		"You got 6 minutes to get extracted"
+		"es"		"You got 6 minutes to get extracted"
+	}
+	"4ad867cea3e40c46682fe221d4bcf771"
+	{
+		"en"		"You give up to live another day"
+		"es"		"You give up to live another day"
+	}
+	"e6556f3798d5b357bb75752b80336133"
+	{
+		"en"		"Destroy the board to gain access towards the sewer"
+		"es"		"Destroy the board to gain access towards the sewer"
+	}
+	"feed2bfb1304382d3cfc83410fb37e84"
+	{
+		"en"		"Head downstairs into the maintenance tunnels"
+		"es"		"Head downstairs into the maintenance tunnels"
+	}
+	"24edaaa96691d2a26e3c03b241434a5c"
+	{
+		"en"		"Activate the generator by pressing the button in the engine room"
+		"es"		"Activate the generator by pressing the button in the engine room"
+	}
+	"d635a745d4cb55e762b678d2268ddd71"
+	{
+		"en"		"Turn off the gas"
+		"es"		"Turn off the gas"
+	}
+	"0055623d9377e06c3314401c31f8fa22"
+	{
+		"en"		"Prepare your escape route !"
+		"es"		"Prepare your escape route !"
+	}
+	"76193d7f908f0d97ae1f872847aa306b"
+	{
+		"en"		"Find switches and activate them onto the panel"
+		"es"		"Find switches and activate them onto the panel"
+	}
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"es"		"Look for clues"
+	}
+	"c0e7dd8187035b6bc9fc0e3c9dfaef32"
+	{
+		"en"		"Open the door which is pointing towards the sewers"
+		"es"		"Open the door which is pointing towards the sewers"
+	}
+	"7138b3d42841df93413b6b782c9c3887"
+	{
+		"en"		"Find a lever and use it to gain entrance towards the maintenance tunnels"
+		"es"		"Find a lever and use it to gain entrance towards the maintenance tunnels"
+	}
+	"09e72c25905f962a8ca924e99a9dcf1b"
+	{
+		"en"		"Use the heart key to open up the door connecting to the lobby room (which is located upstairs)"
+		"es"		"Use the heart key to open up the door connecting to the lobby room (which is located upstairs)"
+	}
+	"69afececefba53d19d794b8b23e4d898"
+	{
+		"en"		"Find a way to open up the control room"
+		"es"		"Find a way to open up the control room"
+	}
+	"625849882164ee63a4340ffc0b758af6"
+	{
+		"en"		"Go upstairs"
+		"es"		"Go upstairs"
+	}
+	"4f1eef866b82362cec42b80dc09a84da"
+	{
+		"en"		"Proceed to the main hall"
+		"es"		"Proceed to the main hall"
+	}
+	"023d4d54c07925ba880c3eb9c2609ec7"
+	{
+		"en"		"#nmo_shelter_Objective_9"
+		"es"		"#nmo_shelter_Objective_9"
+	}
+	"f0f7b5d6fda88be1ffb5a95aa027aaa2"
+	{
+		"en"		"#nmo_shelter_Objective_pre9"
+		"es"		"#nmo_shelter_Objective_pre9"
+	}
+	"8c817c47558c2155fa9b7117454e9c6d"
+	{
+		"en"		"#nmo_shelter_Objective_7_prepre"
+		"es"		"#nmo_shelter_Objective_7_prepre"
+	}
+	"831f10006177113ce098be4f35577d61"
+	{
+		"en"		"#nmo_shelter_Objective_6_pre"
+		"es"		"#nmo_shelter_Objective_6_pre"
+	}
+	"aa2ce6cfb5ddfcea5d5763cb22946af9"
+	{
+		"en"		"#nmo_shelter_Objective_5_pre"
+		"es"		"#nmo_shelter_Objective_5_pre"
+	}
+	"6785204466c4c8fee7572a92237acf63"
+	{
+		"en"		"#nmo_shelter_Objective_7_pre"
+		"es"		"#nmo_shelter_Objective_7_pre"
+	}
+	"41fb7d918139defde578e707975ed501"
+	{
+		"en"		"#nmo_shelter_Objective_8"
+		"es"		"#nmo_shelter_Objective_8"
+	}
+	"f30fcdc8c3a9dfe539a6c02334330c82"
+	{
+		"en"		"#nmo_shelter_Objective_7"
+		"es"		"#nmo_shelter_Objective_7"
+	}
+	"6ab39b386e99ccb61e2527985e2d80bf"
+	{
+		"en"		"#nmo_shelter_Objective_6"
+		"es"		"#nmo_shelter_Objective_6"
+	}
+	"5de3ebef05506c13a08f95968731853b"
+	{
+		"en"		"#nmo_shelter_Objective_5"
+		"es"		"#nmo_shelter_Objective_5"
+	}
+	"5a74c37a7712c2771e7ccb21c53e8533"
+	{
+		"en"		"#nmo_shelter_Objective_4"
+		"es"		"#nmo_shelter_Objective_4"
+	}
+	"5f88657bc979fd224c821377cb514b14"
+	{
+		"en"		"#nmo_shelter_Objective_3"
+		"es"		"#nmo_shelter_Objective_3"
+	}
+	"2a53a35bbc04b1b74e9a42667f3658c8"
+	{
+		"en"		"#nmo_shelter_Objective_2"
+		"es"		"#nmo_shelter_Objective_2"
+	}
+	"5c2f63b263124f7abc86916906c90428"
+	{
+		"en"		"#nmo_shelter_Objective_1"
+		"es"		"#nmo_shelter_Objective_1"
+	}
+	"84925bda728595980a873a64469c3599"
+	{
+		"en"		"#nmo_shelter_6mins"
+		"es"		"#nmo_shelter_6mins"
+	}
+	"417f7d1c6be0d348b737639036f11a34"
+	{
+		"en"		"#nmo_shelter_lever"
+		"es"		"#nmo_shelter_lever"
+	}
+	"20ac29aee0b130272312499e414fefe2"
+	{
+		"en"		"#nmo_shelter_switch"
+		"es"		"#nmo_shelter_switch"
+	}
+	"009ed9f72b8660e5e7da41444ff1fedb"
+	{
+		"en"		"#nmo_shelter_end"
+		"es"		"#nmo_shelter_end"
+	}
+}

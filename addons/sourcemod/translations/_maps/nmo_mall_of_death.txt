@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"82498a148d404189918068b0bffe5c8d"
+	{
+		"en"		"All entrances are closed, find a way to call for help."
+		"es"		"Todas las entradas están cerradas, encuentra una manera de pedir ayuda."
+	}
+	"363204c7248a2266118aabd49fd686f8"
+	{
+		"en"		"The crash has blocked the south entrance, go close the north one too."
+		"es"		"El choque ha bloqueado la entrada del sur, cierra la del norte también."
+	}
+	"21f85aeb9deaf8db690463a1494d2a3f"
+	{
+		"en"		"Seek shelter in the mall."
+		"es"		"Encuentra refugio en el centro comercial."
+	}
+	"b4f3d1ed6618d88317de3f21d7975f58"
+	{
+		"en"		"Climb the rope hurry, we dont have much time."
+		"es"		"Sube la cuerda, date prisa, no tenemos mucho tiempo."
+	}
+	"c680133ec419ea90ffddbd5687aef0fb"
+	{
+		"en"		"The rescue team will arrive soon, wait in your position."
+		"es"		"El rescate llegará pronto, espera en tu posición."
+	}
+}

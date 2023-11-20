@@ -1,0 +1,32 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"NMRiHGameState_ExtractPlayer"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x56\x8B\x75\x08\x85\xF6\x0F\x84\x2A\x2A\x2A\x2A\x80\xBE\x6E\x13\x00\x00\x00"
+				"linux"			"@_Z28NMRiHGameState_ExtractPlayerP13CNMRiH_Player"
+			}
+		}
+
+		"Functions"
+        {
+            "NMRiHGameState_ExtractPlayer"
+            {
+                "signature"  "NMRiHGameState_ExtractPlayer"
+                "callconv"  "cdecl"
+                "return"  "void"
+                "arguments"
+                {
+                    "player"
+                    {
+                        "type"  "cbaseentity"
+                    }
+                }
+            }
+        }
+	}
+}

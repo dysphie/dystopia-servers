@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"629affcfe1559a00866aa00eacb1ce79"
+	{
+		"en"		"Open the fence"
+		"es"		"Abre la reja"
+	}
+	"4a0dd7d52b1dbb68623f3a96e701cba0"
+	{
+		"en"		"Go ahead"
+		"es"		"Continúa"
+	}
+	"750679684231c632133aeaafd0eeb5d4"
+	{
+		"en"		"Continue."
+		"es"		"Continúa."
+	}
+	"06b43a4d7d1731af1984749fba6ac83b"
+	{
+		"en"		"Escape from prison"
+		"es"		"Escapa de la prisión"
+	}
+	"86c265f8f21b40fe643808f1103d7747"
+	{
+		"en"		"Open the quarantine door"
+		"es"		"Abre la puerta de la cuarentena"
+	}
+	"b4c343b4fa5af7e9bd25b9689ba6f9c5"
+	{
+		"en"		"Find other way"
+		"es"		"Encuentra otro camino"
+	}
+	"bd78e1a9f302d5978a4503f9eb3f70ba"
+	{
+		"en"		"Open the kitchen door"
+		"es"		"Abre la puerta de la cocina"
+	}
+	"21a3e8bc3444b5b1c2f3722034c101ba"
+	{
+		"en"		"Find a way"
+		"es"		"Encuentra un camino"
+	}
+	"cb6eca4cc15406b2067117d7b8ca2607"
+	{
+		"en"		"Make a way"
+		"es"		"Crea un camino"
+	}
+	"1b0403a3165f91ea07b071de289f2002"
+	{
+		"en"		"Turn on the light"
+		"es"		"Enciende la luz"
+	}
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"es"		"Escapa!"
+	}
+	"1c3cc905deda83db722292300dbdca02"
+	{
+		"en"		"Power on the generator"
+		"es"		"Enciende el generador"
+	}
+	"4478f4a2425c0c1c849b9368dcde126b"
+	{
+		"en"		"Remain 15sec."
+		"es"		"Quedan 15 segundos."
+	}
+	"98ccdd013e35bee610c2a4869a781d1b"
+	{
+		"en"		"To Be Continued"
+		"es"		"Continuará"
+	}
+	"8cd2c65c6936423eadf3008b8f27ceb5"
+	{
+		"en"		"Cafeteria Turrets Hacked"
+		"es"		"Las torretas de la cafetería fueron hackeadas"
+	}
+	"f0540b145ca2739a21913116103921e3"
+	{
+		"en"		"Generator On - Elevator power restored"
+		"es"		"Generador encendido - Electricidad del elevador restablecida"
+	}
+	"e13a80942eb932ef81cb65c72b2a68bd"
+	{
+		"en"		"Escape Door Unlocked"
+		"es"		"La puerta de escape ha sido desbloqueada"
+	}
+	"a62cc55e9bd35d38b84cab26450d76eb"
+	{
+		"en"		"Made By Church. Ported by yomox9."
+		"es"		"Hecho por Church. Adaptado por yomox9."
+	}
+	"387a573975c03a89ea8e93a2122229e3"
+	{
+		"en"		"Escape the Prisons"
+		"es"		"Escapa la prisión"
+	}
+	"509bef7638cd1a731f52c40c97a0f33a"
+	{
+		"en"		"Alarm Deactivated"
+		"es"		"Alarma desactivada"
+	}
+}

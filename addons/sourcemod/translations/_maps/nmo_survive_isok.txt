@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"2f61e9e9ae89f3d701233b55cbc5ec80"
+	{
+		"en"		"完成任务早点回家"
+		"es"		"完成任务早点回家"
+	}
+	"a009641d8cd13eca3d5e4fabc2fae91c"
+	{
+		"en"		"allplayer stay here 20s"
+		"es"		"allplayer stay here 20s"
+	}
+}

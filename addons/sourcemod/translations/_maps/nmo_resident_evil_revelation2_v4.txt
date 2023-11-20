@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"404a52cdbb12314143e00e42397785f7"
+	{
+		"en"		"BOSS 20000 HP"
+		"es"		"JEFE 20000 HP"
+	}
+	"3a74d42b68a3ab4c4e8888c92c3c3ba8"
+	{
+		"en"		"BOSS 30000 HP"
+		"es"		"JEFE 30000 HP"
+	}
+	"584ab63a947dbb0b96d55d22afe0f1f4"
+	{
+		"en"		"REVELATION 2"
+		"es"		"REVELATION 2"
+	}
+	"911be98b353bbded63bc14a80187dee5"
+	{
+		"en"		"RESIDENT EVIL"
+		"es"		"RESIDENT EVIL"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"es"		"Mapa por HAMMERCORE"
+	}
+	"a1f953e95d9305b812a9c94ee4a850cc"
+	{
+		"en"		"Need power"
+		"es"		"Necesita electricidad"
+	}
+	"059e9861e0400dfbe05c98a841f3f96b"
+	{
+		"en"		"WARNING"
+		"es"		"ADVERTENCIA"
+	}
+	"7c3c0f95d23b531b084c6c9bb66f48d7"
+	{
+		"en"		"Take the key and find the exit"
+		"es"		"Toma la llave y encuentra una salida"
+	}
+	"6f7896ef3c6ba34619cd592dce214a84"
+	{
+		"en"		"Turn on the generator"
+		"es"		"Enciende el generador"
+	}
+	"7a5f0f697b041d5d81bf316ad7867a01"
+	{
+		"en"		"Open the door with the rusty key"
+		"es"		"Usa la llave oxidada para abrir la reja"
+	}
+	"457609e22e53f9c919e18720db5582f9"
+	{
+		"en"		"Open the door 2"
+		"es"		"Abre la puerta 2"
+	}
+	"d6379289c64c94921e985f63c20e6ec1"
+	{
+		"en"		"Open the door with the key"
+		"es"		"Abre la puerta con la llave"
+	}
+	"bc97c70c00565961a8a2b3e6537988a8"
+	{
+		"en"		"Open the door 1"
+		"es"		"Abre la puerta 2"
+	}
+}

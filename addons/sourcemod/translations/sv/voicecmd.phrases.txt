@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"sv"		"Tal"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"sv"		"Behöver ammo!"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"sv"		"Följ mig"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"sv"		"Hjälp!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"sv"		"Stanna här"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"sv"		"Nej"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"sv"		"Ja"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"sv"		"Tack!"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"sv"		"Inkommande"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"sv"		"Skadad"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"sv"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"sv"		"Granat!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"sv"		"Molotov!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"sv"		"TNT!"
+	}
+}

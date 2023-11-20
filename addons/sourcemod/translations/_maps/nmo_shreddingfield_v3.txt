@@ -1,0 +1,148 @@
+"Phrases"
+{
+	"8fa2d17cd891a08387e05678d1a06298"
+	{
+		"en"		"You need a welder to unlock this crate."
+		"es"		"Necesitas un soldador para desbloquear esta caja."
+	}
+	"c775e136650c33dd6d2a3d81b4a99eac"
+	{
+		"en"		"Gas can has been found"
+		"es"		"Lata de gasolina encontrada"
+	}
+	"4afc2fa24df0295a1248c2a4c4a0ee3c"
+	{
+		"en"		"I need a welder to unlock this door."
+		"es"		"Necesito un soldador para desbloquear esta puerta."
+	}
+	"63bb91807733be3a39e61e9b86b753a4"
+	{
+		"en"		"Get in the elevator! You have 30 seconds."
+		"es"		"Entra al ascensor! Tienes 30 segundos"
+	}
+	"fa67e920e9e2b0cb28a4847b80462efe"
+	{
+		"en"		"3/3 Food Items Found."
+		"es"		"Comida encontrada 3/3."
+	}
+	"5822a9a2aa6a29ca82316b6062aaef16"
+	{
+		"en"		"Get the door up from the inside."
+		"es"		"Levanta el portón desde adentro."
+	}
+	"9df3df05d8d2c3139c3d7eddb69305dc"
+	{
+		"en"		"Find a way to power up the door."
+		"es"		"Encuentra una manera de encender el portón."
+	}
+	"89d54d0f8ac6738b5d8fde2cfcb0fd9e"
+	{
+		"en"		"Find a way to get past the barricade."
+		"es"		"Encuentra una manera de saltear la barricada."
+	}
+	"5de2fced95cca87c1616b30a0a9b48d6"
+	{
+		"en"		"Standing outside the red line will kill you!"
+		"es"		"Estar fuera de la línea roja causara la muerte!"
+	}
+	"77283c7935a7c6eb86e3dcc1149d0ff2"
+	{
+		"en"		"Radio found."
+		"es"		"Radio encontrada."
+	}
+	"f265d65754eb7b049cfd1fab0a0d5189"
+	{
+		"en"		"Hose found."
+		"es"		"Manguera encontrada."
+	}
+	"100a0b22dc6961fda92187ac6e79f6b9"
+	{
+		"en"		"Gascan found."
+		"es"		"Gasolina encontrada."
+	}
+	"8ea02a195f1bb6f12e0efd7684677638"
+	{
+		"en"		"Food Item found."
+		"es"		"Comida encontrada."
+	}
+	"f7fc178279850db570c38a5d558934fc"
+	{
+		"en"		"2/3 Food Items Found."
+		"es"		"Comida encontrada 2/3."
+	}
+	"2805d427bbdf3c60f042ae69bb0b4bbe"
+	{
+		"en"		"1/3 Food Items Found."
+		"es"		"Comida encontrada 1/3."
+	}
+	"21eac0c8367cc6509b6011bd0b8637d9"
+	{
+		"en"		"Exit the supermarket through the kitchen."
+		"es"		"Sal del supermercado a través de la cocina."
+	}
+	"93e664b264202d58ccca9ebce7826ae4"
+	{
+		"en"		"Head for the supermarket. Use the tunnel in the basement."
+		"es"		"Dirígete al supermercado. Usa el tunel en el sótano"
+	}
+	"b8946a151b0ba0a626613852503e39db"
+	{
+		"en"		"We better find all the supplies first."
+		"es"		"Mejor encontremos todos los suministros primero."
+	}
+	"a1fe0124043a6edc02fe54c7fbd22a1f"
+	{
+		"en"		"Press the button when ready for extraction."
+		"es"		"Presiona el botón cuando estés listo para la extracción."
+	}
+	"c4877ff31aed7c983a9761fc9ac56f55"
+	{
+		"en"		"Push the pallet lifter to elevator"
+		"es"		"Empuja la transpaleta hasta el ascensor"
+	}
+	"6656ec7d838da34ceade1e1aab987f55"
+	{
+		"en"		"Refuel the generator."
+		"es"		"Reabastece de combustible al generador."
+	}
+	"36e54785de7f3cef0479c53f119f8db8"
+	{
+		"en"		"Find a welder to break lock."
+		"es"		"Encuentra un soldador para romper el candado."
+	}
+	"3c3d255139dba8acd96f959db13ffd62"
+	{
+		"en"		"Resume pushing the pallet lifter."
+		"es"		"Continúa empujando la transpaleta."
+	}
+	"8591d4274825a883c39014709a7575db"
+	{
+		"en"		"Blow up the barricade. Shoot or hold E to ignite the barrels."
+		"es"		"Detona la barricada. Dispara o mantén E para prender fuego los barriles"
+	}
+	"69cbebf10b7c8dfabc29f0fd6c721635"
+	{
+		"en"		"Push the pallet lifter."
+		"es"		"Empuja la transpaleta"
+	}
+	"200c7fa7286fd20c305f7307027709f2"
+	{
+		"en"		"Bring supplies to the pallet."
+		"es"		"Coloca suministros en la transpaleta."
+	}
+	"dbb42575a3b191fe2e23a468df5c928a"
+	{
+		"en"		"Find the key to open back door."
+		"es"		"Encuentra la llave para abrir la puerta trasera."
+	}
+	"c5cd8d6b3879f796654c4ff0a11e10ae"
+	{
+		"en"		"Fill the foodcrate."
+		"es"		"Llena la caja de comida."
+	}
+	"dbe09178bf35aac68b92f4accff10f27"
+	{
+		"en"		"Hack PC to get a code to open door."
+		"es"		"Hackea la PC para obtener el código de la puerta"
+	}
+}

@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"8240d2043d7ad926afd099674606683b"
+	{
+		"en"		"Radio for extraction"
+		"es"		"Usa la radio para pedir ayuda"
+	}
+	"eaf1d99fcfc4d57487211626d4e47693"
+	{
+		"en"		"Turn on the sprinklers to put out the fire"
+		"es"		"Enciende los rociadores para apagar el fuego"
+	}
+	"1d427b3767512d6bac464864c82db58c"
+	{
+		"en"		"Find some tools to climb the scaffolding"
+		"es"		"Encuentra algunas herramientas para trepar al andamio"
+	}
+	"50fb5cfcf80d5f6ddfa92286d420e023"
+	{
+		"en"		"Find a way through the apartments"
+		"es"		"Hazte camino por los edificios"
+	}
+	"8ba8cb2585a2406142c5f0d576562997"
+	{
+		"en"		"Break into the delivery hub to advance "
+		"es"		"Irrumpe en la distribuidora para avanzar"
+	}
+	"edd2717861cca85e22210a0eb2836505"
+	{
+		"en"		"Unlock the padlock on the side door"
+		"es"		"Desbloquea el candado en la puerta lateral"
+	}
+	"09f630d5651a69a7bfdd4c9cfcbf9f33"
+	{
+		"en"		"Make it down to the first floor"
+		"es"		"Baja al primer piso"
+	}
+	"bea84e141149f14d71535ff9c08d598f"
+	{
+		"en"		"Hold your position until help arrives"
+		"es"		"Defiende tu posición hasta que llegue la ayuda"
+	}
+	"412a7b34400d5c02bbadab0a88f8283d"
+	{
+		"en"		"Red X Marks the Spot, Or walk through in the dark"
+		"es"		"Las X rojas marcan el lugar, o camina en la oscuridad"
+	}
+}

@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"1b4bd34f3d8303be692c99eb5006c629"
+	{
+		"en"		"Escape aboard the train"
+		"es"		"Escapa en el tren"
+	}
+	"a3d33d958182132cadd66fbfba75edb5"
+	{
+		"en"		"Restore power to the tracks"
+		"es"		"Restablece la electricidad de las vías"
+	}
+	"be651380be2a3f994e32c3e9db2e1882"
+	{
+		"en"		"Find the yellow key"
+		"es"		"Encuentra la llave amarilla"
+	}
+	"53b6566aefad1f53eae896b555927ad9"
+	{
+		"en"		"Survive until the gate opens"
+		"es"		"Sobrevive hasta que se abra la reja"
+	}
+	"927c6d8036e4d4e5f025ed986dd14d6b"
+	{
+		"en"		"Open the gate"
+		"es"		"Abre la reja"
+	}
+	"6b8aad170d531c10a25196517e12ded0"
+	{
+		"en"		"Find the green key"
+		"es"		"Encuentra la llave verde"
+	}
+	"7c51a63e5a0b232e31b3fceaac745fa0"
+	{
+		"en"		"Find the blue key"
+		"es"		"Encuentra la llave azul"
+	}
+	"656151cafb5f4a981fd89602eaf0712a"
+	{
+		"en"		"Find the red key"
+		"es"		"Encuentra la llave roja"
+	}
+	"6a60c5d50f307c5ece97f53288c5cd9f"
+	{
+		"en"		"Flip the lever"
+		"es"		"Gira la palanca"
+	}
+	"3aa4df10e3f53bb5931404de770b01cc"
+	{
+		"en"		"Break into the metro"
+		"es"		"Irrumpe en la estación de metro"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+}

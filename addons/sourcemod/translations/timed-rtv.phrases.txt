@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"Command Denied"
+	{
+		"en"	"{green}/rtv{default} is disabled until next round"
+		"es"	"{green}/rtv{default} está desactivado hasta la siguiente ronda"
+	}
+
+	"Enabled"
+	{
+		"en"	"{green}/rtv{default} enabled"
+		"es"	"{green}/rtv{default} activado"
+	}
+
+	"Disabled"
+	{
+		"en"	"{green}/rtv{default} disabled"
+		"es"	"{green}/rtv{default} desactivado"
+	}
+
+	"Enabled Timed"
+	{
+		"#format" "{1:d}"
+		"en"	"{green}/rtv{default} will be disabled in {green}{1}{default} seconds"
+		"es"	"{green}/rtv{default} se desactivará en {green}{1}{default} segundos"
+	}
+}

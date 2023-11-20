@@ -1,0 +1,7 @@
+"Maphack"
+{
+	"entities"
+	{
+		$remove_all { "targetname" "alarm_ost" }
+	}
+}

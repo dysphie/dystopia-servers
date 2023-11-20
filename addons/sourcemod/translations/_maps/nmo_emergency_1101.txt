@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"2d96737c3e77ce144ce8e67cb48cc2e8"
+	{
+		"en"		"Board the helicopter"
+		"es"		"Sube al helicóptero"
+	}
+	"16121f7306c507d01f09ecef51c7ac9e"
+	{
+		"en"		"Find roof key"
+		"es"		"Encuentra la llave de la azotea"
+	}
+	"6e4dc853a46c54237767bfacb04f54e0"
+	{
+		"en"		"proceed to hospital"
+		"es"		"Continua hasta el hospital"
+	}
+	"504bf49087b787cffddd6d9d0aa4a921"
+	{
+		"en"		"Break into the gun store"
+		"es"		"Irrumpe en la armería"
+	}
+	"c22f18b5012c80eb0bb5a56d30650b5c"
+	{
+		"en"		"Find the barricade key"
+		"es"		"Encuentra la llave de la reja"
+	}
+	"37e6a0e9574a683a9135abea0abcbded"
+	{
+		"en"		"Find the apartment key"
+		"es"		"Encuentra la llave del edificio"
+	}
+	"5357cabab1aa37686dec4dfea9552f19"
+	{
+		"en"		"Leave the building"
+		"es"		"Sal del edificio"
+	}
+	"93375e1bd440a5011a1d18b79507ea5e"
+	{
+		"en"		"Look for something useful"
+		"es"		"Encuentra algo útil"
+	}
+	"337b7d4d554b133b23328426e68cbab5"
+	{
+		"en"		"Extinguish the fire"
+		"es"		"Apaga el fuego"
+	}
+}

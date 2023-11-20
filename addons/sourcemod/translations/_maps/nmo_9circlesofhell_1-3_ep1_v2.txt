@@ -1,0 +1,79 @@
+"Phrases"
+{
+	"e976c7023bcf053a3317273b9a760699"
+	{
+		"en"		"This is a trap, survive and try to get through the back door"
+		"es"		"Esto es una trampa, sobrevive e intenta salir por la puerta trasera"
+	}
+	"1e44cab9de25850827e277519d7cd8f8"
+	{
+		"en"		"Check if there are supplies in the cafe"
+		"es"		"Fíjate si hay suministros en la cafetería"
+	}
+	"7fc365408e59c78f6a5cbff8d0b4eb27"
+	{
+		"en"		"The city is flooded, need to find a bypass"
+		"es"		"La ciudad esta inundada, encuentra otro camino"
+	}
+	"96b2d1f8fab4fa5e2072d01e3ddde193"
+	{
+		"en"		"The cadaverous smell does not give peace, need to get out of here as soon as possible"
+		"es"		"El hedor repugnante es insoportable, tengo que salir de aquí rápidamente."
+	}
+	"2b51a5ed9838d78cf4b277149ccd64dd"
+	{
+		"en"		"Something broke underneath, find a way out of the lighthouse"
+		"es"		"Algo se rompió debajo, encuentra una forma de salir del faro."
+	}
+	"2a8f079d7def9fd93e49a337a8687034"
+	{
+		"en"		"Use lighthouse console"
+		"es"		"Usa los controles del faro"
+	}
+	"61ea7cfb389e1247e51852390ce7e2dc"
+	{
+		"en"		"Go inside the lighthouse"
+		"es"		"Entra al faro"
+	}
+	"b250586c9db4c0a9df44efb9cc2fc199"
+	{
+		"en"		"There are only zombies and strong wind, find a place to hide"
+		"es"		"Solo hay zombies y mucho viento, encuentra un refugio"
+	}
+	"9509f5603801073842615122dc4414a3"
+	{
+		"en"		"Gear up and open the gate"
+		"es"		"Toma suministros y abre la puerta"
+	}
+	"f815895d907cff74aeb2cfb430898106"
+	{
+		"en"		"Jump down a waterfall"
+		"es"		"Salta por la catarata"
+	}
+	"29951229ce05401c9675223075d49285"
+	{
+		"en"		"Use TNT to explode cliff"
+		"es"		"Usa TNT para explotar el acantilado."
+	}
+	"08b584633aa100236c088811f9c24261"
+	{
+		"en"		"Defeat the boss"
+		"es"		"Derrota al jefe"
+	}
+	"60bb87c033a625979a791317a33fb85c"
+	{
+		"en"		"Collect 6 coins and put them in the chest"
+		"es"		"Recolecta 6 monedas y ponlas en el cofre"
+	}
+	"2d4eb1c7cf9ad65c15afdfd23f88fe5b"
+	{
+		"en"		"Gear up and jump down in hell"
+		"es"		"Prepárate y salta al infierno"
+	}
+	"d6ba891ed850bc5c25976d759f669bd0"
+	{
+		"en"		"Today fate smiled at 
+ Can you survive further?"
+		"es"		"Hoy el destino sonrió. ¿Podrás sobrevivir más?"
+	}
+}

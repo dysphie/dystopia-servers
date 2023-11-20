@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"8c09cc3571e3707cb4645f8682547423"
+	{
+		"en"		"The car broke and you died. Maybe bring a battery next time?"
+		"es"		"La camioneta se detuvo y moriste. Quizás deberías traer una batería la próxima vez?"
+	}
+	"0f52b66537b941e5f3439cbb5bbb9581"
+	{
+		"en"		"Get the hell out of there"
+		"es"		"Escapa de aquí"
+	}
+	"e189900c79bc8a72c73b6ed2492238a5"
+	{
+		"en"		"Retrieve three breakers"
+		"es"		"Obtén tres disyuntores"
+	}
+	"f2690bdf1f70f152b10a5c61d680f436"
+	{
+		"en"		"Reactivate the ventilation before you suffocate"
+		"es"		"Activa la ventilación antes de que te asfixies"
+	}
+	"35939af66bbfde3a8fea1b882830ab25"
+	{
+		"en"		"Regroup and resupply"
+		"es"		"Reúnete con tus compañeros y junta suministros"
+	}
+	"bd70f9c48a3a5f2cac6bb769f5317743"
+	{
+		"en"		"Make your way underground"
+		"es"		"Ábrete camino bajo tierra"
+	}
+	"392c85aa522fe3494131fffa6b52975c"
+	{
+		"en"		"Pry open the fire door with the jack"
+		"es"		"Abre la puerta cortafuegos usando el gato hidráulico"
+	}
+	"4f0cea436b9f9ce5394f987c4f58e5c2"
+	{
+		"en"		"Weld open lockers to retrieve the crank"
+		"es"		"Abre los casilleros con un soldador hasta encontrar una manivela"
+	}
+	"81fe6c6aecc7b74af4adccfcffee255e"
+	{
+		"en"		"Find the key to the generator and perform a restart"
+		"es"		"Encuentra la llave del generador y enciéndelo"
+	}
+	"63883f7361a63b3b6a0502a437a9b227"
+	{
+		"en"		"Breach the ceiling in the cellar"
+		"es"		"Rompe el techo de la bodega"
+	}
+	"cd6d6e2f298bd43b48fc956b5001802e"
+	{
+		"en"		"Search the atrium for explosives"
+		"es"		"Encuentra explosivos en el atrio"
+	}
+	"a7bff85787d369288a17b9c160e51c2f"
+	{
+		"en"		"Get to the atrium"
+		"es"		"Llega al atrio"
+	}
+}

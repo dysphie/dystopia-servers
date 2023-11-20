@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"1b99b8a861fbc9e87f6a11f8dcf91eb1"
+	{
+		"en"		"Use the TNT to destroy the barricade and escape"
+		"es"		"Usa la TNT para destruir la barricada y escapar"
+	}
+	"0f96337be1814a9d00be881426036e01"
+	{
+		"en"		"Survive"
+		"es"		"Sobrevive"
+	}
+	"aad298be104f9f6022ea16360623386e"
+	{
+		"en"		"Return to the lobby and signal extraction"
+		"es"		"Vuelve al área de recepción y llama a la extracción"
+	}
+	"58b3b615dbedc280f2feccb7261e6f49"
+	{
+		"en"		"Secure the vaccine"
+		"es"		"Toma la vacuna"
+	}
+	"282d2974da72f033e10876edada73d02"
+	{
+		"en"		"Use the computer to call for help"
+		"es"		"Usa la computadora para pedir ayuda"
+	}
+	"34f056fdfc5ed839f84d8331e3fde2c5"
+	{
+		"en"		"Use the voice recording to get into the head doctor's office"
+		"es"		"Usa la grabación para entrar a la oficina del doctor principal"
+	}
+	"a9da275ec4f88b66d34b349c3315a346"
+	{
+		"en"		"Get to the treatment room using the keycard"
+		"es"		"Ve a la sala de tratamiento usando una tarjeta"
+	}
+	"290574bfa313dea286d979ecb76fcd62"
+	{
+		"en"		"Find a key to open the locker room door"
+		"es"		"Encuentra una llave para abrir la puerta del vestuario"
+	}
+	"f5271c60ff1986a04a9cdafbca0ef6fb"
+	{
+		"en"		"The door is locked, search for a way to open it"
+		"es"		"La puerta esta cerrada, encuentra una manera de abrirla"
+	}
+	"a450b806cf916eac1dc7e73fa58711a2"
+	{
+		"en"		"Go to the head doctor's office to call for help"
+		"es"		"Ve a la oficina del doctor principal para pedir ayuda"
+	}
+	"0d97c9842029aba942668db85c63cdfc"
+	{
+		"en"		"You can now open green crates"
+		"es"		"Ahora puedes abrir cajas verdes"
+	}
+}

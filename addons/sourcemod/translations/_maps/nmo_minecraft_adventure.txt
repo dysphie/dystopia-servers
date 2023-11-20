@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"cf138237dac0cfcf661dbbda69e0ca87"
+	{
+		"en"		"Clear the dock and get on the boat"
+		"es"		"Despeja el muelle y salta al barco"
+	}
+	"6533b675c4f05604364c79d6e86cadea"
+	{
+		"en"		"Navigate the nether"
+		"es"		"Navega el inframundo"
+	}
+	"5d1aab015686809c2665451010b28b0a"
+	{
+		"en"		"Enter the nether"
+		"es"		"Entra al inframundo"
+	}
+	"324973ccdd7c79cabee4bced9b414e33"
+	{
+		"en"		"<<We've reached the dock, clear out the zombies here, and get on the ship! Let's head to a new continent to start a new life!>>"
+		"es"		"<<¡Llegamos al muelle, limpia a los zombis de aquí y sube al barco! ¡Vamos a un nuevo continente para empezar una nueva vida!>>"
+	}
+	"85e72371e8488c137aecb92732f8d55c"
+	{
+		"en"		"<<Phew, finally back on land, the dock is just a short walk away, but we can't let our guard down>>"
+		"es"		"<<Uf, finalmente volvimos a tierra firme, el muelle está a un pequeño trayecto, pero no podemos bajar la guardia>>"
+	}
+	"399c2b78d01114b9767428a3b64074ae"
+	{
+		"en"		"<<This should be the Nether, from here the dock should be nearby, be careful>>"
+		"es"		"<<Creo que aquí es el inframundo, si seguimos por aquí, llegaremos pronto al muelle, pero ten cuidado>>"
+	}
+	"614ca1895f4b36f5053835f6035ba673"
+	{
+		"en"		"<<How did the portal close? Good thing I remember there's flint nearby, where could it be?>>>>"
+		"es"		"<<¿Cómo se cerró el portal? Menos mal que recuerdo que cerca hay un mechero, ¿dónde estará?>>>>"
+	}
+	"caed8385e03c94e1d69d1f755ef99cb4"
+	{
+		"en"		"<<This door won't open>>"
+		"es"		"<<Esta puerta no se abre>>"
+	}
+	"2b3d7d939b2a08fb01c045e5f024c0d4"
+	{
+		"en"		"<<It seems we need a welder here. I remember there's one nearby. Let's look for it; we'll need it later>>"
+		"es"		"<<Parece que aquí necesitamos un soldador, recuerdo que hay uno cerca. Vamos a buscarlo, seguro lo necesitaremos más adelante>>"
+	}
+	"3cdf2d8fddefb94bb23a9ec82244166a"
+	{
+		"en"		"Map author: Salty!
+Ported and modified by: 涂山小漠
+<<Due to the scarcity of resources here, we must venture outside.
+Find our ship at the dock and sail to a new place for survival>>"
+		"es"		"Autor del mapa: Salty!
+Portado y modificado por: 涂山小漠
+<<Debido a la escasez de recursos aquí, debemos aventurarnos afuera.
+Encuentra nuestro barco en el muelle y navega hacia un nuevo lugar para sobrevivir>>"
+	}
+}

@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"a0e2f54847a7bd0886e90756714fcd58"
+	{
+		"en"		"Hit this or use a welder."
+		"es"		"Golpea esto o usa un soldador."
+	}
+	"c17fa2b1d3206ef4c2a3eee142f18360"
+	{
+		"en"		"Break the box and find the tool box."
+		"es"		"Rompe la caja y encuentra la caja de herramientas."
+	}
+	"d9f952c92e2eda135f0a11e474ead8c6"
+	{
+		"en"		"Need welder"
+		"es"		"Necesita soldador"
+	}
+	"ea2916007d27708b85512191a6eb9810"
+	{
+		"en"		"GratzZz! The easter egg was unlocked."
+		"es"		"Felicitaciones se debloqueó el secreto"
+	}
+	"26b17225b626fb9238849fd60eabdf60"
+	{
+		"en"		"+"
+		"es"		"+"
+	}
+	"ede670ed92a06c7308ca82cc3dfa9b20"
+	{
+		"en"		"1 minutes left."
+		"es"		"1 minuto restante"
+	}
+	"849d469e2a2a3de7619ce09f1a294076"
+	{
+		"en"		"2 minutes left."
+		"es"		"2 minutos restantes"
+	}
+	"d1cbbe2ded97b3cfd193304edd25a02f"
+	{
+		"en"		"3 minutes left."
+		"es"		"3 minutos restantes"
+	}
+	"7105f32280940271293ee00ac97da5a7"
+	{
+		"en"		"Howdy!"
+		"es"		"Hola!"
+	}
+	"0f56d0db1778ce74a58e0c4b2b43669c"
+	{
+		"en"		"We need to check the signal strength."
+		"es"		"Prueba el poder de la señal ahora."
+	}
+	"762c568826aea5535cd94aa3192c172a"
+	{
+		"en"		"Prompt:You can enter all apartments. And also use a switch to turn on the light."
+		"es"		"Puedes entrar a todos los apartamentos y usar los interruptores para encender la luz"
+	}
+	"426c049330b9ded11aec84a2b264a73e"
+	{
+		"en"		"On the way. Hold on."
+		"es"		"En camino, sobrevivan."
+	}
+	"550af630c5d4daa715a7e1255fc2e093"
+	{
+		"en"		"Runners..."
+		"es"		"Corredores..."
+	}
+	"79a0f319e75cdc41b05cfd7ca2bef888"
+	{
+		"en"		"The ferry leaves in 25 sec."
+		"es"		"El ferry se va en 25 segundos."
+	}
+	"cfaf622f63c76dda966400feb878f2b4"
+	{
+		"en"		"Wait for the chopper."
+		"es"		"Espera al helicóptero."
+	}
+	"86a41533e6aa60006f1c5deccd4db4d9"
+	{
+		"en"		"Fix the switch to amplify the signal."
+		"es"		"Arregla el interruptor para amplificar la señal."
+	}
+	"a3784647afca3c99d7ae15cb8e2787cb"
+	{
+		"en"		"Weak signal. Find a way to increase the signal power."
+		"es"		"Señal débil. Encuentra una manera de aumentar su potencia."
+	}
+	"3e3418e6a7f0c2caf9edc6ab3fd7da60"
+	{
+		"en"		"Call for help."
+		"es"		"Pide ayuda"
+	}
+	"4ca3abd34d000624fd160b2f19381ac6"
+	{
+		"en"		"Get to the helicopter fleet."
+		"es"		"Ve al helipuerto"
+	}
+	"b21755eef01a6ac76ec78055d3c6d649"
+	{
+		"en"		"Wait for the ferry."
+		"es"		"Espera al ferry"
+	}
+	"313541999a05902b2f2748e0714ce395"
+	{
+		"en"		"Find a way to get to the other side of the river."
+		"es"		"Encuentra una manera de cruzar el rio."
+	}
+	"74dc1a8fe5badfaf96182e2ccb26c330"
+	{
+		"en"		"Find a way to get to the ferry station."
+		"es"		"Encuentra una manera de entrar al puerto"
+	}
+	"04c66d856e6a185a2afe93f0ea37936a"
+	{
+		"en"		"Continue way."
+		"es"		"Sigue avanzando."
+	}
+	"0142967a09d31fcca38ad00e0ce47c09"
+	{
+		"en"		"Get on the street."
+		"es"		"Ve a la calle."
+	}
+}

@@ -1,0 +1,188 @@
+"Phrases"
+{
+	"540823a39dbf9291528c1785510c2864"
+	{
+		"en"		"We must have missed some computers! Hack the rest of the computers to gain access to the foremans office."
+		"es"		"¡Debe de haber computadoras que nos pasamos! Hackea el resto para obtener acceso a la oficina del jefe."
+	}
+	"f4f0da281b045e0e51871c4e0131cadb"
+	{
+		"en"		"Use the crane to move the container out of the way."
+		"es"		"Usa la grúa para quitar el contenedor del camino"
+	}
+	"bbd3de645146998eaeed929ba23c2554"
+	{
+		"en"		"Find Muta Labs"
+		"es"		"Encuentra Muta Labs"
+	}
+	"c90cced824e9244340d0b254c7cbee7b"
+	{
+		"en"		"Break the blockage with some TNT."
+		"es"		"Despeja el bloqueo con dinamita"
+	}
+	"22dd532e882c63eaac6d27cd13197a98"
+	{
+		"en"		"Open the entrance to Muta Labs Tunnels."
+		"es"		"Abre la entrada a los túneles de Muta Labs."
+	}
+	"8cf44a1f732fd00aea650dec30fd5327"
+	{
+		"en"		"Navigate through the tunnels."
+		"es"		"Ve por los túneles."
+	}
+	"dbe099f22be1d72c5e00df6ec8d3d234"
+	{
+		"en"		"Hack the computers to gain access to the foremans office."
+		"es"		"Hackea las computadoras para ganar acceso a la oficina del jefe."
+	}
+	"4ac45cf594d1abcfd0ffe5619a6eee2d"
+	{
+		"en"		"Find the access card to the power room, and activate it."
+		"es"		"Encuentra la tarjeta de acceso a la sala de energía y restaura la energía"
+	}
+	"f1c9e3608b384a469f3cad796d1a5799"
+	{
+		"en"		"Use the sector C supercomputer to reroute power to the escape elevator."
+		"es"		"Usa la supercomputadora del sector C para redirigir energía al ascensor de escape."
+	}
+	"f3f1238ad5b431680ae4ae661e9dc7bc"
+	{
+		"en"		"Use the valves to redirect coolant to Sector C supercomputer."
+		"es"		"Usa las válvulas para enviar refrigerante a la supercomputadora del sector C."
+	}
+	"af602f8dfe492093832afee8636c4141"
+	{
+		"en"		"Hack the four panels to reroute power to sector C supercomputer."
+		"es"		"Hackea los 4 tableros para redirigir energía a la supercomputadora del sector C."
+	}
+	"204900d0f3c635694b0f5f2aeaa7ad30"
+	{
+		"en"		"Enter the elevator in sector B."
+		"es"		"Entra al ascensor en el sector B."
+	}
+	"b0e216398dda352b02ba076a079e6188"
+	{
+		"en"		"Hack the security terminal in sector B."
+		"es"		"Hackea la terminal de seguridad en el sector B."
+	}
+	"c4c711797bd86552c945aa686f95a670"
+	{
+		"en"		"Find the right scientist head to retrieve the security card for sector B."
+		"es"		"Encuentra la cabeza del científico correcta para consegir la tarjeta de acceso del sector B."
+	}
+	"b9335b0bfad9af43c0785ee5f7b42a5f"
+	{
+		"en"		"Gear up and meet at the truck."
+		"es"		"Equípate y ve al camión."
+	}
+	"e14f882970322f534cff22dd8d1e5064"
+	{
+		"en"		"Everyone should be close before we open the gate"
+		"es"		"Everyone should be close before we open the gate"
+	}
+	"2c1c2a5c8688e6ea721f6143a81f4cac"
+	{
+		"en"		"Everyone should be in the standoff area before we open the doors."
+		"es"		"Everyone should be in the standoff area before we open the doors."
+	}
+	"23089acb356fdc58ac6364e0793e83a5"
+	{
+		"en"		"You found the infrared vision goggles, we should be able to see the camera vision now.."
+		"es"		"You found the infrared vision goggles, we should be able to see the camera vision now.."
+	}
+	"416563a623f4efe7aa8c81cdf09f937f"
+	{
+		"en"		"Someone picked up the radiation suit. Only he has protection, and it wont last too long, better make it count..."
+		"es"		"Someone picked up the radiation suit. Only he has protection, and it wont last too long, better make it count..."
+	}
+	"0c59786fccd4acff79aae844099ce88c"
+	{
+		"en"		"Ending 4 of 4 achieved."
+		"es"		"Ending 4 of 4 achieved."
+	}
+	"5c2db8d3d2c57000a7fd1e5f6cbf38cb"
+	{
+		"en"		"Everyone should be on the pad before pressing the button."
+		"es"		"Everyone should be on the pad before pressing the button."
+	}
+	"af8360f2932451ff42d6dc52b5095d9b"
+	{
+		"en"		"Shit, it locked!"
+		"es"		"Shit, it locked!"
+	}
+	"96302a8723db35703d6a7737d2da224d"
+	{
+		"en"		"You recieved Ending 2 of 4."
+		"es"		"You recieved Ending 2 of 4."
+	}
+	"cde6ceafdf3bae8e40bf531f16aea2cf"
+	{
+		"en"		"You recieved Ending 3 of 4."
+		"es"		"You recieved Ending 3 of 4."
+	}
+	"f8c4338c0e812c37c6b1e530dd2b9a88"
+	{
+		"en"		"You recieved Ending 1 of 4."
+		"es"		"You recieved Ending 1 of 4."
+	}
+	"72e0916db6fc8567515396539d6b9207"
+	{
+		"en"		"Thank you, you wont regret it.. Ill leave this cell later.."
+		"es"		"Thank you, you wont regret it.. Ill leave this cell later.."
+	}
+	"d55339d3eb04bf05c6049e05c432bba1"
+	{
+		"en"		"Hey, get me out of this cell would you? You need an insta hacker for that.. Cmon, be a pal..."
+		"es"		"Hey, get me out of this cell would you? You need an insta hacker for that.. Cmon, be a pal..."
+	}
+	"d8f2f8f1c78b73c768c3e200ae303901"
+	{
+		"en"		"You found a Insta-Hacker! Could be useful for some rooms or boxes..."
+		"es"		"You found a Insta-Hacker! Could be useful for some rooms or boxes..."
+	}
+	"66afe125b60c7c3367a13a5ef143d282"
+	{
+		"en"		"You dont have an Insta-Hacker."
+		"es"		"You dont have an Insta-Hacker."
+	}
+	"7567b7b2edee10cd21fe6a3c83863969"
+	{
+		"en"		"You dont have any signal jammers."
+		"es"		"You dont have any signal jammers."
+	}
+	"76c26b7b2dd49655c382433a90701d81"
+	{
+		"en"		"You found a signal jammer. This might be useful for the cameras.."
+		"es"		"You found a signal jammer. This might be useful for the cameras.."
+	}
+	"794e11d0d7e86fa10644d79d4ee6ac82"
+	{
+		"en"		"You found two signal jammers. This might be useful for the cameras.."
+		"es"		"You found two signal jammers. This might be useful for the cameras.."
+	}
+	"e06f89f72859d515a379be7e7f7f201b"
+	{
+		"en"		"Created by Major Tiddys"
+		"es"		"Created by Major Tiddys"
+	}
+	"1d77a9dc759979578c175fbe9beb81c4"
+	{
+		"en"		"Project: Enigma"
+		"es"		"Project: Enigma"
+	}
+	"bee97a1790657533942a21237c762d46"
+	{
+		"en"		"We should be near the truck when we're ready to go."
+		"es"		"We should be near the truck when we're ready to go."
+	}
+	"471cc49ee6f29acf856efd895cef2a17"
+	{
+		"en"		"We should be able to bypass the door to administration now..."
+		"es"		"We should be able to bypass the door to administration now..."
+	}
+	"d450021fdf2971cf875473a9ed8aba16"
+	{
+		"en"		"We should have everyone in the elevator before we head down..."
+		"es"		"We should have everyone in the elevator before we head down..."
+	}
+}

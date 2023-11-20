@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"245003c708de6ba8e4b63adf3aa6efdc"
+	{
+		"en"		"follow the instructions from board"
+		"es"		"follow the instructions from board"
+	}
+	"a9ef7df33075195371663cd93e873fb8"
+	{
+		"en"		"use the code and head to surface"
+		"es"		"use the code and head to surface"
+	}
+	"e52ca999b5a22eefdf696df4db000c6c"
+	{
+		"en"		"find a welder to get inside room with code"
+		"es"		"find a welder to get inside room with code"
+	}
+	"b8115902b0fda87c8869b025468b8825"
+	{
+		"en"		"survive until helicopter arrives"
+		"es"		"survive until helicopter arrives"
+	}
+	"3c92bd5a0775f1a92ff55bb222a6544c"
+	{
+		"en"		"explore the city and find help"
+		"es"		"explore the city and find help"
+	}
+	"ebb40160c45104f4a5c24a7f9be90420"
+	{
+		"en"		"find a way up to other side of surface"
+		"es"		"find a way up to other side of surface"
+	}
+	"f752a3125b150b38821f83bee90b0081"
+	{
+		"en"		"find a ladder to proceed"
+		"es"		"find a ladder to proceed"
+	}
+	"d8a9367f0e5c2d87db9a29d464ebd024"
+	{
+		"en"		"explore the sewers"
+		"es"		"explore the sewers"
+	}
+	"8a2c6aaa44c617e935f59d096571e1f2"
+	{
+		"en"		"make your way into the sewers"
+		"es"		"make your way into the sewers"
+	}
+	"6b6379f8281a5f0dcb7e246019890584"
+	{
+		"en"		"Find a way into police station"
+		"es"		"Find a way into police station"
+	}
+	"07aa5c135f5d7869bbc9fea26c435ecc"
+	{
+		"en"		"Use the generator"
+		"es"		"Use the generator"
+	}
+	"6602348680cbb5a0cb0f43b541710a49"
+	{
+		"en"		"Map by wanksta11"
+		"es"		"Map by wanksta11"
+	}
+	"ad4e6db781f68b93cdaf0d72caa4a640"
+	{
+		"en"		"NMRIH Edit By xkarma123x"
+		"es"		"NMRIH Edit By xkarma123x"
+	}
+	"a2d751f65bcc20de84a8c2ea9b7e52bd"
+	{
+		"en"		"all player need to be in extraction zone"
+		"es"		"all player need to be in extraction zone"
+	}
+}

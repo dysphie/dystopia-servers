@@ -1,0 +1,221 @@
+"Phrases"
+{
+	"99ac72840e490cc6e717c92a101f5db3"
+	{
+		"en"		"Reach the summit"
+		"es"		"Llega a la cima"
+	}
+	"8dbcff1c02e63e139cc2db123389dbf4"
+	{
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+	"dc0eccc33a66eddd4af5d8871184b683"
+	{
+		"en"		"Keep moving deeper"
+		"es"		"Continúa avanzando"
+	}
+	"30bb3826fef9be8ede704eeebad44456"
+	{
+		"en"		"Cross through the contaminated area"
+		"es"		"Cruza por el área contaminada"
+	}
+	"894611e59bcfab08fc71a84daf8a1c84"
+	{
+		"en"		"Use the elevator"
+		"es"		"Usa el ascensor"
+	}
+	"768b3793f781225237ff126f243e8487"
+	{
+		"en"		"Find the button"
+		"es"		"Encuentra el botón"
+	}
+	"bb915313a644a7f4d6daf247d8844091"
+	{
+		"en"		"Explore"
+		"es"		"Explora"
+	}
+	"c9c874a02bb8d57812a66d3caad8c2bc"
+	{
+		"en"		"Clear the area and enter the elevator"
+		"es"		"Despeja el área y entra al ascensor"
+	}
+	"7fc260dadb42554f8054e2ebd02b7f90"
+	{
+		"en"		"Bypass the blockade and turn on the elevator"
+		"es"		"Elude el bloqueo y enciende el ascensor"
+	}
+	"5328d76d4fe04daf0ba1eeed1dfef583"
+	{
+		"en"		"Walk along the road"
+		"es"		"Avanza por la calle"
+	}
+	"2891f952c2397a89622cff7ffe6cc753"
+	{
+		"en"		"Destroy the wooden crate"
+		"es"		"Destruye la caja de madera"
+	}
+	"96ffd49c17cb4625ca791fb9dd4801c7"
+	{
+		"en"		"Go through the container"
+		"es"		"Continúa por el contenedor"
+	}
+	"8cc4b1e841ddb366b487ba387c9a5c46"
+	{
+		"en"		"Leave the building"
+		"es"		"Sal del edificio"
+	}
+	"6612aed16b9788f55c4e465f3dc72a14"
+	{
+		"en"		"Enter the building"
+		"es"		"Entra al edificio"
+	}
+	"97aa754c174332406998ad9c06a1cde7"
+	{
+		"en"		"Open the gate"
+		"es"		"Abre el portón de la reja"
+	}
+	"5f09c14886cc12a8f9557077a15b642e"
+	{
+		"en"		"Go up the building"
+		"es"		"Sube por el edificio"
+	}
+	"714b9e503b4ad672e65485583bfce524"
+	{
+		"en"		"Walk along the road"
+		"es"		"Avanza por la calle"
+	}
+	"bf71151fb176d7574661527693d35179"
+	{
+		"en"		"Silent Hill"
+		"es"		"Silent Hill"
+	}
+	"0f8e4790aeda8f70f23b30e93b9e1844"
+	{
+		"en"		"Map author: G-Villagehead
+Porting/Modification: Fong"
+		"es"		"Autor del mapa: G-Villagehead
+Adaptado por: Fong"
+	}
+	"d8caa21742488bb7871dffa367a2a6c9"
+	{
+		"en"		"'Silent Hill: Black Blood'
+Chapter One: The Outer World"
+		"es"		"'Silent Hill: Sangre Negra'
+Capítulo Uno: El Mundo Exterior"
+	}
+	"b42196828ddcad270a4f623ac5a3a827"
+	{
+		"en"		"Luckily, we finally found a place
+Wait... it's a group of zombies, run!!"
+		"es"		"Afortunadamente, finalmente encontramos un lugar
+Espera... es un grupo de zombis, ¡corre!"
+	}
+	"0bb6dc4a6fba46384117650b4d239eb3"
+	{
+		"en"		"There seems to be a small path on the right
+I think we can only continue from there"
+		"es"		"Parece haber un pequeño camino a la derecha
+Creo que solo podemos continuar desde allí"
+	}
+	"e3f0e034f5baba187c141e0dcf044938"
+	{
+		"en"		":"
+		"Everyone quickly get into the elevator. The elevator is about to start"		","
+		"es"		":"
+	}
+	"3b60c7a78f8363132beca928c6d94cca"
+	{
+		"en"		"Secret---3/4"
+		"es"		"Secreto---3/4"
+	}
+	"d2ec798b13686a2566f52855f6753e41"
+	{
+		"en"		"Secret---2/4"
+		"es"		"Secreto---2/4"
+	}
+	"aa444fcdd52515976d0f65a7d55e3566"
+	{
+		"en"		"We should be able to move forward"
+		"es"		"Deberíamos poder avanzar"
+	}
+	"fb156beb60a9b2c2a2b9f1af4b062fb0"
+	{
+		"en"		"Hold on!!
+What are those ghostly things??"
+		"es"		"¡¡Espera!!
+¿Qué son esas cosas fantasmales??"
+	}
+	"9ec0b555f6f2693c6e8ab4d7677290bc"
+	{
+		"en"		"Secret---1/4"
+		"es"		"Secreto---1/4"
+	}
+	"48ace6436dcb6c2ed4fdf41870888ff1"
+	{
+		"en"		"Here...
+        Gives people a sense of unease"
+		"es"		"Aquí...
+        Da a la gente una sensación de inquietud"
+	}
+	"ace11d51a5bc0e86e56ac67103c87d6d"
+	{
+		"en"		"Chapter Two: The Underground World"
+		"es"		"Capítulo Dos: El Mundo Subterráneo"
+	}
+	"d813362876e9be14b585290702e54e40"
+	{
+		"en"		"Something is not quite right
+Where is this?"
+		"es"		"Algo no está del todo bien
+¿Dónde es esto?"
+	}
+	"1ada919a987aba0a42c0f8b85ea6ff5e"
+	{
+		"en"		"The elevator has arrived, hurry in!!"
+		"es"		"¡El ascensor ha llegado, entra rápido!"
+	}
+	"b9b8a08bc48059acbc0da183e97d5a2b"
+	{
+		"en"		"The zombies have been cleared, press the button and wait for the elevator"
+		"es"		"Los zombies han sido eliminados, presiona el botón y espera el ascensor"
+	}
+	"8f6875365036944342f9d9f884dc6fa7"
+	{
+		"en"		"This should be the evacuation elevator
+Once we clear the zombies, we can enter the shelter"
+		"es"		"Este debería ser el ascensor de evacuación
+Una vez que eliminemos a los zombies, podremos entrar al refugio"
+	}
+	"4c27c73a4918487890a2b40506d14a26"
+	{
+		"en"		"Wait for the fence to open"
+		"es"		"Espera a que se abra la valla"
+	}
+	"d34242326d6a4dc2ddb0b9a012dba09a"
+	{
+		"en"		"It seems like the container above can help us leave this place. 
+	Find a way through there."
+		"es"		"Parece que el contenedor de arriba puede ayudarnos a salir de aquí. 
+	Encuentra una manera de pasar por allí"
+	}
+	"2637e4aebf1dd9314e40966c59728635"
+	{
+		"en"		"Be careful, there are zombies
+We have to wait for the fence to open before we can go out"
+		"es"		"Cuidado, hay zombies
+Tenemos que esperar a que se abra la valla antes de poder salir"
+	}
+	"c01fef7764be4ddb8d42a924819a0bb1"
+	{
+		"en"		"The stairs here should lead to the inside of the building
+Clear all the obstacles that are blocking the way"
+		"es"		"Las escaleras aquí deberían llevar al interior del edificio
+Despeja todos los obstáculos que bloquean el camino"
+	}
+	"f5ce5beca0a6aa9f30df33458c295e39"
+	{
+		"en"		"!!!"
+		"es"		"!!!"
+	}
+}

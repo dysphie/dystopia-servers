@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Respawn At Checkpoint"
+	{
+		"es" "Aparecer en un spawn"
+	}
+
+	"Respawn At Teammate"
+	{
+		"es" "Aparecer junto a {1}"
+	}
+}

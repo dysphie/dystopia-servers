@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"857eee6fc8a9b4a171fe3df50bdda4bd"
+	{
+		"en"		"ArtWork By BLAZK0"
+		"es"		"ArtWork por BLAZK0"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"es"		"Mapa por HAMMERCORE"
+	}
+	"ef2c77d014213020075196598a31a93f"
+	{
+		"en"		"MAKE THE ROCKET LAUNCH"
+		"es"		"Lanza el cohete"
+	}
+	"3ec8b255971fa72b595f9799431a4d72"
+	{
+		"en"		"FIND THE CROWBAR TO OPEN THE CRATE"
+		"es"		"Encuentra una palanca para abrir la caja"
+	}
+	"5284af76f0c02a77cf2b5046d3f9149a"
+	{
+		"en"		"EXPLODE THE CLOSING"
+		"es"		"EXPLODE THE CLOSING"
+	}
+	"8affffaf336848f6e61f0599f7308796"
+	{
+		"en"		"FIND THE BATTERY TO POWER THE GENERATOR"
+		"es"		"Encuentra una batería para encender el generador"
+	}
+	"617fd68c05a1f41b105102878d177888"
+	{
+		"en"		"FIND THE WELDER IN THE CARS OR HUTS"
+		"es"		"Encuentra un soldador en los autos o las cabañas"
+	}
+}

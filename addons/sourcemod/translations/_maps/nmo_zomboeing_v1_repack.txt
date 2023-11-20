@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"15281217a5aa63a3cdbc282eef5bfc48"
+	{
+		"en"		"Look around for a keycard and use it on the scanner to gain access to the Air Traffic Control Tower!"
+		"es"		"¡Busca una tarjeta de acceso y úsala en el escáner para obtener acceso a la Torre de Control de Tráfico Aéreo!"
+	}
+	"856baa13fb489fba260ee01197196975"
+	{
+		"en"		"The plane is warming up. Survive until the plane is ready to take off!"
+		"es"		"¡El avión se está calentando! ¡Sobrevive hasta que el avión esté listo para despegar!"
+	}
+	"f42feb8de9221a3c5833ef35f85edcc6"
+	{
+		"en"		"Flip the switch on the aircraft to enable pilot mode."
+		"es"		"Activa el interruptor del avión para habilitar el modo de piloto."
+	}
+	"a39424571990b2a1e97054bc24aa7c6c"
+	{
+		"en"		"Grab the battery and place it in its engine."
+		"es"		"Toma la batería y colócala en su motor."
+	}
+	"4b5df52438609d12f2d8f5817d71032d"
+	{
+		"en"		"Place the supplies on the conveyor belt."
+		"es"		"Coloca los suministros en la cinta transportadora."
+	}
+	"64d328f37bc9f538c84d984c0c671ec1"
+	{
+		"en"		"Let the truck continue until it arrives at its destination."
+		"es"		"Deja que el camión continúe hasta que llegue a su destino."
+	}
+	"219cb97efe44359cfc632f2c2987df09"
+	{
+		"en"		"The gate is closed. Find a set of keys to unlock the guard gate."
+		"es"		"La puerta está cerrada. Encuentra un juego de llaves para abrir la puerta de seguridad."
+	}
+	"974c8afe71542629702e252c67a73520"
+	{
+		"en"		"Start the truck and have it drive to its destination."
+		"es"		"Arranca el camión y haz que conduzca hacia su destino."
+	}
+	"31b5944d440464df458a9b15b3e6544e"
+	{
+		"en"		"Gather the supplies for the truck."
+		"es"		"Reúne los suministros para el camión."
+	}
+	"d1682375286f24c803049cd11e6014f2"
+	{
+		"en"		"Hack into the system to open the shutters."
+		"es"		"Ingresa al sistema para abrir las persianas."
+	}
+	"188187f84aa002cd382981f23ed0d1a9"
+	{
+		"en"		"Use a tool to pry open the doors to gain access to the tower."
+		"es"		"Usa una herramienta para abrir las puertas y obtener acceso a la torre."
+	}
+	"9fd9f02401ab5dc70d4205b491502e11"
+	{
+		"en"		"Locate the supplies and place them on the conveyor belt."
+		"es"		"Localiza los suministros y colócalos en la cinta transportadora."
+	}
+	"db33b2abcd9107ab3f0eb0b4a989deb2"
+	{
+		"en"		"Interact with the switch to open the lockdown gates."
+		"es"		"Interactúa con el interruptor para abrir las puertas de bloqueo."
+	}
+	"ea254a2d1abefaadad6fb0d1d500ed6f"
+	{
+		"en"		"Use the welder to cut the doors open."
+		"es"		"Usa un soldador para abrir las puertas."
+	}
+	"e8a41eb686622570335c9b066ff82df7"
+	{
+		"en"		"Gather food first!"
+		"es"		"¡Reúne comida primero!"
+	}
+	"a66ad0e560887a08f784afbeb75dd002"
+	{
+		"en"		"Last: Battery."
+		"es"		"Último: Batería."
+	}
+	"7de9da86e4fec49210d895b0aad4c3cf"
+	{
+		"en"		"Zombie clip removed!"
+		"es"		"¡Se eliminó el clip de zombies!"
+	}
+	"6ae1b43db3ad0eb7bc006fa9802c02d7"
+	{
+		"en"		"Just 1 more supply!"
+		"es"		"¡Solo 1 suministro más!"
+	}
+	"fe38be28e7e43dc0fb4c4d7ca1d60f90"
+	{
+		"en"		"Deactivating..."
+		"es"		"Desactivando..."
+	}
+	"cdc38cec6256e5c94cb793a8a1c0fd44"
+	{
+		"en"		"Grab all the supplies first before using this door."
+		"es"		"Toma todos los suministros primero antes de usar esta puerta."
+	}
+	"84294b98afa374a58477aa9077cfcaf0"
+	{
+		"en"		"Next: water cooler!"
+		"es"		"¡Siguiente: refrigerador de agua!"
+	}
+	"b1658a5523268c159e26e138394f4362"
+	{
+		"en"		"Kill all zombies in the cabin."
+		"es"		"Elimina a todos los zombies en la cabina."
+	}
+	"8f83cd14c8b9de40d344cbe2439c324d"
+	{
+		"en"		"Map created by: Ratboy."
+		"es"		"Mapa creado por: Ratboy."
+	}
+	"f46bf9981a10b6dcbbac584e53680575"
+	{
+		"en"		"Ported by: Y#shieon"
+		"es"		"Adaptado por: Y#shieon"
+	}
+	"c2aa33444cd58ea4b3446bd453ef333d"
+	{
+		"en"		"Zomboeing."
+		"es"		"Zomboeing."
+	}
+}

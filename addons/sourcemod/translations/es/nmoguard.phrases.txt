@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"Objective Has Changed"
+	{
+		"es"	"El objetivo ha cambiado, vuelve a abrir el menu"
+	}
+
+	"Softlock Vote Success"
+	{
+		"es"	"El ítem clonado ha aparecido en las coordenadas originales"
+	}
+
+	"Softlock Vote Description"
+	{
+		"es"	"Clonar item de objetivo perdido"
+	}
+
+	"Hit Recovery Limit"
+	{
+		"es"	"Este ítem ha sido clonado demasiadas veces"
+	}
+
+	"No Items"
+	{
+		"es"	"No hay ítems disponibles para recuperar"
+	}
+
+	"Softlock Panel Title"
+	{
+		"es"	"Ver los ítems de objetivo disponibles"
+	}
+
+	"Softlock Panel Next"
+	{
+		"es"	"Siguiente"
+	}
+
+	"Softlock Panel Prev"
+	{
+		"es"	"Anterior"
+	}
+
+	"Softlock Panel Recover Hint"
+	{
+		"es"	"Una vez encontrado el ítem correcto, vota para clonarlo"
+	}	
+
+	"Softlock Panel Recover"
+	{
+		"es"	"Votar para recuperar"
+	}
+
+	"Softlock Panel Exit"
+	{
+		"es"	"Salir"
+	}
+
+	"Objective Skip"
+	{
+		"es"	"Salteo de objetivo detectado, intentando adelantar la cadena de objetivos.."
+	}
+}

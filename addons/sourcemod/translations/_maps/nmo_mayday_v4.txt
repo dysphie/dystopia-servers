@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"10d4927322b5d287979cffd4499aeec4"
+	{
+		"en"		"The hatch stuck! Release safety locks manually with valves!"
+		"es"		"The hatch stuck! Release safety locks manually with valves!"
+	}
+	"3aedb7b657a2375113ac2f3a3bb83388"
+	{
+		"en"		"Press the button to open hatch"
+		"es"		"Press the button to open hatch"
+	}
+	"c5876b0f11abee1b95aa87889a356918"
+	{
+		"en"		"Gain access to cargo area"
+		"es"		"Gain access to cargo area"
+	}
+	"22bd03278dd521dedd5ffcaab12bb313"
+	{
+		"en"		"Search for mayday code and use it in pilot's panel before leaving aircraft"
+		"es"		"Search for mayday code and use it in pilot's panel before leaving aircraft"
+	}
+	"1bdd4f8543bd3940cd09ebf710772e85"
+	{
+		"en"		"Find the key to unlock maintenance room"
+		"es"		"Find the key to unlock maintenance room"
+	}
+	"6ac1aa1d280f739724ec5ce3670dcebd"
+	{
+		"en"		"Grab some parachute bags"
+		"es"		"Grab some parachute bags"
+	}
+	"ff39181083c17bd5d9dde9d45959afac"
+	{
+		"en"		"Destroy barricades inside the plane"
+		"es"		"Destroy barricades inside the plane"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Hatsune Miku"
+		"es"		"Map created by Hatsune Miku"
+	}
+	"72da2d7b628c020b3f0ba106f3b3da02"
+	{
+		"en"		"Mayday code: 3911"
+		"es"		"Mayday code: 3911"
+	}
+	"54437bbc824c3a7a3c2d44ddf0fa1797"
+	{
+		"en"		"Mayday code: 6110"
+		"es"		"Mayday code: 6110"
+	}
+	"122c7ca3d0c4416369e0723b0268c992"
+	{
+		"en"		"Mayday code: 4229"
+		"es"		"Mayday code: 4229"
+	}
+	"33d978247a84898d75544cf0f9c2e655"
+	{
+		"en"		"Mayday code: 1190"
+		"es"		"Mayday code: 1190"
+	}
+	"8e3e2753b54e3e79f9ce0c6a3b6ee6b3"
+	{
+		"en"		"Mayday code: 6669"
+		"es"		"Mayday code: 6669"
+	}
+	"cd1b87898c7ef1919282667a15fb283d"
+	{
+		"en"		"Mayday code: 9110"
+		"es"		"Mayday code: 9110"
+	}
+	"be5f681dc00e1f49ae6a0313d75ca10d"
+	{
+		"en"		"Mayday code: 0402"
+		"es"		"Mayday code: 0402"
+	}
+	"ffa630666bd21cff4e86828025078de6"
+	{
+		"en"		"Mayday code: 0107"
+		"es"		"Mayday code: 0107"
+	}
+	"9eb1190825b2aa2335f0a8ee6a9b935a"
+	{
+		"en"		"The hatch will automatically close in 45 seconds!"
+		"es"		"The hatch will automatically close in 45 seconds!"
+	}
+	"e353df3ae89dd1c3bb3ecce98189093b"
+	{
+		"en"		"Mayday code: 0911"
+		"es"		"Mayday code: 0911"
+	}
+}

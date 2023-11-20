@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"5a6ef631e168b7a7bea2051b9adc6094"
+	{
+		"en"		"Place 2 Black Crystals and open 'Fence Field' - sector 2"
+		"es"		"Coloca 2 Cristales Negros y abre 'Campo de Vallas' - sector 2"
+	}
+	"a7b104fd437fa0c34c718056452b1c8d"
+	{
+		"en"		"Activate all power stations with Venvo Crystal"
+		"es"		"Activa todas las estaciones de energía con el Cristal Venvo"
+	}
+	"1d29779989375dd471497c9ec64718cc"
+	{
+		"en"		"Escape now"
+		"es"		"Escapa ahora"
+	}
+	"d449f357dacd30b46d3157419114cc69"
+	{
+		"en"		"Open \"Sector B\" gate"
+		"es"		"Abre la puerta del \"Sector B\""
+	}
+	"662deccba9e498f0f76f2a857b859926"
+	{
+		"en"		"Open powered-lock door"
+		"es"		"Abre la puerta con cerradura eléctrica"
+	}
+	"c1f5e03805bf8ee36094821486028138"
+	{
+		"en"		"Now place the C4 on the blast door"
+		"es"		"Ahora coloca el C4 en la puerta antiexplosión"
+	}
+	"6f7de00ed995ed64393dc00139e9b716"
+	{
+		"en"		"Open the gate and hold the horde, don't forget the C4"
+		"es"		"Abre la puerta y detén a la horda, no olvides el C4"
+	}
+	"00e05ef5193929a8429465ba9a4909b9"
+	{
+		"en"		"Find 3 Black Crystals to open the secret door"
+		"es"		"Encuentra 3 Cristales Negros para abrir la puerta secreta"
+	}
+	"8e4d42068590d3efc6254991537f9f56"
+	{
+		"en"		"Pick up C4 for later and find a power source to unlock the door"
+		"es"		"Recoge el C4 para más tarde y encuentra una fuente de energía para desbloquear la puerta"
+	}
+	"14deb426e0fcc969e478356e1e09a212"
+	{
+		"en"		"A SECRET ROOM OPENED"
+		"es"		"SE ABRIÓ UNA HABITACIÓN SECRETA"
+	}
+	"a761d54bb8a4393f85912c524613ad6a"
+	{
+		"en"		"Prepare for the horde, place the crystal on the mark!"
+		"es"		"Prepárate para la horda, ¡Pon el cristal en la marca!"
+	}
+	"5fa9558ae77d0d7842315b3ca4d4ae47"
+	{
+		"en"		"Episode 3 Completed"
+		"es"		"Episodio 3 Completado"
+	}
+	"424969a56b012487b8a9b9db0c53aaaa"
+	{
+		"en"		"Key for door A acquired"
+		"es"		"Llave para la puerta A adquirida"
+	}
+	"732d58de8c96f0ac16fed770a3318b6b"
+	{
+		"en"		"New objective: Defend the black crystal during the process!"
+		"es"		"Nuevo objetivo: ¡Defiende el cristal negro durante el proceso!"
+	}
+	"2ed8685f92901289f681a6ba8f38aedb"
+	{
+		"en"		"This door is locked from security 'Sector A'"
+		"es"		"Esta puerta está cerrada desde la seguridad 'Sector A'"
+	}
+	"3f5ba613e1c24b3ef97da655084b4cc5"
+	{
+		"en"		"Map (C) 2014, by Wolvindra-Vinzuerio ported by dewobedil"
+		"es"		"Mapa (C) 2014, por Wolvindra-Vinzuerio portado por dewobedil"
+	}
+	"4c0194a01417b91eb8b19e378e78c965"
+	{
+		"en"		"Please continue to Episode 4 Final"
+		"es"		"Por favor continúa al Episodio 4 Final"
+	}
+	"dd93d37d9b003317ef0f5bb1d71b5533"
+	{
+		"en"		"This door is powered-lock."
+		"es"		"Esta puerta tiene cerradura eléctrica."
+	}
+	"a16d0e48f582065a0302a1f31bd07e37"
+	{
+		"en"		"Why did you destroy this radio?"
+		"es"		"¿Por qué destruiste esta radio?"
+	}
+	"1e8a4125cd54e4fd8b081c13e9fbbd5e"
+	{
+		"en"		"E_CODE_EP4: 2751 - 9816"
+		"es"		"E_CODE_EP4: 2751 - 9816"
+	}
+	"e0f270dc66354c2604c8747896e38664"
+	{
+		"en"		"Checkpoint Reached"
+		"es"		"Punto de Control Alcanzado"
+	}
+	"17d94125afa130165ca683290cda2b6c"
+	{
+		"en"		"'Fence Field' - sector 2 has been disabled"
+		"es"		"'Campo de Vallas' - sector 2 ha sido deshabilitado"
+	}
+	"d4e2e8c24c08da6565247be57a68e67f"
+	{
+		"en"		"Someone picked up the C4!"
+		"es"		"¡Alguien recogió el C4!"
+	}
+	"f820d6db053d08755fa42bd2ec4da23a"
+	{
+		"en"		"Be careful, 'they' are surrounding you..."
+		"es"		"Ten cuidado, 'ellos' te están rodeando..."
+	}
+	"17270bb29847240fa55b81de1099902d"
+	{
+		"en"		"This door is locked"
+		"es"		"Esta puerta está cerrada con llave"
+	}
+	"500da932c91405e4ba87916e314402f3"
+	{
+		"en"		"Objective: Door 'Sector B' has been unlocked and opened."
+		"es"		"Objetivo: La puerta 'Sector B' ha sido desbloqueada y abierta."
+	}
+	"4d5b23301c75f4fe233a1ca2c1074f3b"
+	{
+		"en"		"This door requires a key to unlock!"
+		"es"		"¡Esta puerta requiere una llave para desbloquear!"
+	}
+}

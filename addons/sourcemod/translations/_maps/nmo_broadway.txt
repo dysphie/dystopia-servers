@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"12e1e2035ad62cee2f9bc9b58e7a2b95"
+	{
+		"en"		"Weld open motel side entrance"
+		"es"		"Weld open motel side entrance"
+	}
+	"bb5ff1cf9dba0cc7418cf905de5143b5"
+	{
+		"en"		"Take propane to cafe"
+		"es"		"Take propane to cafe"
+	}
+	"d27cbcf43b34e81740c1b22439c849e3"
+	{
+		"en"		"Gain entry to managers office and call for extraction"
+		"es"		"Gain entry to managers office and call for extraction"
+	}
+	"61c2509f9834a3c334c9338e471f4341"
+	{
+		"en"		"Find lever for warehouse door"
+		"es"		"Find lever for warehouse door"
+	}
+	"9e21326743fe0b7e96b06b6f03e0013e"
+	{
+		"en"		"Turn sprinklers ON"
+		"es"		"Turn sprinklers ON"
+	}
+	"84c6da2f71e794bee4cb7d908f3da268"
+	{
+		"en"		"Proceed to the bar, Find the key"
+		"es"		"Proceed to the bar, Find the key"
+	}
+	"19eff83a585af4d2b56fea30ff88d354"
+	{
+		"en"		"Find battery, power up truck"
+		"es"		"Find battery, power up truck"
+	}
+	"8530cc5b0ad20b108e61bebef0cee486"
+	{
+		"en"		"Find the key to the cinema backdoor"
+		"es"		"Find the key to the cinema backdoor"
+	}
+	"d75afb3312fd8c3fa1214c0a621383c3"
+	{
+		"en"		"Find a way to the basement"
+		"es"		"Find a way to the basement"
+	}
+	"e7e4ecf56aac8f61ce1f0769cccf6fdd"
+	{
+		"en"		"Break through motel side door, Find something suitable to do so"
+		"es"		"Break through motel side door, Find something suitable to do so"
+	}
+	"115ebf9e09093c85d2b179024cd198b2"
+	{
+		"en"		"Break gate lock"
+		"es"		"Break gate lock"
+	}
+	"fb33c9c5deaa730107fa2800cfa3d7d4"
+	{
+		"en"		"#nmo_broadway_objI"
+		"es"		"#nmo_broadway_objI"
+	}
+	"544d9b82c8331c260b32db2d481886fd"
+	{
+		"en"		"#nmo_broadway_objD_1"
+		"es"		"#nmo_broadway_objD_1"
+	}
+	"a587d5725c51e2b2b28f096f748b529b"
+	{
+		"en"		"#nmo_broadway_objH"
+		"es"		"#nmo_broadway_objH"
+	}
+	"fb41ccd5c19036ddfaac530d46d5837f"
+	{
+		"en"		"#nmo_broadway_objG1"
+		"es"		"#nmo_broadway_objG1"
+	}
+	"c6890e2dd98f5c3772a8c0b60d549f44"
+	{
+		"en"		"#nmo_broadway_objF"
+		"es"		"#nmo_broadway_objF"
+	}
+	"e311ff7a1918e0d783e8a2137d48ac8f"
+	{
+		"en"		"#nmo_broadway_objE"
+		"es"		"#nmo_broadway_objE"
+	}
+	"df4b5b5f7f57f7581020787fe62e84db"
+	{
+		"en"		"#nmo_broadway_objD"
+		"es"		"#nmo_broadway_objD"
+	}
+	"401f61c2d8df850210670130b7118af4"
+	{
+		"en"		"#nmo_broadway_objC"
+		"es"		"#nmo_broadway_objC"
+	}
+	"4969a7a2a9b8fe00dd06c1ffe2ae0ef2"
+	{
+		"en"		"#nmo_broadway_objB_1"
+		"es"		"#nmo_broadway_objB_1"
+	}
+	"4489c52c22913ed0309ac8f2718a9bd4"
+	{
+		"en"		"#nmo_broadway_objB1"
+		"es"		"#nmo_broadway_objB1"
+	}
+	"5f1bbc74b7098ad995b68507f1b40863"
+	{
+		"en"		"#nmo_broadway_objA"
+		"es"		"#nmo_broadway_objA"
+	}
+}

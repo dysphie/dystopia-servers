@@ -1,0 +1,223 @@
+"Phrases"
+{
+	"9d7199eec4d936d8bf54e1cbd8c2298a"
+	{
+		"en"		"The chopper will be here in 5 minutes! Survive!"
+		"es"		"¡El helicóptero estará aquí en 5 minutos! ¡Sobrevive!"
+	}
+	"f4fc8899c2ed07a55ec804952f1de471"
+	{
+		"en"		"Launch a firework to signal your position"
+		"es"		"Lanza un fuego artificial para señalar tu posición"
+	}
+	"8c6a929a698534fca5ec4230746fd711"
+	{
+		"en"		"Beat boss,find hand,call help"
+		"es"		"Derrota al jefe, encuentra la mano, llama ayuda"
+	}
+	"7f4141068a9044f8eec0ec89923bf3c8"
+	{
+		"en"		"Make your way to the other side of the mine"
+		"es"		"Abre camino hacia el otro lado de la mina"
+	}
+	"2140b2e87455d76886dccf227350940c"
+	{
+		"en"		"The brakes are working again, wait for the train to stop."
+		"es"		"Los frenos están funcionando de nuevo, espera a que el tren se detenga."
+	}
+	"7edbcd5f76a5ca805c5dda0650dcaa97"
+	{
+		"en"		"The brakes have broken, repair them."
+		"es"		"Los frenos se han roto, repáralos."
+	}
+	"d229e779cc4913334ebd607f426e94cd"
+	{
+		"en"		"Use the brakes to stop the train."
+		"es"		"Usa los frenos para detener el tren."
+	}
+	"0d184aa93b4196ec042395f25511adab"
+	{
+		"en"		"Reach the locomotive to stop the train."
+		"es"		"Alcanza la locomotora para detener el tren."
+	}
+	"dbf56a2bd8f9c385141a25cae7e6f2ca"
+	{
+		"en"		"The fire is blocking the way, find a way around."
+		"es"		"El fuego bloquea el camino, encuentra una forma de rodearlo."
+	}
+	"916a4ffa1b96a061b64951e85c44957a"
+	{
+		"en"		"Finally have found secret room."
+		"es"		"Finalmente encontraste la habitación secreta."
+	}
+	"45646ad06228e75d9805ef1bb6ae781c"
+	{
+		"en"		"Found 2 secret head."
+		"es"		"Encontraste 2 cabezas secretas."
+	}
+	"ea4d526e6435c23c8ea44c9d016ab329"
+	{
+		"en"		"10/50"
+		"es"		"10/50"
+	}
+	"82e9b8df3543009a61d1cae6bd3392e7"
+	{
+		"en"		"20/50"
+		"es"		"20/50"
+	}
+	"59b3b0c6679d1bd2f19b34c7c1d318eb"
+	{
+		"en"		"30/50"
+		"es"		"30/50"
+	}
+	"ee990b18fbe280cf7ed59228d1b40c23"
+	{
+		"en"		"40/50"
+		"es"		"40/50"
+	}
+	"87b5934594030c8a4fc0599a65d64a64"
+	{
+		"en"		"Found secret head and unlock room."
+		"es"		"Encontraste la cabeza secreta y desbloqueaste la habitación."
+	}
+	"13d5162af5926d164a967b64d5b66f3c"
+	{
+		"en"		"5/30"
+		"es"		"5/30"
+	}
+	"fb1a7496dbbac27ac890ce34f0d9a098"
+	{
+		"en"		"10/30"
+		"es"		"10/30"
+	}
+	"f57b769ec8a2c416e8f97d225efd6c5e"
+	{
+		"en"		"20/30"
+		"es"		"20/30"
+	}
+	"812124b5b0bf73d1a43b51f477b0f85b"
+	{
+		"en"		"Found 1 secret head."
+		"es"		"Encontraste 1 cabeza secreta."
+	}
+	"bb7f98a943e69e621d92c22f6ad7416d"
+	{
+		"en"		"Found 3 secret head."
+		"es"		"Encontraste 3 cabezas secretas."
+	}
+	"0da994438811d7e8a6f0faf8dc0f52bf"
+	{
+		"en"		"This chest is too heavy to be moved, maybe key in church."
+		"es"		"Este cofre es demasiado pesado para moverlo, tal vez la llave esté en la iglesia."
+	}
+	"87054d816bcf3d34b8d35bf351581bba"
+	{
+		"en"		"Radio: All right, I've seen the firework, we will be there in 5 minutes!"
+		"es"		"Radio: ¡De acuerdo, vi el fuego artificial, estaremos allí en 5 minutos!"
+	}
+	"ecf9d2434b3605286e52debfbabe3d2a"
+	{
+		"en"		"Need used hand on scanner where bar..."
+		"es"		"Necesitas usar la mano en el escáner donde está la barra..."
+	}
+	"f2d7a3313e7f4fd839efd49f44713862"
+	{
+		"en"		"This trapdoor is too high."
+		"es"		"Esta trampilla está demasiado alta."
+	}
+	"135b2ee8180c1cae794b0ce31d57eba1"
+	{
+		"en"		"Kid was killed, be careful it's trap..."
+		"es"		"El niño fue asesinado, ten cuidado, es una trampa..."
+	}
+	"d040dd42e253489e2e6f985a6e37f534"
+	{
+		"en"		"Radio: ... Señala tu posición, fuego artificial en la iglesia en una ubicación secreta, en problemas en el club de rayas!"
+		"es"		"Radio: ... Señala tu posición, fuego artificial en la iglesia en una ubicación secreta, problemas en el club de rayas!"
+	}
+	"4164b3389ad55687149943748d1136ae"
+	{
+		"en"		"Updated stripe club by Sen."
+		"es"		"Salón de striptease actualizado por Sen."
+	}
+	"6116d54fad6b7593cd64419b92e0047c"
+	{
+		"en"		"Finally 1 pressed button need wait tnt..."
+		"es"		"Finalmente, presioné un botón, necesito esperar a la dinamita..."
+	}
+	"a2d7be96d071fc64542be69465e32388"
+	{
+		"en"		"Eating bread did give you full health!"
+		"es"		"¡Comer pan te dio salud completa!"
+	}
+	"cf7dfd06ea2c9c19f22a158b13b77c57"
+	{
+		"en"		"Door locked need extra welder."
+		"es"		"Puerta cerrada, necesito un soldador adicional."
+	}
+	"9f151173ff4a9a09317e28113f783126"
+	{
+		"en"		"Extra welder found."
+		"es"		"Encontraste un soldador adicional."
+	}
+	"efdfec3d4742dbfb5b81c4b3b91311a7"
+	{
+		"en"		"Survive and beat boss!"
+		"es"		"¡Sobrevive y derrota al jefe!"
+	}
+	"b9695675aaefd9e13b4505bbf695adc2"
+	{
+		"en"		"50/50"
+		"es"		"50/50"
+	}
+	"6cc43eed793b2d3375b31f1792ac57d3"
+	{
+		"en"		"100/100"
+		"es"		"100/100"
+	}
+	"c2ad0b50594da8ed6da9273b86606269"
+	{
+		"en"		"50/100"
+		"es"		"50/100"
+	}
+	"0be72799fbedd67095373d0b6fa86263"
+	{
+		"en"		"10/100"
+		"es"		"10/100"
+	}
+	"82d7647e36e036cc754be0875f6255f5"
+	{
+		"en"		"Unlocked secret weapon in stripe club :)"
+		"es"		"Desbloqueada arma secreta en el salón de striptease :)"
+	}
+	"1c9c23a84e0057fc7d65ed1fa54d1903"
+	{
+		"en"		"This cog seems to be welded, i need to find a way to break it."
+		"es"		"Este engranaje parece estar soldado, necesito encontrar una forma de romperlo."
+	}
+	"51e2ea8e12835beafe1e22f4cdce1eda"
+	{
+		"en"		"Kill all the zombies before moving to the next coach!"
+		"es"		"¡Mata a todos los zombis antes de moverte al siguiente vagón!"
+	}
+	"fa1a3bc0a2c5e89e6953937662fa1b36"
+	{
+		"en"		"30/30"
+		"es"		"30/30"
+	}
+	"29f317d1b8af791b7c0d5a0c022a4986"
+	{
+		"en"		"Shit door locked but where barmen need hand?"
+		"es"		"Mierda, puerta cerrada ¿Pero dónde está el barman? Necesitas una mano"
+	}
+	"2691e68a61a4c06dc4d3544cf77840cd"
+	{
+		"en"		"The tesla gun have been recharged and got 50 charges."
+		"es"		"El arma Tesla ha sido recargada y tiene 50 cargas."
+	}
+	"b7b7f0407c8c73f0524721a07607ff83"
+	{
+		"en"		"Need welder..."
+		"es"		"Necesito un soldador..."
+	}
+}

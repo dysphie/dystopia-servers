@@ -1,0 +1,149 @@
+"Phrases"
+{
+	"Already Nominated"
+	{
+		"en"	"This map has already been nominated"
+		"es"	"Este mapa ya fue nominado"
+	}
+
+	"Staying in Map"
+	{
+		"en"	"{blue} Current map won the vote, not changing"
+		"es"	"{blue} El mapa actual ganó y continúa"
+	}
+	"Don't Change"
+	{
+		"en"	"Don't change"
+		"es"	"No cambiar"
+	}
+	"RTV Expired"
+	{
+		"en"	"{blue}RTV is disabled until next round"
+		"es"	"{blue}RTV solo disponible al inicio de la ronda"
+	}
+	"RTV is Ongoing"
+	{
+		"en"	"{blue}RTV already in progress"
+		"es"	"{blue}Ya hay un RTV en progreso"
+	}
+	"RTV Already Issued"
+	{
+		"en"	"{blue}You already issued RTV. Type {dodgerblue}/nortv{blue} to undo it"
+		"es"	"{blue}Ya hiciste RTV. Escribe {dodgerblue}/nortv{blue} para quitarlo"
+	}
+	"RTV Starts Soon"
+	{
+		"en" "{blue}RTV starts in 10 seconds."
+		"es" "{blue}RTV empieza en 10 segundos."
+	}
+	"Nominated Tag"
+	{
+		"en"	"(Nominated)"
+		"es"	"(Nominado)"
+	}
+
+	"Nominate Entry"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{1} ({2})"
+		"es"	"{1} ({2})"
+	}
+
+	"Player Nominated Hide Mode"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{dodgerblue}{1}{blue} nominated {dodgerblue}{2}"
+		"es"	"{dodgerblue}{1}{blue} nominó {dodgerblue}{2}"
+		"pt"	"{dodgerblue}{1}{blue} sugeriu {dodgerblue}{2}"
+	}
+
+	"Player Nominated"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"en"	"{dodgerblue}{1}{blue} nominated {dodgerblue}{2}{blue} ({dodgerblue}{3}{blue})"
+		"es"	"{dodgerblue}{1}{blue} nominó {dodgerblue}{2}{blue} ({dodgerblue}{3}{blue})"
+		"pt"	"{dodgerblue}{1}{blue} sugeriu {dodgerblue}{2} ({dodgerblue}{3}{blue})"
+	}
+
+	"Undid RTV"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{dodgerblue}{1}{blue} no longer wants to change maps ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+		"es"	"{dodgerblue}{1}{blue} ya no quiere cambiar de mapa ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+		"pt"	"{dodgerblue}{1}{blue} não quer mais trocar de mapa ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+	}
+
+	"Player RTVed"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{dodgerblue}{1}{blue} wants to change maps ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+		"es"	"{dodgerblue}{1}{blue} quiere cambiar de mapa ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+		"pt"	"{dodgerblue}{1}{blue} quer mudar de mapa ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue})"
+	}
+
+	"Player RTVed While Disabled"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{dodgerblue}{1}{blue} issued RTV ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue}) (Ignored until next round)"
+		"es"	"{dodgerblue}{1}{blue} hizo RTV ({dodgerblue}{2}{blue}/{dodgerblue}{3}{blue}) (Ignorado hasta comienzo de ronda)"
+	}
+
+	"RTV Vote Started"
+	{
+		"en"	"Voting to change the map ~"
+		"es"	"Votando para cambiar de mapa ~"
+	}
+
+	"RTV Vote Ended Hide Mode"
+	{
+		"#format" "{1:s}"
+		"en"	"{dodgerblue}{1}{blue} won, changing..."
+		"es"	"{dodgerblue}{1}{blue} ganó, cambiando..."
+		"pt"	"{blue}Mudando mapa para {dodgerblue}{1}..."
+	}
+
+	"RTV Vote Ended"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{dodgerblue}{1} ({2}){blue} won, changing..."
+		"es"	"{dodgerblue}{1} ({2}){blue} ganó, cambiando..."
+		"pt"	"{blue}Mudando mapa para {dodgerblue}{1} ({2}){blue}..."
+	}
+
+	"RTV Vote Ended No Change"
+	{
+		"en"	"Vote finished, current map continues"
+		"es"	"Voto finalizado, el mapa actual continúa"
+	}
+
+	"Pick the Next Map"
+	{
+		"en"	"Pick the next map"
+		"es"	"Elige el próximo mapa"
+	}
+
+	"Pick the Game Mode"
+	{
+		"en"	"Pick the game mode"
+		"es"	"Elige el modo"
+	}
+
+	"RTV Enabled Timed"
+	{
+		"#format" "{1:d}"
+		"en"	"{blue}Type {dodgerblue}/rtv{blue} to change maps."
+		"es"	"{blue}Escribe {dodgerblue}/rtv{blue} para cambiar de mapa."
+	}
+
+	"RTV Disabled"
+	{
+		"en"	"{dodgerblue}/rtv{blue} and {dodgerblue}restart{blue} disabled until next round."
+		"es"	"{dodgerblue}/rtv{blue} y {dodgerblue}restart{blue} desactivado hasta fin de ronda."
+	}
+
+	"RTV Denied"
+	{
+		"en"	"{blue}RTV is disabled till next round"
+		"es"	"{blue}RTV solo disponible al comienzo de la ronda"
+	}
+}

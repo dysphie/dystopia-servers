@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Hid Team"
+	{
+		"en"	"{lightpink}Teammates {red}hidden"
+		"es"	"{lightpink}Jugadores {red}ocultados"
+	}
+
+	"Unhid Team"
+	{
+		"en"	"{lightpink}Teammates {green}unhidden"
+		"es"	"{lightpink}Jugadores {green}visibles"
+	}
+}

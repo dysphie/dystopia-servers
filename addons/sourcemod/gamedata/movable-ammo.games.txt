@@ -1,0 +1,22 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CPlayerPickupController::Init"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x56\x8B\x75\x08\x57\x8B\xF9\x8B\xCE\xE8\x2A\x2A\x2A\x2A\x85\xC0"
+				"linux"		"@_ZN23CPlayerPickupController4InitEP11CBasePlayerP11CBaseEntity"
+			}
+
+			"CItem_AmmoBox::FallInit"
+			{
+				"library"	"server"
+				"windows"	"\x56\x8B\xF1\x57\x8B\x06\xFF\x90\x80\x02\x00\x00\x8B\x86\x50\x01\x00\x00\x8D\x8E\x50\x01\x00\x00\xFF\x50\x38\x6A\x00\x6A\x00\x83\xC8\x08"
+				"linux"		"@_ZN13CItem_AmmoBox8FallInitEv"
+			}
+		}
+	}
+}

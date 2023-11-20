@@ -1,0 +1,14 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"CPlayerPickupController::m_iOriginalCollisionGroup"
+			{
+				"windows"	"9228"
+				"linux"	"9252"
+			}
+		}
+	}
+}

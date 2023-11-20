@@ -1,0 +1,380 @@
+"Phrases"
+{
+	"4d1c2a6ca41ab6cc1d2de3e401b8511b"
+	{
+		"en"		"Water deals damage"
+		"es"		"El agua hace daño"
+	}
+	"3dfaa2a2cabe84c45a8b6568cc4442f6"
+	{
+		"en"		"Be careful, the wind may blow you into the water!"
+		"es"		"Cuidado ¡El viento puede tirarte al agua!"
+	}
+	"1e22105ea4187591eea8c29d8b738025"
+	{
+		"en"		"The wind is raging strongly in the red house, try to leave it as soon as possible!"
+		"es"		"Hay mucho viento, aléjate de la casa roja lo antes posible!"
+	}
+	"59fa07ee255a61ec6e0c12ca79eec0e9"
+	{
+		"en"		"All players must be in place to start the defense."
+		"es"		"Todos los jugadores deben estar presentes para defender."
+	}
+	"840298aa7b3cea55854ae38b4ca9582a"
+	{
+		"en"		"In the bar, zombies can bite through the doors, be careful."
+		"es"		"Cuidado, los zombies pueden morder a través de las puertas del bar."
+	}
+	"988d1f0c061b1cbfa991a5e4eea3320a"
+	{
+		"en"		"Kill all the zombies in the territory to turn off the electricity."
+		"es"		"Mata a todos los zombies del área antes de activar la electricidad."
+	}
+	"86d161bac0eaf58eb60602228b8da79e"
+	{
+		"en"		"All players must be on the raft to start the engine."
+		"es"		"Todos los jugadores deben ir a la balsa para encender su motor."
+	}
+	"a126b583ae9dc66620d37b7d07642271"
+	{
+		"en"		"Easter egg for TAWER - activated"
+		"es"		"Secreto de TAWER - activado"
+	}
+	"134f4a21b1971515f01f97abc41d530b"
+	{
+		"en"		"[3/3] Propane tanks placed at barrier."
+		"es"		"[3/3] Garrafas colocadas."
+	}
+	"87eb13095fb324e585a686039d5c48a8"
+	{
+		"en"		"[3:00] Remaining."
+		"es"		"[3:00] Restantes."
+	}
+	"bdd299359ec5bc1fa2d295d4ae40f123"
+	{
+		"en"		"Take a stick of matches up to the top of the lighthouse, hurry!"
+		"es"		"Lleva bengalas a la punta del faro, ¡Apúrate!"
+	}
+	"8a603b17b954e817ee595ddfb00e199f"
+	{
+		"en"		"2. Retrieve a matchstick from the upstairs and bring it to the top of the tower."
+		"es"		"2. Agarrar bengalas y subirlas a la punta del faro."
+	}
+	"a8f73136e6b3c9f44ec3456fd4ecc7dc"
+	{
+		"en"		"1. Activate the rotational rod via the valve in the machine room."
+		"es"		"1. Rotar la válvula en la planta baja del faro."
+	}
+	"18f5b5f45628fa605552af1d9bac0915"
+	{
+		"en"		"You will need to:"
+		"es"		"Tendrás que:"
+	}
+	"6d24b0040ab7c6811e6697dd41ded0a2"
+	{
+		"en"		"The Kinakeet Light is operational! Defend it at all costs!"
+		"es"		"El faro Kinakeet esta funcionando, defiéndelo!"
+	}
+	"8be51736957418973116063111933348"
+	{
+		"en"		"Lighthouse lamp lit!"
+		"es"		"El faro está encendido!"
+	}
+	"82c87cf4bdb388d0288e098ae9e6d3b0"
+	{
+		"en"		"Keeper's key found! Use it to open the lighthouse door."
+		"es"		"Llaves encontradas, úsalas para abrir la puerta del faro"
+	}
+	"9c55be876009eb27b9f2ba78201d1262"
+	{
+		"en"		"Move! Get over that bridge now."
+		"es"		"Muévete! Cruza el puente ahora."
+	}
+	"434e429edbb5f916b6427bee60809c8c"
+	{
+		"en"		"[00:45] Remaining."
+		"es"		"[00:45] Restantes."
+	}
+	"8bad61f120c327a33bc111c80a02279b"
+	{
+		"en"		"[00:15] Remaining."
+		"es"		"[00:15] Restantes."
+	}
+	"d476fb86e47c3b9eab0e2b486773b29c"
+	{
+		"en"		"[00:30] Remaining."
+		"es"		"[00:30] Restantes."
+	}
+	"c3240ea6a575d49fc23e58e8183f3ff1"
+	{
+		"en"		"[01:00] Remaining."
+		"es"		"[01:00] Restantes."
+	}
+	"5c5f12fb84c0b14ad0fe5e74dbcd5172"
+	{
+		"en"		"[01:30] Remaining."
+		"es"		"[01:30] Restantes."
+	}
+	"1b905b9e23449253ee259e3c436de5c3"
+	{
+		"en"		"Alright, you've got enough manpower now. Defend the village for 2 minutes!"
+		"es"		"Hay suficientes personas ahora. Defiendan la aldea por 2 minutos!"
+	}
+	"d0e23985f10ae18f8a33d4a51d9c0b01"
+	{
+		"en"		"Get your asses to the village now! We need at least two thirds of you here."
+		"es"		"Vayan a la aldea! Necesitamos al menos dos tercios de ustedes aquí."
+	}
+	"cc1ce065ca45171f630bacfc3a70b5a3"
+	{
+		"en"		"Make your way down the road to Kinakeet Village."
+		"es"		"Sigue el camino hacia la aldea Kinakeet."
+	}
+	"7502b9dfd7ea105b057c83411aa0953a"
+	{
+		"en"		"You'll need to find something inside that can blow through that roadblock."
+		"es"		"Deberás encontrar algo para despejar el camino."
+	}
+	"5f3cad31ded90e640d69a908f6b53eac"
+	{
+		"en"		"[00:01]"
+		"es"		"[00:01]"
+	}
+	"3e3dcad32e70676c63b98c0852bf9d2e"
+	{
+		"en"		"[00:02]"
+		"es"		"[00:02]"
+	}
+	"abcb55fccae74587223cbb618745b2be"
+	{
+		"en"		"[00:03]"
+		"es"		"[00:03]"
+	}
+	"7f6f2cb12b4112568267fc1130c62556"
+	{
+		"en"		"[00:04]"
+		"es"		"[00:04]"
+	}
+	"8c0eb929052d7fca611c049bea5f3351"
+	{
+		"en"		"[00:05]"
+		"es"		"[00:05]"
+	}
+	"f1c5e7b64515b3e8ef2a85a82c568e37"
+	{
+		"en"		"[00:06]"
+		"es"		"[00:06]"
+	}
+	"49e67078af4b5ede75538bd3c4396e05"
+	{
+		"en"		"[00:07]"
+		"es"		"[00:07]"
+	}
+	"0c7c2f2224e446e05d5de4d24f1ac206"
+	{
+		"en"		"[00:08]"
+		"es"		"[00:08]"
+	}
+	"234ea444e39aef627307528678ad523d"
+	{
+		"en"		"[00:09]"
+		"es"		"[00:09]"
+	}
+	"dd08cba6c781e594f250bde0aac625da"
+	{
+		"en"		"[00:10]"
+		"es"		"[00:10]"
+	}
+	"95b0970f82e7c88eb83e4969ef8e8b6d"
+	{
+		"en"		"Set the tanks to blow and get out of there!"
+		"es"		"Haz que exploten las garrafas y sal de aquí!"
+	}
+	"d29713095f9f1f14077bc0269f569117"
+	{
+		"en"		"[2/3] Propane tanks placed at barrier."
+		"es"		"[2/3] Garrafas colocadas."
+	}
+	"41011eaec038e55af338d709ab780705"
+	{
+		"en"		"[1/3] Propane tanks placed at barrier."
+		"es"		"[1/3] Garrafas colocadas."
+	}
+	"e4c017f13965bb72780bbe5b2f540f6b"
+	{
+		"en"		"Get yourselves some weapons and head over to the Ole' Wheelhouse."
+		"es"		"Agarra armas y ve al Bar del Timón"
+	}
+	"0b6b26bddbdab132a58db2a17429c016"
+	{
+		"en"		"Bring the gas can to the rear of the raft."
+		"es"		"Lleva la gasolina a la balsa."
+	}
+	"4978fa10577e41874c56468f7b21ccfe"
+	{
+		"en"		"Bring the engine to the rear of the raft."
+		"es"		"Lleva el motor a la balsa."
+	}
+	"7b47d49860178240ae151f265a373d61"
+	{
+		"en"		"You need to find the boat engine and gas can."
+		"es"		"Debes encontrar gasolina y un motor para la balsa."
+	}
+	"ecd836173a4c91025fddcafcf266182b"
+	{
+		"en"		"Powering up motor. Raft will leave in [0:20]."
+		"es"		"Encendiendo el motor. La balsa se irá en [0:20]."
+	}
+	"ac33c58adb619c10cf1651f947a02bad"
+	{
+		"en"		"Gas can attached!"
+		"es"		"Gasolina colocada!"
+	}
+	"48180f6a84f4a0bf0ee44bc207cd20fa"
+	{
+		"en"		"Engine attached!"
+		"es"		"Motor colocado!"
+	}
+	"a34f86805d7a7c0f81be4d91afc46827"
+	{
+		"ru"		"Потушите огонь, чтобы пройти дальше"
+		"en"		"Put out the fire to go further"
+		"es"		"Apaga el fuego para continuar"
+	}
+	"8bf1d6bc162768f9663276f0e929900e"
+	{
+		"ru"		"Уплывайте отсюда!"
+		"en"		"Get out of here!"
+		"es"		"¡Escapa!"
+	}
+	"a268ce3c1249a2438eab097a60911cf4"
+	{
+		"ru"		"Защищайтесь до прибытия спасателей."
+		"en"		"Defend yourself until rescuers arrive."
+		"es"		"Defiéndete hasta que llegue el rescate."
+	}
+	"1829245822e5ac43da213b752b1fd506"
+	{
+		"ru"		"Поищите ключ, он должен быть где-то рядом."
+		"en"		"Look for the key, it should be somewhere nearby."
+		"es"		"Busca la llave, debe estar cerca"
+	}
+	"a4a70babefe7658a5265f3fc47354aad"
+	{
+		"ru"		"Взорвите мост, пока лодка спасателей в него не врезалась!"
+		"en"		"Blow up the bridge before the rescue boat crashes into it!"
+		"es"		"Haz explotar el puente antes de que la lancha lo choque!"
+	}
+	"7dbe21caf6449ceb98d1b64dfef351d3"
+	{
+		"ru"		"Используйте спички, чтобы зажечь огонь маяка."
+		"en"		"Use matches to light the lighthouse fire."
+		"es"		"Usa las bengalas para encender el faro."
+	}
+	"3072ef93187f39ae10bfb69b6b3bca29"
+	{
+		"ru"		"Пересеките мост."
+		"en"		"Cross the bridge."
+		"es"		"Cruza el puente."
+	}
+	"6f4acd269af573173235c5f31ab7c06f"
+	{
+		"ru"		"Заставьте маяк вращаться, чтобы привлечь внимание спасателей."
+		"en"		"Make the lighthouse rotate to attract the attention of rescuers."
+		"es"		"Haz rotar el faro para llamar la atención de los rescatistas."
+	}
+	"71eb99e2b754ad339083283abcbd0507"
+	{
+		"ru"		"Найдите чем открыть дверь."
+		"en"		"Find something to open the door."
+		"es"		"Encuentra algo para abrir la puerta."
+	}
+	"3fcc9af319b84f38ad1132bd2313f471"
+	{
+		"ru"		"Маяк уже близко, вам нужно попасть туда."
+		"en"		"The lighthouse is close, you need to get there."
+		"es"		"El faro está cerca, debes llegar ahí"
+	}
+	"52a14ce76d2c9620c5840143f5906156"
+	{
+		"ru"		"Найдите ключ, чтобы открыть ворота."
+		"en"		"Find the key to open the gate."
+		"es"		"Encuentra la llave para abrir el portón"
+	}
+	"a83060d9b7c98368cb6d58916f102cb4"
+	{
+		"ru"		"Орда мертвецов приближается, держите оборону!"
+		"en"		"The horde of the dead is approaching, hold your ground!"
+		"es"		"Vienen los zombies ¡Defiéndete!"
+	}
+	"615b41bbf52b8d9a91b3a85f2b044809"
+	{
+		"ru"		"Продвигайтесь дальше к маяку."
+		"en"		"Move on to the lighthouse."
+		"es"		"Continúa hacia el faro."
+	}
+	"e3dd8238bad9300f74a07fc9b022a60a"
+	{
+		"ru"		"Найдите чем взорвать баррикаду."
+		"en"		"Find something to blow up the barricade."
+		"es"		"Encuentra algo para explotar las barricadas"
+	}
+	"4fb495f97d9b5b774ca2a363b42627e5"
+	{
+		"ru"		"Продвигайтесь дальше."
+		"en"		"Move on."
+		"es"		"Sigue avanzando."
+	}
+	"6c46687d2cab0c5a08cabe78e386fa5c"
+	{
+		"ru"		"Доберитесь до следующей остановки живыми."
+		"en"		"Get to the next stop alive."
+		"es"		"Sobrevive el viaje."
+	}
+	"a944c00576df31207cbcaad798b86f9f"
+	{
+		"ru"		"Найдите двигатель и топливо для плота и покиньте этот остров."
+		"en"		"Find the engine and fuel for the raft and leave this island."
+		"es"		"Vete de la isla. Encuentra gasolina y un motor para la balsa"
+	}
+	"41a9b6d5098031a1045bda0f31845eb2"
+	{
+		"en"		"Now you can leave the territory of the lighthouse, find TNT and blow up the bridge."
+		"es"		"Ahora puedes abandonar faro. Encuentra dinamita y haz explotar el puente"
+	}
+	"529a3e771243300172e2ac8c841e76f6"
+	{
+		"en"		"Defend the lighthouse at all costs, you can not retreat!"
+		"es"		"Defiende el faro, no puedes irte!"
+	}
+	"90d12cc9c609885c749265c2df225ab8"
+	{
+		"en"		"Lighthouse rotational rod activated!"
+		"es"		"¡Rotación del faro activada!"
+	}
+	"7ecca6c71d80ba0789b2b313d4df5dc6"
+	{
+		"en"		"Now you can start the defense, turn the valve when you are ready."
+		"es"		"Ahora puedes comenzar la defensa, gira la válvula cuando te sientas listo/a"
+	}
+	"032da60f355d01474610b1c054335923"
+	{
+		"en"		"Do not try to jump into the forest, you will be blown away by the wind."
+		"es"		"No intentes ir al bosque, el viento te volará."
+	}
+	"b2925dfabf219faa685984ed8b48a72a"
+	{
+		"en"		"Find the lighthouse keeper's key and proceed up to the lighthouse."
+		"es"		"Encuentra las llaves del faro"
+	}
+	"be80fd81291b416acecc0281d90b592d"
+	{
+		"en"		"All players must be in the house to activate the lighthouse."
+		"es"		"Todos los jugadores deben estar dentro de la casa para activar el faro."
+	}
+	"a2121deda14a46a7d4d136ae24b3b4e5"
+	{
+		"en"		"Kinakeet Light has been successfully defended!"
+		"es"		"El faro Kinakeet ha sido defendido exitosamente!"
+	}
+}

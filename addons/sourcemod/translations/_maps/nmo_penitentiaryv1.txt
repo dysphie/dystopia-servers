@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"151fcff7e649ff8d99be7b4264b530ee"
+	{
+		"en"		"Try to survive till help arrives."
+		"es"		"Trata de sobrevivir hasta que llegue la ayuda."
+	}
+	"455afb648f75f6b94c3a809c5baf845b"
+	{
+		"en"		"Get the 4 gas scan scattered around, hook them up to the propane."
+		"es"		"Encuentra 4 garrafas y conéctalas al propano."
+	}
+	"bc5cb59c6f29f57cfc8fc5223a92186d"
+	{
+		"en"		"Roll the generator to the small building."
+		"es"		"Empuja el generador hasta el edificio pequeño."
+	}
+	"8db68c2f1e701294051c8a4e4e69ceea"
+	{
+		"en"		"Disable the power."
+		"es"		"Desactiva la electricidad."
+	}
+	"0463a974b7fbcc89fb0a356934cc34ec"
+	{
+		"en"		"Find all 3 batteries."
+		"es"		"Encuentra las 3 baterías."
+	}
+	"22d411e0000c076996d112bd7163cf46"
+	{
+		"en"		"Go to cell block B, Find and break the switch."
+		"es"		"Ve al bloque de celdas B, encuentra y rompe el interruptor"
+	}
+	"9bb40a0303ceda14c39873c4215ce915"
+	{
+		"en"		"Find the welder, and unweld the door."
+		"es"		"Encuentra un soldador y suelda la puerta."
+	}
+	"60b2f54a9ec45547789abd880b2ecd24"
+	{
+		"en"		"Find the key, unlock the door."
+		"es"		"Encuentra la llave, desbloquea la puerta."
+	}
+	"25b0f2bfe323fef6fb0f2c7c2f88ca3b"
+	{
+		"en"		"Break the barricade down, get to the armory in block A."
+		"es"		"Rompe la barricada, llega a la armería en el bloque A"
+	}
+	"527823e4fbd727db22ff79af950efc8c"
+	{
+		"en"		"Hold off zombies, open the doors."
+		"es"		"Mantén alejados a los zombis, abre las puertas"
+	}
+}

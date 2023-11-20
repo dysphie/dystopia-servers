@@ -1,0 +1,77 @@
+// "{1}'s inventory is full of bricks"
+// "{1}'s inventory is full of marbles"
+// "{1}'s inventory is full of nails"
+// "{1}'s inventory is full of feathers"
+// "{1}'s inventory is full of pebbles"
+// "{1}'s inventory is full of buttons"
+// "{1}'s inventory is full of rubber bands"
+// "{1}'s inventory is full of paperclips"
+// "{1}'s inventory is full of bottle caps"
+// "{1}'s inventory is full of pencils"
+// "{1}'s inventory is full of matchsticks"
+// "{1}'s inventory is full of thumbtacks"
+// "{1}'s inventory is full of coins"
+// "{1}'s inventory is full of shells"
+// "{1}'s inventory is full of golf balls"
+// "{1}'s inventory is full of dominoes"
+// "{1}'s inventory is full of puzzle pieces"
+// "{1}'s inventory is full of gears"
+// "{1}'s inventory is full of cum"
+// "{1}'s inventory is full of cats"
+// "{1}'s inventory is full of cocaine"
+// "{1}'s inventory is full of bubble wrap"
+// "{1}'s inventory is full of clown noses"
+// "{1}'s inventory is full of flamingos"
+
+"Phrases"
+{
+	"Player is Full"
+	{
+		"#format" "{1:s},{2:T}"
+		"en"	"{1} is full of {2}"
+		"es"	"El inventario de {1} está lleno de {2}"
+	}
+	"Bricks"
+	{
+		"en"	"bricks"
+		"es"	"ladrillos"
+	}
+	"Marbles"
+	{
+		"en"	"nails"
+		"es"	"clavos"
+	}
+	"Cum"
+	{
+		"en"	"cum"
+		"es"	"leche"
+	}
+	"Alfajores"
+	{
+		"en"	"alfajores"
+		"es"	"alfajores"
+	}
+	"Cheese"
+	{
+		"en"	"cheese"
+		"es"	"queso"
+	}
+	"Cocaine"
+	{
+		"en"	"cocaine"
+		"es"	"cocaína"
+	}
+	"Bubble Wrap"
+	{
+		"en"	"bubble wrap"
+		"es"	"plástico de burbujas"
+	}
+	"Gummy Worms"
+	{
+		"en"	"gummy worms"
+		"es"	"caramelos"
+	}
+}
+
+
+

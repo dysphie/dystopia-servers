@@ -1,0 +1,46 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CTriggerCamera::Disable"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x51\x56\x8B\xF1\x8B\x8E\x7C\x03\x00\x00\x83\xF9\xFF\x0F\x84"
+				"linux"		"@_ZN14CTriggerCamera7DisableEv"
+			}
+
+			"CExtractionPreviewCamera::Disable"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x14\x53\x8B\xD9\x83\xBB\xEC\x03\x00\x00\x00\x0F\x84"
+				"linux"		"@_ZN24CExtractionPreviewCamera7DisableEv_part_60"
+			}
+		}
+
+		"Functions"
+        {
+           "CExtractionPreviewCamera::Disable"
+            {
+                "signature"  "CExtractionPreviewCamera::Disable"
+                "callconv"  "thiscall"
+                "return"  "void"
+                "this"  "ignore"
+                "arguments"
+                {
+                }
+            }
+           "CTriggerCamera::Disable"
+            {
+                "signature"  "CTriggerCamera::Disable"
+                "callconv"  "thiscall"
+                "return"  "void"
+                "this"  "ignore"
+                "arguments"
+                {
+                }
+            }
+        }
+	}
+}

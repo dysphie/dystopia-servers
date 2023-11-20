@@ -1,0 +1,158 @@
+"Phrases"
+{
+	"bbaa87f227735127b2ca917765b59a5f"
+	{
+		"en"		"Read the notes spread all over the cabin"
+		"es"		"Read the notes spread all over the cabin"
+	}
+	"225697fd01b3de6d0599c0075686aea3"
+	{
+		"en"		"Push the cart and reach extraction zone"
+		"es"		"Push the cart and reach extraction zone"
+	}
+	"df843af39ce947bd495a97ae75d4d77a"
+	{
+		"en"		"Loot a smoke grenade and a paint can from the military outpost, use a tool cart to carry them"
+		"es"		"Loot a smoke grenade and a paint can from the military outpost, use a tool cart to carry them"
+	}
+	"1a5cb3ac0ebf315c3b3474ee154d1412"
+	{
+		"en"		"Use the following code in order to call for help 0453 0931 0321 1710, goes without spaces"
+		"es"		"Use the following code in order to call for help 0453 0931 0321 1710, goes without spaces"
+	}
+	"b5e2e982ac2bb9b69da5b82022ea0012"
+	{
+		"en"		"Weld the broken radio to fix electric board"
+		"es"		"Weld the broken radio to fix electric board"
+	}
+	"81a595324778782822559c3e698b5a16"
+	{
+		"en"		"Bring some tools from your cabin to repair the faulty generator"
+		"es"		"Bring some tools from your cabin to repair the faulty generator"
+	}
+	"0bd2f9fde91a75a111079f9dd2a41805"
+	{
+		"en"		"Repair the electrical system of your cabin using a spare breaker"
+		"es"		"Repair the electrical system of your cabin using a spare breaker"
+	}
+	"84feb50c5bc51275fda5a781535a50e4"
+	{
+		"en"		"Extinguish the fire coming from main power box"
+		"es"		"Extinguish the fire coming from main power box"
+	}
+	"a04bb3b81c3b00c53f60a09d0d45d462"
+	{
+		"en"		"Look for some fuel to start fire"
+		"es"		"Look for some fuel to start fire"
+	}
+	"d588a9eed67621da9d104476936b455b"
+	{
+		"en"		"Use an axe to get some dry wood from the marked tree, then set a campfire to signal your position"
+		"es"		"Use an axe to get some dry wood from the marked tree, then set a campfire to signal your position"
+	}
+	"4bfc0f75c2583011d872525c82b1d5b3"
+	{
+		"en"		"Find the key to unlock this door"
+		"es"		"Find the key to unlock this door"
+	}
+	"f6a44cf072a165f7f0c717045f9e41bb"
+	{
+		"en"		"Resist 5 minutes until chopper arrival"
+		"es"		"Resist 5 minutes until chopper arrival"
+	}
+	"15443f46628c12fe328eeb65b832b3a8"
+	{
+		"en"		"Place both paint and smoke to signal your position"
+		"es"		"Place both paint and smoke to signal your position"
+	}
+	"b86d776bbcbe59900547be8d12a00024"
+	{
+		"en"		"Take your time to fix this radio with a welder and call for help"
+		"es"		"Take your time to fix this radio with a welder and call for help"
+	}
+	"5cc4c94ea2847bbd4cc8bb89c86e0c34"
+	{
+		"en"		"Bring a car battery to power up radio"
+		"es"		"Bring a car battery to power up radio"
+	}
+	"07b2a06263be76d481540d5d391fb13d"
+	{
+		"en"		"Take the broken radio back to your cabin"
+		"es"		"Take the broken radio back to your cabin"
+	}
+	"b9d4270431527030f4657dfe76dc5f02"
+	{
+		"en"		"Find a way to get inside"
+		"es"		"Find a way to get inside"
+	}
+	"9013dceb24def7118e0781fa76079a81"
+	{
+		"en"		"Search for an old radio station somewhere in the forest"
+		"es"		"Search for an old radio station somewhere in the forest"
+	}
+	"7ef397d497ede3ff07466b997221670f"
+	{
+		"en"		"Look for your missing friend, he went outside for help"
+		"es"		"Look for your missing friend, he went outside for help"
+	}
+	"1414ccb3a820cce86e8ee8a786e96660"
+	{
+		"en"		"Coffin locked, find a welder to open it"
+		"es"		"Coffin locked, find a welder to open it"
+	}
+	"909d9106851547719ff77b6460dfeca1"
+	{
+		"en"		"Attic locked, ladder and welder is required to gain access"
+		"es"		"Attic locked, ladder and welder is required to gain access"
+	}
+	"e405b314bebd24dc0e2a62673da87c0f"
+	{
+		"en"		"'I AM LEAVING THIS CABIN WHILE IT IS DAYTIME, SHOULDN'T TAKE LONG...'"
+		"es"		"'I AM LEAVING THIS CABIN WHILE IT IS DAYTIME, SHOULDN'T TAKE LONG...'"
+	}
+	"9abcd1f7b7b840875192e433169d3b04"
+	{
+		"en"		"'RADIO WAS USEFUL TO GET SOME DATA BUT IT ENDED UP BREAKING...'"
+		"es"		"'RADIO WAS USEFUL TO GET SOME DATA BUT IT ENDED UP BREAKING...'"
+	}
+	"445650683191eef8512ae206c339ddfa"
+	{
+		"en"		"'I HEARD THAT SOME MILITARY GUYS LEFT FOOD AND WEAPONS SOMEWHERE NEARBY...'"
+		"es"		"'I HEARD THAT SOME MILITARY GUYS LEFT FOOD AND WEAPONS SOMEWHERE NEARBY...'"
+	}
+	"fd97c0c04f215ab42b7bf066f9add6f5"
+	{
+		"en"		"'I MUST HEAD TO THE FOREST AND CHECK THAT OLD CAVE BY MYSELF...'"
+		"es"		"'I MUST HEAD TO THE FOREST AND CHECK THAT OLD CAVE BY MYSELF...'"
+	}
+	"b796bb2c4fcbaae58f5d4c29816f1464"
+	{
+		"en"		"Last note: 'IF I DON'T MAKE IT BACK I HOPE SOMEONE READS THIS, KNOW THAT I DID MY BEST.' -Dave"
+		"es"		"Last note: 'IF I DON'T MAKE IT BACK I HOPE SOMEONE READS THIS, KNOW THAT I DID MY BEST.' -Dave"
+	}
+	"c6fe36909174de2e2ae1d890f2a6c2f2"
+	{
+		"en"		"'I TRIED TO FIND CLUES ABOUT NEW PLACES BUT BOOKS SEEM OUTDATED...'"
+		"es"		"'I TRIED TO FIND CLUES ABOUT NEW PLACES BUT BOOKS SEEM OUTDATED...'"
+	}
+	"281829dc11438e45c7c8692d62f598c8"
+	{
+		"en"		"Note1: 'WE NEED SOME SUPPLIES NOW, MY FRIENDS AT THE CABIN ARE STARVING...'"
+		"es"		"Note1: 'WE NEED SOME SUPPLIES NOW, MY FRIENDS AT THE CABIN ARE STARVING...'"
+	}
+	"24edc04cf63adab263087ed74504090b"
+	{
+		"en"		"Chopper leaves in 60 seconds!"
+		"es"		"Chopper leaves in 60 seconds!"
+	}
+	"96c4abe57239eec0fd3fbf459c6bae82"
+	{
+		"en"		"Our friend is gone, we must leave this place immediately"
+		"es"		"Our friend is gone, we must leave this place immediately"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"es"		"Map created by Ulreth"
+	}
+}

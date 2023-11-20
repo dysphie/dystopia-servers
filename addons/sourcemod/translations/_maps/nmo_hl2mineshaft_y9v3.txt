@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"013ec032d3460d4be4431c6ab1f8f224"
+	{
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+	"5f075ae3e1f9d0382bb8c4632991f96f"
+	{
+		"en"		"Go"
+		"es"		"Avanza"
+	}
+	"7084ebfce9bfceada2cf605fd5a4a716"
+	{
+		"en"		"Break rock"
+		"es"		"Rompe la roca"
+	}
+	"caf70753adaa6e1ce3bd3806e963ed00"
+	{
+		"en"		"Break the rock"
+		"es"		"Rompe la roca"
+	}
+	"5f5b900ea7e27d857d35fc0ca43da1c7"
+	{
+		"en"		"The exit of hell."
+		"es"		"La salida del infierno."
+	}
+	"3bb70419ae799cc0eec1f388455cd460"
+	{
+		"en"		"It's over."
+		"es"		"Se ha terminado."
+	}
+	"8c0ea325010c8d155e71d127b81ef40d"
+	{
+		"en"		"The mineshaft. Made by lowpunch. Ported by yomox9."
+		"es"		"The mineshaft. Creado por lowpunch. Adaptado por yomox9."
+	}
+}

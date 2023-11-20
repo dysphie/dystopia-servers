@@ -1,0 +1,24 @@
+"Maphack"
+{
+	"entities"
+	{
+		"prop_dynamic"
+		{
+			"model" "models/props/broadway/train_car4000_ext.mdl"
+			"targetname" "trainSubwayFix"
+			"origin" "-806.928 -29.6365 -680.848"
+			"angles" "0 0 0"
+			"solid"	"2"
+		}
+
+
+		"prop_dynamic"
+		{
+			"angles" "0 0 0"
+			"targetname" "trainSubwayInsideFix"
+			"model" "models/props/broadway/train_car4000_int.mdl"
+			"solid" "0"
+			"origin" "-809.509 -31.2266 -672.099"
+		}
+	}
+}

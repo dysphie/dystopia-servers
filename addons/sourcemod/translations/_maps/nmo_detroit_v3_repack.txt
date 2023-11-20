@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"64be11b703c13a5d709ac6e5d0fcb300"
+	{
+		"en"		"Wait for evacuation!"
+		"es"		"Espera al rescate"
+	}
+	"b6b89ef33d469529322a96a9ee09fc0e"
+	{
+		"en"		"Start a fire"
+		"es"		"Genera un incendio"
+	}
+	"9a51ad3c8978a0f8599b79d5c01a85d7"
+	{
+		"en"		"Gather paper to start a fire"
+		"es"		"Consigue papel para iniciar el incendio"
+	}
+	"cb2e91c76bd906bfb64dae5011cd7fb0"
+	{
+		"en"		"Open the vault"
+		"es"		"Abre la bóveda"
+	}
+	"0df6889745e6b6340a35fbb1cbd67732"
+	{
+		"en"		"Find a way out of the sewer"
+		"es"		"Sal del alcantarillado"
+	}
+	"dac382cc5748d9fcd416381d2f8e1063"
+	{
+		"en"		"Find a way to extinguish the fire"
+		"es"		"Apaga el fuego"
+	}
+	"d677cb2ee0376cec0ec5f6718af88e71"
+	{
+		"en"		"Go to the basement"
+		"es"		"Ve al sótano"
+	}
+	"9a9aafcece013381c7d86fa3b0e067fc"
+	{
+		"en"		"Open the door with a crowbar"
+		"es"		"Abre la puerta con una palanca"
+	}
+	"d259cd05be869d6e59622bcec59da611"
+	{
+		"en"		"Turn on the computer"
+		"es"		"Enciende la PC"
+	}
+	"7307e09e604302275734c78e3996320d"
+	{
+		"en"		"Assemble the computer (2)"
+		"es"		"Construye una PC (2)"
+	}
+	"668ced8388849c9015b8ae8be74e8c40"
+	{
+		"en"		"Assemble the computer (1)"
+		"es"		"Construye una PC (1)"
+	}
+	"914b9e91f64c711a747d4442f88001ac"
+	{
+		"en"		"Discover the secret materials"
+		"es"		"Descubre los materiales secretos"
+	}
+	"5f695ee624e2b9665dde0008f053ed77"
+	{
+		"en"		"Go to the manager's office"
+		"es"		"Ve a la oficina del manager"
+	}
+	"4d7fa2bf6f241f7963ab6d9bbefdcdbc"
+	{
+		"en"		"Clear the territory of debris"
+		"es"		"Quita la basura del área"
+	}
+	"87f24d5af5876a0001df0272c09aec8a"
+	{
+		"en"		"Talk to the survivor"
+		"es"		"Habla con el sobreviviente"
+	}
+	"42321dbf28497362ee3db48d492e5019"
+	{
+		"en"		"Find the key to the sewer doors"
+		"es"		"Encuentra la llave de las puertas del alcantarillado"
+	}
+	"d243c14d535ff26d64ac84798893cfbf"
+	{
+		"en"		"Find a tool to access the sewers"
+		"es"		"Encuentra una herramienta para acceder al alcantarillado"
+	}
+	"a590c3d22e76df3d03a140b595ef658c"
+	{
+		"en"		"Find an item to put out the fire on the first floor"
+		"es"		"Encuentra algo para extinguir el fuego en el primer piso"
+	}
+	"01c4ff805bdd89b8422e6045c0ec196f"
+	{
+		"en"		"Destroy the barricades to go outside"
+		"es"		"Destruye las barricadas para salir afuera"
+	}
+	"2753521a1c183ae48beeb4ca9e7fd250"
+	{
+		"en"		"activate cheat codes (explode) in the console"
+		"es"		"activate cheat codes (explode) in the console"
+	}
+	"b10a8db164e0754105b7a99be72e3fe5"
+	{
+		"en"		"Hello World"
+		"es"		"Hola mundo"
+	}
+	"80f3031f3273fd2b812bfafea6577c8d"
+	{
+		"en"		"Map by Dexter :3 & Ke & NotAdequate"
+		"es"		"Mapa por Dexter :3 & Ke & NotAdequate"
+	}
+}

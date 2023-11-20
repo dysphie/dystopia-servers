@@ -1,0 +1,1303 @@
+"Phrases"
+{
+	"ae53d82ee1249facc406f4eaa3e189b0"
+	{
+		"en"		"Survive until the next train arrives !"
+		"es"		"Survive until the next train arrives !"
+	}
+	"84b14f48b16c89cfee5d64063de8cec6"
+	{
+		"en"		"Hurry, they are running away !"
+		"es"		"Hurry, they are running away !"
+	}
+	"99b1dd617cfb2d8eb56af59fe25da37d"
+	{
+		"en"		"Find more clues about this place !"
+		"es"		"Find more clues about this place !"
+	}
+	"fe2aac1d711be0bfbd3f2645d57a0034"
+	{
+		"en"		"Use the keyboard to open the exit !"
+		"es"		"Use the keyboard to open the exit !"
+	}
+	"7d69a8fb56b95511a9edb5e312654b19"
+	{
+		"en"		"Unlock the south wing !"
+		"es"		"Unlock the south wing !"
+	}
+	"4b4904619a69274f41627e077afa7429"
+	{
+		"en"		"Explore the north wing !"
+		"es"		"Explore the north wing !"
+	}
+	"7fc80c57fc35cfc1c3fa8c520c2745bb"
+	{
+		"en"		"Find the missing parts and power the generator !"
+		"es"		"Find the missing parts and power the generator !"
+	}
+	"a9af99f374ec0c64de6287038760390d"
+	{
+		"en"		"The fire is blocking the path, find extinguisher !"
+		"es"		"The fire is blocking the path, find extinguisher !"
+	}
+	"78a79e656a74ca8cf0dcc7fb93bc7038"
+	{
+		"en"		"Go outside and look for clues !"
+		"es"		"Go outside and look for clues !"
+	}
+	"3b2bf7fffc0e1dec04d09b38589487d2"
+	{
+		"en"		"Use welder to clear the path !"
+		"es"		"Use welder to clear the path !"
+	}
+	"78214ff8a740336eddd7805db067e84c"
+	{
+		"en"		"Disable door security !"
+		"es"		"Disable door security !"
+	}
+	"ecd6bcc9b0caa369603e8c3821667b4f"
+	{
+		"en"		"Explore the hospice !"
+		"es"		"Explore the hospice !"
+	}
+	"1c66d7da36ce5a541f2ea706a44ac027"
+	{
+		"en"		"The ceiling looks weak, maybe we can break it !"
+		"es"		"The ceiling looks weak, maybe we can break it !"
+	}
+	"c53afbed6e9144b2a0faf692e64dfeb7"
+	{
+		"en"		"The door is locked, find keycard !"
+		"es"		"The door is locked, find keycard !"
+	}
+	"c4fbd1363e5c39bd6ec79f22d1de3da1"
+	{
+		"en"		"Restore power to the gate"
+		"es"		"Restore power to the gate"
+	}
+	"ef4c96dd1f7f7d23d5005f043ab1277a"
+	{
+		"en"		"The path is blocked, find a pickaxe !"
+		"es"		"The path is blocked, find a pickaxe !"
+	}
+	"c48c90a51e742e3e3358b9051a57add9"
+	{
+		"en"		"Find the key and unlock the door"
+		"es"		"Find the key and unlock the door"
+	}
+	"74069a5f0e3b32f0a98e630c183b7621"
+	{
+		"en"		"Find what happened"
+		"es"		"Find what happened"
+	}
+	"6b06e6252110c806d249ac24b04ec67f"
+	{
+		"en"		"REMAINING 174"
+		"es"		"REMAINING 174"
+	}
+	"8ef9231aba863452f70ac9f87a696e75"
+	{
+		"en"		"REMAINING 175"
+		"es"		"REMAINING 175"
+	}
+	"0ffcb95adb25d4e7b9fc8079be462800"
+	{
+		"en"		"REMAINING 176"
+		"es"		"REMAINING 176"
+	}
+	"8f2b09e93649a5063d1b79a330009ce5"
+	{
+		"en"		"REMAINING 177"
+		"es"		"REMAINING 177"
+	}
+	"949d5592b0e25abdf359912fa0286237"
+	{
+		"en"		"REMAINING 178"
+		"es"		"REMAINING 178"
+	}
+	"f29925b6def51db80b1a9019ab5938d9"
+	{
+		"en"		"REMAINING 179"
+		"es"		"REMAINING 179"
+	}
+	"bbef3598dd200961521e1ef4307ef861"
+	{
+		"en"		"REMAINING 180"
+		"es"		"REMAINING 180"
+	}
+	"ae7edcee89e4169b8fcb6580fe74f27f"
+	{
+		"en"		"REMAINING 181"
+		"es"		"REMAINING 181"
+	}
+	"05ba471350c2c09803b43ce726010beb"
+	{
+		"en"		"REMAINING 182"
+		"es"		"REMAINING 182"
+	}
+	"f0100926e354f7d8e5d44cf4383f244d"
+	{
+		"en"		"REMAINING 183"
+		"es"		"REMAINING 183"
+	}
+	"282dfcb4aa5c052b8f86d7ea2494029a"
+	{
+		"en"		"REMAINING 184"
+		"es"		"REMAINING 184"
+	}
+	"7f9ffcf6ef88dbc6172ca1d7fd375c69"
+	{
+		"en"		"REMAINING 185"
+		"es"		"REMAINING 185"
+	}
+	"cd10109c5bc69d6e7aa97924d07e24ad"
+	{
+		"en"		"REMAINING 186"
+		"es"		"REMAINING 186"
+	}
+	"8e4feaf635846e14fbf02fe3c6dbe633"
+	{
+		"en"		"REMAINING 187"
+		"es"		"REMAINING 187"
+	}
+	"2febb0d96faafce12ebf9686727dff74"
+	{
+		"en"		"REMAINING 188"
+		"es"		"REMAINING 188"
+	}
+	"32672c136192407f1d874d43c4c108d7"
+	{
+		"en"		"REMAINING 189"
+		"es"		"REMAINING 189"
+	}
+	"a6828824a4f744b55352621c0b21bf3a"
+	{
+		"en"		"REMAINING 38"
+		"es"		"REMAINING 38"
+	}
+	"ced57d67fd020cdd23891cc1ea77f725"
+	{
+		"en"		"REMAINING 39"
+		"es"		"REMAINING 39"
+	}
+	"9068f13e5db1c2d5271712a98e4734e8"
+	{
+		"en"		"REMAINING 40"
+		"es"		"REMAINING 40"
+	}
+	"30d1ddadc62c32250e6835c026d1955d"
+	{
+		"en"		"REMAINING 41"
+		"es"		"REMAINING 41"
+	}
+	"0c426bab37642794efab53023d0b0199"
+	{
+		"en"		"REMAINING 42"
+		"es"		"REMAINING 42"
+	}
+	"920addaae1e8c2c8f8da1fe2363c34aa"
+	{
+		"en"		"REMAINING 43"
+		"es"		"REMAINING 43"
+	}
+	"be9b8dd81f327b0ef93520e3b4d398a5"
+	{
+		"en"		"REMAINING 44"
+		"es"		"REMAINING 44"
+	}
+	"fd8c804bf9cd5eb683b82627489f5640"
+	{
+		"en"		"REMAINING 45"
+		"es"		"REMAINING 45"
+	}
+	"6568a1df192bed31dd8a73bd96f50c25"
+	{
+		"en"		"REMAINING 46"
+		"es"		"REMAINING 46"
+	}
+	"72ee0a08f3c1ffceec0f97ed518742b1"
+	{
+		"en"		"REMAINING 47"
+		"es"		"REMAINING 47"
+	}
+	"da50f93898be614a7090bf40291d72eb"
+	{
+		"en"		"REMAINING 48"
+		"es"		"REMAINING 48"
+	}
+	"af11e8285805716452d7d8f62396a2e6"
+	{
+		"en"		"REMAINING 49"
+		"es"		"REMAINING 49"
+	}
+	"55deb7ad54804f1bd610763a47c593b7"
+	{
+		"en"		"REMAINING 50"
+		"es"		"REMAINING 50"
+	}
+	"15c3ffae3bea013bd65333acde151f00"
+	{
+		"en"		"REMAINING 51"
+		"es"		"REMAINING 51"
+	}
+	"4d7aa3c020997a166643dfbf0ca6c6bb"
+	{
+		"en"		"REMAINING 52"
+		"es"		"REMAINING 52"
+	}
+	"965b9eb9f138bacec7ea74d860424ce4"
+	{
+		"en"		"REMAINING 53"
+		"es"		"REMAINING 53"
+	}
+	"8b2bdc42004c1041da33852aa68bce08"
+	{
+		"en"		"REMAINING 6"
+		"es"		"REMAINING 6"
+	}
+	"71df2151b2b803f2ac647e8e73aec685"
+	{
+		"en"		"REMAINING 7"
+		"es"		"REMAINING 7"
+	}
+	"addc2910efe7dc72af6ad7a87ebaff72"
+	{
+		"en"		"REMAINING 8"
+		"es"		"REMAINING 8"
+	}
+	"1bcad6d50ece53d6e0174d46f9221fcd"
+	{
+		"en"		"REMAINING 9"
+		"es"		"REMAINING 9"
+	}
+	"52ca1d472a5e70b07c04b5e228fff44c"
+	{
+		"en"		"REMAINING 10"
+		"es"		"REMAINING 10"
+	}
+	"f4891085dc10873a4c84bcf5b966b718"
+	{
+		"en"		"REMAINING 11"
+		"es"		"REMAINING 11"
+	}
+	"db7619fbb4c51ffe2beba1cf2020a318"
+	{
+		"en"		"REMAINING 12"
+		"es"		"REMAINING 12"
+	}
+	"8a2a81467040f98a0930af68306f346b"
+	{
+		"en"		"REMAINING 13"
+		"es"		"REMAINING 13"
+	}
+	"88de0197d2c9f22d0a1691a5079a949a"
+	{
+		"en"		"REMAINING 14"
+		"es"		"REMAINING 14"
+	}
+	"00ee3fcfee40664ad74e6360752f63e7"
+	{
+		"en"		"REMAINING 15"
+		"es"		"REMAINING 15"
+	}
+	"012c45e70527849f2ef418d1595f2a5a"
+	{
+		"en"		"REMAINING 16"
+		"es"		"REMAINING 16"
+	}
+	"65717a7a4804112bf967289d982f920c"
+	{
+		"en"		"REMAINING 17"
+		"es"		"REMAINING 17"
+	}
+	"1ec740e237fe1e3d58446d34a70e1b8e"
+	{
+		"en"		"REMAINING 18"
+		"es"		"REMAINING 18"
+	}
+	"228dd7f51197e4bbecb6dcc6029585ac"
+	{
+		"en"		"REMAINING 19"
+		"es"		"REMAINING 19"
+	}
+	"5e50aa1149cdf9b7ac428df023023ebf"
+	{
+		"en"		"REMAINING 20"
+		"es"		"REMAINING 20"
+	}
+	"f8ed9baab5c61661c165891be9cbb357"
+	{
+		"en"		"REMAINING 21"
+		"es"		"REMAINING 21"
+	}
+	"dc7fa5f3b4df0713cb4370c286a91f86"
+	{
+		"en"		"REMAINING 22"
+		"es"		"REMAINING 22"
+	}
+	"5ca130856fc9d3da69fae5d5d6946d1c"
+	{
+		"en"		"REMAINING 23"
+		"es"		"REMAINING 23"
+	}
+	"70192cc56aaa49c3e45034bf062c149c"
+	{
+		"en"		"REMAINING 24"
+		"es"		"REMAINING 24"
+	}
+	"047d7471b1a634d37ec16560c90f9263"
+	{
+		"en"		"REMAINING 25"
+		"es"		"REMAINING 25"
+	}
+	"72bd42b4e80625326ca975c053ede993"
+	{
+		"en"		"REMAINING 26"
+		"es"		"REMAINING 26"
+	}
+	"1000f0f6e43d26cc7acbe40eb03471c1"
+	{
+		"en"		"REMAINING 27"
+		"es"		"REMAINING 27"
+	}
+	"30bb27c30800c309ea2d1f13750e1ab9"
+	{
+		"en"		"REMAINING 28"
+		"es"		"REMAINING 28"
+	}
+	"4637892e70833de057f79bfb7e750db7"
+	{
+		"en"		"REMAINING 29"
+		"es"		"REMAINING 29"
+	}
+	"521e9eca14f6e5680c443f7443ef9f84"
+	{
+		"en"		"REMAINING 30"
+		"es"		"REMAINING 30"
+	}
+	"ea905c7f0a40b13cd06402471b4da5eb"
+	{
+		"en"		"REMAINING 31"
+		"es"		"REMAINING 31"
+	}
+	"06afab759c55128af801587bab1b7b88"
+	{
+		"en"		"REMAINING 32"
+		"es"		"REMAINING 32"
+	}
+	"d3b829ede487ae26d35a2d72aacf4e1d"
+	{
+		"en"		"REMAINING 33"
+		"es"		"REMAINING 33"
+	}
+	"bffbca1f042404df4b488c725b67a482"
+	{
+		"en"		"REMAINING 34"
+		"es"		"REMAINING 34"
+	}
+	"90c66a83ae15c0ae54fbba52af3b5c6a"
+	{
+		"en"		"REMAINING 35"
+		"es"		"REMAINING 35"
+	}
+	"be0004ccae8939163a50ae185997a53c"
+	{
+		"en"		"REMAINING 36"
+		"es"		"REMAINING 36"
+	}
+	"9f96c5d103aef538c934c47259882927"
+	{
+		"en"		"REMAINING 37"
+		"es"		"REMAINING 37"
+	}
+	"18bfb794baa474c6af15746b3fbd22c7"
+	{
+		"en"		"REMAINING 158"
+		"es"		"REMAINING 158"
+	}
+	"2beefdd7a66a1b0c80860ca68071a758"
+	{
+		"en"		"REMAINING 159"
+		"es"		"REMAINING 159"
+	}
+	"2b5b981d596d54160165082603877a06"
+	{
+		"en"		"REMAINING 160"
+		"es"		"REMAINING 160"
+	}
+	"17283d388ce6fdde69de1528ea055830"
+	{
+		"en"		"REMAINING 161"
+		"es"		"REMAINING 161"
+	}
+	"e9e89c539a69a6f60fc34af164f32801"
+	{
+		"en"		"REMAINING 162"
+		"es"		"REMAINING 162"
+	}
+	"97e12cc0e515c2cbbfbdc498d647987b"
+	{
+		"en"		"REMAINING 163"
+		"es"		"REMAINING 163"
+	}
+	"3dd7b05d11724cfc8ce5ffbab7e2a430"
+	{
+		"en"		"REMAINING 164"
+		"es"		"REMAINING 164"
+	}
+	"fdc51b1ceeee2f13b4f55883714dc10a"
+	{
+		"en"		"REMAINING 165"
+		"es"		"REMAINING 165"
+	}
+	"ff6805d7efc11d12692cdb60175ed798"
+	{
+		"en"		"REMAINING 166"
+		"es"		"REMAINING 166"
+	}
+	"069376dec8ac9c71de548e0deeb8105c"
+	{
+		"en"		"REMAINING 167"
+		"es"		"REMAINING 167"
+	}
+	"2e1e2f7477c8e09956f9cce3306523d8"
+	{
+		"en"		"REMAINING 168"
+		"es"		"REMAINING 168"
+	}
+	"5341f0ccc3075a3e97eed4420475b54d"
+	{
+		"en"		"REMAINING 169"
+		"es"		"REMAINING 169"
+	}
+	"cb0b38a2e4e2084573d54c799956bf38"
+	{
+		"en"		"REMAINING 170"
+		"es"		"REMAINING 170"
+	}
+	"baeccafa8cbb8567860a935bccd14746"
+	{
+		"en"		"REMAINING 171"
+		"es"		"REMAINING 171"
+	}
+	"3801d4a0b3d534c1bec3967d4e6a2eef"
+	{
+		"en"		"REMAINING 172"
+		"es"		"REMAINING 172"
+	}
+	"66df06b7799aeb5e724c1fb3ac881f09"
+	{
+		"en"		"REMAINING 173"
+		"es"		"REMAINING 173"
+	}
+	"dc12a378dc912fcd84cc405b871cecd5"
+	{
+		"en"		"REMAINING 142"
+		"es"		"REMAINING 142"
+	}
+	"84e0305383bb6738b71b13d31afba64b"
+	{
+		"en"		"REMAINING 143"
+		"es"		"REMAINING 143"
+	}
+	"668d471aff10f438e21e81638a0ffea7"
+	{
+		"en"		"REMAINING 144"
+		"es"		"REMAINING 144"
+	}
+	"3ed4ff916d3efeb09395f5e9f845db55"
+	{
+		"en"		"REMAINING 145"
+		"es"		"REMAINING 145"
+	}
+	"e4d6ad53e3b14c30042556fb88189a16"
+	{
+		"en"		"REMAINING 146"
+		"es"		"REMAINING 146"
+	}
+	"f592a21ebf49afabac325b20960eef74"
+	{
+		"en"		"REMAINING 147"
+		"es"		"REMAINING 147"
+	}
+	"8204365f5d69de293c85f1ed3a3afca9"
+	{
+		"en"		"REMAINING 148"
+		"es"		"REMAINING 148"
+	}
+	"1e2622a366c16f6041c085fc84ba6940"
+	{
+		"en"		"REMAINING 149"
+		"es"		"REMAINING 149"
+	}
+	"7001ba8eeeb125c08d0166eb140f68e9"
+	{
+		"en"		"REMAINING 150"
+		"es"		"REMAINING 150"
+	}
+	"039d96b71462098c8b6b4d171a48f284"
+	{
+		"en"		"REMAINING 151"
+		"es"		"REMAINING 151"
+	}
+	"aa9638eab7daa0693da4b5d2cf794c8a"
+	{
+		"en"		"REMAINING 152"
+		"es"		"REMAINING 152"
+	}
+	"80391610aeee69d8a894c5b79fb124c5"
+	{
+		"en"		"REMAINING 153"
+		"es"		"REMAINING 153"
+	}
+	"0774dc89ded088a5ec87831db781dd5b"
+	{
+		"en"		"REMAINING 154"
+		"es"		"REMAINING 154"
+	}
+	"9fd19756a87bb84584fcfa85e44c7851"
+	{
+		"en"		"REMAINING 155"
+		"es"		"REMAINING 155"
+	}
+	"9601c4c1716e0e1001057380ca73d187"
+	{
+		"en"		"REMAINING 156"
+		"es"		"REMAINING 156"
+	}
+	"eb56ccdf83b2ba76eb8ce62bfd76595d"
+	{
+		"en"		"REMAINING 157"
+		"es"		"REMAINING 157"
+	}
+	"ce7e694974ab75a37703c8ec0236942b"
+	{
+		"en"		"REMAINING 0"
+		"es"		"REMAINING 0"
+	}
+	"ec05297ff8543fbad001e049358d0254"
+	{
+		"en"		"REMAINING 190"
+		"es"		"REMAINING 190"
+	}
+	"29240cabe7b2d3431a8c80e7813df6a8"
+	{
+		"en"		"REMAINING 191"
+		"es"		"REMAINING 191"
+	}
+	"11571cd0e2c3ecbcf2b981b73e2461c4"
+	{
+		"en"		"REMAINING 192"
+		"es"		"REMAINING 192"
+	}
+	"699fba5bf80c515a3f2163a65116e2d3"
+	{
+		"en"		"REMAINING 193"
+		"es"		"REMAINING 193"
+	}
+	"7cf4e56478206a9a3e91ed23ed189659"
+	{
+		"en"		"REMAINING 194"
+		"es"		"REMAINING 194"
+	}
+	"bf33792daa204ec65b344a50400371d9"
+	{
+		"en"		"REMAINING 195"
+		"es"		"REMAINING 195"
+	}
+	"9c35437a87cb67616137fad0a3d541c1"
+	{
+		"en"		"REMAINING 196"
+		"es"		"REMAINING 196"
+	}
+	"4bef5d6f104dbfe9cfc180254ab7c750"
+	{
+		"en"		"REMAINING 197"
+		"es"		"REMAINING 197"
+	}
+	"02082a761f26d7aa1c46d96d058115b7"
+	{
+		"en"		"REMAINING 198"
+		"es"		"REMAINING 198"
+	}
+	"6350f03337a6e0e01dc36ac6664b93fa"
+	{
+		"en"		"REMAINING 199"
+		"es"		"REMAINING 199"
+	}
+	"ca7b13c3d67428c3908ff5fdcf8d1790"
+	{
+		"en"		"REMAINING 1"
+		"es"		"REMAINING 1"
+	}
+	"6aaca34dc5e2296eec8511b8c323a553"
+	{
+		"en"		"REMAINING 2"
+		"es"		"REMAINING 2"
+	}
+	"f0108ae3abcfa40fe95c08f7c00fbc38"
+	{
+		"en"		"REMAINING 3"
+		"es"		"REMAINING 3"
+	}
+	"e70974514158310eda5d3003dfa82dcd"
+	{
+		"en"		"REMAINING 4"
+		"es"		"REMAINING 4"
+	}
+	"6d04c87d7ad934296479628e9b5e458a"
+	{
+		"en"		"REMAINING 5"
+		"es"		"REMAINING 5"
+	}
+	"190e6e48f4b7b464fd6b8311094579ca"
+	{
+		"en"		"REMAINING 134"
+		"es"		"REMAINING 134"
+	}
+	"ea04b3e854d6ef107bae369d8217a41e"
+	{
+		"en"		"REMAINING 135"
+		"es"		"REMAINING 135"
+	}
+	"697519a1cfebb478d175a6c70877eca9"
+	{
+		"en"		"REMAINING 136"
+		"es"		"REMAINING 136"
+	}
+	"b9f76bb16c13feaa6f914e46d8dee264"
+	{
+		"en"		"REMAINING 137"
+		"es"		"REMAINING 137"
+	}
+	"5c8d8bfbb3b59b27e16139c86940bf3f"
+	{
+		"en"		"REMAINING 138"
+		"es"		"REMAINING 138"
+	}
+	"644ca0eb190e88d635b91f4f1f2eff86"
+	{
+		"en"		"REMAINING 139"
+		"es"		"REMAINING 139"
+	}
+	"662f056e49f52a171372cae1dd9c5cfe"
+	{
+		"en"		"REMAINING 140"
+		"es"		"REMAINING 140"
+	}
+	"0853f12df5238f9527ec22f1ba0c1f80"
+	{
+		"en"		"REMAINING 141"
+		"es"		"REMAINING 141"
+	}
+	"75daea906d3086054d1b3de8bb354d04"
+	{
+		"en"		"REMAINING 225"
+		"es"		"REMAINING 225"
+	}
+	"6aa371978c4070e14d83b9a6de3e3e0c"
+	{
+		"en"		"WAVE 3"
+		"es"		"WAVE 3"
+	}
+	"0de9c64ad61142e756adb209f57b545a"
+	{
+		"en"		"WAVE 2"
+		"es"		"WAVE 2"
+	}
+	"e3bb1110b1f3363d07d70241cc759028"
+	{
+		"en"		"REMAINING 200"
+		"es"		"REMAINING 200"
+	}
+	"38b97fc51783305cee583e1670389ed5"
+	{
+		"en"		"REMAINING 201"
+		"es"		"REMAINING 201"
+	}
+	"6bf80eee08eda225b2029b961c203a50"
+	{
+		"en"		"REMAINING 202"
+		"es"		"REMAINING 202"
+	}
+	"6acedf13efd975e878bee5c49f9dda60"
+	{
+		"en"		"REMAINING 203"
+		"es"		"REMAINING 203"
+	}
+	"918e30951d78c7c6de255e1046411cdc"
+	{
+		"en"		"REMAINING 204"
+		"es"		"REMAINING 204"
+	}
+	"e7f55c4b43561442e8f957b1b02d7bd2"
+	{
+		"en"		"REMAINING 205"
+		"es"		"REMAINING 205"
+	}
+	"020f6848bb0b20f44a47a2681bb63e44"
+	{
+		"en"		"REMAINING 206"
+		"es"		"REMAINING 206"
+	}
+	"927976d12eb3fd01c6c3ecbcd7d9d8ca"
+	{
+		"en"		"REMAINING 207"
+		"es"		"REMAINING 207"
+	}
+	"5b1070ae616d43da26852a526ada3dca"
+	{
+		"en"		"REMAINING 208"
+		"es"		"REMAINING 208"
+	}
+	"0a8a06d956676fa772af46d440dcbfc1"
+	{
+		"en"		"REMAINING 209"
+		"es"		"REMAINING 209"
+	}
+	"85efe4b4ecef3dacd5751483115bab2f"
+	{
+		"en"		"REMAINING 110"
+		"es"		"REMAINING 110"
+	}
+	"48d4ef4d48b7eb70725df5357b876b68"
+	{
+		"en"		"REMAINING 211"
+		"es"		"REMAINING 211"
+	}
+	"e2423179c2c9585383caeefc2d8c8d8a"
+	{
+		"en"		"REMAINING 212"
+		"es"		"REMAINING 212"
+	}
+	"56a7daa3a5f0fc38b403e74db7304da9"
+	{
+		"en"		"REMAINING 213"
+		"es"		"REMAINING 213"
+	}
+	"89c38b31db1f8ce62fe4a45cc133c8fe"
+	{
+		"en"		"REMAINING 214"
+		"es"		"REMAINING 214"
+	}
+	"324a7a0dae1ac397835dc0388c67a292"
+	{
+		"en"		"REMAINING 215"
+		"es"		"REMAINING 215"
+	}
+	"a3defd825a355c64a0396122b05aaf63"
+	{
+		"en"		"REMAINING 216"
+		"es"		"REMAINING 216"
+	}
+	"b6a27993c5f7c24deac05bd2e6b4f387"
+	{
+		"en"		"REMAINING 217"
+		"es"		"REMAINING 217"
+	}
+	"43ece7b36bbf74c34d93e025d74994cb"
+	{
+		"en"		"REMAINING 218"
+		"es"		"REMAINING 218"
+	}
+	"00dd505f0041f8204899a7190230faca"
+	{
+		"en"		"REMAINING 219"
+		"es"		"REMAINING 219"
+	}
+	"a58d26d9fe478bf8d1b91715bdae81a5"
+	{
+		"en"		"REMAINING 220"
+		"es"		"REMAINING 220"
+	}
+	"32b081240ec921b04c7c0e9ce1b4651f"
+	{
+		"en"		"REMAINING 221"
+		"es"		"REMAINING 221"
+	}
+	"fc31e3457db1d333132d6e9683c3faa3"
+	{
+		"en"		"REMAINING 222"
+		"es"		"REMAINING 222"
+	}
+	"d9e3848f974e271e540e7409c7e2e4ec"
+	{
+		"en"		"REMAINING 223"
+		"es"		"REMAINING 223"
+	}
+	"e7a77f7958755ff86a8405ff9092455a"
+	{
+		"en"		"REMAINING 224"
+		"es"		"REMAINING 224"
+	}
+	"b6faa65e3b89f89c3615be6e3ab750c1"
+	{
+		"en"		"REMAINING 54"
+		"es"		"REMAINING 54"
+	}
+	"844f72afd8ee1673b1c14363ff5baa35"
+	{
+		"en"		"REMAINING 55"
+		"es"		"REMAINING 55"
+	}
+	"1a5b9e62ca992665187efee6a0363f3e"
+	{
+		"en"		"REMAINING 56"
+		"es"		"REMAINING 56"
+	}
+	"9854642799e8d9ff9867b38eeeeddb32"
+	{
+		"en"		"REMAINING 57"
+		"es"		"REMAINING 57"
+	}
+	"8f2863523f80dd4f2e8d128f67fa23cd"
+	{
+		"en"		"REMAINING 58"
+		"es"		"REMAINING 58"
+	}
+	"5b0de5e3571f9403ba20e5f65631b2f2"
+	{
+		"en"		"REMAINING 59"
+		"es"		"REMAINING 59"
+	}
+	"2037213eacdc696f43dff1189f34618e"
+	{
+		"en"		"REMAINING 60"
+		"es"		"REMAINING 60"
+	}
+	"2db6ba5304f6b242c132a58a214def55"
+	{
+		"en"		"REMAINING 61"
+		"es"		"REMAINING 61"
+	}
+	"ff25387e3e86afdd2eef6fb85438d3d9"
+	{
+		"en"		"REMAINING 86"
+		"es"		"REMAINING 86"
+	}
+	"5475fc0b1f1da772090e471cf777798e"
+	{
+		"en"		"REMAINING 87"
+		"es"		"REMAINING 87"
+	}
+	"ade79ca34ef9d5174f76e0d2866350fc"
+	{
+		"en"		"REMAINING 88"
+		"es"		"REMAINING 88"
+	}
+	"e22d88a6d3cc290766cd388a30ece2ec"
+	{
+		"en"		"REMAINING 89"
+		"es"		"REMAINING 89"
+	}
+	"6ac1ae1881ab3e6e84b5a586f695aaf0"
+	{
+		"en"		"REMAINING 90"
+		"es"		"REMAINING 90"
+	}
+	"13e26d1066d232407d821aca56f502ba"
+	{
+		"en"		"REMAINING 91"
+		"es"		"REMAINING 91"
+	}
+	"32b402f0ce494d031606ffc95db7fec2"
+	{
+		"en"		"REMAINING 92"
+		"es"		"REMAINING 92"
+	}
+	"150c06ba91c5e431e1b98e057dcefffa"
+	{
+		"en"		"REMAINING 93"
+		"es"		"REMAINING 93"
+	}
+	"93aa5bb11ef0feabb47037f65fcda17a"
+	{
+		"en"		"REMAINING 94"
+		"es"		"REMAINING 94"
+	}
+	"90ee99191b6da08ef1b89466f0df00f6"
+	{
+		"en"		"REMAINING 95"
+		"es"		"REMAINING 95"
+	}
+	"7d6bb18b6152d6d7d53fd4ef8ad0be52"
+	{
+		"en"		"REMAINING 96"
+		"es"		"REMAINING 96"
+	}
+	"bcbee4fbcff82a6af3c264a25b54f80c"
+	{
+		"en"		"REMAINING 97"
+		"es"		"REMAINING 97"
+	}
+	"deaefb4b241dabbbb055bac168d99345"
+	{
+		"en"		"REMAINING 98"
+		"es"		"REMAINING 98"
+	}
+	"df68ced016cec64e70f14677476f8664"
+	{
+		"en"		"REMAINING 99"
+		"es"		"REMAINING 99"
+	}
+	"ba613f49a55dc7c59d2b764da0c4e1ad"
+	{
+		"en"		"REMAINING 100"
+		"es"		"REMAINING 100"
+	}
+	"b1db05944e085ec712e51910683f1055"
+	{
+		"en"		"REMAINING 101"
+		"es"		"REMAINING 101"
+	}
+	"dfa236431bda01e5709b1eed729c887d"
+	{
+		"en"		"REMAINING 118"
+		"es"		"REMAINING 118"
+	}
+	"7310da7f606e079107db0ebea127544f"
+	{
+		"en"		"REMAINING 119"
+		"es"		"REMAINING 119"
+	}
+	"356b836fe60a63da9f1353a7bc6b21fc"
+	{
+		"en"		"REMAINING 120"
+		"es"		"REMAINING 120"
+	}
+	"d99fdbcecfe19f075811c0f288c53b52"
+	{
+		"en"		"REMAINING 121"
+		"es"		"REMAINING 121"
+	}
+	"404fbba365c5b48368453617cb190103"
+	{
+		"en"		"REMAINING 122"
+		"es"		"REMAINING 122"
+	}
+	"1071c20d01e6637bce353382953bfa5e"
+	{
+		"en"		"REMAINING 123"
+		"es"		"REMAINING 123"
+	}
+	"f71a6ef3a6f82ff246f619d02ceef397"
+	{
+		"en"		"REMAINING 124"
+		"es"		"REMAINING 124"
+	}
+	"817f5d1c67b412d178ee9e5dc344f8b8"
+	{
+		"en"		"REMAINING 125"
+		"es"		"REMAINING 125"
+	}
+	"f0196278d28683809721dbcf6b2d510e"
+	{
+		"en"		"REMAINING 126"
+		"es"		"REMAINING 126"
+	}
+	"ff2e561550beb3255d7b21bf5a0a38d0"
+	{
+		"en"		"REMAINING 127"
+		"es"		"REMAINING 127"
+	}
+	"7423d0e97d548ba66fbd44432bd6d56d"
+	{
+		"en"		"REMAINING 128"
+		"es"		"REMAINING 128"
+	}
+	"cc8c97ebcebddefdbd6be6c0de81b8a8"
+	{
+		"en"		"REMAINING 129"
+		"es"		"REMAINING 129"
+	}
+	"9817a75560c0cd9bbb2d995fc739fd02"
+	{
+		"en"		"REMAINING 130"
+		"es"		"REMAINING 130"
+	}
+	"0876a4ffb5a365239efff42b665d52d1"
+	{
+		"en"		"REMAINING 131"
+		"es"		"REMAINING 131"
+	}
+	"27259e9b4bdd57293fcaae08baa39584"
+	{
+		"en"		"REMAINING 132"
+		"es"		"REMAINING 132"
+	}
+	"934cf33c586e131cd34fffd1d1887ec1"
+	{
+		"en"		"REMAINING 133"
+		"es"		"REMAINING 133"
+	}
+	"2e12fc6a9a7c3e63b33f3f030768543e"
+	{
+		"en"		"REMAINING 70"
+		"es"		"REMAINING 70"
+	}
+	"bbe6676c28cb0fcc60de3ba3ee1cb9be"
+	{
+		"en"		"REMAINING 71"
+		"es"		"REMAINING 71"
+	}
+	"925a0af5c41e1d67100351d6c5a534ae"
+	{
+		"en"		"REMAINING 72"
+		"es"		"REMAINING 72"
+	}
+	"27b25bef486f7487583f6f194dcc3ddb"
+	{
+		"en"		"REMAINING 73"
+		"es"		"REMAINING 73"
+	}
+	"73073a27f86d12513fba31334d098f31"
+	{
+		"en"		"REMAINING 74"
+		"es"		"REMAINING 74"
+	}
+	"57d43575ff2b0dd66dec4cd538f4361c"
+	{
+		"en"		"REMAINING 75"
+		"es"		"REMAINING 75"
+	}
+	"67ca3acdcba7d79ce7670f37a6fffa41"
+	{
+		"en"		"REMAINING 76"
+		"es"		"REMAINING 76"
+	}
+	"ef3bc3bf302325d641404c778e9eaf2d"
+	{
+		"en"		"REMAINING 77"
+		"es"		"REMAINING 77"
+	}
+	"fbf438f1afee26688ea05492059be1e0"
+	{
+		"en"		"REMAINING 78"
+		"es"		"REMAINING 78"
+	}
+	"f34a705edee251126f4a9292e1dc8f55"
+	{
+		"en"		"REMAINING 79"
+		"es"		"REMAINING 79"
+	}
+	"d7926a117fa736444d34c330f1bfa924"
+	{
+		"en"		"REMAINING 80"
+		"es"		"REMAINING 80"
+	}
+	"a0893f6a275cd5149d1ac9db918c3127"
+	{
+		"en"		"REMAINING 81"
+		"es"		"REMAINING 81"
+	}
+	"65bb01ba684d658a88fbf3e8518687a0"
+	{
+		"en"		"REMAINING 82"
+		"es"		"REMAINING 82"
+	}
+	"84057c7465f280decf94ff17899e7efa"
+	{
+		"en"		"REMAINING 83"
+		"es"		"REMAINING 83"
+	}
+	"b04e99cf6fe5862a570b8bdb955d4afc"
+	{
+		"en"		"REMAINING 84"
+		"es"		"REMAINING 84"
+	}
+	"10ba26f8d57159fbafe94b2342adb2cb"
+	{
+		"en"		"REMAINING 85"
+		"es"		"REMAINING 85"
+	}
+	"122e1bdbfcc630b1b7263e7a75083bc4"
+	{
+		"en"		"REMAINING 102"
+		"es"		"REMAINING 102"
+	}
+	"6a5b00e4d8da8765f7cc758e58c0eb90"
+	{
+		"en"		"REMAINING 103"
+		"es"		"REMAINING 103"
+	}
+	"80b5ee6820f0c93269600ed969aaab5e"
+	{
+		"en"		"REMAINING 104"
+		"es"		"REMAINING 104"
+	}
+	"98a96af285815c67d97abb31ca79b08a"
+	{
+		"en"		"REMAINING 105"
+		"es"		"REMAINING 105"
+	}
+	"1c4f7d96718b8f41cdd62dbd586697c7"
+	{
+		"en"		"REMAINING 106"
+		"es"		"REMAINING 106"
+	}
+	"815f362fdc9ad447c91fafc9a11d7138"
+	{
+		"en"		"REMAINING 107"
+		"es"		"REMAINING 107"
+	}
+	"79553af51bdca3a6db4c8ed87ae2cb62"
+	{
+		"en"		"REMAINING 108"
+		"es"		"REMAINING 108"
+	}
+	"71212aa8fff36ca9e898b367ed876c01"
+	{
+		"en"		"REMAINING 109"
+		"es"		"REMAINING 109"
+	}
+	"cdd933bc7c93c034d72d512e5cc9062e"
+	{
+		"en"		"REMAINING 111"
+		"es"		"REMAINING 111"
+	}
+	"2fbe7a927d21fbc08b48dd1c895bac49"
+	{
+		"en"		"REMAINING 112"
+		"es"		"REMAINING 112"
+	}
+	"b3c2a61920b1a01d72719678eaa403e4"
+	{
+		"en"		"REMAINING 113"
+		"es"		"REMAINING 113"
+	}
+	"de658aff0cd67173a357bfb7bf3817ef"
+	{
+		"en"		"REMAINING 114"
+		"es"		"REMAINING 114"
+	}
+	"56b4f8ced7e227aec396c495bc92682c"
+	{
+		"en"		"REMAINING 115"
+		"es"		"REMAINING 115"
+	}
+	"308db8a732565eabe2ed303fadd1dcb1"
+	{
+		"en"		"REMAINING 116"
+		"es"		"REMAINING 116"
+	}
+	"ad688879190e95f66fac92bbc483b950"
+	{
+		"en"		"REMAINING 117"
+		"es"		"REMAINING 117"
+	}
+	"c9d4f61ce803570aa0fdc6597e51e067"
+	{
+		"en"		"REMAINING 62"
+		"es"		"REMAINING 62"
+	}
+	"316e0c1efc1241fa1a82d0a518b182f7"
+	{
+		"en"		"REMAINING 63"
+		"es"		"REMAINING 63"
+	}
+	"380b6ed8c84a1581a6f665997905f535"
+	{
+		"en"		"REMAINING 64"
+		"es"		"REMAINING 64"
+	}
+	"a48cc17e583970676fe7dc86ef87aac6"
+	{
+		"en"		"REMAINING 65"
+		"es"		"REMAINING 65"
+	}
+	"f3322c41021730a10aa4872183a74eb1"
+	{
+		"en"		"REMAINING 66"
+		"es"		"REMAINING 66"
+	}
+	"bfcb771e3bb5bec182cefc1c05df20c0"
+	{
+		"en"		"REMAINING 67"
+		"es"		"REMAINING 67"
+	}
+	"296f3596aec1cf157a2353ec48008142"
+	{
+		"en"		"REMAINING 68"
+		"es"		"REMAINING 68"
+	}
+	"4aeaf23bce71d2763e1ec2708194f049"
+	{
+		"en"		"REMAINING 69"
+		"es"		"REMAINING 69"
+	}
+	"38d10946f0610d267fc1f0a8f458fdb8"
+	{
+		"en"		"Need all players here"
+		"es"		"Need all players here"
+	}
+	"665447dbc367d4fff83c8bd63573147e"
+	{
+		"en"		"Go back and disable 3 electricity panels."
+		"es"		"Go back and disable 3 electricity panels."
+	}
+	"c803f92ee24d7ff00a1cff8bc4c59e1f"
+	{
+		"en"		"Maybe we can find a way to disable the electricity"
+		"es"		"Maybe we can find a way to disable the electricity"
+	}
+	"99e884dd88e35f758486294bb13011e8"
+	{
+		"en"		"Electricity disabled"
+		"es"		"Electricity disabled"
+	}
+	"d134aae75a98b2cfd1693b64dd2da03b"
+	{
+		"en"		"Map by: Ky1"
+		"es"		"Map by: Ky1"
+	}
+	"850bd92f58382712dcfb9c55d0f61c4e"
+	{
+		"en"		"WAVE: 1"
+		"es"		"WAVE: 1"
+	}
+	"859fc720d3b7e1f5d76fed50c5004efb"
+	{
+		"en"		"Enemies approaching !"
+		"es"		"Enemies approaching !"
+	}
+	"9d13bca4f3e7f729d2170e4d4c1cbfeb"
+	{
+		"en"		"Wave 3"
+		"es"		"Wave 3"
+	}
+	"d5b4863c6272dc147d357568c54e34f8"
+	{
+		"en"		"Wave 2"
+		"es"		"Wave 2"
+	}
+	"4f687416b88d42b390715ee52c121b4d"
+	{
+		"en"		"Wave 1"
+		"es"		"Wave 1"
+	}
+	"19b2471ca32a8d2e064d9d9f0cd3746b"
+	{
+		"en"		"Recover your energy now, before they come back !"
+		"es"		"Recover your energy now, before they come back !"
+	}
+	"364b8834f0873f408d38e7502b33591b"
+	{
+		"en"		"Keep calm ! They will come back in any moment..."
+		"es"		"Keep calm ! They will come back in any moment..."
+	}
+	"e727c3f868ef7af12a3f12058e8caa5e"
+	{
+		"en"		"The door is opening, go back and find out who was watching you !"
+		"es"		"The door is opening, go back and find out who was watching you !"
+	}
+	"71ff7d066ceb8abc9a657c873ee9ec36"
+	{
+		"en"		"REMAINING: 150"
+		"es"		"REMAINING: 150"
+	}
+	"84369bcc06c8428ca61410604dc56d79"
+	{
+		"en"		"Attach rope"
+		"es"		"Attach rope"
+	}
+}

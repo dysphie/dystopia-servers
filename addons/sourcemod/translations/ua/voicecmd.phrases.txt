@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"ua"		"Голос"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"ua"		"Потрібні набої"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"ua"		"За мною"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"ua"		"Допоможіть!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"ua"		"Залишайся тут"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"ua"		"Ні"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"ua"		"Так"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"ua"		"Дякую"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"ua"		"Вони наближаються"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"ua"		"Мене поранено"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"ua"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"ua"		"Граната!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"ua"		"Молотова!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"ua"		"Вибухівка!"
+	}
+}

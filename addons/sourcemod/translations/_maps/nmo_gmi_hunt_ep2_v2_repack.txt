@@ -1,0 +1,193 @@
+"Phrases"
+{
+	"c31fcb45671328ebad594f379885d933"
+	{
+		"en"		"Find a ladder to go up"
+		"es"		"Encuentra una escalera para subir"
+	}
+	"7bc90846dbce62e9e279ff47e8cd4f3e"
+	{
+		"en"		"Pick up the bomb and destroy this facility"
+		"es"		"Recoge la bomba y destruye esta instalación"
+	}
+	"b8af86debc38805b3eccc3b956199ef9"
+	{
+		"en"		"Now place all Black Crystals to power up the facility"
+		"es"		"Ahora coloca todos los Cristales Negros para encender la instalación"
+	}
+	"010b4d3574e26613dab33849bc0deab9"
+	{
+		"en"		"Pick up the fourth Black Crystal"
+		"es"		"Recoge el cuarto Cristal Negro"
+	}
+	"74a903a8051cacfc7cdd3cfdcd94b488"
+	{
+		"en"		"Pick up the third Black Crystal and find a key to access door A"
+		"es"		"Recoge el tercer Cristal Negro y encuentra una llave para acceder a la puerta A"
+	}
+	"573b77aa3ad7c7ead7ef5fd52d1395d3"
+	{
+		"en"		"Destroy the metal wall using TNT"
+		"es"		"Destruye la pared de metal usando TNT"
+	}
+	"c5f486e53c959da595be8278ec2ddcc3"
+	{
+		"en"		"Pick up the second Black Crystal"
+		"es"		"Recoge el segundo Cristal Negro"
+	}
+	"36bd4630813d1839ccaec0ee72a82c3a"
+	{
+		"en"		"Pick up the first Black Crystal"
+		"es"		"Recoge el primer Cristal Negro"
+	}
+	"8b38574512af45e6b293594bab13a293"
+	{
+		"en"		"Find TNT in the warehouse shelf room to blow up the wall"
+		"es"		"Encuentra TNT en las estanterías del almacén para volar la pared"
+	}
+	"318086de296cabea85a5a2c1341bddd9"
+	{
+		"en"		"Find a power box to power up the lift"
+		"es"		"Encuentra una caja de energía para encender el ascensor"
+	}
+	"e02ca7966adb4046af776104cd1e1299"
+	{
+		"en"		"Find a key to open the sewer gate"
+		"es"		"Encuentra una llave para abrir la puerta del alcantarillado"
+	}
+	"91ae8cec91179a49ea01b2009255d17a"
+	{
+		"en"		"Place the C4 to blow up the door"
+		"es"		"Coloca el C4 para volar la puerta"
+	}
+	"8bca98d6da5085b1be738349fd662d73"
+	{
+		"en"		"Prepare for the horde"
+		"es"		"Prepárate para la horda"
+	}
+	"8a7d92213c6b7874e442578737427fa6"
+	{
+		"en"		"That caused this place to be haunted and full of zombies. We must destroy this place to finish it!"
+		"es"		"Eso hizo que este lugar estuviera embrujado y lleno de zombis. ¡Debemos destruir este lugar para acabar con él!"
+	}
+	"38114b9e02b71ae80a7a325537e6b123"
+	{
+		"en"		"We are still trying to find out what happened in this place"
+		"es"		"Todavía estamos tratando de averiguar qué pasó en este lugar"
+	}
+	"f6ac92abfbccee3988a5a9e29a2ac923"
+	{
+		"en"		"Episode 2"
+		"es"		"Episodio 2"
+	}
+	"f3db0afaae0a0bee10c82fe1a748b2d5"
+	{
+		"en"		"Prepare for the horde before planting the bomb!"
+		"es"		"¡Prepárate para la horda antes de plantar la bomba!"
+	}
+	"38170823e299d05c958f8d24723c3ae6"
+	{
+		"en"		"Find a secret button in this room to open the secret door"
+		"es"		"Encuentra un botón secreto en esta habitación para abrir la puerta secreta"
+	}
+	"9cf5c4e43c647a97bc3f65b7ba9e0e7f"
+	{
+		"en"		"The bomb has been placed, get out of here!"
+		"es"		"La bomba ha sido colocada, ¡sal de aquí!"
+	}
+	"ec09b1d7d0a1f6f63bbf9f4dc433def7"
+	{
+		"en"		"Pick up some objects to climb up there!"
+		"es"		"¡Recoge algunos objetos para subir allí!"
+	}
+	"b13aed5137704db207d5c73bf771b738"
+	{
+		"en"		"Someone just picked up the fourth Black Crystal"
+		"es"		"Alguien acaba de recoger el cuarto Cristal Negro"
+	}
+	"086f796715e56490c1cb1fb539d28bf7"
+	{
+		"en"		"Please continue to Episode 3"
+		"es"		"Por favor continúa al Episodio 3"
+	}
+	"e1c3639c0e2734ca07baec3c4d9624e8"
+	{
+		"en"		"Alarm control console gate unlocked."
+		"es"		"La puerta de la consola de control de alarma ha sido desbloqueada."
+	}
+	"e2f6ce28cc6b5c82f31f76b73d9508c4"
+	{
+		"en"		"Map (C) 2013 - by Wolvindra-Vinzuerio edited by dewobedil"
+		"es"		"Mapa (C) 2013 - por Wolvindra-Vinzuerio editado por dewobedil"
+	}
+	"0d14c8844bd1dcfb9eab7698ed352748"
+	{
+		"en"		"Thanks for playing!"
+		"es"		"¡Gracias por jugar!"
+	}
+	"c8df5892e48a3427cb6097db4157fc4f"
+	{
+		"en"		"Episode 2 Completed"
+		"es"		"Episodio 2 Completado"
+	}
+	"623302e49714e013edefd4a19a096403"
+	{
+		"en"		"The bomb has been picked up. Now destroy this place!"
+		"es"		"La bomba ha sido recogida. ¡Ahora destruye este lugar!"
+	}
+	"0664bd3ee7d6a01e860067aa4511a3e4"
+	{
+		"en"		"Someone got the key. Now bring the key to access door A"
+		"es"		"Alguien consiguió la llave. Ahora lleva la llave para acceder a la puerta A"
+	}
+	"2fa0b2220f59112f54ecb142de4e3713"
+	{
+		"en"		"This button requires a key to unlock."
+		"es"		"Este botón requiere una llave para desbloquear."
+	}
+	"24791d453db306b97805d841f25c3b62"
+	{
+		"en"		"Alarm deactivated, gate 5 unlocked and opened."
+		"es"		"Alarma desactivada, puerta 5 desbloqueada y abierta."
+	}
+	"ac4261334ebfbec3b83c99b0a0d1afde"
+	{
+		"en"		"Main power activated, alarm control activated."
+		"es"		"Energía principal activada, control de alarma activado."
+	}
+	"30f6d9822476d2dd600c56cb2040f5b1"
+	{
+		"en"		"Someone just picked up the third Black Crystal"
+		"es"		"Alguien acaba de recoger el tercer Cristal Negro"
+	}
+	"48a21e9eb029b23a1f165da7b1c1e703"
+	{
+		"en"		"Someone just picked up the second Black Crystal"
+		"es"		"Alguien acaba de recoger el segundo Cristal Negro"
+	}
+	"8aa8bb4ddf55fb09eebb45421367024f"
+	{
+		"en"		"Someone just picked up the first Black Crystal"
+		"es"		"Alguien acaba de recoger el primer Cristal Negro"
+	}
+	"1a78e1163158b632ccdb06428a244110"
+	{
+		"en"		"You need a power box to activate this button."
+		"es"		"Necesitas una caja de energía para activar este botón."
+	}
+	"c45aa607e000d96424d6ba4a3cdae180"
+	{
+		"en"		"Someone got the power box. Now bring it to the power panel"
+		"es"		"Alguien consiguió la caja de energía. Ahora llévala al panel de energía"
+	}
+	"4faae4ebcde9bd2b987615f38654974f"
+	{
+		"en"		"To open this door, you must find the key to open it."
+		"es"		"Para abrir esta puerta, debes encontrar la llave para abrirla."
+	}
+	"a24eb7036f49ab1a737032d1607878e7"
+	{
+		"en"		"Someone got the key. Now open the sewer gate!"
+		"es"		"Alguien consiguió la llave. ¡Ahora abre la puerta del alcantarillado!"
+	}
+}

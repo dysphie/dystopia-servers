@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"c71ce04767467996c799b84084a60336"
+	{
+		"en"		"Find lever to restore power"
+		"es"		"Encuentra una palanca para restablecer la electricidad"
+	}
+	"1fdf9df050a91accbc0bc3843ceba739"
+	{
+		"en"		"survive 1 minute until the train arrives"
+		"es"		"Sobrevive por 1 minuto hasta que llegue el tren"
+	}
+	"93fcf97523391c082d7fcb4436ee2541"
+	{
+		"en"		"Press the button to call for extraction when ready"
+		"es"		"Presiona el botón para llamar al rescate cuando todos estén listos"
+	}
+	"8d46c1777326440a2c571b79eaa0448c"
+	{
+		"en"		"pull the lever and head down to train."
+		"es"		"Gira la palanca y baja hacia el tren."
+	}
+	"976d12681437340c0a24a25cf2d76d36"
+	{
+		"en"		"pull the lever and wait for door to open."
+		"es"		"Gira la palanca y espera a que la puerta se abra"
+	}
+	"0a6d164ede9f4557d37637ccb5744990"
+	{
+		"en"		"keep going ahead"
+		"es"		"Sigue avanzando"
+	}
+	"10da657d3000bb470d0ed296533ff8e1"
+	{
+		"en"		"jump into the white light"
+		"es"		"Salta a la luz blanca"
+	}
+	"41b18cc9a011be7fa2face22bd4e9a2f"
+	{
+		"en"		"Find key to door"
+		"es"		"Encuentra la llave de la puerta"
+	}
+	"0489132224279bfe7f0da7cb04974368"
+	{
+		"en"		"Proceed ahead"
+		"es"		"Avanza"
+	}
+	"b020d2d9b6109dfdceffd0d7826bc92d"
+	{
+		"en"		"Find a way to open door"
+		"es"		"Encuentra una forma de abrir la puerta"
+	}
+	"e4ea51e6bbcf9aab9d7e50c05bc190a3"
+	{
+		"en"		"find a way into control room and use the interface"
+		"es"		"Encuentra una forma de acceder a la sala de control y usa la interfaz"
+	}
+	"1f492f0d2bc3c2de87997740cd226a4f"
+	{
+		"en"		"go to the elevator and head your way down"
+		"es"		"Desciende por el elevador"
+	}
+	"ee2f9bf19e9d0f53f673b00db571e2d3"
+	{
+		"en"		"Pull lever to power on elevator"
+		"es"		"Gira la palanca para encender el elevador"
+	}
+	"0277d44fc685e3de2f7821b11ab0d664"
+	{
+		"en"		"Leave the room"
+		"es"		"Sal de la habitación"
+	}
+	"708fb9bea2f5f5eaafdf3d36641885a8"
+	{
+		"en"		"Secret respawn enabled"
+		"es"		"Spawn secreto activado"
+	}
+	"0c80e2640022ab310b60421746f81431"
+	{
+		"en"		"All players must be in elevator"
+		"es"		"Todos los jugadores deben entrar al elevador"
+	}
+	"07aa5c135f5d7869bbc9fea26c435ecc"
+	{
+		"en"		"Use the generator"
+		"es"		"Usa el generador"
+	}
+	"b64c35091c37eb71b9b89684399be38b"
+	{
+		"en"		"Created by Shadgrimgrvy"
+		"es"		"Creado por Shadgrimgrvy"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"07c2f5396b1f4b4c078d722cc7369af9"
+	{
+		"en"		"Map ported by xkarma123x"
+		"es"		"Mapa adaptado por xkarma123x"
+	}
+	"b0c9870a6fc7e3d6a5b05634cb8338a0"
+	{
+		"en"		"Playtesters: Fereles, Cbchanel, SEABEAR!,0,0"
+		"es"		"Playtesters: Fereles, Cbchanel, SEABEAR!,0,0"
+	}
+	"ade3d8b6b52bc59de6301e25196b2b11"
+	{
+		"en"		"Paranoia: An Abstract Map"
+		"es"		"Paranoia: Un Mapa Abstracto"
+	}
+	"5ebedf1ac058b7c02b2acbcbf098c0c4"
+	{
+		"en"		"Paranoia"
+		"es"		"Paranoia"
+	}
+	"00e855138ffed74f58105cb6eb0e8cd1"
+	{
+		"en"		"Special Thanks: Valve Developer Community, Halfwit-2, Cbchanel,0,0"
+		"es"		"Agradecimientos a: Valve Developer Community, Halfwit-2, Cbchanel,0,0"
+	}
+}

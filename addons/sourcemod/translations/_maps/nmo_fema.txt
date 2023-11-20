@@ -1,0 +1,363 @@
+"Phrases"
+{
+	"a1a857670cbe85dd01d4ca3ac6c30099"
+	{
+		"en"		"Sterilisation countdown initiated."
+		"es"		"Sterilisation countdown initiated."
+	}
+	"97830abfcf40408e632bb6e97bbc7346"
+	{
+		"en"		"5 seconds until sterilisation."
+		"es"		"5 seconds until sterilisation."
+	}
+	"c9a5a16f5eff6fb532c075389bd70c71"
+	{
+		"en"		"Initiating sterilisation"
+		"es"		"Initiating sterilisation"
+	}
+	"e833ba3ff4c23d31e5415f808cf68af7"
+	{
+		"en"		"10 seconds until sterilisation."
+		"es"		"10 seconds until sterilisation."
+	}
+	"87adbf0e3970e294bc1ae5cee1a2e70d"
+	{
+		"en"		"20 seconds until sterilisation."
+		"es"		"20 seconds until sterilisation."
+	}
+	"e5a301e9e81b43450da127c1997e6965"
+	{
+		"en"		"30 seconds until sterilisation."
+		"es"		"30 seconds until sterilisation."
+	}
+	"2165087a17b628b7dfee54a3f58317b6"
+	{
+		"en"		"Use a ladder to sneak inside the quarantine"
+		"es"		"Use a ladder to sneak inside the quarantine"
+	}
+	"4eb3e1a72bba703665de0235778d4442"
+	{
+		"en"		"Use a welder to cut open the quarantine door"
+		"es"		"Use a welder to cut open the quarantine door"
+	}
+	"41823810d890bf51eebb6bf4d1b16b55"
+	{
+		"en"		"Keep the diesel pumping"
+		"es"		"Keep the diesel pumping"
+	}
+	"491f174fb4cc23ee5421a3d890577ce8"
+	{
+		"en"		"Setup the diesel pump for the chopper"
+		"es"		"Setup the diesel pump for the chopper"
+	}
+	"7f7263a7d9aff6f19dbe7b3e61bff24a"
+	{
+		"en"		"Radio an S.O.S"
+		"es"		"Radio an S.O.S"
+	}
+	"087109d915c5a7a318d094d837119855"
+	{
+		"en"		"Find the fuse for the surface generator"
+		"es"		"Find the fuse for the surface generator"
+	}
+	"75c00a602eda6cca99eeca57dc9ca211"
+	{
+		"en"		"Break out of the decontamination area"
+		"es"		"Break out of the decontamination area"
+	}
+	"3cbfa154512f7bff147e238d45ecf9e7"
+	{
+		"en"		"Use the captain’s key to access the armoury"
+		"es"		"Use the captain’s key to access the armoury"
+	}
+	"0d8078da18185ac0c62b919c2dcd5c7b"
+	{
+		"en"		"Take the stashed vaccine"
+		"es"		"Take the stashed vaccine"
+	}
+	"bb92e153bda076ce5ccca08f84adc4e9"
+	{
+		"en"		"Uncouple the load wagon"
+		"es"		"Uncouple the load wagon"
+	}
+	"6cf3557a8bdd091b1972feff7e9a5a72"
+	{
+		"en"		"Arm sterilisation procedure"
+		"es"		"Arm sterilisation procedure"
+	}
+	"7d42b1c11d70aa1ed405b5a6a507c164"
+	{
+		"en"		"Secure the vaccine onto the supply drop"
+		"es"		"Secure the vaccine onto the supply drop"
+	}
+	"eecabff3d5cace6de1fa568c45de787d"
+	{
+		"en"		"Secure the vaccine in case"
+		"es"		"Secure the vaccine in case"
+	}
+	"10a43ddd59f100a5bdace9b2e9c15f30"
+	{
+		"en"		"Use the key to open surface gate"
+		"es"		"Use the key to open surface gate"
+	}
+	"57d92990287b8fe3c8a292ebda7c9b68"
+	{
+		"en"		"Weld off the ladders latch"
+		"es"		"Weld off the ladders latch"
+	}
+	"cf2970da9a929a7dc8cc0f9e25b11752"
+	{
+		"en"		"Use blasting caps to clear rock slide"
+		"es"		"Use blasting caps to clear rock slide"
+	}
+	"86f7f8bf4b512dcca9762fb6515cb139"
+	{
+		"en"		"Use the blasting caps to blow the rock"
+		"es"		"Use the blasting caps to blow the rock"
+	}
+	"51b803c9b907aa99e4d76abc11ef542e"
+	{
+		"en"		"Use crank to open specimen gate"
+		"es"		"Use crank to open specimen gate"
+	}
+	"e916582f96d1773556af9b485e6e2597"
+	{
+		"en"		"Cut the power to the electrified puddle"
+		"es"		"Cut the power to the electrified puddle"
+	}
+	"58781bfda011b4ff216723ecababadf0"
+	{
+		"en"		"Radio for rescue"
+		"es"		"Radio for rescue"
+	}
+	"6a9ba8d3d2c224552a1ef023b8c92767"
+	{
+		"en"		"Find an explosive to open the quarantine door"
+		"es"		"Find an explosive to open the quarantine door"
+	}
+	"d47a8f00a970b089d088ac06969d5cf2"
+	{
+		"en"		"Escape the complex before sterilisation"
+		"es"		"Escape the complex before sterilisation"
+	}
+	"6df5d1371f06444b72f5ff87531d46f1"
+	{
+		"en"		"Prime napalm canisters "
+		"es"		"Prime napalm canisters "
+	}
+	"79d62cb27d9675bf5406b8054b9983ee"
+	{
+		"en"		"Recover the retroviral vaccine"
+		"es"		"Recover the retroviral vaccine"
+	}
+	"ad4ebb86476c6420ae033484465b8940"
+	{
+		"en"		"Play bob the master’s voice to open the high security freezer"
+		"es"		"Play bob the master’s voice to open the high security freezer"
+	}
+	"601b993dfcf6ad6192f909400e64d717"
+	{
+		"en"		"Use the radio to send an SOS"
+		"es"		"Use the radio to send an SOS"
+	}
+	"a75f031ce37cf8ea4dbbce8e0639e0f9"
+	{
+		"en"		"Reactivate the radio relay"
+		"es"		"Reactivate the radio relay"
+	}
+	"fc6620c3c8a72abf2133fea141bcdfff"
+	{
+		"en"		"Use Menglers code to open the high security freezer"
+		"es"		"Use Menglers code to open the high security freezer"
+	}
+	"c65221a9f974f1b5dc481b8aec9ccd3f"
+	{
+		"en"		"Use the I.Dcard  to disengage viral lockdown "
+		"es"		"Use the I.Dcard  to disengage viral lockdown "
+	}
+	"0d2d87df31e70d2fe54ccdf70879201b"
+	{
+		"en"		"Fix the fuse box to open emergency door"
+		"es"		"Fix the fuse box to open emergency door"
+	}
+	"d608ed28a5f95387cf3633a1e15a66b8"
+	{
+		"en"		"#nmo_fema_Objective37"
+		"es"		"#nmo_fema_Objective37"
+	}
+	"e1586bb67f71909cc3bf5304ca70329a"
+	{
+		"en"		"#nmo_fema_Objective36"
+		"es"		"#nmo_fema_Objective36"
+	}
+	"8e8bea57d3f76ec97de4582f2f240a3c"
+	{
+		"en"		"#nmo_fema_Objective35"
+		"es"		"#nmo_fema_Objective35"
+	}
+	"1e7a02f4c5b274bd167f4aabe23bdf0b"
+	{
+		"en"		"#nmo_fema_Objective34"
+		"es"		"#nmo_fema_Objective34"
+	}
+	"16c4557e97032d5b530f1a4daa94085f"
+	{
+		"en"		"#nmo_fema_Objective33"
+		"es"		"#nmo_fema_Objective33"
+	}
+	"a40abc47a89d5e0b60a2e817135a793d"
+	{
+		"en"		"#nmo_fema_Objective32"
+		"es"		"#nmo_fema_Objective32"
+	}
+	"313e7e8933c8291dc997e7a72b11243d"
+	{
+		"en"		"#nmo_fema_Objective31"
+		"es"		"#nmo_fema_Objective31"
+	}
+	"d7918248b38bd82091b6fe5469b134c9"
+	{
+		"en"		"#nmo_fema_objective27"
+		"es"		"#nmo_fema_objective27"
+	}
+	"a6cf5dfb69bc272afa7fe4ae40acba9c"
+	{
+		"en"		"#nmo_fema_objective30"
+		"es"		"#nmo_fema_objective30"
+	}
+	"c5cd0f202283013d4844e47dbdf39518"
+	{
+		"en"		"#nmo_fema_objective29"
+		"es"		"#nmo_fema_objective29"
+	}
+	"5c0f1d978fc8952973531260f83edadf"
+	{
+		"en"		"#nmo_fema_objective28"
+		"es"		"#nmo_fema_objective28"
+	}
+	"4cff3be87aa8afe8d3c68c9341649759"
+	{
+		"en"		"#nmo_fema_objective25"
+		"es"		"#nmo_fema_objective25"
+	}
+	"52aad48db291b534f03e4b04bb4ea9cb"
+	{
+		"en"		"#nmo_fema_objective24"
+		"es"		"#nmo_fema_objective24"
+	}
+	"710b95933345c269c5855a5225fb1a63"
+	{
+		"en"		"#nmo_fema_objective21"
+		"es"		"#nmo_fema_objective21"
+	}
+	"863c2bec04f2c4fa4c73687d77561d2c"
+	{
+		"en"		"#nmo_fema_objective20"
+		"es"		"#nmo_fema_objective20"
+	}
+	"aa796357b3b5e89a93000213ece78130"
+	{
+		"en"		"#nmo_fema_objective19"
+		"es"		"#nmo_fema_objective19"
+	}
+	"9d71a4ff90bd1ebe5d071badcf852ca5"
+	{
+		"en"		"#nmo_fema_objective18"
+		"es"		"#nmo_fema_objective18"
+	}
+	"0576b73519f2f512e2a3c034f22c649d"
+	{
+		"en"		"#nmo_fema_objective17"
+		"es"		"#nmo_fema_objective17"
+	}
+	"8af6eabc6ba4e0593cdb69f78e8c0c8b"
+	{
+		"en"		"#nmo_fema_objective16"
+		"es"		"#nmo_fema_objective16"
+	}
+	"754e6e5318c4390eee9c271781a5f569"
+	{
+		"en"		"#nmo_fema_objective15"
+		"es"		"#nmo_fema_objective15"
+	}
+	"fa0aa0ca1fd78041f74e6ab5b77ab117"
+	{
+		"en"		"#nmo_fema_objective14"
+		"es"		"#nmo_fema_objective14"
+	}
+	"55ac29494e9c52d7222c6a8a1616e053"
+	{
+		"en"		"#nmo_fema_objective13"
+		"es"		"#nmo_fema_objective13"
+	}
+	"947608f2022fd28bdf4d1db2e999d97a"
+	{
+		"en"		"#nmo_fema_objective12"
+		"es"		"#nmo_fema_objective12"
+	}
+	"129664e9d51e2b845518b6c8e428cb31"
+	{
+		"en"		"#nmo_fema_objective11"
+		"es"		"#nmo_fema_objective11"
+	}
+	"3430a613233a84f144e18774aa87e88d"
+	{
+		"en"		"#nmo_fema_objective10"
+		"es"		"#nmo_fema_objective10"
+	}
+	"34165fd56c988e3a74f08a332c339243"
+	{
+		"en"		"#nmo_fema_objective9"
+		"es"		"#nmo_fema_objective9"
+	}
+	"aed771bc29b3149f3cd3ac8451a79a90"
+	{
+		"en"		"#nmo_fema_objective8"
+		"es"		"#nmo_fema_objective8"
+	}
+	"12e2a08f358bca886b7987bfd1f6b5f7"
+	{
+		"en"		"#nmo_fema_objective7"
+		"es"		"#nmo_fema_objective7"
+	}
+	"fe3a0f20f2351e366a64e5356c8202b6"
+	{
+		"en"		"#nmo_fema_objective5"
+		"es"		"#nmo_fema_objective5"
+	}
+	"5717bf759b5efb0ffac659389a17e142"
+	{
+		"en"		"#nmo_fema_objective4"
+		"es"		"#nmo_fema_objective4"
+	}
+	"857406256d435ccd8158ee2dbfbb14fa"
+	{
+		"en"		"#nmo_fema_msg1"
+		"es"		"#nmo_fema_msg1"
+	}
+	"5a103ea97574f869b77ee4d321905fb4"
+	{
+		"en"		"#nmo_fema_30sec"
+		"es"		"#nmo_fema_30sec"
+	}
+	"81d91bf49d0c2d1a1534ea34cd857aef"
+	{
+		"en"		"#nmo_fema_20sec"
+		"es"		"#nmo_fema_20sec"
+	}
+	"8ba1fe341ebe974db1c862e3d664dde5"
+	{
+		"en"		"#nmo_fema_10sec"
+		"es"		"#nmo_fema_10sec"
+	}
+	"7ebeb481b7a9210eab1dcaf4a61504f6"
+	{
+		"en"		"#nmo_fema_kill"
+		"es"		"#nmo_fema_kill"
+	}
+	"80fa8b93af26b796fe131efea1e69d09"
+	{
+		"en"		"#nmo_fema_5sec"
+		"es"		"#nmo_fema_5sec"
+	}
+}

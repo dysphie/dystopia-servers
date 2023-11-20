@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"6481d1dba09025961fe7140a198f69af"
+	{
+		"en"		"All players need to be back at the pay phone in 90 seconds"
+		"es"		"Todos los jugadores deben volver al teléfono público en menos de 3 minutos"
+	}
+	"e698bc0f15ed0f37843e007db2f29c7a"
+	{
+		"en"		"I must wait for help to come."
+		"es"		"Debo esperar a que venga ayuda"
+	}
+	"c37d439fb23799fed1fe9ba5612a99e3"
+	{
+		"en"		"I shouldn't go there. I must head for the subway"
+		"es"		"No debería ir allí. Tengo que ir hacia el subte"
+	}
+	"74bef4110de7e964d14d50f3a853c8f1"
+	{
+		"en"		"Map by JohnSmith."
+		"es"		"Mapa por JohnSmith."
+	}
+	"9033383161de5c7a5d2cf66ad18bb270"
+	{
+		"en"		"Ported by Miza."
+		"es"		"Adaptado por Miza."
+	}
+	"1a788089be635148ffc348f968d0a433"
+	{
+		"en"		"Find the blowtorch."
+		"es"		"Encuentra un soldador."
+	}
+	"57258144eb933d7fc2dfc4cdc18adf3c"
+	{
+		"en"		"Elevator is behind, but this door wont open."
+		"es"		"El elevador está detrás, pero la puerta no se abre."
+	}
+	"11438181b1f3461bcb99abb8a097b004"
+	{
+		"en"		"Runners Incoming!!!"
+		"es"		"Vienen corredores!!!"
+	}
+	"8977e0200b1288f255f83e681bb6f2b6"
+	{
+		"en"		"Blowtorch found, use it on the door."
+		"es"		"Soldador encontrado, úsalo en la puerta."
+	}
+	"538fde13e0b76f5457ca03d9b38ef18e"
+	{
+		"en"		"Destroy it! Close all the valves to increase its pressure."
+		"es"		"¡Destrúyela! Cierra todas sus válvulas para subir su presión."
+	}
+	"e96c36592e1ddb5d8b242efd68a9264e"
+	{
+		"en"		"No doubt, this machine is infecting the water.."
+		"es"		"Sin dudas, esta máquina esta infectando el agua.."
+	}
+	"a0d43685f83b210cc5000ce256e3313e"
+	{
+		"en"		"Go back to the elevator!!"
+		"es"		"¡¡Vuelve al elevador!!"
+	}
+	"fb300ceba08f6796ac4313eaa90874f6"
+	{
+		"en"		"All valves are closed..."
+		"es"		"Todas las válvulas están cerradas..."
+	}
+	"31719e0c2c9b9fdb5a3a00915e719222"
+	{
+		"en"		"Hacking Subway's gate...This gonna take about 2 minutes"
+		"es"		"Hackeando la entrada al subte...Esto va a demorar como 2 minutos"
+	}
+	"6959d7e06a9d911b0f566f0efb27e98c"
+	{
+		"en"		"Almost done...1 minute remaining.."
+		"es"		"Casi listo...1 minuto restante"
+	}
+	"27f547fdc8c00c4a7e0cb0547aec6107"
+	{
+		"en"		"30 seconds remaining.."
+		"es"		"30 segundos restantes.."
+	}
+	"c18acd7fb3eb47d77695bd60bf126ee7"
+	{
+		"en"		"10 seconds.."
+		"es"		"10 segundos.."
+	}
+	"2efd758c7c97e670a3d22c6247b9ff7a"
+	{
+		"en"		"It's open, get in!"
+		"es"		"Esta abierta, entra!"
+	}
+	"e0a3f91f43f825fbab5ccea1a2c881c3"
+	{
+		"en"		"Fire gates are unlocked!"
+		"es"		"Las puertas están desbloqueadas!"
+	}
+	"29ec7e659dd09037aa27410e5f6b6466"
+	{
+		"en"		"Survive for 2 minutes until rescue arrives."
+		"es"		"Sobrevive por 2 minutos hasta que llegue el rescate"
+	}
+	"f44d9ee91f4f070e7582c9b833dbad9c"
+	{
+		"en"		"Use the phone to call for extraction."
+		"es"		"Usa el teléfono para llamar al rescate"
+	}
+	"ea6d66c2ccb20b9d8ca4db14791a0bc8"
+	{
+		"en"		"Return back to the streets."
+		"es"		"Vuelve a la calle."
+	}
+	"8f5d34c29c91629331720309dbb60eab"
+	{
+		"en"		"Run back to the elevator."
+		"es"		"Corre hacia el elevador."
+	}
+	"47723562f04068a1c7643eaca305a785"
+	{
+		"en"		"Close all 4 valves."
+		"es"		"Cierra las 4 válvulas"
+	}
+	"110da59cb0d984dca8861577eb61fe2c"
+	{
+		"en"		"Find the source of the infection."
+		"es"		"Encuentra la fuente de la infección."
+	}
+	"c23fbdc40d03adf893e28708294f563c"
+	{
+		"en"		"Get to the underground."
+		"es"		"Ve al subterráneo."
+	}
+	"a5dade61bdecc03b6c9e8bbe8bc2a9ea"
+	{
+		"en"		"Find the blowtorch in train and weld the door."
+		"es"		"Encuentra un soldador en un vagón y úsalo en la puerta."
+	}
+	"33d63e11c46d3016957350174b9617d7"
+	{
+		"en"		"Find the elevator."
+		"es"		"Encuentra el elevador."
+	}
+	"61c54dd363af053c1c86c418406bd2a0"
+	{
+		"en"		"Proceed down into subway."
+		"es"		"Continúa por el subterráneo."
+	}
+	"cf8473688c1d391c5ef953712f2f735d"
+	{
+		"en"		"The doors are locked, hack the PC inside control room."
+		"es"		"Las puertas están cerradas, hackea una PC en la sala de control"
+	}
+	"507b9249aad8dc2340b904781291080e"
+	{
+		"en"		"Enter the subway."
+		"es"		"Entra al subterráneo."
+	}
+	"bcf546d3c48ac8bade309be0e54ad5ec"
+	{
+		"en"		"Wait until the gate is opened."
+		"es"		"Espera hasta que la puerta esté abierta"
+	}
+	"9099def211b9379a7e82d519d0c66d92"
+	{
+		"en"		"Use the phone to call for some help."
+		"es"		"Usa el teléfono para pedir ayuda"
+	}
+	"dded001f9a06fb26e8fbea9276cacd58"
+	{
+		"en"		"Go to the subway."
+		"es"		"Ve al subterráneo."
+	}
+	"fcb992d3cdf88edd39fb286ffce754c6"
+	{
+		"en"		"Gear up before heading to subway."
+		"es"		"Toma suministros antes de ir al subterráneo."
+	}
+}

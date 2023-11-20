@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"7625e863b15d6e638c6a78f6b51eddfb"
+	{
+		"en"		"Survive until the fighter jets destroy the bridge"
+		"es"		"Sobrevive hasta que los aviones destruyan el puente"
+	}
+	"93fa40ba7b0891bdbfb82f14a06fc342"
+	{
+		"en"		"Answer the radio and prepare to fight a horde"
+		"es"		"Prepárate para luchar contra una horda y responde la radio"
+	}
+	"9d89502f2bce3f15d3514a68c1821e0f"
+	{
+		"en"		"Place flares on both sides of the bridge to signal your position"
+		"es"		"Coloca bengalas en ambos lados del puente para señalizar tu posición"
+	}
+	"655f4a450759454728bc2d581c938535"
+	{
+		"en"		"Use the radio"
+		"es"		"Usa la radio"
+	}
+	"c92e3f676e1005dd387830ae15922a42"
+	{
+		"en"		"Head to the military encampment across the bridge"
+		"es"		"Ve al asentamiento al otro lado del puente"
+	}
+	"59bdb1982679d32b3d9d00905003b511"
+	{
+		"en"		"Go to the bridge"
+		"es"		"Ve al puente"
+	}
+	"ede74e4554f05886d1c327afb28b08e7"
+	{
+		"en"		"Find pliers and fuel to restart the generator"
+		"es"		"Encuentra pinzas y combustible para encender el generador"
+	}
+	"66e09a53ee1eb4cd866be16d74f06428"
+	{
+		"en"		"Keep moving"
+		"es"		"Continúa avanzando"
+	}
+	"722c8139634ee107eab3c8379bb67c07"
+	{
+		"en"		"Use dynamite to blow up the sewer wall"
+		"es"		"Toma explosivos y úsalos en la pared de las alcantarillas"
+	}
+	"c55b364ca727611d1f2db5c61610e72f"
+	{
+		"en"		"Walk across the water and head to the gun store"
+		"es"		"Cruza el agua y ve a la tienda de armas"
+	}
+	"189e78e0be5ecaefecfa5f3557f9ecc2"
+	{
+		"en"		"The water flow is too strong. Shut off the drain via console"
+		"es"		"El caudal de agua es muy potente. Ve a la consola y cierra el drenaje."
+	}
+	"ebd80797d84b25dcb5987912272a4349"
+	{
+		"en"		"Weld open the reservoir entrance"
+		"es"		"Encuentra un soldador y úsalo en la entrada del depósito de agua."
+	}
+	"f3dbc2de00a57acccddc412890078750"
+	{
+		"en"		"Explore the sewers and find clues"
+		"es"		"Investiga las alcantarillas y encuentra pistas"
+	}
+	"d6dac197c5ec0131fa0ef5656d86a48e"
+	{
+		"en"		"The military air raid is coming. Find a key and go to the sewer"
+		"es"		"Se acerca un ataque aéreo militar, busca la llave y dirígete a las alcantarillas"
+	}
+	"eb53cecba12993b3c9607c6392f5c02d"
+	{
+		"en"		"Find the battery and recover the radio signal"
+		"es"		"Encuentra baterías para arreglar la señal de la radio"
+	}
+	"2548f0029faece1632c0f063003cb403"
+	{
+		"en"		"Find the crowbar and open the gate"
+		"es"		"Abre las puertas con una palanca"
+	}
+	"eeb938138df336e2f6958d67227691ba"
+	{
+		"en"		"Look for the military"
+		"es"		"Busca a los militares"
+	}
+	"d3933bfef0c735a11b663ad6b0a64d11"
+	{
+		"en"		"Go to the street"
+		"es"		"Ve a la calle"
+	}
+	"43e7cc45e8c31292921c4bd7ffb989cf"
+	{
+		"en"		"If you succeed, we will send helicopters to pick you up. Good luck"
+		"es"		"Si lo logras, enviaremos helicópteros para extraerte. Buena suerte"
+	}
+	"416f434ea29192d345d0f5dfd82c8dcb"
+	{
+		"en"		"What? There's someone else at the bridge?"
+		"es"		"¿Qué? ¿Hay alguien más en el puente?"
+	}
+	"c75407e61ee3d24c6a9396a230eab717"
+	{
+		"en"		"Good, we need you to help us defend it"
+		"es"		"Bien, necesitamos tu ayuda para defenderlo"
+	}
+	"2bbd8549a463c051effb012399ad7e5c"
+	{
+		"en"		"Until our jets arrive and blow it up"
+		"es"		"Hasta que lleguen nuestros jets y lo hagan explotar"
+	}
+	"c9b2f14d529d6a8cf231c32cac0f320d"
+	{
+		"en"		"You have to place flares to signal your position and prevent friendly fire"
+		"es"		"Debes colocar varias bengalas para indicar tu posición y prevenir fuego amigo"
+	}
+	"80c81cdc09bc573dbb92703bb3b0a6e2"
+	{
+		"en"		"We are on our way, hold on"
+		"es"		"Estamos en camino, aguanta"
+	}
+}

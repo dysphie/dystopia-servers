@@ -1,0 +1,105 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"Objective2"
+			}
+			"replace"
+			{
+				"GlowEntity1Color"	"255 205 25"
+				"GlowEntity1Name"	"keygay"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245719"
+			"keyvalues"
+			{
+				"origin" "4782 11530 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245721"
+			"keyvalues"
+			{
+				"origin" "4761.08 11424.6 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245723"
+			"keyvalues"
+			{
+				"origin" "4737.93 11284.6 7.88367"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245733"
+			"keyvalues"
+			{
+				"origin" "4788.18 11116.8 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245725"
+			"keyvalues"
+			{
+				"origin" "4858.95 11222.5 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245727"
+			"keyvalues"
+			{
+				"origin" "5025.97 11232.9 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4342193"
+			"keyvalues"
+			{
+				"origin" "5071.35 11135.7 7.88365"
+			}
+		}
+
+		$edit
+		{
+			"id" "4245731"
+			"keyvalues"
+			{
+				"origin" "4967.5 11091.6 7.88365"
+			}
+		}
+	}
+	"entities"
+	{
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"Objective2"
+			}
+			"replace"
+			{
+				"GlowEntity1Color"	"255 0 0"
+				"GlowEntity1Name"	"keygay"
+			}
+		}
+	}
+}

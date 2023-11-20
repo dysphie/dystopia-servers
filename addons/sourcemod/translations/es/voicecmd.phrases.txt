@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"es"		"Voz"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"es"		"Necesito munición"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"es"		"Sígueme"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"es"		"¡Ayuda!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"es"		"Paren"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"es"		"No"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"es"		"Sí"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"es"		"¡Gracias!"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"es"		"¡Aquí vienen!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"es"		"Herido/a"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"es"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"es"		"¡Granada!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"es"		"¡Molotov!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"es"		"¡TNT!"
+	}	
+}

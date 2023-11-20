@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"(团队) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"*死亡*(团队) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"(观察者) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"(死亡) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"(观察) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"(已撤离) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s}"
+		"chi"		"(观察) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"chi"		"(管理员) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s}"
+		"chi"		"(死亡) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"(已撤离) {1}: "
+	}
+}

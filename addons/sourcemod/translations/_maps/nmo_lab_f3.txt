@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"8bfae9760fc818cda71f4f0ba29c0ce2"
+	{
+		"en"		"Load biochemical agents"
+		"es"		"Carga agentes bioquímicos"
+	}
+	"20d13864ba0f6fc1d2f90065ee03e356"
+	{
+		"en"		"Go to B Area Laboratory"
+		"es"		"Ve al laboratorio del área B"
+	}
+	"112d998969c790e6c87bf945c7ec2844"
+	{
+		"en"		"Kill the infected to open the sealed door"
+		"es"		"Mata a los infectados para abrir la puerta sellada"
+	}
+	"df58056796f571eb19b0060a91878672"
+	{
+		"en"		"Use the ID card to open the door in C Area"
+		"es"		"Usa la tarjeta para abrir la puerta del área C"
+	}
+	"10295e548d785b69590f1d272959fd06"
+	{
+		"en"		"Enter the biology laboratory"
+		"es"		"Ingresa al laboratorio de biología"
+	}
+	"6ae1dfb405484aca7971d153766a135d"
+	{
+		"en"		"Operate the facility computer to get the next instructions"
+		"es"		"Opera el ordenador de la instalación para obtener las siguientes instrucciones"
+	}
+	"f7336a80de5348dcceb0a91318e19eb7"
+	{
+		"en"		"Find the scattered company property and put it in the safe before taking it away"
+		"es"		"Encuentra la propiedad de la empresa dispersa y pónla en la caja fuerte antes de llevarla"
+	}
+	"9b94e092eacddca6642677b431265231"
+	{
+		"en"		"Activate the pest control program"
+		"es"		"Activa el programa de control de plagas"
+	}
+	"b30d979d1ba509828dde644a4d4f5b72"
+	{
+		"en"		"Evacuate from C area"
+		"es"		"Evacua del área C"
+	}
+	"43876bab88dda4487df6d89fc50112f4"
+	{
+		"en"		"The gas will reach its maximum in 5 minutes!"
+		"es"		"¡El gas alcanzará su máximo en 5 minutos!"
+	}
+}

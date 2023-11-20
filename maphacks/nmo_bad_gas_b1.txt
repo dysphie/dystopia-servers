@@ -1,0 +1,17 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$modify
+		{
+			"match"
+			{
+				"targetname" "sirenhead"
+			}
+			"replace"
+			{
+				"DefaultAnim"	"run"
+			}
+		}
+	}
+}

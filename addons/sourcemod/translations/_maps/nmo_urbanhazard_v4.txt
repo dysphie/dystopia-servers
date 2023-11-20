@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"9c494bf3450d8d087865190fd212a4c1"
+	{
+		"en"		"Soldier: Good. Prepare to fight, activate the siren when you are ready!"
+		"es"		"Soldado: Bien. Preparense para pelear, activen la sirena cuando estén listos!"
+	}
+	"a56b48b9bd600c3038d9bafbb54af5fc"
+	{
+		"en"		"Soldier: Activate the siren there. That can be risky, but you need to try, if you want escape!"
+		"es"		"Soldado: Activen la sirena allí. Puede ser peligroso, pero deben hacerlo si quieren escapar!"
+	}
+	"b7c587b481610c8442f9843db2f94385"
+	{
+		"en"		"Soldier: You need to get to yard, there is our old outpost"
+		"es"		"Soldado: Deben llegar a la plaza, allí se encuentra nuestro viejo asentamiento"
+	}
+	"5daf14bf4db17e43b733bfefe928955a"
+	{
+		"en"		"Soldier: But there is so many zombies in town, it's hard to get to your position"
+		"es"		"Soldado: Pero hay tantos zombis en la ciudad, es dificil ir a su ubicación"
+	}
+	"0844236cea945c0a45547aad7bc8f6a2"
+	{
+		"en"		"Soldier: Yes, we can send truck to rescue you"
+		"es"		"Soldado: Si, podemos enviar un camión para rescatarlos"
+	}
+	"32efa61a2423e94be3e457418d85f685"
+	{
+		"en"		"Guy: Oops! That's not your day...."
+		"es"		"Hombre: Ups! No es su día de suerte...."
+	}
+	"787965eec43960c08334d1c0a7feec02"
+	{
+		"en"		"Guy: HELP ME PLEASE"
+		"es"		"Hombre: AYUDA POR FAVOR"
+	}
+	"9256c56931e0fb03c55349c9b70a2162"
+	{
+		"en"		"Guy: I need..... Fuck! Zombies broke barricades!"
+		"es"		"Hombre: Necesito..... Mierda! Los zombis rompieron las barricadas!"
+	}
+	"74bae2ea8fae5a038a1a25e9e817bab2"
+	{
+		"en"		"Guy: Alright, I almost repaired radio, but I need your help"
+		"es"		"Hombre: Bien, casi termino de arreglar la radio, pero necesito su ayuda"
+	}
+	"e1848b8f87ae11d2b863b38c779fa88e"
+	{
+		"en"		"Guy: I dont see them, they've disappeared"
+		"es"		"Hombre: No los veo, han desaparecido"
+	}
+	"6e8865aaa7cc74d8eb04d26d42741e44"
+	{
+		"en"		"Guy: Shit! Someone shot down the heli!"
+		"es"		"Hombre: Mierda! Alguien tumbó el helicóptero!"
+	}
+	"4ec37e0106ef860dbc3171ca1778e390"
+	{
+		"en"		"Guy: It's in your building, there is a computer. Find ladder and key!"
+		"es"		"Hombre: Está en el edificio. Encuentren una escalera y una llave!"
+	}
+	"501530c3382add511cff3aae888081e5"
+	{
+		"en"		"Guy: You need to call for extraction. Get in my room"
+		"es"		"Hombre: Deben llamar al rescate. Vayan a mi habitación"
+	}
+	"8f27eb42fcf6e4d3a202f697a1ea891b"
+	{
+		"en"		"Guy: Damn! Radio is broken"
+		"es"		"Hombre: Mierda! La radio está rota"
+	}
+	"4a67167015e91593ed5b80485755567d"
+	{
+		"en"		"Guy: I'm stucking here. I....."
+		"es"		"Hombre: Estoy atrapado aquí, n....."
+	}
+	"ffc80fbe01251fe79ca214d15e431f7d"
+	{
+		"en"		"Guy: Hey! I see you from front building"
+		"es"		"Hombre: Hey! Los veo desde el edificio"
+	}
+	"654f024cb3a0fa3f0050b05ca5b1c6d0"
+	{
+		"en"		"Defend this point until rescue arrives!"
+		"es"		"Defiendan este punto hasta que llege el rescate!"
+	}
+	"42cffa6fb5900d80ce3ba9f920365ed2"
+	{
+		"en"		"Activate siren when you will be ready to fight!"
+		"es"		"Activen la sirena cuando se sientan listos para pelear!"
+	}
+	"2de00f7bcd52aef913cda29d605140d2"
+	{
+		"en"		"Contact with national guard!"
+		"es"		"Hagan contacto con la armada!"
+	}
+	"4450fdf278ca3f4414955c059f7e95a3"
+	{
+		"en"		"Go to the yard! Find something to get over the fence!"
+		"es"		"Vayan a la plaza! Encuentren algo para saltar la reja!"
+	}
+	"190ee8e25487fe21b4084266cd711354"
+	{
+		"en"		"Find something useful in the alley to repair radio!"
+		"es"		"Encuentren algo útil en el callejón para reparar la radio!"
+	}
+	"0c01bc8c0cd72c41ff72a4bd4864e8b0"
+	{
+		"en"		"Go through the storage inside of the market!"
+		"es"		"Vayan por el depósito del mercado!"
+	}
+	"174daee8e40bd1c1506173512b2f949f"
+	{
+		"en"		"Go through gate!"
+		"es"		"Vayan a través de la reja!"
+	}
+	"0768425eb8864e187518e6d15086baa2"
+	{
+		"en"		"Go outside and wait for heli!"
+		"es"		"Vayan afuera y esperen al helicóptero!"
+	}
+	"9e4234d6f16d2c6ac56b538353b3c11d"
+	{
+		"en"		"Use laptop!"
+		"es"		"Usen la laptop!"
+	}
+	"dc602f3e0ceb278520ab3dbcf4518e10"
+	{
+		"en"		"Use computer!"
+		"es"		"Usen la computadora!"
+	}
+	"be2631ae1566e223c5525b2083e6ee82"
+	{
+		"en"		"Find key on street and unlock the door!"
+		"es"		"Encuentren una llave en la calle y desbloqueen la puerta!"
+	}
+	"dbcefdf59bd3d6451748e6fb0616adbd"
+	{
+		"en"		"Find ladder!"
+		"es"		"Encuentren una escalera!"
+	}
+	"1359efd1d1fe67e6aba2a0579dfeb293"
+	{
+		"en"		"Take walkie-talkie!"
+		"es"		"Tomen el walkie-talkie!"
+	}
+	"b48c29466d02ba753b8ca7bc0dfc6f8e"
+	{
+		"en"		"Use radio!"
+		"es"		"Usen la radio!"
+	}
+	"45c578b8a644084f970b8b617ce3e406"
+	{
+		"en"		"Go to street through downstairs window!"
+		"es"		"Vayan a la calle mediante la ventana del piso inferior!"
+	}
+	"f5cfed81293a69d7963d287dd45700c5"
+	{
+		"en"		"Break planks!"
+		"es"		"Rompan las maderas!"
+	}
+	"10c22e629aec45b3a88f989ed4e15313"
+	{
+		"en"		"All players must be on the yard to fight with zombies!"
+		"es"		"Todos los jugadores deben estar en la plaza para pelear contra los zombis!"
+	}
+}

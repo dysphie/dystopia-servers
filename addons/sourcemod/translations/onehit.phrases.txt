@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Enabled"
+	{
+		"en"	"Admin enabled no hit mode. You will instantly die if hit by a zombie"
+		"es"	"Admin activó modo no golpes. Si recibes daño de un zombi morirás instantáneamente"
+	}
+	"Disabled"
+	{
+		"en"	"No hit mode disabled"
+		"es"	"Modo no golpes desactivado"
+	}
+	"Skill issue"
+	{
+		"en"	"Skill issue"
+		"es"	"Problema de habilidad"
+	}
+}

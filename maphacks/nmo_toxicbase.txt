@@ -1,0 +1,8 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove { "id" "630780" }
+		$remove { "id" "630782" }
+	}
+}

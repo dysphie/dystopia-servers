@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Stink Meter"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"	"{darkkhaki}{1}{khaki} is {darkkhaki}{2}%%{khaki} stinky"
+		"es"	"{darkkhaki}{1}{khaki} tiene un {darkkhaki}{2}%%{khaki} de mal olor"
+	}
+}

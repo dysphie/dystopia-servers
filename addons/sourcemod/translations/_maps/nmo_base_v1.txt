@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"9fadde94718bf0b33940e88bd5f8d943"
+	{
+		"en"		"Remove obstacles, escape."
+		"es"		"Elimina los obstáculos, escapa."
+	}
+	"961db9187c6446140a625cd2db35a58d"
+	{
+		"en"		"Find the walkie-talkie."
+		"es"		"Encuentra un walkie-talkie."
+	}
+	"fce9641158ea4bbb9c6b875d16bae7ff"
+	{
+		"en"		"Enter password: 7787."
+		"es"		"Ingresa la contraseña: 7787."
+	}
+	"b3765c3b2215c07e34d44c94fe8560aa"
+	{
+		"en"		"Crack the locking device."
+		"es"		"Descifra la cerradura de la puerta."
+	}
+	"77568cfa3a360b491d52f52a01ead0e2"
+	{
+		"en"		"Leave the warehouse."
+		"es"		"Sal del depósito"
+	}
+	"bf558d53d3f819a333b46d7e10b3c416"
+	{
+		"en"		"Restore power."
+		"es"		"Restaura la energía."
+	}
+	"5bd79a4e3e25ab1ef257d0dd97c08282"
+	{
+		"en"		"Activate the elevator, go to the helipad."
+		"es"		"Activa el ascensor, ve al helipuerto."
+	}
+	"2002d79522282ec30340a78ea79f8891"
+	{
+		"en"		"Find a fuse."
+		"es"		"Encuentra un fusible."
+	}
+	"6e73be3c06858ab680e99ab5dad441fb"
+	{
+		"en"		"Activate the sealed door, wait for the helicopter."
+		"es"		"Activa la puerta sellada y espera al helicóptero."
+	}
+	"5493eae4f576fc192a4c205bc84ea238"
+	{
+		"en"		"Receive the container and transport it to the designated location."
+		"es"		"Recoge los suministros del contenedor."
+	}
+	"e31fd2b614e62f7f8111d4bd8c5a285b"
+	{
+		"en"		"¡Shoot!"
+		"es"		"¡Dispara!"
+	}
+	"2f898acb956c8766e92502239b5b5823"
+	{
+		"en"		"Award!"
+		"es"		"¡Premio!"
+	}
+	"5d203b4aa8cc6761116aa9f7c435f8bf"
+	{
+		"en"		"Perfect!"
+		"es"		"¡Perfecto!"
+	}
+	"0b3f0f1d5e261f4ac549b1bdd142f444"
+	{
+		"en"		"The container was delivered."
+		"es"		"El contenedor fue entregado."
+	}
+	"27b7f1197976666985839d62c264d7d7"
+	{
+		"en"		"Wait 3 minutes"
+		"es"		"Espera 3 minutos"
+	}
+}

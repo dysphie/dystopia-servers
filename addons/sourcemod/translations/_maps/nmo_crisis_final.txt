@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"b06253f7ce51cab90d5d60be2180e47d"
+	{
+		"en"		"Надо окончить эту войну/Need to end this war"
+		"es"		"Надо окончить эту войну/Need to end this war"
+	}
+	"af61c90c59c2188f32c148a52d5ad7f9"
+	{
+		"en"		"Почините мой телепорт. Мои записи подскажут то, как это сделать/Try to fix my teleport. My notes will guide you!"
+		"es"		"Почините мой телепорт. Мои записи подскажут то, как это сделать/Try to fix my teleport. My notes will guide you!"
+	}
+	"1b89a6d8816745a0beab1368e888a586"
+	{
+		"en"		"Найдите мой телепорт/Find my teleport"
+		"es"		"Найдите мой телепорт/Find my teleport"
+	}
+	"4ad4841d0aa842c0796b70ef1e4a4216"
+	{
+		"en"		"The readings are all off."
+		"es"		"The readings are all off."
+	}
+	"bc638637cc3aab09e7001033fadeabc2"
+	{
+		"en"		"It breaks down more every day."
+		"es"		"It breaks down more every day."
+	}
+	"3298918fde3520cacc54d9455f3bd8f4"
+	{
+		"en"		"It all leads back here. Why?"
+		"es"		"It all leads back here. Why?"
+	}
+	"4b2d8bcb5b13a8e9fbc48e4c85b0e7f6"
+	{
+		"en"		"Now to make a larger version..."
+		"es"		"Now to make a larger version..."
+	}
+	"fdd67273860680c19af9076e075c8d4a"
+	{
+		"en"		"NO FUCKING GUNS"
+		"es"		"NO FUCKING GUNS"
+	}
+	"9a4aed45ce80c0a6a5066d99cb64ca9c"
+	{
+		"en"		"I will find the one who did this."
+		"es"		"I will find the one who did this."
+	}
+	"d1cb28152a7fa9793f01ddaabcd2f930"
+	{
+		"en"		"We took so much with us. Damn."
+		"es"		"We took so much with us. Damn."
+	}
+	"0d83c19f287b03256bf78e80ff9daaa7"
+	{
+		"en"		"I'm so alone. They won't let me out."
+		"es"		"I'm so alone. They won't let me out."
+	}
+	"953ffc6b93097e1fcf68814975f14a7e"
+	{
+		"en"		"My god. He's done it."
+		"es"		"My god. He's done it."
+	}
+	"7f082aeec1631b1bf5e592de198d2a39"
+	{
+		"en"		"The food is gone. But I don't feel hungry..."
+		"es"		"The food is gone. But I don't feel hungry..."
+	}
+	"98d0d664133b4a6cf864bf103884da15"
+	{
+		"en"		"We must work faster to win this war."
+		"es"		"We must work faster to win this war."
+	}
+	"db3e0da99e893f47d430f25fb312724d"
+	{
+		"en"		"The void has no power over me."
+		"es"		"The void has no power over me."
+	}
+	"aed78eb994181d7d21b97f337343f7a0"
+	{
+		"en"		"The left lever will save those who survive."
+		"es"		"The left lever will save those who survive."
+	}
+	"378166c369ed353c10a42fe921affd99"
+	{
+		"en"		"...do it for our families..."
+		"es"		"...do it for our families..."
+	}
+	"d9c2f47fd0bfc6f810945a67651057e6"
+	{
+		"en"		"...do it for technology..."
+		"es"		"...do it for technology..."
+	}
+	"0d62e8ef459e445fc4a394b04f17dece"
+	{
+		"en"		"...or else time itself may end."
+		"es"		"...or else time itself may end."
+	}
+	"d9bedc3747301a207b261b0fed600322"
+	{
+		"en"		"We must do it for culture..."
+		"es"		"We must do it for culture..."
+	}
+	"728bb0a1686c3f313519b8fba8460392"
+	{
+		"en"		"...do it for the future..."
+		"es"		"...do it for the future..."
+	}
+}

@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"b6de7f6f454a64cab0da3885afcb0c20"
+	{
+		"en"		"撤离"
+		"es"		"撤离"
+	}
+	"8b21ebb497e53a0601361c2cbd7a9944"
+	{
+		"en"		"通过货运火车撤离"
+		"es"		"通过货运火车撤离"
+	}
+	"3ba3a4a37cfdf888589e14671ef6d23f"
+	{
+		"en"		"开水阀提升水位"
+		"es"		"开水阀提升水位"
+	}
+	"f35b65095e42f5cfaff49e08c86cca2a"
+	{
+		"en"		"炸毁栅栏"
+		"es"		"炸毁栅栏"
+	}
+	"dacc681bdae551a0970474208997dc6b"
+	{
+		"en"		"打破上方的水管"
+		"es"		"打破上方的水管"
+	}
+	"a43bcb86c8ae8d6379dd692b5e3f9a59"
+	{
+		"en"		"18s"
+		"es"		"18s"
+	}
+	"b6f4d48b4a7d12f9731a9c6c79c5b18e"
+	{
+		"en"		"17s"
+		"es"		"17s"
+	}
+	"5ca79b660fbc39474b73990080af2082"
+	{
+		"en"		"16s"
+		"es"		"16s"
+	}
+	"1fd7635317edfeca9054894ac9ef9b5e"
+	{
+		"en"		"14s"
+		"es"		"14s"
+	}
+	"262779a2d9336414bb830ceb2dac2610"
+	{
+		"en"		"15s"
+		"es"		"15s"
+	}
+	"b7047ec367f4d718f1a50b6b344d72b8"
+	{
+		"en"		"13s"
+		"es"		"13s"
+	}
+	"d084dd881a190aa5ffdf0ce21cff9509"
+	{
+		"en"		"12s"
+		"es"		"12s"
+	}
+	"5de51b96f0ce068d74abece2cd57527b"
+	{
+		"en"		"11s"
+		"es"		"11s"
+	}
+	"e82d0467d342d614cd3d6368b302d9e7"
+	{
+		"en"		"10s"
+		"es"		"10s"
+	}
+	"fef9a0ef9e26e578d14b904ef474848a"
+	{
+		"en"		"9s"
+		"es"		"9s"
+	}
+	"ee3b1e42b451a7032605f24f4d9a8e53"
+	{
+		"en"		"8s"
+		"es"		"8s"
+	}
+	"a71f6f6b42d679a78650d265622bdf42"
+	{
+		"en"		"6s"
+		"es"		"6s"
+	}
+	"a43103fa2c1ea6fb4d78c4e895fcfee4"
+	{
+		"en"		"7s"
+		"es"		"7s"
+	}
+	"f20a81adfd4dc563c9c150f62b5e5014"
+	{
+		"en"		"5s"
+		"es"		"5s"
+	}
+	"bc6bee4eecb7ad250cd0b5ef7e1387d3"
+	{
+		"en"		"4s"
+		"es"		"4s"
+	}
+	"0d4896d431044c92de2840ed53b6fbbd"
+	{
+		"en"		"3s"
+		"es"		"3s"
+	}
+	"c804c3a15ebe05b5baf40ad5ee12be1f"
+	{
+		"en"		"2s"
+		"es"		"2s"
+	}
+	"0cf81f9038402e85910cfad17d0051b3"
+	{
+		"en"		"1s"
+		"es"		"1s"
+	}
+	"bb61fa2850d04f4e5e34449de13febe4"
+	{
+		"en"		"0s"
+		"es"		"0s"
+	}
+}

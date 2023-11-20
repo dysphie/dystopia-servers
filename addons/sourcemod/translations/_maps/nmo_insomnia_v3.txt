@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"7043566abe2402211911e02f8d121cc7"
+	{
+		"en"		"Wait 2 minutes before the door opens and escape!"
+		"es"		"Espera 2 minutos a que se abra la puerta y escapa!"
+	}
+	"739a8e97d61ff39c0b2056465f2414b0"
+	{
+		"en"		"Prepare for wave before pressing button near door inside building"
+		"es"		"Prepárate para la horda antes de pulsar el botón cerca de la puerta en el interior del edificio"
+	}
+	"b701a9efca0661578c1650bd4cecde76"
+	{
+		"en"		"Go to final area"
+		"es"		"Ve al área final"
+	}
+	"e2216f7d4a9dbee30c03d25255f485e8"
+	{
+		"en"		"Go to pipe station"
+		"es"		"Go to pipe station"
+	}
+	"0ca49149532b5a5230d57a55b73579d5"
+	{
+		"en"		"Proceed even further"
+		"es"		"Avanza más"
+	}
+	"5f05fb1d05bdbbb2ffe2c517d4925090"
+	{
+		"en"		"Find 3 batteries to open basement door"
+		"es"		"Encuentra 3 pilas para abrir la puerta del sótano"
+	}
+	"0489132224279bfe7f0da7cb04974368"
+	{
+		"en"		"Proceed ahead"
+		"es"		"Avanza"
+	}
+	"4b6a1185486abc5c386f5c105da577cd"
+	{
+		"en"		"Guess the right color light to proceed"
+		"es"		"Adivina el color de luz correcto para continuar"
+	}
+	"9b97a32b658810d8499e47850e5af690"
+	{
+		"en"		"Explore ahead"
+		"es"		"Sigue adelante y explora"
+	}
+	"e9ea76d0499260df1bc8ae036691d77e"
+	{
+		"en"		"enter secret portal"
+		"es"		"Entra al portal secreto"
+	}
+	"c81e1131ff3389f63c566a08c220b17f"
+	{
+		"en"		"Carefully make your way down to the white light"
+		"es"		"Dirígete con cuidado hacia la luz blanca."
+	}
+	"30735044e1bfa2b4ed0b5558129a681a"
+	{
+		"en"		"Find the lever and put it in the base"
+		"es"		"Encuentra la palanca y ponla en la base."
+	}
+	"2174ea2587332c4c59a13e33ea32e66b"
+	{
+		"en"		"Find key and open door 03"
+		"es"		"Encuentra la llave y abre la puerta 03"
+	}
+	"708fb9bea2f5f5eaafdf3d36641885a8"
+	{
+		"en"		"Secret respawn enabled"
+		"es"		"Respawn secreto activado"
+	}
+	"fd2ea145f7c67f970dd9ef5ece8588e7"
+	{
+		"en"		"All players need to be in room."
+		"es"		"Todos los jugadores deben estar en la habitación."
+	}
+	"4995c3b594f1ad3984576b9e9caed469"
+	{
+		"en"		"Need all players within final area."
+		"es"		"Todos los jugadores deben estar en área final."
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"b64c35091c37eb71b9b89684399be38b"
+	{
+		"en"		"Created by Shadgrimgrvy"
+		"es"		"Creado por Shadgrimgrvy"
+	}
+	"740c33be142f577f1cef60290cfed1d6"
+	{
+		"en"		"Special Thanks: Valve Developer Community, Halfwit-2, Ou812"
+		"es"		"Agradecimiento a: Valve Developer Community, Halfwit-2, Ou812"
+	}
+	"470be20e6ef9800a1e3c93adf64f164e"
+	{
+		"en"		"Playtesters: Geranium, Obtuse_Goose, [FH] Gorgutz, Idontknow"
+		"es"		"Playtesters: Geranium, Obtuse_Goose, [FH] Gorgutz, Idontknow"
+	}
+	"4dfc3defa634f299aff023e55a8ca7b4"
+	{
+		"en"		"Insomnia: An Abstract Map"
+		"es"		"Insomnia: Un mapa abstracto"
+	}
+	"866d815adb055e7d4ed23ac402b221f1"
+	{
+		"en"		"Insomnia"
+		"es"		"Insomnia"
+	}
+}

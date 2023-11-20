@@ -1,0 +1,153 @@
+"Phrases"
+{
+	"5f2c3a0dc1d16021d95a98f53a169cf6"
+	{
+		"en"		"Proceed back to Hartington road"
+		"es"		"Proceed back to Hartington road"
+	}
+	"66a6b27580002a706abb513759f47b4b"
+	{
+		"en"		"Use welder on manhole cover"
+		"es"		"Use welder on manhole cover"
+	}
+	"d6598b115d36d66b7de17c299558ab4f"
+	{
+		"en"		"Proceed to the chapel"
+		"es"		"Proceed to the chapel"
+	}
+	"7776df202313723f4240e9319d3639e2"
+	{
+		"en"		"Find crank to open door"
+		"es"		"Find crank to open door"
+	}
+	"8bf5ad0714e090820f11d4508dc20752"
+	{
+		"en"		"Use welder on 3 wall sockets to cause a fire!"
+		"es"		"Use welder on 3 wall sockets to cause a fire!"
+	}
+	"2fc3714af70a1a4770d93f8703bb4bfb"
+	{
+		"en"		"Answer the phone"
+		"es"		"Answer the phone"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Call for help"
+	}
+	"3b31173afabd99aa56e13376b049dcd3"
+	{
+		"en"		"Find dead staff member to enter warehouse office"
+		"es"		"Find dead staff member to enter warehouse office"
+	}
+	"86ed761bab007b381ffe0a26356c9e84"
+	{
+		"en"		"Proceed to Hartington road"
+		"es"		"Proceed to Hartington road"
+	}
+	"3acdb0d4e6eb85a97e6ef6e22ca2390b"
+	{
+		"en"		"Answer the Phone"
+		"es"		"Answer the Phone"
+	}
+	"2c5cc72c32fd0ce535e1d05fdc1e36a9"
+	{
+		"en"		"Find fuel tank to blast through garden wall"
+		"es"		"Find fuel tank to blast through garden wall"
+	}
+	"74c77a66e417d8a3ba7a6ce8cf5a08ba"
+	{
+		"en"		"Use tnt to get through to the store"
+		"es"		"Use tnt to get through to the store"
+	}
+	"b172b33b71d85205906fc78151a9010b"
+	{
+		"en"		"Weld through store side entrance"
+		"es"		"Weld through store side entrance"
+	}
+	"33712216f68e633126113db4fa0b045b"
+	{
+		"en"		"Break into the store."
+		"es"		"Break into the store."
+	}
+	"af3539852d7b63a9c2f17a6c406eecf2"
+	{
+		"en"		"#nmo_toxteth_ObjZ"
+		"es"		"#nmo_toxteth_ObjZ"
+	}
+	"a07208bb7f47dc2baf5ebb882ced6ba1"
+	{
+		"en"		"#nmo_toxteth_ObjM"
+		"es"		"#nmo_toxteth_ObjM"
+	}
+	"1654f617fd9eac1b5e8d8204711962ee"
+	{
+		"en"		"#nmo_toxteth_ObjL"
+		"es"		"#nmo_toxteth_ObjL"
+	}
+	"c9de95db695d0e44882694987170a2ae"
+	{
+		"en"		"#nmo_toxteth_ObjK"
+		"es"		"#nmo_toxteth_ObjK"
+	}
+	"d42bef4f361c60e79204646f40ec1dc3"
+	{
+		"en"		"#nmo_toxteth_ObjJ"
+		"es"		"#nmo_toxteth_ObjJ"
+	}
+	"d41d173cc345f3c617b388e115001991"
+	{
+		"en"		"#nmo_toxteth_ObjI"
+		"es"		"#nmo_toxteth_ObjI"
+	}
+	"40545508d6ad3f03f1a3823d1c55b0f4"
+	{
+		"en"		"#nmo_toxteth_ObjH"
+		"es"		"#nmo_toxteth_ObjH"
+	}
+	"6f1e23959dad44d3e1cdefcf80dd8194"
+	{
+		"en"		"#nmo_toxteth_ObjG_3"
+		"es"		"#nmo_toxteth_ObjG_3"
+	}
+	"44d0db65e0ef1cb949cfb5e27d0d1397"
+	{
+		"en"		"#nmo_toxteth_ObjG_2"
+		"es"		"#nmo_toxteth_ObjG_2"
+	}
+	"4a8ffa7662adee8d4f1d98165f184f71"
+	{
+		"en"		"#nmo_toxteth_ObjG_1"
+		"es"		"#nmo_toxteth_ObjG_1"
+	}
+	"c49132d857b484aa7556269c6bb77458"
+	{
+		"en"		"#nmo_toxteth_ObjA"
+		"es"		"#nmo_toxteth_ObjA"
+	}
+	"d75b11195ae3474dde108da7c4d7657a"
+	{
+		"en"		"#nmo_toxteth_ObjB"
+		"es"		"#nmo_toxteth_ObjB"
+	}
+	"3a99029248a3e20b6776da93d2102f90"
+	{
+		"en"		"#nmo_toxteth_ObjC"
+		"es"		"#nmo_toxteth_ObjC"
+	}
+	"3055a2b2f72e2651f0bdfc5ff8199ab4"
+	{
+		"en"		"#nmo_toxteth_ObjD"
+		"es"		"#nmo_toxteth_ObjD"
+	}
+	"cac20660fd360c5de6deede9bb4aa6d5"
+	{
+		"en"		"#nmo_toxteth_ObjE"
+		"es"		"#nmo_toxteth_ObjE"
+	}
+	"ed1ea619e80004a7167dccc25d568a26"
+	{
+		"en"		"#nmo_toxteth_ObjF"
+		"es"		"#nmo_toxteth_ObjF"
+	}
+}

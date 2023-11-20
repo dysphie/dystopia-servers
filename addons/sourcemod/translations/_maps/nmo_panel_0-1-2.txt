@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"d47260eceb699503b8784ef703226d52"
+	{
+		"en"		"4 secs"
+		"es"		"4 segundos"
+	}
+	"4973ff7de84c296fb5c25c38ea152100"
+	{
+		"en"		"3 secs"
+		"es"		"3 segundos"
+	}
+	"1ca18e8052a87722f0d04a7d1fc708eb"
+	{
+		"en"		"2 secs"
+		"es"		"2 segundos"
+	}
+	"6335957698fe4679a9bceb57dec341b1"
+	{
+		"en"		"1 sec"
+		"es"		"1 segundo"
+	}
+	"24a2b0e6c7cfa1c8841737b42b1dc0f8"
+	{
+		"en"		"9 secs"
+		"es"		"9 segundos"
+	}
+	"03f5235348f85aaf6e451ddd9ebb04fd"
+	{
+		"en"		"8 secs"
+		"es"		"8 segundos"
+	}
+	"fdb513501cba95c68f775c35a3d7654b"
+	{
+		"en"		"7 secs"
+		"es"		"7 segundos"
+	}
+	"76761bf414424d629f0a9a0113d50faf"
+	{
+		"en"		"6 secs"
+		"es"		"6 segundos"
+	}
+	"9a7fce4b0088ad8125585212ee3d547c"
+	{
+		"en"		"5 secs"
+		"es"		"5 segundos"
+	}
+	"ce58b7878fec1ed9f9eef2a51491aeb0"
+	{
+		"en"		"40 secs"
+		"es"		"40 segundos"
+	}
+	"5867568adc9903c3f1d8c55737be6388"
+	{
+		"en"		"10 secs"
+		"es"		"10 segundos"
+	}
+	"bcf1b6bf94453a3a160d12ae258131d3"
+	{
+		"en"		"20 secs"
+		"es"		"20 segundos"
+	}
+	"a001b1ff0fd3e9548dcd8ff7d416d855"
+	{
+		"en"		"30 secs"
+		"es"		"30 segundos"
+	}
+	"bcf5b7be678e3bc6001f835e42363958"
+	{
+		"en"		"to be continued ......"
+		"es"		"Continuará ......"
+	}
+	"62df674a007c284786504c955c4c78dc"
+	{
+		"en"		"floor VIII - Find the keys and open the door !!"
+		"es"		"Piso VIII - Encuentra las llaves y abre la puerta"
+	}
+	"b04859f9bd387ce44d573d068256e86b"
+	{
+		"en"		"floor VI - Hack the good PC !!"
+		"es"		"Piso VI - Hackea la PC correcta"
+	}
+	"fa216f5a5f8bc38fd9af1ae442dc4462"
+	{
+		"en"		"floor VII - Go up to the VII floor !!"
+		"es"		"Piso VII - Llega al piso VII"
+	}
+	"b7e247d2f27dd1bdf95e5d776de43bc3"
+	{
+		"en"		"floor III - Find the welder and clear the doorway !!"
+		"es"		"Piso III - Encuentra el soldador y despeja la entrada"
+	}
+	"c85aa50ae83b86db34c57931a1cc6404"
+	{
+		"en"		"floor II - Search for the code !!"
+		"es"		"Piso II - Encuentra el código del teclado numérico"
+	}
+	"606729a03d331e658d235a1fc634198d"
+	{
+		"en"		"floor I - Make a table !!"
+		"es"		"Piso I - Arma una mesa"
+	}
+	"afb56a7bce85934ce4d0dcd6bf03347b"
+	{
+		"en"		"floor - Clear the staircase !!"
+		"es"		"Planta baja - Despeja la escalera"
+	}
+	"19294bba3caef160189b25233b93259f"
+	{
+		"en"		"floor - Left or right ??"
+		"es"		"Planta baja - Izquierda o derecha?"
+	}
+}

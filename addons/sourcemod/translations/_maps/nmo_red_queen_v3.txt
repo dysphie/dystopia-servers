@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"952413f4bc81a344c2111acf01a3cf1f"
+	{
+		"en"		"Escape from hive."
+		"es"		"Escapa de la colmena."
+	}
+	"af5482e9887390835bb7b1bf67c79175"
+	{
+		"en"		"The red queen closed the door before turning it off, need open it."
+		"es"		"La Reina Roja cerró la puerta antes de desactivarla, debes abrirla."
+	}
+	"082fd8d52fae00ed4144047d33db8600"
+	{
+		"en"		"Use welding to open the door."
+		"es"		"Usa un soldador para abrir la puerta."
+	}
+	"de1c9d6b1c8a63bbea56ef4da2fd8a9e"
+	{
+		"en"		"Find the red queen and unplug."
+		"es"		"Encuentra a la Reina Roja y desactívala."
+	}
+	"d1de2ec09c1e70f692ca74c9b8efdc42"
+	{
+		"en"		"Survive 1 minute and go through the door."
+		"es"		"Sobrevive un minuto y pasa por la puerta."
+	}
+	"2e453c14af70097408ab1f54973ba091"
+	{
+		"en"		"The door is open to supplies, but you need to go further and do not forget the card from the digital lock."
+		"es"		"La puerta a los suministros está abierta, pero tienes que avanzar y no olvidar la tarjeta de acceso."
+	}
+	"eb8cc289ce803f0676a8447b63c674b6"
+	{
+		"en"		"Survive and go forward."
+		"es"		"Sobrevive y sigue avanzando."
+	}
+	"7bd66970a1c144de2fb9635d01953828"
+	{
+		"en"		"The door is open, you need to go forward."
+		"es"		"La puerta está abierta, tienes que seguir avanzando."
+	}
+	"36011c440a3d6155ff197a4f2ede5871"
+	{
+		"en"		"Open the digital lock with card from the door."
+		"es"		"Abre la cerradura digital con la tarjeta de acceso."
+	}
+	"6e27e8251ceb73cd73ef7c18dffa8fe0"
+	{
+		"en"		"Go down and find the card from the door."
+		"es"		"Desciende y encuentra la tarjeta de acceso de la puerta."
+	}
+	"d975ee9f1448d93abdac3d4e92c5c1df"
+	{
+		"en"		"Get to the elevator."
+		"es"		"Entra al ascensor."
+	}
+	"76a89a42d0583f177b2b5b4bdcc2363c"
+	{
+		"en"		"Special thanks to Norm and other, for found bugs on map."
+		"es"		"Muchas gracias a Norm y otros, por encontrar errores en el mapa."
+	}
+	"f8a4efb530d914048b0be15494d035a6"
+	{
+		"en"		"Original map zm_redqueen_2_b1 by audiOtrash."
+		"es"		"Mapa original zm_redqueen_2_b1 por audiOtrash."
+	}
+	"4f1380d79508bb588abc276cd11d082b"
+	{
+		"en"		"Ported to nmrih by magister."
+		"es"		"Adaptado a NMRiH por magister."
+	}
+	"3b473c540ac9d2e5a746973134af2bee"
+	{
+		"en"		"Special thanks for support original zm_redqueen_2_b1 by lunatix-community.de"
+		"es"		"Gracias a lunatix-community.de"
+	}
+	"68e9061e01bb306c9338f5bc08cd17b5"
+	{
+		"en"		"Welcome to nmo_red_queen_v2, special for nmrih :)"
+		"es"		"Bienvenidos a nmo_red_queen_v2, para nmrih :)"
+	}
+}

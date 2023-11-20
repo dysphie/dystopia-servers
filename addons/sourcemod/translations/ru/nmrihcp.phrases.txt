@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Команде) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"*Мёртв*(Команде) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Наблюдатель) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Мёртв) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Набл.) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Спасён) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Набл.) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Администратор) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Мёртв) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"(Спасён) {1}: "
+	}
+}

@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"jp"		"ボイス"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"jp"		"弾をくれ"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"jp"		"ついてこい"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"jp"		"助けてくれ"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"jp"		"ここで待て"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"jp"		"いいえ"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"jp"		"はい"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"jp"		"ありがとう"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"jp"		"来るぞ"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"jp"		"負傷した"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"jp"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"jp"		"グレネード！"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"jp"		"火炎瓶！"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"jp"		"TNT！"
+	}
+}

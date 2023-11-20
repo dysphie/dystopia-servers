@@ -1,0 +1,458 @@
+"Phrases"
+{
+	"5b56b429a4b0e5baef70860cfb31a306"
+	{
+		"en"		"Get on the bus, one player must drive"
+		"es"		"Sube al bus, un jugador puede manejar"
+	}
+	"f9ae0b6aafc2650ca1c6cc2fea609e9f"
+	{
+		"en"		"OBJ 5/9 : Burn all corpses and keep control of the area"
+		"es"		"Quema todos los cuerpos y mantén control del área"
+	}
+	"4f0f30848227199cc9c9554fef301e59"
+	{
+		"en"		"Cover the manholes"
+		"es"		"Tapa las alcantarillas"
+	}
+	"b24c461bd0c679a8be21cf2df9249bf4"
+	{
+		"en"		"Replace the tire"
+		"es"		"Remplaza el neumático del autobús"
+	}
+	"cd27b7fda9cb1c6533205232c3317c4d"
+	{
+		"en"		"Find a tire, a jack and a lug wrench"
+		"es"		"Encuentra un neumático, un gato hidráulico y una llave cruz"
+	}
+	"560f2d970e8be31fd73f1c73d86978aa"
+	{
+		"en"		"Ride the bus"
+		"es"		"Toma el autobús"
+	}
+	"a2035928eea472b1c2692cd908ae25af"
+	{
+		"en"		"Get on the bus"
+		"es"		"Sube al bus"
+	}
+	"0c750856a4c7dc372b9ba6b50fe1afb7"
+	{
+		"en"		"You just have to speed it up."
+		"es"		"Solo debes acelerarlo."
+	}
+	"d84239162d1c552147abb3b4ec776ee0"
+	{
+		"en"		"< ATTACK > = Honk | < FORWARD > = Start the bus"
+		"es"		"< ATAQUE > = Bocina | < ADELANTE > = Encender el autobús"
+	}
+	"6bc9b241871de425b4d7cc1cbab7ebfb"
+	{
+		"en"		"< LEFT > = Open the door | < RIGHT > = Close the door"
+		"es"		"< IZQUIERDA > = Abrir la puerta | < DERECHA > = Cerrar la puerta"
+	}
+	"d0ac697ac530ddf10eff0f9634fd7a47"
+	{
+		"en"		"Welder has been found"
+		"es"		"Soldador encontrado"
+	}
+	"c1fe283388d66b41de3b921e4fcaedf4"
+	{
+		"en"		"Someone must drive the bus"
+		"es"		"Alguien debe manejar el autobús"
+	}
+	"cf4fa3559ed23ab9e0dd5961da10e4ea"
+	{
+		"en"		"Area secured, tire replaced, departure is imminent!"
+		"es"		"El área fue asegurada, el neumático fue remplazado. Estamos a punto de partir"
+	}
+	"fceb548b0f65248f03b1f5063e151a58"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"e2358f96776c5daf6662a78d27a6942a"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"2fe396ac8e2a9ebf65df0fe4e8395ed2"
+	{
+		"en"		"Narrator:"
+		"es"		"Narrador:"
+	}
+	"26fa987d99a9d78229c6078a74ec6a2c"
+	{
+		"en"		"< JUMP > = Exit controls"
+		"es"		"< SALTAR > = Salir del mando"
+	}
+	"5875ed9c367891b8c1da0cf08b2d03ed"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"f181269742b268f9c9be40b1eb143b74"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"92878facb6aca106595a44410e20f107"
+	{
+		"en"		"Passengers"
+		"es"		"Pasajeros"
+	}
+	"3e5ef8b9bd2d80f71a07898a94a20c43"
+	{
+		"en"		"It doesn't want to move"
+		"es"		"No quiere avanzar"
+	}
+	"7c2e9894c8d2287fd3784b5e7c39d533"
+	{
+		"en"		"Bus driver"
+		"es"		"Chofer del autobús"
+	}
+	"a8d5ac09bcb6d7c9d223f3d3c846aef7"
+	{
+		"en"		"Everyone's here, start the bus!"
+		"es"		"Todos presentes ¡Arranca el autobús!"
+	}
+	"a3498ae32555416bc5abe5381e5c132f"
+	{
+		"en"		"Poor guy, but now the bus is out of fuel!"
+		"es"		"Pobre hombre ¡Pero ahora el autobús se quedó sin gasolina!"
+	}
+	"bdbcb817105a64617eaec7df37eb150e"
+	{
+		"en"		"The bus driver died without turning off the engine"
+		"es"		"El chofer murió sin apagar el motor"
+	}
+	"70540b3a715d1a2c8ed56d4179f6d997"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"2b8a6c6ae4d46d5c9b0802ba29164ad5"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"7109007138a5de770290b56f2b5e3adc"
+	{
+		"en"		"The tire was destroyed"
+		"es"		"El neumático fue destruido"
+	}
+	"4f367151219f74babd882201b4289cf2"
+	{
+		"en"		"Aire toxic 25%"
+		"es"		"Aire tóxico 25%"
+	}
+	"57a3a060daa4bc5aff42df7a2f5c6a8f"
+	{
+		"en"		"Aire toxic 50%"
+		"es"		"Aire tóxico 50%"
+	}
+	"bd38d8407983f1201c7e129f37582b4f"
+	{
+		"en"		"Aire toxic 75%"
+		"es"		"Aire tóxico 75%"
+	}
+	"b346de15933c6560928de56637fb9660"
+	{
+		"en"		"Aire toxic 100%"
+		"es"		"Aire tóxico 100%"
+	}
+	"7793680e2a598d0e4e145d5fe95af42b"
+	{
+		"en"		"All survivors will turn into zombies if the atmosphere becomes unbreathable."
+		"es"		"Todos los sobrevivientes se convertirán en zombis si el aire se vuelve irrespirable"
+	}
+	"df70005de7ecdff3a58851ce6f509cb4"
+	{
+		"en"		"Toxic air is coming out of the sewers, you have to do something, FAST!"
+		"es"		"Las alcantarillas emiten aire tóxico, debes hacer algo ¡RÁPIDO!"
+	}
+	"81624fa0220d0f3275abdb637af7b31c"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"bdef447897884e8964678c6ead0d2553"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"b4109858eb5609fd61ac33283c4e3fe7"
+	{
+		"en"		"Use a fire extinguisher"
+		"es"		"Utiliza un extintor"
+	}
+	"1577ba142499f04d3352bad47a14e72d"
+	{
+		"en"		"The lug wrench was found"
+		"es"		"Llave cruz encontrada"
+	}
+	"1c4fc3fe09ed56aba5ff8cb19bb68fe3"
+	{
+		"en"		"The jack was found"
+		"es"		"Gato hidráulico encontrado"
+	}
+	"f8470345b28ddeda9c1b891eb0a1b04e"
+	{
+		"en"		"The tire was found"
+		"es"		"Neumático encontrado"
+	}
+	"f93c54a41d726b16e0f786d8d4ad8589"
+	{
+		"en"		"Loading ..."
+		"es"		"Cargando ..."
+	}
+	"25c1be309ca593120c0983f17034c886"
+	{
+		"en"		"There is something wrong with the wheel, Stay put! I will take a look..."
+		"es"		"Hay un problema con la rueda, quedense aquí, echaré un vistazo"
+	}
+	"f951d221a640b77fa08936643e370eae"
+	{
+		"en"		"Il y a un quelque chose de bizarre avec la roue, Restez la ! Je vais voir..."
+		"es"		" "
+	}
+	"067ad832c2ccf8f8da25b529dfa8b4cb"
+	{
+		"en"		"Chauffeur de bus | bus driver :"
+		"es"		"Chofer del autobús:"
+	}
+	"27378a44f2ddb9f19dc3bb0a3784c823"
+	{
+		"en"		"We got a flat in the tunnel, we must change the tire"
+		"es"		"Sufrimos un pinchazo en el túnel, tenemos que cambiar el neumático"
+	}
+	"d10d3cfaeb5b4d8f817027049816fd79"
+	{
+		"en"		"On a creve dans le tunnel, il faut changer la roue"
+		"es"		" "
+	}
+	"1ff65456492c1e7e268468980ddf535a"
+	{
+		"en"		"BY : Mrblagues | FT : Hammercore | ENGLISH TEXT : JohnCharlan"
+		"es"		"POR: Mrblagues | CON : Hammercore | TEXTO EN INGLÉS : JohnCharlan"
+	}
+	"3ea2fb31fe6025a9707954146764b9a6"
+	{
+		"en"		"Version de carte | map version : V3 part 1/2"
+		"es"		"Versión del mapa : V3 parte 1/2"
+	}
+	"686e3ef666eb3ded1fd97de972daa304"
+	{
+		"en"		"nms_protect_your_home.bsp"
+		"es"		"nms_protect_your_home.bsp"
+	}
+	"971ec7b99679d012f9c03e3b8869113e"
+	{
+		"en"		"Obj complete 12/12"
+		"es"		"Objetivos completados 12/12"
+	}
+	"cce77a8a0edf52ae27d07c05043259f3"
+	{
+		"en"		"Obj complete 11/12"
+		"es"		"Objetivos completados 11/12"
+	}
+	"bb1b84c71e11120668545b307932a73d"
+	{
+		"en"		"Obj complete 10/12"
+		"es"		"Objetivos completados 10/12"
+	}
+	"5d27f22620f9ea1914b6818fc6132f30"
+	{
+		"en"		"Obj complete 9/12"
+		"es"		"Objetivos completados 9/12"
+	}
+	"33013b072a6eab9aa0d329b43c0c840a"
+	{
+		"en"		"Obj complete 8/12"
+		"es"		"Objetivos completados 8/12"
+	}
+	"e6d7e5094382069b5be8e936636ed355"
+	{
+		"en"		"Obj complete 7/12"
+		"es"		"Objetivos completados 7/12"
+	}
+	"174cb8c30ba2bcaf33bd41ba1c686b1c"
+	{
+		"en"		"Obj complete 6/12"
+		"es"		"Objetivos completados 6/12"
+	}
+	"1de20608121ebcd2a7082adecae31b01"
+	{
+		"en"		"Obj complete 5/12"
+		"es"		"Objetivos completados 5/12"
+	}
+	"8deafa52223cb5b637b3de46d722dafd"
+	{
+		"en"		"Obj complete 4/12"
+		"es"		"Objetivos completados 4/12"
+	}
+	"3800e33bf9dfd7ea99f74244841a3cf4"
+	{
+		"en"		"Obj complete 3/12"
+		"es"		"Objetivos completados 3/12"
+	}
+	"b252373ea98a3e9d6978f3c4d833f7a1"
+	{
+		"en"		"Obj complete 2/12"
+		"es"		"Objetivos completados 2/12"
+	}
+	"0ac2c472ae2dd787ffad48eabf9b066c"
+	{
+		"en"		"Obj complete 1/12"
+		"es"		"Objetivos completados 1/12"
+	}
+	"76ccdd7c66495698086cfbe8ad7eff07"
+	{
+		"en"		"Loading nmo_downtown_v3-p2.bsp ..."
+		"es"		"Cargando nmo_downtown_v3-p2.bsp ..."
+	}
+	"b6410bdbd32750b48231a04d7984764f"
+	{
+		"en"		"Zombies invasion : ETAT D'ALERTE"
+		"es"		"Zombies invasion : ETAT D'ALERTE"
+	}
+	"8e78a25cb046e0c0bfa06e40b5065a05"
+	{
+		"en"		"Zombies invasion : ETAT CRITIQUE"
+		"es"		"Zombies invasion : ETAT CRITIQUE"
+	}
+	"1f11e88c4b48f2479f4dbe669902ea50"
+	{
+		"en"		"Zombies invasion : ETAT HORS DE CONTROLE"
+		"es"		"Zombies invasion : ETAT HORS DE CONTROLE"
+	}
+	"8f888f5028c5af0830e36905261fe6d2"
+	{
+		"en"		"Zombies invasion : ETAT DE VEILLE"
+		"es"		"Invasión zombi: ESTADO DE ALERTA"
+	}
+	"7ff84d34a0d35bebd14e1193a8b7883e"
+	{
+		"en"		"Trouve et utilise la clee | Find and use the key"
+		"es"		"Trouve et utilise la clee | Find and use the key"
+	}
+	"d85f15867eaad05fec6d6b52a62b6be9"
+	{
+		"en"		"Utiliser un chalumeau pour casser le cadenas | You need a Welder to break the padlock"
+		"es"		"Utiliser un chalumeau pour casser le cadenas | You need a Welder to break the padlock"
+	}
+	"6733dcf989bfe68608384c03f8be6adb"
+	{
+		"en"		"By opening the door <Alive Inside> all dead players will respawn"
+		"es"		"By opening the door <Alive Inside> all dead players will respawn"
+	}
+	"ee70fba0f8ad7aca1aba94b105a661d5"
+	{
+		"en"		"But beware, you can only respawn the players once, you have to choose the right moment."
+		"es"		"Pero cuidado, solo puedes respawnear a los jugadores una vez, debes elegir el momento correcto."
+	}
+	"c7f22483aaaeef6b17b64737e23584d3"
+	{
+		"en"		"Mais attention, vous avez 1 seul essai, a vous de choisir le bon moment."
+		"es"		" "
+	}
+	"b26c352e1f08c831647218304f8429ef"
+	{
+		"en"		"En ouvrant la porte <Alive Inside> les joueurs morts vont reaparaitre"
+		"es"		"Al abrir la puerta <Alive Inside>, los jugadores muertos reaparecerán"
+	}
+	"8efb437314fac4d5094aa6c7ff8d3e2f"
+	{
+		"en"		"Obj complete 15/15"
+		"es"		"Objetivos completados 15/15"
+	}
+	"669ccb9c729af872b5b7082ce8731782"
+	{
+		"en"		"Obj complete 14/15"
+		"es"		"Objetivos completados 14/15"
+	}
+	"f2ca9044968a11f1c02b31b323c9e90c"
+	{
+		"en"		"Obj complete 13/15"
+		"es"		"Objetivos completados 13/15"
+	}
+	"c570380402749c92ce3fe94f336cdeef"
+	{
+		"en"		"Obj complete 12/15"
+		"es"		"Objetivos completados 12/15"
+	}
+	"dda684d351956d07c0f6e9bcf3240ecb"
+	{
+		"en"		"Obj complete 11/15"
+		"es"		"Objetivos completados 11/15"
+	}
+	"7d898a2dcff760c64accf8ff7a97de60"
+	{
+		"en"		"Obj complete 10/15"
+		"es"		"Objetivos completados 10/15"
+	}
+	"35e9b4514acb7713aeac88aa4d13c6e0"
+	{
+		"en"		"Obj complete 9/15"
+		"es"		"Objetivos completados 9/15"
+	}
+	"c55e23707c53d81f0e1a239679434a84"
+	{
+		"en"		"Obj complete 8/15"
+		"es"		"Objetivos completados 8/15"
+	}
+	"73325376cf5b3b83e048c3d1fb665862"
+	{
+		"en"		"Obj complete 7/15"
+		"es"		"Objetivos completados 7/15"
+	}
+	"49ae9cede63309613d671e0874999187"
+	{
+		"en"		"Obj complete 6/15"
+		"es"		"Objetivos completados 6/15"
+	}
+	"6bd5cea5707104f636a5d542f6f2467b"
+	{
+		"en"		"Obj complete 5/15"
+		"es"		"Objetivos completados 5/15"
+	}
+	"4d05c2c85f3506685929a69fc3498a44"
+	{
+		"en"		"Obj complete 4/15"
+		"es"		"Objetivos completados 4/15"
+	}
+	"3322150bb8da3baddeb4f7ea2a890b1c"
+	{
+		"en"		"Obj complete 3/15"
+		"es"		"Objetivos completados 3/15"
+	}
+	"5f5bef799b4de732c18067f058da0e8e"
+	{
+		"en"		"Obj complete 2/15"
+		"es"		"Objetivos completados 2/15"
+	}
+	"9bdd0b32bb929a05cab8ba63c5c8bc56"
+	{
+		"en"		"Obj complete 1/15"
+		"es"		"Objetivos completados 1/15"
+	}
+	"2602c412b286a23e00b54f89e0c8d87f"
+	{
+		"en"		"Burn their food before the arrival of other infest."
+		"es"		"Quema la comida antes de que lleguen mas infectados."
+	}
+	"dbcdf9941cf1fbf5968303215172b294"
+	{
+		"en"		"Zombies seek food from inexperienced survivors."
+		"es"		"Los zombis buscan comida de sobrevivientes inexpertos."
+	}
+	"d51dd9b900ffec3f63a4e2285289991f"
+	{
+		"en"		"Brulez leurs garde manger avant l'arrivee d'autre infester."
+		"es"		" "
+	}
+	"fd34631b6e11c1593a88763079bff462"
+	{
+		"en"		"Les zombies cherchent de la nourriture sur les survivant inexperimenter."
+		"es"		" "
+	}
+}

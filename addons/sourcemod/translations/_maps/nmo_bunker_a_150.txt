@@ -1,0 +1,173 @@
+"Phrases"
+{
+	"0463397cb7919cd2ccabf1a246e4c8f1"
+	{
+		"en"		"Close the rollup door to stop the flow of runners!"
+		"es"		"Cierra el portón para detener el flujo de corredores!"
+	}
+	"e092ce18453d3bd709d0cfd1d9cdff5d"
+	{
+		"en"		"Go right to close the office entrance door.  This will stop the flow of runners."
+		"es"		"Ve a la derecha para cerrar la puerta de entrada a la oficina. Esto detendrá el flujo de corredores."
+	}
+	"4d41541c18b82608b5a3000f439fc667"
+	{
+		"en"		"We all need to be here.  Get inside the doorway!"
+		"es"		"Todos necesitamos estar aquí. ¡Entra por la puerta!"
+	}
+	"34e0ac0524ab486349ed5f202f18b6a8"
+	{
+		"en"		"Replace the first server part to unlock this door."
+		"es"		"Reemplaza la primera parte del servidor para desbloquear esta puerta."
+	}
+	"25b01e01c3067e236a337815df05ee89"
+	{
+		"en"		"Fire Suppression System engaged......Doors to lower levels closing."
+		"es"		"Sistema de supresión de incendios activado...... Puertas a pisos inferiores cerrándose."
+	}
+	"2923a61df3c2470c10d02d0f01a5e0ab"
+	{
+		"en"		"Break the boxes on the elevator first!"
+		"es"		"Destruye las cajas en el elevador primero!"
+	}
+	"3487d44bfdbe558db2266105474aa5df"
+	{
+		"en"		"Climb through the hole and grab the data plug below."
+		"es"		"Sube por el agujero y toma el enchufe de datos debajo.."
+	}
+	"f373285aaa5327e2045d3f0835908032"
+	{
+		"en"		"Fire in the hole!"
+		"es"		"Granada!"
+	}
+	"4218748621667bf3575dd56061ed66cf"
+	{
+		"en"		"Locked.  We need the key."
+		"es"		"Bloqueado. Necesitamos una llave"
+	}
+	"ab1d7785b387356b5c3793dbe609c18a"
+	{
+		"en"		"Motorpool garage door will open in 15 seconds!"
+		"es"		"La puerta del garaje se abrirá en 15 segundos!"
+	}
+	"dc71f2605e2eff2c37a65fabcd95c48b"
+	{
+		"en"		"Get the hell out of there!"
+		"es"		"Sal de aquí!"
+	}
+	"e2b08823d3418d27185a2ce5830aea0e"
+	{
+		"en"		"Use the keycard on the elevator door"
+		"es"		"Usa la tarjeta de acceso en el elevador"
+	}
+	"1ba50be64507d79e4482c35df9f4a222"
+	{
+		"en"		"Close all of the doors by the elevator to stop the flow of zombies"
+		"es"		"Cierra todas las puertas cerca del elevador para detener la entrada de zombis"
+	}
+	"bc1c2d78225b1c1be091fa08b10f1d2c"
+	{
+		"en"		"Use a welder to repair the fuse box"
+		"es"		"Usa un soldador para reparar la caja de fusibles"
+	}
+	"ff9e49209ea2f7216c70b1762c486058"
+	{
+		"en"		"Use the crank from earlier to shut off the steam"
+		"es"		"Usa la manivela de antes para apagar el vapor"
+	}
+	"13ec644df42ce47358c78bdba6ba1cea"
+	{
+		"en"		"Find the other missing server part"
+		"es"		"Encuentra la otra parte del servidor que falta"
+	}
+	"7b8194046f67a08b1c6e986f220ab65f"
+	{
+		"en"		"Find the missing server part"
+		"es"		"Encuentra la parte del servidor que falta"
+	}
+	"04113d40f7a2f38216b4bd5fa726d4d8"
+	{
+		"en"		"Access the server room"
+		"es"		"Accede la sala del servidor"
+	}
+	"55f781a3435857aa9779722f88404729"
+	{
+		"en"		"Ladder release stuck, find an alternate route"
+		"es"		"La escalera esta trabada, encuentra una ruta alternativa"
+	}
+	"40b0bd66283421bc36d7a58679c87eb3"
+	{
+		"en"		"Use the car battery to power up the ladder release"
+		"es"		"Use la batería para soltar la escalera"
+	}
+	"d69dcc7c97bfde89e3c30fab8086518b"
+	{
+		"en"		"Find the missing crank"
+		"es"		"Encuentra la manivela que falta"
+	}
+	"2911ed7ac1e09dc542d098d21830571f"
+	{
+		"en"		"Weld open the metal door downstairs"
+		"es"		"Abre la puerta de metal de abajo con un soldador"
+	}
+	"e32c5255c428491d0095804a0ab2a4fa"
+	{
+		"en"		"Find some welders"
+		"es"		"Encuentra unos soldadores"
+	}
+	"c2b6c02a4dcb6c389dacaaf821022ace"
+	{
+		"en"		"Open the door with the red key"
+		"es"		"Abre la puerta con una llave roja"
+	}
+	"6b7d7a0c197dedadeb1b4edf4d0ae2a2"
+	{
+		"en"		"Break open all the marked containers"
+		"es"		"Abre todos los contenedores marcados"
+	}
+	"e9ac03cbc55a48be7653d1de074947f2"
+	{
+		"en"		"Allow the trolley to roll to its target"
+		"es"		"Asegura que el carro ruede hacia su objetivo"
+	}
+	"2ba159b451dd73469a865b1780df8b15"
+	{
+		"en"		"Break the boxes and use the elevator"
+		"es"		"Rompe las cajas y usa el elevador"
+	}
+	"40e3175d2bf83de1d00644f19a260524"
+	{
+		"en"		"Go through the vents"
+		"es"		"Ve por los ductos de ventilación"
+	}
+	"37b8e4e792fef0d0276c3b74651bae97"
+	{
+		"en"		"Climb the ladder"
+		"es"		"Sube la escalera"
+	}
+	"6e3d84f641d4fd759c66780105f51162"
+	{
+		"en"		"Push the trolley and block off the flow of zombies"
+		"es"		"Empuja el carro y bloquea el flujo de zombis."
+	}
+	"859b94b3a31e4690cd910a890d4746b3"
+	{
+		"en"		"Extinguish the generator fire before the facility explodes"
+		"es"		"Apaga el incendio del generador antes de que el refugio explote"
+	}
+	"71c4138d154816b3567f044da6fdccaa"
+	{
+		"en"		"Find the missing lever and restore power to the rollup door"
+		"es"		"Encuentra la palanca que falta y restaura la electricidad del portón"
+	}
+	"fc3eb60c2b669f1fe9c25fbbd353c47c"
+	{
+		"en"		"Barricade all of the wooden doorways to stop the flow of zombies"
+		"es"		"Pon barricadas en todas las puertas de madera para detener el flujo de zombis"
+	}
+	"d9cd4b880ecdbc3253e44aecfb83d539"
+	{
+		"en"		"Make your way through the forest and proceed deep into the bunker"
+		"es"		"Ábrete camino a través del bosque y adéntrate al refugio"
+	}
+}

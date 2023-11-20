@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"1a2bb452b85637752dadb6afda782542"
+	{
+		"en"		"flood the canal"
+		"es"		"Inunda el canal"
+	}
+	"567e3c34bda5156926cde769255e3111"
+	{
+		"en"		"escape underground"
+		"es"		"Escapa por el subsuelo"
+	}
+	"7aaebd72a2e68f8442d92f7216a6cf7c"
+	{
+		"en"		"weld the laundry pipe"
+		"es"		"Suelda las tuberías de la lavandería"
+	}
+	"8e0bbde67d59bf52a4cd0483ad6ddf30"
+	{
+		"en"		"loot the armory"
+		"es"		"Saquea la armería"
+	}
+	"cac11579a2ba55bbfd29a03fb230c739"
+	{
+		"en"		"open main hall"
+		"es"		"Desbloquea el pasillo principal"
+	}
+	"dab8675a5934aca806bdb1c7aa252c04"
+	{
+		"en"		"break out of c block"
+		"es"		"Escapa del bloque C"
+	}
+}

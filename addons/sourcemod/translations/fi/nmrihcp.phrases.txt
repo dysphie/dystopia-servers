@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(TIIMI) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"*DEAD*(TIIMI) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(Katsoja) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(KUOLLUT) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(KATSOJA) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(EVAKUOITU) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(Katsoja) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(YLLÄPITÄJÄ) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(Kuollut) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"fi"		"(Evakuoitu) {1}: "
+	}
+}

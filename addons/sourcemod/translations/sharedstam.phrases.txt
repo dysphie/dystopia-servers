@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Enabled"
+	{
+		"en"	"Admin enabled shared stamina"
+		"es"	"Admin activó stamina compartida"
+	}
+	"Disabled"
+	{
+		"en"	"Shared stamina disabled"
+		"es"	"Stamina compartida desactivada"
+	}
+	"Skill issue"
+	{
+		"en"	"Skill issue"
+		"es"	"Problema de habilidad"
+	}
+}

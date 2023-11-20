@@ -1,0 +1,11 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove { "targetname" "hello_1" }
+		$remove { "targetname" "hello_2" }
+		$remove { "targetname" "hello_3" }
+		$remove { "targetname" "hello_4" }
+		$remove { "targetname" "hey" }
+	}
+}

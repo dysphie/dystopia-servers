@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"1ee0ec88476d4846fd8046c09dc6ccce"
+	{
+		"en"		"Survive!"
+		"es"		"¡Sobrevive!"
+	}
+	"1e986a69416986cf5c1931843e434e23"
+	{
+		"en"		"Find a way to escape"
+		"es"		"Encuentra una manera de escapar"
+	}
+	"24e7a7b8405c28222d62c39371fe3d62"
+	{
+		"en"		"Extinguisher is empty"
+		"es"		"El extintor está vacío"
+	}
+	"46b189ef1068affbdb4a07ee5cc09edb"
+	{
+		"en"		"Who is he?"
+		"es"		"¿Quién es?"
+	}
+	"15c39dc425538a87d1db857590b4f00d"
+	{
+		"en"		"I'm Free !! ...Maybe!"
+		"es"		"Estoy libre!! ...Quizá!"
+	}
+	"ab336434515cc31309429d4933686a91"
+	{
+		"en"		"The zombies killed the people?"
+		"es"		"Los zombis mataron a las personas?"
+	}
+	"200960d72e6976709bacceb638633e61"
+	{
+		"en"		"I must go !!"
+		"es"		"Debo irme !!"
+	}
+	"52317676ffc6a46c06d4fab55b763b5e"
+	{
+		"en"		"I hope the elevator will quickly come..."
+		"es"		"Espero que el elevador venga rápido..."
+	}
+	"29388dd10fee1c1be0a630582646ce79"
+	{
+		"en"		"An explosion?"
+		"es"		"¿Una explosión?"
+	}
+	"cbceda94064ab7c9e28aa20c644ba9d8"
+	{
+		"en"		"What is it?"
+		"es"		"¿Qué es?"
+	}
+}

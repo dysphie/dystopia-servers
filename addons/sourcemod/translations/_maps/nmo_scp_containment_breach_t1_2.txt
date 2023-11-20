@@ -1,0 +1,248 @@
+"Phrases"
+{
+	"b25d1d467515d0b9864428f9c0d3581b"
+	{
+		"en"		"Enter the tower to lift laser restrictions and use it to destroy the gate"
+		"es"		"Entra a la torre para remover las restricciones de los láseres y úsalos para destruir la puerta"
+	}
+	"47bd37b6824d5196635d79eac2fa6a2f"
+	{
+		"en"		"Leave the laboratory"
+		"es"		"Sal del laboratorio"
+	}
+	"62c29b27e8f7aaed5c5e7ad581e5a447"
+	{
+		"en"		"Operate the control panel to open the gate of Zone A"
+		"es"		"Usa el panel de control para abrir la puerta de la Zona A"
+	}
+	"623c004625a7af0466efd4db5b4bad95"
+	{
+		"en"		"Escape the pocket dimension"
+		"es"		"Escapa la dimension de bolsillo"
+	}
+	"a07cfb68e1e9a9d26b269ceec57e38c4"
+	{
+		"en"		"Enter the pocket dimension"
+		"es"		"Entra a la dimension de bolsillo"
+	}
+	"e43bb60e1706fdf850fa93e88bff2af1"
+	{
+		"en"		"Go through the Heavy Containment Zone"
+		"es"		"Pasa por la Zona de Contención Pesada"
+	}
+	"383d4a978f6185c78511faf613b8dcf5"
+	{
+		"en"		"Go through the checkpoint"
+		"es"		"Pasa por el punto de control"
+	}
+	"099cd7e79833d7f4277618d981837a51"
+	{
+		"en"		"Find a way to shut down the tesla"
+		"es"		"Encuentra una manera de apagar la compuerta de tesla"
+	}
+	"3472ca765ac75652b774c53a53fda93f"
+	{
+		"en"		"Find a way to escape"
+		"es"		"Encuentra una manera de escapar"
+	}
+	"d6115faa720565af43ce371fcfd5893f"
+	{
+		"en"		"< Entrance Zone - GATE A - >"
+		"es"		"< Zona de Entrada - PUERTA A - >"
+	}
+	"421d8c551d2d8cb955b0e9e1f4b1854c"
+	{
+		"en"		"< Light Containment Zone >"
+		"es"		"< Zona de Contención Ligera >"
+	}
+	"5fe92d205650dac07f3ac0f1fde23410"
+	{
+		"en"		"Authorized access"
+		"es"		"Acceso autorizado"
+	}
+	"c8d7362a00c130352569b1af7e90881c"
+	{
+		"en"		"Insufficient permissions"
+		"es"		"Permisos insuficientes"
+	}
+	"a0e6b7b2dac45f96cc3c87c0bf0735bb"
+	{
+		"en"		"Invalid access"
+		"es"		"Acceso denegado"
+	}
+	"095347944f3843453b55676b969bb965"
+	{
+		"en"		"The gate has been opened by us, hurry up and go"
+		"es"		"Hemos abierto la puerta, date prisa y vete"
+	}
+	"2b3e0918b53a416da24c89e586e69f7b"
+	{
+		"en"		"The laser cannon has been activated. 
+Go to the tower and use it to attack the gate"
+		"es"		"El cañón láser ha sido activado. 
+Ve a la torre y úsalo para atacar la puerta"
+	}
+	"60a4781c9205378ade9e52fb82d45c5c"
+	{
+		"en"		"The exit gate has been firmly reinforced. 
+We have no way to destroy it. 
+Maybe we can use the laser above to destroy it"
+		"es"		"La puerta de salida ha sido firmemente reforzada. 
+No tenemos forma de destruirla. 
+Tal vez podamos usar el láser de arriba para destruirla"
+	}
+	"294b42b07ac86ad09c7db517b6fc3c3b"
+	{
+		"en"		"This is the last blockade, hurry up and open it"
+		"es"		"Este es el último bloqueo, date prisa y ábrelo"
+	}
+	"73bc85d3ba506c8b8ccf8ec52a8cf2f6"
+	{
+		"en"		"We finally left the inside of the laboratory. Let's go quickly"
+		"es"		"Finalmente dejamos el interior del laboratorio. Vamos rápido"
+	}
+	"48843450803319f52394edf249b452b6"
+	{
+		"en"		"The door is starting to close!!!"
+		"es"		"¡¡¡La puerta se está cerrando!!!"
+	}
+	"008f16f61b5098dd0b17fb2422567b70"
+	{
+		"en"		"The console input is complete. Hurry up and go out the gate"
+		"es"		"La entrada de la consola está completa. Date prisa y sal por la puerta"
+	}
+	"9b7efd44d63fe1c30ea4b2f7ca811cba"
+	{
+		"en"		"Hurry up and find the console to operate it. 
+We can leave this ghost place"
+		"es"		"Date prisa y encuentra la consola para operarla. 
+Podemos dejar este lugar fantasma"
+	}
+	"dd327a6d070b8ec958b1adea5cb241b5"
+	{
+		"en"		"We escaped. We left the pocket dimension"
+		"es"		"Escapamos. Dejamos la Dimension de Bolsillo"
+	}
+	"98968590f1e8d5ec487a2dbb8ec6d12f"
+	{
+		"en"		"The space has become abnormally unstable. 
+There are corpses everywhere. What did they encounter???"
+		"es"		"El espacio se ha vuelto anormalmente inestable. 
+Hay cadáveres por todas partes. ¿Qué encontraron???"
+	}
+	"229d7b5b552beafb9f09ec8f3acceeed"
+	{
+		"en"		"There is something strange forming.
+Maybe it's a way to escape from here. 
+We have to hurry up, this space is like digesting us"
+		"es"		"Hay algo extraño formándose. 
+Tal vez sea una forma de escapar de aquí. 
+Tenemos que darnos prisa, este espacio es como si nos estuviera digiriendo"
+	}
+	"43aaede687c040d79acc0df94d0f4297"
+	{
+		"en"		"There is no road left. 
+Are we trapped in here like this?"
+		"es"		"No queda camino. 
+¿Estamos atrapados?"
+	}
+	"9de78c8eab8abee332a937224abe17d5"
+	{
+		"en"		"Current location: Pocket dimension"
+		"es"		"Ubicación actual: Dimension de Bolsillo"
+	}
+	"e1f7688ae482a8a3ff8fc7e1eb2587af"
+	{
+		"en"		"Where is this? This is not like a normal world"
+		"es"		"¿Dónde es esto? Esto no es como un mundo normal"
+	}
+	"eafe74884bbe73675c12088695eee6c2"
+	{
+		"en"		"The hack is complete"
+		"es"		"El hackeo está completo"
+	}
+	"fd9e324a67990f7253b8a68f72f5bfc6"
+	{
+		"en"		"The door is locked. We have to find something to hack it"
+		"es"		"La puerta está cerrada con llave. Tenemos que encontrar algo para hackearla"
+	}
+	"637500f4557e3c8ab66d8dcf3b50125f"
+	{
+		"en"		"We have to find the keycard to continue"
+		"es"		"Tenemos que encontrar la tarjeta de acceso"
+	}
+	"6ab475ecf94509961a0ff3c312bdc99c"
+	{
+		"en"		"The power grid has not been shut down. Find a way to bypass it"
+		"es"		"La red eléctrica no se ha apagado. Encuentra una manera de eludirla"
+	}
+	"016181b5f502c21bfd4fed68011b1241"
+	{
+		"en"		"The power grid has been shut down"
+		"es"		"La red eléctrica ha sido apagada"
+	}
+	"d2fa9f1627d9077dc7e03aa1a7d6eb9b"
+	{
+		"en"		"Current location: Heavy Containment Zone"
+		"es"		"Ubicación actual: Zona de Contención Pesada"
+	}
+	"ecdb4e75ef539684888a3c348a48edb9"
+	{
+		"en"		"The alarm system has been armed. 
+This will attract more monsters. 
+Hurry up and destroy the alarm. 
+Force open the security door"
+		"es"		"El sistema de alarma se ha activado. 
+Esto atraerá más monstruos. 
+Date prisa y destruye la alarma. 
+Fuerza la apertura de la puerta de seguridad"
+	}
+	"4b0b111473339f0fd0b2fbdf05438a64"
+	{
+		"en"		"This is the checkpoint. 
+We have to gather everyone. 
+We are about to enter the Heavy Containment Zone"
+		"es"		"Este es el punto de control. 
+Tenemos que reunir a todos. 
+Estamos a punto de entrar en la Zona de Contención Pesada"
+	}
+	"3b4ae59e02b825aa2599e2c5d86b5167"
+	{
+		"en"		"!!!!!!"
+		"es"		"!!!!!!"
+	}
+	"89df61c212397953d84686dbb676c2f8"
+	{
+		"en"		"Operate the control console to lift the blockade restrictions"
+		"es"		"Opera la consola de control para levantar las restricciones de bloqueo"
+	}
+	"703f49a10757ab6d45bbeb40d97f5e0c"
+	{
+		"en"		"Find the key card. It should help us open most doors"
+		"es"		"Encuentra la tarjeta de acceso. Debería ayudarnos a abrir la mayoría de las puertas"
+	}
+	"9c34eabf0b82baa39585e2f44fdbbe82"
+	{
+		"en"		"Current location: Light Containment Zone"
+		"es"		"Ubicación actual: Zona de Contención Ligera"
+	}
+	"8f973b3fdfe6ac08ae15f9733188beff"
+	{
+		"en"		"Access was successful. The exit should have been unlocked"
+		"es"		"El acceso fue exitoso. La salida debería haber sido desbloqueada"
+	}
+	"e13f9f00e445034528bb1bbf06e360eb"
+	{
+		"en"		"Look around, there should be something that can help us open the door"
+		"es"		"Mira alrededor, debería haber algo que pueda ayudarnos a abrir la puerta"
+	}
+	"e7e3186954efd979d546a7aa8f59e5ec"
+	{
+		"en"		"Map author: Mochi/Pohmian. 
+Port/Modification: Fong. Script: HT. 
+The map is a test version"
+		"es"		"Creado por: Mochi/Pohmian. 
+Adaptado por: Fong. Scripts: HT. 
+El mapa es una versión de prueba"
+	}
+}

@@ -1,0 +1,253 @@
+"Phrases"
+{
+	"d1cbde1c75a472b635fa8782fc65d077"
+	{
+		"en"		"Rescue is coming! Survive!"
+		"es"		"Rescue is coming! Survive!"
+	}
+	"967566d7902002cadcd527f6e0d1abcf"
+	{
+		"en"		"Set fire to the evac center using a welder to signal the boat!"
+		"es"		"Set fire to the evac center using a welder to signal the boat!"
+	}
+	"d53c6b290f5f9f10fbf0dbdc1c45c7b4"
+	{
+		"en"		"Find some fuel"
+		"es"		"Find some fuel"
+	}
+	"c9614af4003e47e5fa54a7d9c6c3a1cf"
+	{
+		"en"		"Find a way to signal the boat"
+		"es"		"Find a way to signal the boat"
+	}
+	"e838a97e9b16b566e3e8be8be8bc3096"
+	{
+		"en"		"Power is down, find a car battery to run it"
+		"es"		"Power is down, find a car battery to run it"
+	}
+	"77db27ef7a43e6dcb107da9729b834a2"
+	{
+		"en"		"Evac station has succumbed to infection! Use radio to call help!"
+		"es"		"Evac station has succumbed to infection! Use radio to call help!"
+	}
+	"6f837e2bdeab30e1276e1120d176effa"
+	{
+		"en"		"Continue to evac station"
+		"es"		"Continue to evac station"
+	}
+	"ed5398c80203d1d39d241eaafc80b69e"
+	{
+		"en"		"Cross canal via the truck"
+		"es"		"Cross canal via the truck"
+	}
+	"bf12911ae65b7ac3f98bab9f954010ee"
+	{
+		"en"		"Clear the path by moving the truck"
+		"es"		"Clear the path by moving the truck"
+	}
+	"168976761fb90198d736ad157c21f8ce"
+	{
+		"en"		"Find a car battery to power the door"
+		"es"		"Find a car battery to power the door"
+	}
+	"b6856c3300376acfd1a02677b9d86a00"
+	{
+		"en"		"Go down the alley path"
+		"es"		"Go down the alley path"
+	}
+	"460ca78f6aff287bef3b5d7725e139b0"
+	{
+		"en"		"Extinguish tire fort"
+		"es"		"Extinguish tire fort"
+	}
+	"4be7ed9d6c8cde1884938b8bdd2be561"
+	{
+		"en"		"Find explosives to destroy tire fort"
+		"es"		"Find explosives to destroy tire fort"
+	}
+	"5ac4bf097cc511c82f2cab58a83f423a"
+	{
+		"en"		"Search for evac station"
+		"es"		"Search for evac station"
+	}
+	"0962337b0c76fcaf622045d58cdb180f"
+	{
+		"en"		"Find a welder to open the alley door"
+		"es"		"Find a welder to open the alley door"
+	}
+	"24487531b10ee4484e4362e58e82aee4"
+	{
+		"en"		"Find an IED to blow up the alley door"
+		"es"		"Find an IED to blow up the alley door"
+	}
+	"72f4b316d41823eb9acd14d5e9ccc1ae"
+	{
+		"en"		"Bridge the canal and cross it"
+		"es"		"Bridge the canal and cross it"
+	}
+	"fc37e63a59b3c9f6172eaf4a50054c50"
+	{
+		"en"		"The fire is not dying, find an extinguisher"
+		"es"		"The fire is not dying, find an extinguisher"
+	}
+	"f9357eb2e4853b0b54e984597a876555"
+	{
+		"en"		"Ignite the barricade using a welder"
+		"es"		"Ignite the barricade using a welder"
+	}
+	"94683f52b44452b364cdd476f14763e5"
+	{
+		"en"		"Find gas to drench barricade in"
+		"es"		"Find gas to drench barricade in"
+	}
+	"b743b97113b76f698e3e12cde6e79c3c"
+	{
+		"en"		"Find a way to enter the Old Quarter"
+		"es"		"Find a way to enter the Old Quarter"
+	}
+	"f5d59e31ab92fa980b091fd56f727e2f"
+	{
+		"en"		"Cross the bridge"
+		"es"		"Cross the bridge"
+	}
+	"ead38b88752c77e0ac81da445cd89b63"
+	{
+		"en"		"Find your way to Lindun Road"
+		"es"		"Find your way to Lindun Road"
+	}
+	"91357fd1b262a3895848f78c1db773aa"
+	{
+		"en"		"Main entrance blocked, find alternative exit"
+		"es"		"Main entrance blocked, find alternative exit"
+	}
+	"80a9fb5e145d7d16326e22ecb2c1a732"
+	{
+		"en"		"Find a way out of the station"
+		"es"		"Find a way out of the station"
+	}
+	"97d2a50e524e2b23111ec7a67a1e9a48"
+	{
+		"en"		"#nmo_suzhou_Objective23_holdout"
+		"es"		"#nmo_suzhou_Objective23_holdout"
+	}
+	"6dd001adba2ddf80829f51e87df0aeb6"
+	{
+		"en"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+		"es"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+	}
+	"616d7e91899afcc61573e23523e407f3"
+	{
+		"en"		"#nmo_suzhou_Objective21_burnbabehburn"
+		"es"		"#nmo_suzhou_Objective21_burnbabehburn"
+	}
+	"0c3fbe257f156e1dca99426bdf9acd3b"
+	{
+		"en"		"#nmo_suzhou_Objective20_flarelauncher"
+		"es"		"#nmo_suzhou_Objective20_flarelauncher"
+	}
+	"3e66e78d605684914932e6b83f0a6fa4"
+	{
+		"en"		"#nmo_suzhou_Objective19_batteryforradio"
+		"es"		"#nmo_suzhou_Objective19_batteryforradio"
+	}
+	"1ffc4ec81df55ab6c6be696b2c981996"
+	{
+		"en"		"#nmo_suzhou_Objective18_horrifyingrealization"
+		"es"		"#nmo_suzhou_Objective18_horrifyingrealization"
+	}
+	"0f7be822d033ab474b265b65293566c1"
+	{
+		"en"		"#nmo_suzhou_Objective17_findevac"
+		"es"		"#nmo_suzhou_Objective17_findevac"
+	}
+	"92f5dbbb54d9db8d583bffa23848a92c"
+	{
+		"en"		"#nmo_suzhou_Objective16b_recrosscanal"
+		"es"		"#nmo_suzhou_Objective16b_recrosscanal"
+	}
+	"1f10c3fd632a241bdbb1e7d1a3d3d2e6"
+	{
+		"en"		"#nmo_suzhou_Objective16_truckpuzzle"
+		"es"		"#nmo_suzhou_Objective16_truckpuzzle"
+	}
+	"c93b12fc74faa760b3d44d8d8d08b72a"
+	{
+		"en"		"#nmo_suzhou_Objective15_batterybarricade"
+		"es"		"#nmo_suzhou_Objective15_batterybarricade"
+	}
+	"8d4b57b73b16c8b246f696b404cca7f6"
+	{
+		"en"		"#nmo_suzhou_Objective14_detourtires"
+		"es"		"#nmo_suzhou_Objective14_detourtires"
+	}
+	"29a6d4a27ddab16543adc90a448d2a8d"
+	{
+		"en"		"#nmo_suzhou_Objective13_extinguishtires"
+		"es"		"#nmo_suzhou_Objective13_extinguishtires"
+	}
+	"2aeae02ceae8e7d341a7d2e93e68b04e"
+	{
+		"en"		"#nmo_suzhou_Objective12_IEDtires"
+		"es"		"#nmo_suzhou_Objective12_IEDtires"
+	}
+	"76ffa489f6ec56d99db32548c092b36e"
+	{
+		"en"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+		"es"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+	}
+	"a5e115d89708e2499ee02fbd63125079"
+	{
+		"en"		"#nmo_suzhou_Objective11_welderalley"
+		"es"		"#nmo_suzhou_Objective11_welderalley"
+	}
+	"eef02923fc8ae22bca6315fa6b26c94d"
+	{
+		"en"		"#nmo_suzhou_Objective10_IEDalley"
+		"es"		"#nmo_suzhou_Objective10_IEDalley"
+	}
+	"cd74a4661436101d0ed87f7d6d54da1e"
+	{
+		"en"		"#nmo_suzhou_Objective09_crosscanal"
+		"es"		"#nmo_suzhou_Objective09_crosscanal"
+	}
+	"0564882579420175a57fbfe6fd13116f"
+	{
+		"en"		"#nmo_suzhou_Objective08_extinguishgas"
+		"es"		"#nmo_suzhou_Objective08_extinguishgas"
+	}
+	"90331e57e0d0ca0e2de8647d4540bd63"
+	{
+		"en"		"#nmo_suzhou_Objective07_burngas"
+		"es"		"#nmo_suzhou_Objective07_burngas"
+	}
+	"d4feaabe54601bfa944f08543437e14d"
+	{
+		"en"		"#nmo_suzhou_Objective06_findgas"
+		"es"		"#nmo_suzhou_Objective06_findgas"
+	}
+	"6da995b05a18ef7a45d817b1b86b1686"
+	{
+		"en"		"#nmo_suzhou_Objective05_oldtown"
+		"es"		"#nmo_suzhou_Objective05_oldtown"
+	}
+	"dacd9a53168fbe60f9291270fdfdadd2"
+	{
+		"en"		"#nmo_suzhou_Objective04_headout"
+		"es"		"#nmo_suzhou_Objective04_headout"
+	}
+	"d009519df151a5bad9d62d4b6ee92c39"
+	{
+		"en"		"#nmo_suzhou_Objective03_tolindun"
+		"es"		"#nmo_suzhou_Objective03_tolindun"
+	}
+	"389a1c662f134323c0abc916d4537e31"
+	{
+		"en"		"#nmo_suzhou_Objective02_maintenancedetour"
+		"es"		"#nmo_suzhou_Objective02_maintenancedetour"
+	}
+	"1f50a87714cc2c2ffb596cdbc2416f0b"
+	{
+		"en"		"#nmo_suzhou_Objective01_leavestation"
+		"es"		"#nmo_suzhou_Objective01_leavestation"
+	}
+}

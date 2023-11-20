@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"70d37634f9401255f00ef9724155053c"
+	{
+		"en"		"Lockdown the bunker"
+		"es"		"Pon el búnker en cuarentena"
+	}
+	"628176394a9767d9d18367161d708ffc"
+	{
+		"en"		"Extend the bridge"
+		"es"		"Extiende el puente"
+	}
+	"a8a46d6dfbc7ba3cec41197b709fa93a"
+	{
+		"en"		"Destroy the combine tech"
+		"es"		"Destruye la tecnología de los Combine"
+	}
+	"37e0cafccf44c0621275903ce0450204"
+	{
+		"en"		"Unlock the door"
+		"es"		"Desbloquea la puerta"
+	}
+	"e5329a30899e402d70c0d7c4af1bc85b"
+	{
+		"en"		"Kill the boss"
+		"es"		"Mata al jefe"
+	}
+	"0d7a547d56c234200a574e0379f4d6cb"
+	{
+		"en"		"Ride the elevator"
+		"es"		"Sube por el ascensor"
+	}
+	"7fa5350468a9c9c3390c616bc65704ae"
+	{
+		"en"		"Break the combine tech"
+		"es"		"Destruye la tecnología de los Combine"
+	}
+	"0e88d92e4637395c174f547b9f432cf9"
+	{
+		"en"		"Turn off the barrier"
+		"es"		"Apaga la barrera"
+	}
+	"7cb7ca9add0587005291bdc0b255fc1d"
+	{
+		"en"		"Destroy the COMBINE-BALL-GENERATOR !"
+		"es"		"¡Destruye el generador de esferas de energía de los Combine!"
+	}
+	"afc23b11affb29b70b0e0ffae430bc63"
+	{
+		"en"		"You have ONE-Shotgun ! This Weapon was not respawn!"
+		"es"		"¡Tienes una escopeta! ¡Este arma no vuelve a aparecer!"
+	}
+	"7190df1e98537ea57440971ef5ea848f"
+	{
+		"en"		"SECRET = ONE WEAPON SHOTGUN"
+		"es"		"SECRETO = UNA ESCOPETA"
+	}
+	"12eccb4c647f88b33d514bb65eb58940"
+	{
+		"en"		"YOU ( a TEAMMEMBER ) find a SECRET ( Nr.2)"
+		"es"		"SECRETO ENCONTRADO (Nro. 2)"
+	}
+	"9af93677e430f35ad3e71f13cc8f3222"
+	{
+		"en"		"Destroy the button !"
+		"es"		"¡Destruye el botón!"
+	}
+}

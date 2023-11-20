@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"37581907f77b7d0b5f75f1fd82ec5e66"
+	{
+		"en"		"Fight like hell and break free"
+		"es"		"Fight like hell and break free"
+	}
+	"62c514c215ab8713e777381b1af54280"
+	{
+		"en"		"You should never have come here"
+		"es"		"You should never have come here"
+	}
+}

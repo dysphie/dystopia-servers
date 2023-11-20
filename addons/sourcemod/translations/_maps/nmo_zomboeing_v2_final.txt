@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"15281217a5aa63a3cdbc282eef5bfc48"
+	{
+		"en"		"Look around for a keycard and use it on the scanner to gain access Air Traffic Control Tower!"
+		"es"		"Look around for a keycard and use it on the scanner to gain access Air Traffic Control Tower!"
+	}
+	"856baa13fb489fba260ee01197196975"
+	{
+		"en"		"The plane is warming up. Survive until the plane is ready to be lift off!!"
+		"es"		"The plane is warming up. Survive until the plane is ready to be lift off!!"
+	}
+	"f42feb8de9221a3c5833ef35f85edcc6"
+	{
+		"en"		"Flip the switch on the aircraft to enable pilot mode."
+		"es"		"Flip the switch on the aircraft to enable pilot mode."
+	}
+	"a39424571990b2a1e97054bc24aa7c6c"
+	{
+		"en"		"Grab the battery and place it in it's engine."
+		"es"		"Grab the battery and place it in it's engine."
+	}
+	"4b5df52438609d12f2d8f5817d71032d"
+	{
+		"en"		"Place the supplies on the conveyor belt"
+		"es"		"Place the supplies on the conveyor belt"
+	}
+	"64d328f37bc9f538c84d984c0c671ec1"
+	{
+		"en"		"Let the truck continue till it arrives to the destination."
+		"es"		"Let the truck continue till it arrives to the destination."
+	}
+	"219cb97efe44359cfc632f2c2987df09"
+	{
+		"en"		"Gate is closed. Find a set of keys to unlock the guard gate."
+		"es"		"Gate is closed. Find a set of keys to unlock the guard gate."
+	}
+	"974c8afe71542629702e252c67a73520"
+	{
+		"en"		"Start the truck and have it drive to it's destination."
+		"es"		"Start the truck and have it drive to it's destination."
+	}
+	"31b5944d440464df458a9b15b3e6544e"
+	{
+		"en"		"Gather the supplies for the truck."
+		"es"		"Gather the supplies for the truck."
+	}
+	"d1682375286f24c803049cd11e6014f2"
+	{
+		"en"		"Hack in the system to open the shutters."
+		"es"		"Hack in the system to open the shutters."
+	}
+	"188187f84aa002cd382981f23ed0d1a9"
+	{
+		"en"		"Use a tool to pry open the doors to gain access to the tower."
+		"es"		"Use a tool to pry open the doors to gain access to the tower."
+	}
+	"9fd9f02401ab5dc70d4205b491502e11"
+	{
+		"en"		"Locate the supplies and place them on the conveyor belt."
+		"es"		"Locate the supplies and place them on the conveyor belt."
+	}
+	"db33b2abcd9107ab3f0eb0b4a989deb2"
+	{
+		"en"		"Interact the switch to open the lock down gates."
+		"es"		"Interact the switch to open the lock down gates."
+	}
+	"ea254a2d1abefaadad6fb0d1d500ed6f"
+	{
+		"en"		"Use the welder to cut the doors open."
+		"es"		"Use the welder to cut the doors open."
+	}
+	"e8a41eb686622570335c9b066ff82df7"
+	{
+		"en"		"Gather food first!"
+		"es"		"Gather food first!"
+	}
+	"a66ad0e560887a08f784afbeb75dd002"
+	{
+		"en"		"Last: Battery."
+		"es"		"Last: Battery."
+	}
+	"7de9da86e4fec49210d895b0aad4c3cf"
+	{
+		"en"		"Zombie clip removed!"
+		"es"		"Zombie clip removed!"
+	}
+	"6ae1b43db3ad0eb7bc006fa9802c02d7"
+	{
+		"en"		"Just 1 more supply!"
+		"es"		"Just 1 more supply!"
+	}
+	"fe38be28e7e43dc0fb4c4d7ca1d60f90"
+	{
+		"en"		"Deactivating..."
+		"es"		"Deactivating..."
+	}
+	"cdc38cec6256e5c94cb793a8a1c0fd44"
+	{
+		"en"		"Grab all the supplies first before using this door."
+		"es"		"Grab all the supplies first before using this door."
+	}
+	"84294b98afa374a58477aa9077cfcaf0"
+	{
+		"en"		"Next: water cooler!"
+		"es"		"Next: water cooler!"
+	}
+	"b1658a5523268c159e26e138394f4362"
+	{
+		"en"		"Kill all zombies in cabin."
+		"es"		"Kill all zombies in cabin."
+	}
+	"8f83cd14c8b9de40d344cbe2439c324d"
+	{
+		"en"		"Map created by: Ratboy."
+		"es"		"Map created by: Ratboy."
+	}
+	"f46bf9981a10b6dcbbac584e53680575"
+	{
+		"en"		"NMRIH Ported/Edited by: Y#shieon"
+		"es"		"NMRIH Ported/Edited by: Y#shieon"
+	}
+	"c2aa33444cd58ea4b3446bd453ef333d"
+	{
+		"en"		"Zomboeing."
+		"es"		"Zomboeing."
+	}
+}

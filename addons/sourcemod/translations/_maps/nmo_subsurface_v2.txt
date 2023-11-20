@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"013ec032d3460d4be4431c6ab1f8f224"
+	{
+		"en"		"Escape"
+		"es"		"Escape"
+	}
+	"2e9293c69eeeddbd21d07301478f33a5"
+	{
+		"en"		"Find gas for the bus"
+		"es"		"Find gas for the bus"
+	}
+	"ed69c3b485285d00de3e224419afd91d"
+	{
+		"en"		"Find tools to repair the bus"
+		"es"		"Find tools to repair the bus"
+	}
+	"ea01edc75cc673c1905a8955250de70c"
+	{
+		"en"		"Search for an escape method"
+		"es"		"Search for an escape method"
+	}
+	"35eb47b43b8ca2155e6e93fbefc9e6a8"
+	{
+		"en"		"Find water for the fire truck"
+		"es"		"Find water for the fire truck"
+	}
+	"4234d165aefe9e516a7759777346d3bf"
+	{
+		"en"		"Find a detonator to blow up the doors"
+		"es"		"Find a detonator to blow up the doors"
+	}
+	"76859878f666084a664c2c76cd3783d9"
+	{
+		"en"		"Continue through the tunnels"
+		"es"		"Continue through the tunnels"
+	}
+	"7d53df77d83aab2993c809e2053949a4"
+	{
+		"en"		"Extinguish the fire on the upper platform"
+		"es"		"Extinguish the fire on the upper platform"
+	}
+	"0daec6716c0aab0931b5630417ad14b0"
+	{
+		"en"		"Reconnect the breaker and open the fire door"
+		"es"		"Reconnect the breaker and open the fire door"
+	}
+	"8a868389275f4ca12c0513ae0c65f083"
+	{
+		"en"		"Proceed through the sewers"
+		"es"		"Proceed through the sewers"
+	}
+	"22f6749633bfbe958f628471ef1326d5"
+	{
+		"en"		"Find key for the maintenance door"
+		"es"		"Find key for the maintenance door"
+	}
+	"3016adcb26bb8cec6bdbf86950a158f3"
+	{
+		"en"		"Activate sprinklers to put out the fire"
+		"es"		"Activate sprinklers to put out the fire"
+	}
+	"82dd2929ae2a783e12499d6fb183e2b5"
+	{
+		"en"		"Leave the safe area"
+		"es"		"Leave the safe area"
+	}
+}

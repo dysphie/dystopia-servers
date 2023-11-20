@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"a2bd1b554612f29144774621d2db0112"
+	{
+		"en"		"#nms_laundry_mine"
+		"es"		"#nms_laundry_mine"
+	}
+	"e0082edcf6624d2549dc589c7e1859d1"
+	{
+		"en"		"#nms_laundry_hintb"
+		"es"		"#nms_laundry_hintb"
+	}
+	"735aaae2239ed433468f7e22dfd241e6"
+	{
+		"en"		"#nms_laundry_hinta"
+		"es"		"#nms_laundry_hinta"
+	}
+	"b325ca5754a42c1de371cd83e954233e"
+	{
+		"en"		"#nms_laundry_losea"
+		"es"		"#nms_laundry_losea"
+	}
+	"6d68fd8a3b4bf803e86dd1d2856ac8e6"
+	{
+		"en"		"#nms_laundry_pushcar"
+		"es"		"#nms_laundry_pushcar"
+	}
+	"326be51aabdaf88ea5213593fe465a53"
+	{
+		"en"		"#nms_laundry_cutrope2"
+		"es"		"#nms_laundry_cutrope2"
+	}
+	"b7afaf0398a374eafbbec4be8c128cd6"
+	{
+		"en"		"#nms_laundry_cutrope1"
+		"es"		"#nms_laundry_cutrope1"
+	}
+}

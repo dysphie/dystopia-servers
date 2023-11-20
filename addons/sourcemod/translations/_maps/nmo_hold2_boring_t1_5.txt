@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"c470abda49569e908a9b725215f0b274"
+	{
+		"en"		"杀死所有的怪物打开道路离开 / Kill all monsters Open the road and leave"
+		"es"		"杀死所有的怪物打开道路离开 / Kill all monsters Open the road and leave"
+	}
+	"03e16996fb3e305d318a0951e3d32b7b"
+	{
+		"en"		"找到出路 / Find a way out"
+		"es"		"找到出路 / Find a way out"
+	}
+	"50f74c3ef9285ca3da860100dd91fbbf"
+	{
+		"en"		"探索 / Explore"
+		"es"		"探索 / Explore"
+	}
+	"e50c6ecf1e3616a2a67e090d1712c70e"
+	{
+		"en"		"正在播放《Innercity》"
+		"es"		"正在播放《Innercity》"
+	}
+	"5bde90f5e5a353c97281dd570d7eec51"
+	{
+		"en"		"娃娃给你带来了一份礼物快说：谢谢娃娃"
+		"es"		"娃娃给你带来了一份礼物快说：谢谢娃娃"
+	}
+	"3b02bcefccf3229171405a52db092412"
+	{
+		"en"		"点歌姬
+使用方法：抬头按E随机播放音乐
+效果：播放音乐并随机送一份礼物
+冷却时间：240秒
+该提示结束后点歌姬解锁
+"
+		"es"		"点歌姬
+使用方法：抬头按E随机播放音乐
+效果：播放音乐并随机送一份礼物
+冷却时间：240秒
+该提示结束后点歌姬解锁
+"
+	}
+	"a71a398211e27d49ca29cf442e7f5bf7"
+	{
+		"en"		"鬼影长廊2
+地图作者：ClariceTang
+移植/修改：Fong"
+		"es"		"鬼影长廊2
+地图作者：ClariceTang
+移植/修改：Fong"
+	}
+}

@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"c93abd1db95823acbb68119b7a91d88d"
+	{
+		"en"		"Auto teleport will enable in 1 minute."
+		"es"		"Se teletransportará a los jugadores perdidos en 1 minuto."
+	}
+	"47583741dc1b119567a15bf21e5c3f50"
+	{
+		"en"		"Auto teleport will enable in 4 minutes."
+		"es"		"Se teletransportará a los jugadores perdidos en 4 minutos."
+	}
+	"585a1b204e9e4f84f28b04282387b993"
+	{
+		"en"		"Map by xkarma123x"
+		"es"		"Mapa por xkarma123x"
+	}
+	"4fb06f48b723be0da35020ee845ae986"
+	{
+		"en"		"You're out of cash!"
+		"es"		"¡No tienes dinero!"
+	}
+	"348bfb827d85e5b49ddee7aedef575cb"
+	{
+		"en"		"A welder is needed to unlock this door."
+		"es"		"Se requiere un soldador para abrir esta puerta"
+	}
+	"e59f81bdc857eba412532287e239b7c6"
+	{
+		"en"		"TNT has been placed, get away from the door!"
+		"es"		"Dinamita colocada ¡Aléjate de la puerta!"
+	}
+	"0683eba691bc406ebfebab926fd1ad6b"
+	{
+		"en"		"These doors are powered by something, a key won't open them."
+		"es"		"Estas puertas están alimentadas por algo, una llave no las abrirá."
+	}
+	"68e532a290fd96d71324d9665c67bc69"
+	{
+		"en"		"All players must be in elevator (ele button will unlock in 30 seconds)"
+		"es"		"Todos los jugadores deben ir al ascensor (los controles se activarán en 30 segundos)"
+	}
+	"1aba287390e2c423a59b9cb4e0800f85"
+	{
+		"en"		"All players must be at interface!!"
+		"es"		"¡¡Todos los jugadores deben ir a las interfaces!!"
+	}
+	"e940a1f83a87c33656860905f74ca640"
+	{
+		"en"		"Core is going to explode in 60 seconds!!!"
+		"es"		"¡¡¡El núcleo explotará en 1 minuto!!!"
+	}
+	"70fab08b46b5deaf139fad49f5c4dc3c"
+	{
+		"en"		"Get in the truck!"
+		"es"		"¡Sube al camión!"
+	}
+	"8902ee50660a2a76471fb504fa46d4f9"
+	{
+		"en"		"Find the heart key to open the door."
+		"es"		"Encuentra la llave con forma de corazón para abrir la puerta"
+	}
+	"084d32c25cfd9522c1b8770688839daa"
+	{
+		"en"		"Need all players (Elevator button will unlock itself in 30 seconds)"
+		"es"		"Todos los jugadores deben estar presentes (El botón del ascensor se activará en 30 segundos)"
+	}
+	"0480a9a14ba36fd53cf899ddec441df2"
+	{
+		"en"		"Find a crank to open door."
+		"es"		"Encuentra una manivela para abrir la puerta."
+	}
+	"88be15e567cc216bfb16b03b6329899c"
+	{
+		"en"		"Use the interface to open gates and leave. "
+		"es"		"Usa las interfaces para abrir el portón y escapar "
+	}
+	"48f5d9ff83432f8a34734838fcf29d49"
+	{
+		"en"		"Gathers supplies before leaving. (1 gas can, tire, foodcrate and battery)"
+		"es"		"Toma suministros antes de partir (Bidón de gas, neumático, caja de comida y batería)"
+	}
+	"77501f578de77fe00bf8836ba4a83653"
+	{
+		"en"		"Blast the doors with dynamite. "
+		"es"		"Detona las puertas con dinamita. "
+	}
+	"fc65424d435c1732197a287ef8b3ef4b"
+	{
+		"en"		"Find a key and find a way to turn off lasers to access armoury."
+		"es"		"Encuentra una llave y una manera de apagar los láseres para entrar a la armería"
+	}
+	"88afbc99792f1f2263599235d2c088bc"
+	{
+		"en"		"Run to elevator and head above."
+		"es"		"Sube por el ascensor."
+	}
+	"f326499aa783a8d8b7d84788abbde561"
+	{
+		"en"		"Survive and hack all 3 interfaces."
+		"es"		"Hackea las 3 interfaces y sobrevive."
+	}
+	"c8d0f442bc8ab932d6aae30f3b796261"
+	{
+		"en"		"Go to the interfaces."
+		"es"		"Ve a las interfaces."
+	}
+	"a1fcc423e4de6ceb0b4b5e362f6de76f"
+	{
+		"en"		"Bring head to scanner."
+		"es"		"Lleva la cabeza al escáner."
+	}
+	"5f14ac0a00eac12acd46b763df92d095"
+	{
+		"en"		"Find a way into control room and get to the other side of underground."
+		"es"		"Encuentra una manera de acceder la sala de control y llegar a la otra punta del subsuelo."
+	}
+	"5cc6242e8b511c68f3e98498bb2657f8"
+	{
+		"en"		"Power C2 doors."
+		"es"		"Enciende las puertas C2."
+	}
+	"7d2677bb15a4ca419302dbb0d6b8295b"
+	{
+		"en"		"Head underground."
+		"es"		"Ve al subsuelo."
+	}
+	"4c99340021a2ac79a4435a4c37a0a294"
+	{
+		"en"		"Bring keycard to card reader."
+		"es"		"Toma la tarjeta y llévala al lector."
+	}
+	"dad97a9e33a291c5ce834103d1babda8"
+	{
+		"en"		"Bring key to door B1."
+		"es"		"Lleva la llave a la puerta B1."
+	}
+}

@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"7edc88f1f2c881d39c2bb0b4205070cd"
+	{
+		"en"		"Find keys to the recreational vehicle."
+		"es"		"Find keys to the recreational vehicle."
+	}
+	"1cd18ac0632cae7b0cda0cf34208a767"
+	{
+		"en"		"Unlock the hospital doors."
+		"es"		"Unlock the hospital doors."
+	}
+	"90abe13b6cd654922ee67f479e28dc47"
+	{
+		"en"		"Torch through the parking garage."
+		"es"		"Torch through the parking garage."
+	}
+	"e87a563d782f9eee7b47e547f4e08f2e"
+	{
+		"en"		"Climb the fence with a ladder."
+		"es"		"Climb the fence with a ladder."
+	}
+	"a75313d53b8f4770b7a58ff858744d27"
+	{
+		"en"		"Exit the subway station."
+		"es"		"Exit the subway station."
+	}
+	"720343033a3acd61a84a58f5819158fb"
+	{
+		"en"		"Raise the gate."
+		"es"		"Raise the gate."
+	}
+	"d7fd7db055844254fd5a880e7e66e8e9"
+	{
+		"en"		"Break down the barricade."
+		"es"		"Break down the barricade."
+	}
+	"65ab04a22d63b60142ffbf47b4129567"
+	{
+		"en"		"Extinguish the fire."
+		"es"		"Extinguish the fire."
+	}
+	"cef90809917b79006c00f8c9cec823d8"
+	{
+		"en"		"Cut through the shutter."
+		"es"		"Cut through the shutter."
+	}
+	"c664188a9b1243ce3c8dac0a9b5ea57a"
+	{
+		"en"		"#nmo_anxiety_Obj9"
+		"es"		"#nmo_anxiety_Obj9"
+	}
+	"0178d73a92ebed5e487222cbc5cdea0b"
+	{
+		"en"		"#nmo_anxiety_Obj8"
+		"es"		"#nmo_anxiety_Obj8"
+	}
+	"ee20efb883657b0673b2cf58cc121364"
+	{
+		"en"		"#nmo_anxiety_Obj7"
+		"es"		"#nmo_anxiety_Obj7"
+	}
+	"6e464e8b2c9f41f30b7038b382bb2dea"
+	{
+		"en"		"#nmo_anxiety_Obj6"
+		"es"		"#nmo_anxiety_Obj6"
+	}
+	"b3701b14a075e7f0b063ed31a7acaaa0"
+	{
+		"en"		"#nmo_anxiety_Obj5"
+		"es"		"#nmo_anxiety_Obj5"
+	}
+	"624db402c6495158b133eb30987357b2"
+	{
+		"en"		"#nmo_anxiety_Obj4"
+		"es"		"#nmo_anxiety_Obj4"
+	}
+	"efe37b651ce545ff55431eedd9b58478"
+	{
+		"en"		"#nmo_anxiety_Obj3"
+		"es"		"#nmo_anxiety_Obj3"
+	}
+	"5e014cba618589f5a120fd9e9de553b5"
+	{
+		"en"		"#nmo_anxiety_Obj2"
+		"es"		"#nmo_anxiety_Obj2"
+	}
+	"d6a50a088935d3edaf12cb11ece13532"
+	{
+		"en"		"#nmo_anxiety_Obj1"
+		"es"		"#nmo_anxiety_Obj1"
+	}
+}

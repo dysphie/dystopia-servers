@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"904089c38eae2b8b1e8948fb3f83f012"
+	{
+		"en"		"What a chad. They should've brought a rope to save us. Lets just fix the van instead."
+		"es"		"What a chad. They should've brought a rope to save us. Lets just fix the van instead."
+	}
+	"256c81a4effa43b14da52e55229fb01f"
+	{
+		"en"		"Survive until the rescue arrives!"
+		"es"		"¡Sobrevive hasta que llegue el rescate!"
+	}
+	"087396e626dc8743d7472dc6cb6edf26"
+	{
+		"en"		"The phonebooth didn't work because it's under maintainance. Find a radio!"
+		"es"		"El teléfono está roto. Encuentra una radio"
+	}
+	"8447ca8e89600effd80004e7cb81169c"
+	{
+		"en"		"It requires a penny to make this phonebooth work. Find ONE!!"
+		"es"		"Necesitamos una moneda para usar el teléfono ¡Encuentra una!"
+	}
+	"94cfffe3f1faa7a0305dc1ebac075ca6"
+	{
+		"en"		"You forgot the extraction number. Find the number!"
+		"es"		"Te olvidaste el número, encuéntralo"
+	}
+	"4d4b297b964f02d7a4a9ba77ddc90476"
+	{
+		"en"		"Even the spare key wont open the lock?! This lock needs to be welded. The key might be useful on bypassing houses."
+		"es"		"¡¿Ni siquiera la llave abre el candado?! Entonces requiere un soldador. La llave puede ser útil para entrar a las casas."
+	}
+	"2e39306249db59eadcfb2e86866cb1c4"
+	{
+		"en"		"Locked??? Find a spare key to unlock it."
+		"es"		"Cerrado??? Encuentra una llave para desbloquearlo."
+	}
+	"ce5b0ee5f73dfd069127659d1c86fdeb"
+	{
+		"en"		"Head to the phonebooth to call for the extraction."
+		"es"		"Usa el teléfono público para pedir ayuda."
+	}
+	"f6015618976a16c571396c2192a5b2bc"
+	{
+		"en"		"Leave this room."
+		"es"		"Sal de esta habitación."
+	}
+	"cabb4eec74a3bded6344d9969eed1f64"
+	{
+		"en"		"This extinguisher is empty?!"
+		"es"		"¡¿Este extintor está vacío?!"
+	}
+	"b8d9f6ad398ed9dbf1d9c49f5477aa1e"
+	{
+		"en"		"The door at the left seems to be breakable..."
+		"es"		"La puerta de la izquierda parece rompible..."
+	}
+	"46795ef6f9bf7dacd9c6e7d1b27f9e61"
+	{
+		"en"		"You can open the lights inside the houses."
+		"es"		"Puedes prender las luces dentro de las casas."
+	}
+	"c14e5e14ed8f44ecd1d129e7b85a2da1"
+	{
+		"en"		"XDDD"
+		"es"		"XDDD"
+	}
+	"4a982edef5cb7fcd01bb795caeea5ffc"
+	{
+		"en"		"Time to rush the fire bois! We're leaving this place now!"
+		"es"		"Hora de rushear el fuego, nos vamos!"
+	}
+	"44cbb607810ab43f6766c62edf4a1efa"
+	{
+		"en"		"You can now call once again."
+		"es"		"Puedes llamar de nuevo."
+	}
+	"2c8cd4464d1c79eb1ca95bee0f78adb7"
+	{
+		"en"		"House Care!"
+		"es"		"House Care!"
+	}
+	"6e398401ad047afad34d89ba2c5d6902"
+	{
+		"en"		"Number: 0969-420-1337"
+		"es"		"Número: 0969-420-1337"
+	}
+	"d2c0c4801b5c85d0d03ccf8bca27ef45"
+	{
+		"en"		"Claim your price"
+		"es"		"Ten tu recompensa"
+	}
+}

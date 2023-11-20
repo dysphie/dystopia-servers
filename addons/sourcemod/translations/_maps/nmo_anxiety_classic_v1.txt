@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"4a0fa1be1855b0ab5b60ae0aa7a222e1"
+	{
+		"en"		"Find the RV key"
+		"es"		"Encuentra la llave del RV"
+	}
+	"226a6200dcadd2cc809e842f62ec25b4"
+	{
+		"en"		"Find suitable transport"
+		"es"		"Encuentra un transporte adecuado"
+	}
+	"dc51ff7e9516e6370b8f9666ec6324b7"
+	{
+		"en"		"Resupply at the gun store"
+		"es"		"Reabastece en la tienda de armas"
+	}
+	"c296b43ecf7aee9cee67d403473cb46f"
+	{
+		"en"		"Climb the fence"
+		"es"		"Escala la cerca"
+	}
+	"2c49e273860c51751cc042ed6a99882e"
+	{
+		"en"		"Leave the subway"
+		"es"		"Sal del metro"
+	}
+	"e86ed123a198ff003289d0f8bf1f5aeb"
+	{
+		"en"		"Find a yellow key"
+		"es"		"Encuentra una llave amarilla"
+	}
+	"ea78be62d097d63cbb4af163739149fa"
+	{
+		"en"		"Access the subway"
+		"es"		"Accede al metro"
+	}
+	"14f9f216c820526dddeee20918b40715"
+	{
+		"en"		"Access the tunnels"
+		"es"		"Accede a los túneles"
+	}
+	"4683d61624e19fcd8af28ea66552ea9e"
+	{
+		"en"		"Weld the lock"
+		"es"		"Suelda el candado"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+}

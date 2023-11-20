@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"190a6464becdcc5f63947ee8f58c5efa"
+	{
+		"en"		"Insert coordinates inside the computer and escape throught the teleport"
+		"es"		"Inserta la coordenadas en el ordenador y escapa por el teletransportador"
+	}
+	"38cbf49264ce8b32bb525847d93ef4de"
+	{
+		"en"		"Find the coordinates"
+		"es"		"Encuentra las coordenadas"
+	}
+	"f4f74362a2ec3f8f25280c8af389db78"
+	{
+		"en"		"Activate the current"
+		"es"		"Activa la electricidad"
+	}
+	"f46359ae22a4455108fb86d8fca87f44"
+	{
+		"en"		"Find the plug"
+		"es"		"Encuentra el enchufe"
+	}
+	"c1f5e50b273d59d172d884e8ffb63486"
+	{
+		"en"		"Deactivate security"
+		"es"		"Desactiva la seguridad"
+	}
+	"bdefb1aa61308001e785ed7e483ee101"
+	{
+		"en"		"Push the buttom"
+		"es"		"Pulsa el botón"
+	}
+	"b19f35e64b40ab31136718a30b97992d"
+	{
+		"en"		"Find the missing fuse"
+		"es"		"Encuentra el fusible restante"
+	}
+	"47524eff12aea15d997789995883efca"
+	{
+		"en"		"Find the keycard"
+		"es"		"Encuentra la tarjeta"
+	}
+	"988c66e0de1ef4b78370133afb3c7f0a"
+	{
+		"en"		"Find the code"
+		"es"		"Encuentra el código"
+	}
+	"4b2e179bc86c19b802ccffa4053a92cd"
+	{
+		"en"		"Load the gas can inside the boat"
+		"es"		"Ponle gasolina al barco"
+	}
+	"827f1e9ff5f9c0e34d7bd7c880ac965e"
+	{
+		"en"		"Weld the barricade open"
+		"es"		"Rompe la barricada con el soldador"
+	}
+	"ad282b70850c4eab57eecad0ca179cbb"
+	{
+		"en"		"Find the key"
+		"es"		"Encuentra la llave"
+	}
+	"6f11d3cde21e55972cc70ac59c6bf3a5"
+	{
+		"en"		"Connect the battery to the generator"
+		"es"		"Conecta la batería al generador"
+	}
+	"98381927c68689d4b95b0eeacb36c5d7"
+	{
+		"en"		"Use the wrench"
+		"es"		"Utiliza la llave inglesa"
+	}
+	"acb4747d24df582c35f7fcbb0791b925"
+	{
+		"en"		"Find the key"
+		"es"		"Encuentra la llave"
+	}
+	"743a0400f3e36db51bb938297a1a7651"
+	{
+		"en"		"GET ON THE TELEPORTER!"
+		"es"		"¡ENTRA AL TELETRANSPORTADOR!"
+	}
+	"fc0cc88b488f70653b8d56f281ea98b7"
+	{
+		"en"		"Map creator: Rangerton"
+		"es"		"Creador: Rangerton"
+	}
+}

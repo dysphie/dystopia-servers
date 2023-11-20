@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"cf6463e928f53b1de4bbc4b39f8ee13a"
+	{
+		"en"		"Find the exit, there is nothing left here."
+		"es"		"Find the exit, there is nothing left here."
+	}
+	"dd29745cf45a13384066c823ffb49f4a"
+	{
+		"en"		"DESPERATE ESCAPE PART 7"
+		"es"		"DESPERATE ESCAPE PART 7"
+	}
+	"4da69280cafbc0a3a9491a469aa4eb8a"
+	{
+		"en"		"Mmm... I could short circuit this door"
+		"es"		"Mmm... I could short circuit this door"
+	}
+	"2c38acb33f808ecd80a3fb7be26a8824"
+	{
+		"en"		"this door requires a keycard"
+		"es"		"this door requires a keycard"
+	}
+	"5e7e348e3b5ae8ff552496b27e42b6e1"
+	{
+		"en"		"There is nothing back there."
+		"es"		"There is nothing back there."
+	}
+}

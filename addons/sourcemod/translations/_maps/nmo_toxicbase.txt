@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"a87a7d31aa4465e0bd9f59cdc36e7973"
+	{
+		"en"		"Requires all players to activate the elevator."
+		"es"		"Todos los jugadores deben estar presentes en el elevador para activarlo."
+	}
+	"b59c772efdd16e80b1c372f80e800933"
+	{
+		"en"		"Find a way to collect the reactor."
+		"es"		"Encuentra una manera de recoger el reactor."
+	}
+	"38556345af31f31c6c4d6a798f3ae7a3"
+	{
+		"en"		"Hold out until the chopper arrives."
+		"es"		"Sobrevive hasta que llegue el helicóptero"
+	}
+	"45aa28135059cef466f13db87c2ef691"
+	{
+		"en"		"Find and collect the laptop."
+		"es"		"Encuentra y recoge la laptop."
+	}
+	"e474f406fee00ec91ca391b635c6d72d"
+	{
+		"en"		"Find and collect the zombie sample."
+		"es"		"Encuentra y recoge una muestra de zombi."
+	}
+	"c79a5b26e4f2f75e5d5bc588e256b005"
+	{
+		"en"		"Find and collect the briefcase."
+		"es"		"Encuentra y recoge una maleta."
+	}
+	"c5b8750947d5031358d688c9d050f363"
+	{
+		"en"		"Access the research labs."
+		"es"		"Accede a los laboratorios de investigación."
+	}
+	"ebf9e556cd0e892e6bfe8bf855fadf7a"
+	{
+		"en"		"Bypass the lock."
+		"es"		"Elude el bloqueo."
+	}
+	"3515adb2f76b220fd478de175e441793"
+	{
+		"en"		"Use the cart to collect samples."
+		"es"		"Usa el carrito para recoger muestras"
+	}
+	"8ffd6a0127446a255bc51fb25d1ed11f"
+	{
+		"en"		"Access the security room."
+		"es"		"Accede a la sala de seguridad"
+	}
+	"ff15294e42693ebfc1b2a9f94f699317"
+	{
+		"en"		"Find an exit and escape."
+		"es"		"Encuentra una salida y escapa"
+	}
+	"26f7ca277a14b38fa0721964a19d641e"
+	{
+		"en"		"Find the keycode."
+		"es"		"Encuentra el código del teclado numérico."
+	}
+	"81264497254b771ce0790d7c56c47971"
+	{
+		"en"		"Find a way into the factory."
+		"es"		"Encuentra una manera de entrar a la fábrica."
+	}
+	"c9b4e72729fd60d8b56bac115c90db2b"
+	{
+		"en"		"Descend via red reactor and blow up the supply tanks with dynamite."
+		"es"		"Desciende por el reactor rojo y destruye los tanques de suministros con dinamita."
+	}
+	"bd45c3470107854e3ff5e5d7bdd7a018"
+	{
+		"en"		"Power up the console."
+		"es"		"Enciende la consola."
+	}
+	"29f5ceec2f6497fc0a8f190dce8c0490"
+	{
+		"en"		"Escape using the elevator."
+		"es"		"Lleva los ítems del carrito al ascensor y luego enciende el ascensor"
+	}
+	"dd8533c87df1f80c9e29470e80441465"
+	{
+		"en"		"Find all the fuses."
+		"es"		"Encuentra todos los fusibles."
+	}
+	"c1e0f0a2bc2a7268c04885f18b408c0c"
+	{
+		"en"		"Access the fuse box."
+		"es"		"Accede a la caja de fusibles."
+	}
+}

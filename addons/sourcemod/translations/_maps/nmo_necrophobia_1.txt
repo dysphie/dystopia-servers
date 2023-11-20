@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"c9e856bc31491f960f680ae63a696099"
+	{
+		"en"		"Clear the horde and escape"
+		"es"		"Clear the horde and escape"
+	}
+	"4771927afd19b553f0a101537b9fd839"
+	{
+		"en"		"Refuel the generator"
+		"es"		"Refuel the generator"
+	}
+	"8fcaa11648e0ecac375ecaf4173732c6"
+	{
+		"en"		"Connect the power cable"
+		"es"		"Connect the power cable"
+	}
+	"ea3d4d6ff1291d5205e811481c71b831"
+	{
+		"en"		"Key taken"
+		"es"		"Key taken"
+	}
+	"0b691df7b898ba190d7d149ff2dd5419"
+	{
+		"en"		"The door requires a key."
+		"es"		"The door requires a key."
+	}
+	"add2b699853aae33ad94d016403152a2"
+	{
+		"en"		"Checkpoint unlocked"
+		"es"		"Checkpoint unlocked"
+	}
+	"73786f401101d1bbee42ca13c5505d54"
+	{
+		"en"		"It's not the right kind of gas."
+		"es"		"It's not the right kind of gas."
+	}
+	"30af3a9a69b2cae1c2f91412eefca6bb"
+	{
+		"en"		"There is too many monsters to get in the car yet"
+		"es"		"There is too many monsters to get in the car yet"
+	}
+	"f0b85091c6571d217c6ef274bb1a6210"
+	{
+		"en"		"That car looks like it can get us out of here!"
+		"es"		"That car looks like it can get us out of here!"
+	}
+	"ea8564bb3d61f676c4348bd553439192"
+	{
+		"en"		"Thanks for playing! Created by Ethosaur."
+		"es"		"Thanks for playing! Created by Ethosaur."
+	}
+	"4819149e52941cd37b862af5d0443dc0"
+	{
+		"en"		"3/3 Fuel taken"
+		"es"		"3/3 Fuel taken"
+	}
+	"59589d664e38e0ecfb958a7530addf8c"
+	{
+		"en"		"The generator is out of fuel"
+		"es"		"The generator is out of fuel"
+	}
+	"7ab3b0f824d1b0e6d9806224afc4da96"
+	{
+		"en"		"The generator still needs more fuel."
+		"es"		"The generator still needs more fuel."
+	}
+	"323c4e25084270c657cd91f2e57a6d33"
+	{
+		"en"		"That van isn't going to go anywhere anytime soon."
+		"es"		"That van isn't going to go anywhere anytime soon."
+	}
+	"01eba578c64561103b37dd9f06291fe6"
+	{
+		"en"		"Map made by Ethosaur, thanks for playing."
+		"es"		"Map made by Ethosaur, thanks for playing."
+	}
+	"ca73956ac438f2e307275cf946881298"
+	{
+		"en"		"The door seems to need power to be opened."
+		"es"		"The door seems to need power to be opened."
+	}
+	"7c4a2b790b49950934fc6a8afecbe5ec"
+	{
+		"en"		"Lights still arent on, maybe it powered something else?"
+		"es"		"Lights still arent on, maybe it powered something else?"
+	}
+	"3de807a5a2b0191f13d79425d95e0b00"
+	{
+		"en"		"Maybe the generator could provide some power here."
+		"es"		"Maybe the generator could provide some power here."
+	}
+	"e209b9fb566af26c780d892a78ae44a6"
+	{
+		"en"		"The door is blocked by something from behind."
+		"es"		"The door is blocked by something from behind."
+	}
+	"6f7cd0d0ef9d6e9cd0120a3030dda1e3"
+	{
+		"en"		"The door is blocked from behind by something."
+		"es"		"The door is blocked from behind by something."
+	}
+	"b9b33f268c852d04efe5e2b7951810d5"
+	{
+		"en"		"The path is broken, maybe there is another way."
+		"es"		"The path is broken, maybe there is another way."
+	}
+	"5aef5fce2f7df528d1af64506b7d9711"
+	{
+		"en"		"Your car has broken down, maybe you can find help here?"
+		"es"		"Your car has broken down, maybe you can find help here?"
+	}
+	"a64cd90d77eacd4be2753d0defa36b91"
+	{
+		"en"		"This gas could be useful."
+		"es"		"This gas could be useful."
+	}
+	"864e9e9e76ec4d8ebd1770329724e8dd"
+	{
+		"en"		"2/3 Fuel taken"
+		"es"		"2/3 Fuel taken"
+	}
+	"1772ab449f36fd7887142d7b8a67489e"
+	{
+		"en"		"1/3 Fuel taken"
+		"es"		"1/3 Fuel taken"
+	}
+}

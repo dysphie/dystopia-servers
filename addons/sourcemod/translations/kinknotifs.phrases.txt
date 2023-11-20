@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Triggered Landmine"
+	{
+		"#format"	"{1:N}"
+		"en"	"{red}{1}{salmon} stepped on a landmine"
+		"es"	"{red}{1}{salmon} pisó una mina"
+	}
+}

@@ -1,0 +1,55 @@
+"Phrases"
+{
+	"No Zombies Available"
+	{
+		"en"	"There are no zombies you can spectate at this time"
+		"es"	"No hay zombis para observar en este momento"
+	}
+	"Menu Title"
+	{
+		"en"	"Zombie Camera"
+		"es"	"Cámara Zombi"
+	}
+	"Zombie ID"
+	{
+		"#format"	"{1:d}"
+		"en"	"[ID: {1}]"
+		"es"	"[ID: {1}]"
+	}
+
+	"Enable Camera"
+	{
+		"en"	"Enable"
+		"es"	"Activar"
+	}
+
+	"Disable Camera"
+	{
+		"en"	"Disable"
+		"es"	"Desactivar"
+	}
+
+	"Next Zombie"
+	{
+		"en"	"Next"
+		"es"	"Siguiente"
+	}
+
+	"Previous Zombie"
+	{
+		"en"	"Previous"
+		"es"	"Previo"
+	}
+
+	"Zombie Camera Is Not Active"
+	{
+		"en"	"You are not in zombie camera mode"
+		"es"	"No estás en camera zombi"
+	}
+
+	"You Must Be Dead"
+	{
+		"en"	"You must be dead to use this command"
+		"es"	"Debes estar muerto/a para usar este comando"
+	}
+}

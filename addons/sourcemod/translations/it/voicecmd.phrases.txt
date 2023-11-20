@@ -1,0 +1,51 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"it"		"Voce"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"it"		"Ho bisogno di munizioni"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"it"		"Seguitemi"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"it"		"Aiuto!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"it"		"State qui"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"it"		"No"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"it"		"Si"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"it"		"Grazie"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"it"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"it"		"Granata!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"it"		"Molotov!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"it"		"TNT!"
+	}
+}

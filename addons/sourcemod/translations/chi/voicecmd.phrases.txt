@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"chi"		"语音"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"chi"		"需要子弹"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"chi"		"跟我来"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"chi"		"救命!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"chi"		"停在这"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"chi"		"不"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"chi"		"好"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"chi"		"谢了"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"chi"		"它们来了"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"chi"		"我受伤了"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"chi"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"chi"		"手榴弹！"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"chi"		"燃烧瓶！"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"chi"		"TNT！"
+	}
+}

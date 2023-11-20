@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"857eee6fc8a9b4a171fe3df50bdda4bd"
+	{
+		"en"		"ArtWork By BLAZK0"
+		"es"		"Arte por BLAZK0"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"es"		"Mapa por HAMMERCORE"
+	}
+	"774094a99f28fea9246e9f5957495b99"
+	{
+		"en"		"Go to the exit"
+		"es"		"Ve a la salida"
+	}
+	"bfec4d88d71cc17e8bea6a80ed9cb1be"
+	{
+		"en"		"Go to the wagon"
+		"es"		"Ve al vagón"
+	}
+}

@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"0c086df4bfc43a2c609f057381676c0c"
+	{
+		"en"		"Objective4"
+		"es"		"Objective4"
+	}
+	"a76da4afa7c668ed56ecaf52072aec71"
+	{
+		"en"		"Objective3"
+		"es"		"Objective3"
+	}
+	"d6f33128d360ab9cdd99c023cfc5eeda"
+	{
+		"en"		"Objective2"
+		"es"		"Objective2"
+	}
+	"71f5de87dd2eea28b84c5cc43c6ee4ee"
+	{
+		"en"		"Objective1"
+		"es"		"Objective1"
+	}
+	"9d37ecaadf1c49e1c7a72f397cdbf194"
+	{
+		"en"		"El laboratorio es la clave y tambien el problema"
+		"es"		"El laboratorio es la clave y tambien el problema"
+	}
+	"136d0296b790627dd2ec6af21015a604"
+	{
+		"en"		"Creador del mapa: Ambarman"
+		"es"		"Creador del mapa: Ambarman"
+	}
+}

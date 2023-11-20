@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"fcc34ea9a9f700d9c7bc2c414c4a61ee"
+	{
+		"en"		"Complete the matrix test"
+		"es"		"Completa el test de la matrix"
+	}
+	"71d31f17be4ca5e4053e65dfcb15d752"
+	{
+		"en"		"Find a way out and listen to the phone again"
+		"es"		"Encuentra una salida y escucha al teléfono de nuevo"
+	}
+	"4a94d8f94753551f48416e850ad7c2f4"
+	{
+		"en"		"Go to the opposite building to answer the phone"
+		"es"		"Ve al edificio opuesto para contestar el teléfono"
+	}
+	"da298ebe24b0aa53a9f0f596e56e6bc1"
+	{
+		"en"		"Take the elevator to the roof"
+		"es"		"Toma el ascensor hasta el techo"
+	}
+	"8204316951f975e2b91a368be0d1cb01"
+	{
+		"en"		"Finish surf and defend"
+		"es"		"Ve por las rampas y defiende"
+	}
+	"12826d16ed550d929773e57adba7828d"
+	{
+		"en"		"Make it through all of the games"
+		"es"		"Sobrevive los juegos"
+	}
+	"704af096d9e80ff507d0796b599f18e5"
+	{
+		"en"		"Enter the building"
+		"es"		"Entra al edificio"
+	}
+	"179e5f99a5bb2f51e4c80f4fc5927817"
+	{
+		"en"		"Dodge the laser and get rewards"
+		"es"		"Esquiva los láseres y toma el botín"
+	}
+	"05929f7c6496114ab4a72a8b58decadf"
+	{
+		"en"		"Make a hole in the sewers to take the safe"
+		"es"		"Crea un agujero en las alcantarillas para tomar la caja fuerte"
+	}
+	"5158887e299e8c114036a20534d5edd1"
+	{
+		"en"		"Plan B"
+		"es"		"Plan B"
+	}
+	"adfe287c6da1fccc0652107a43490d1d"
+	{
+		"en"		"Shut down the security system"
+		"es"		"Desactiva el sistema de seguridad"
+	}
+	"a52e028cc89a53c8c214432117f6cd5a"
+	{
+		"en"		"Destroy the wooden door"
+		"es"		"Destruye las puertas de madera"
+	}
+	"761a763fd21ee6375730fc23b113e424"
+	{
+		"en"		"Kill all the zombies here"
+		"es"		"Mata a todos los zombis en el área"
+	}
+	"af322c7e651a81eef216c60dcb386225"
+	{
+		"en"		"Author：Eastern Swiss Power
+Ported by: Fong"
+		"es"		"Autor: Eastern Swiss Power
+Adaptado por: Fong"
+	}
+	"5982ad64190461ccf7e3858d4a02cc12"
+	{
+		"en"		"We don't have the right equipment to open the safe
+Execute plan B!!"
+		"es"		"No tenemos el equipo adecuado para abrir la caja fuerte
+¡Hora del plan B!"
+	}
+	"e9484779724afd3053bc36e9fdd7517c"
+	{
+		"en"		"Security system is shutting down---"
+		"es"		"El sistema de seguridad se está apagando---"
+	}
+	"70cf37ba84b129b17ee999ff1162bf7b"
+	{
+		"en"		"We failed, the bomb was destroyed"
+		"es"		"Fallamos, la bomba fue destruída"
+	}
+	"cf92a80c63d6620a8caabd10bcc53b36"
+	{
+		"en"		"The bomb has been planted
+2 minutes until detonation
+Defend it at all costs"
+		"es"		"La bomba ha sido plantada
+Tardará 2 minutos en detonar.
+Tenemos que protegerla"
+	}
+	"7384feff60da2a0c767c9f2598e1bda6"
+	{
+		"en"		"Time is limited,
+more zombies are gathering"
+		"es"		"El tiempo es limitado,
+siguen llegando zombis"
+	}
+	"ac23092826d18d55581c2b12ffcb3307"
+	{
+		"en"		"The bomb is about to explode
+Stay away from it"
+		"es"		"La bomba está apunto de explotar
+Aléjate de ella"
+	}
+	"6f72ae98e3b6e82239fa3fbc30a5b3ae"
+	{
+		"en"		"Dodge the incoming lasers
+Requires at least one survivor
+Else you lose!!"
+		"es"		"Esquiva los láseres que vienen
+Al menos una persona debe sobrevivir
+O pierden!!"
+	}
+	"4249d7524ae0e70e8dcb70096455d4f9"
+	{
+		"en"		"We should leave,
+All aboard"
+		"es"		"Deberíamos irnos,
+Todos a bordo"
+	}
+	"ef5e27f28b6449bef6175735096f74f2"
+	{
+		"en"		"We failed
+No survivors left"
+		"es"		"Fallamos
+No quedaron sobrevivientes"
+	}
+}

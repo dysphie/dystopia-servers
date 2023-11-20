@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"f03a5e71f99111472b8ba61e71db5e2d"
+	{
+		"en"		"Defend the gas station until rescue arrives!"
+		"es"		"¡Defiende la gasolinera hasta que llegue el rescate!"
+	}
+	"e47614f08567de572914ed1016d6d465"
+	{
+		"en"		"Navigate the sewers and find the military"
+		"es"		"Navega por las alcantarillas y encuentra al ejército"
+	}
+	"9deb7da1978275e265b78fcf16a19406"
+	{
+		"en"		"Get the SWAT officer supplies from the fallen outpost"
+		"es"		"Consigue los suministros del oficial SWAT del puesto caído"
+	}
+	"45fc4dbf35ef4603bb2a822b1c6f5cf7"
+	{
+		"en"		"Open the armory and listen to the radio!"
+		"es"		"¡Abre el arsenal y escucha la radio!"
+	}
+	"0417378acabb66e594938db0c730ea53"
+	{
+		"en"		"Get the SWAT officer supplies from the corner store"
+		"es"		"Consigue los suministros del oficial SWAT de la tienda de la esquina"
+	}
+	"01c68360b45277a5173afa23e8e24a48"
+	{
+		"en"		"So much for extraction... Search for any survivors"
+		"es"		"Y ahí se va la extracción... Busca a cualquier superviviente"
+	}
+	"2a8ef310c76094795337448333d46497"
+	{
+		"en"		"Fight your way to the police department!"
+		"es"		"¡Llega al departamento de policía!"
+	}
+	"209245d8c918b4e44a8f0a47d8b803e1"
+	{
+		"en"		"One of the barricades is misplaced, use a blast charge to destroy it!"
+		"es"		"Una de las barricadas está mal colocada, usa una carga explosiva para destruirla!"
+	}
+	"5a009bd10384a79cac69451895df4f32"
+	{
+		"en"		"Gather what you can and head to the local PD"
+		"es"		"Reúne lo que puedas y dirígete al departamento de policía"
+	}
+}

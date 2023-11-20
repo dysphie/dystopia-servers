@@ -1,0 +1,133 @@
+"Phrases"
+{
+	"424cc07b86f3b2cf243c3c1972eaa332"
+	{
+		"en"		"Restore elevator power"
+		"es"		"Restore elevator power"
+	}
+	"25eb7400712457c6798af9fe6d42a4e9"
+	{
+		"en"		"Replace the 3 batterys into their terminals"
+		"es"		"Replace the 3 batterys into their terminals"
+	}
+	"3651fd00901bcdb3c2446f303b139f28"
+	{
+		"en"		"Collect the door key"
+		"es"		"Collect the door key"
+	}
+	"43c5583911024c6c4857297417f0af24"
+	{
+		"en"		"Break out"
+		"es"		"Break out"
+	}
+	"1d40bcd3ec7a3f548159881267cf0f6f"
+	{
+		"en"		"Pick up the key for the top floor"
+		"es"		"Pick up the key for the top floor"
+	}
+	"0b26b351d7e2556dce74a89ef62e3c3c"
+	{
+		"en"		"Releave valve pressure"
+		"es"		"Releave valve pressure"
+	}
+	"01047fbf74c279601ea3a31bdc9f349e"
+	{
+		"en"		"Clear the barricade"
+		"es"		"Clear the barricade"
+	}
+	"db642471c6f37aac73470cf665fde5b9"
+	{
+		"en"		"Obtain the keycard"
+		"es"		"Obtain the keycard"
+	}
+	"619d5e08a0351534c6487e13fdf9ec59"
+	{
+		"en"		"Close steam valve"
+		"es"		"Close steam valve"
+	}
+	"64cb23209166722a22e50e45bcf3cd59"
+	{
+		"en"		"Find gas for the generator"
+		"es"		"Find gas for the generator"
+	}
+	"1cfda4524fd1e25e8979b7351a24a847"
+	{
+		"en"		"Press the button when you're ready"
+		"es"		"Press the button when you're ready"
+	}
+	"645d6c439bdfe7230f7a2da05ce2600e"
+	{
+		"en"		"Elevator lacks electric power..."
+		"es"		"Elevator lacks electric power..."
+	}
+	"0ed2aabb2318df72f54b1a9effc699cb"
+	{
+		"en"		"Elevator defective..."
+		"es"		"Elevator defective..."
+	}
+	"0d14c8844bd1dcfb9eab7698ed352748"
+	{
+		"en"		"Thanks for playing!"
+		"es"		"Thanks for playing!"
+	}
+	"1eda059ca1b665358c8f515f752a4cd6"
+	{
+		"en"		"Created by: AppleJack (Black_Helicopter_245)"
+		"es"		"Created by: AppleJack (Black_Helicopter_245)"
+	}
+	"48915f19e38c3c177392e1e8f9888992"
+	{
+		"en"		"The end night_house_of_horrors_part_2 Beta 0.7v"
+		"es"		"The end night_house_of_horrors_part_2 Beta 0.7v"
+	}
+	"5f6241afc4dc4a3bea944442409933c5"
+	{
+		"en"		"20 Minutes after..."
+		"es"		"20 Minutes after..."
+	}
+	"aa327e7c020a09dec083b8c2ebdd1bb9"
+	{
+		"en"		"Keycard Picked up..."
+		"es"		"Keycard Picked up..."
+	}
+	"36b6112ba691d4d238d861f5e2bf3dc4"
+	{
+		"en"		"Gascan Picked up..."
+		"es"		"Gascan Picked up..."
+	}
+	"8ad8b3e9b60879cdd11cf4880d3944ba"
+	{
+		"en"		"Generator On..."
+		"es"		"Generator On..."
+	}
+	"096aa3f417d218f99c3af90676432a32"
+	{
+		"en"		"Needed Gascan!"
+		"es"		"Needed Gascan!"
+	}
+	"1a8265215978bc72cf7ca2695b655fff"
+	{
+		"en"		"Key Picked up..."
+		"es"		"Key Picked up..."
+	}
+	"74d494c5d58b825867eff95a639334e8"
+	{
+		"en"		"Part 2..."
+		"es"		"Part 2..."
+	}
+	"4a8c2767a43c39ce5606f50941e0686f"
+	{
+		"en"		"Place: Complex By production Building materials"
+		"es"		"Place: Complex By production Building materials"
+	}
+	"33e8b6792fdd7fc0d2f9a4ccaf3d319c"
+	{
+		"en"		"Time: 23:52. 12.10.2005"
+		"es"		"Time: 23:52. 12.10.2005"
+	}
+	"aa2672821c4de13f9041d8ee0f18fd39"
+	{
+		"en"		"Night House of Horrors"
+		"es"		"Night House of Horrors"
+	}
+}

@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"ccd8f6457032af626a1888fca18a80db"
+	{
+		"en"		"Survive for 3 minutes!"
+		"es"		"Sobrevive por 3 minutos!"
+	}
+	"0fc37f84bfeb9979838e45cc6f990dda"
+	{
+		"en"		"Prepare for wave before pressing the button"
+		"es"		"Prepárate para la horda antes apretar el botón"
+	}
+	"73274551508968c530e41b8357aa04fc"
+	{
+		"en"		"Use the elevator"
+		"es"		"Ve por el acensor"
+	}
+	"b42d2494991e9f2f76b3fcba30f469e1"
+	{
+		"en"		"Find the key to unlock door"
+		"es"		"Encuentra una llave para abrir la puerta"
+	}
+	"e02b2cb5933b141132a30877bed3315f"
+	{
+		"en"		"Make your way to the final area"
+		"es"		"Dirígete al área final"
+	}
+	"b0ea93363cc92bdc21725971bdc74b01"
+	{
+		"en"		"Survive what comes ahead"
+		"es"		"Sobrevive lo que se viene"
+	}
+	"4d85019c7ebb512311d85eed9b88106f"
+	{
+		"en"		"Pull the levers to activate something."
+		"es"		"Gira las palancas para activar algo."
+	}
+	"8b95b8c0354a0fdd0c3e15f3409c8c3c"
+	{
+		"en"		"Find what is blocking the power doors."
+		"es"		"Averigua qué está bloqueando la puerta eléctrica."
+	}
+	"9b97a32b658810d8499e47850e5af690"
+	{
+		"en"		"Explore ahead"
+		"es"		"Explora"
+	}
+	"6a5c7995c42ba31eff7cde1332263399"
+	{
+		"en"		"Press the button to turn off lasers"
+		"es"		"Presiona el botón para apagar los láseres"
+	}
+	"5966e6168ea1aa8415b3ac555e96c267"
+	{
+		"en"		"Jump into black hole!"
+		"es"		"Salta al agujero negro!"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"ef9d86fd0c90caf502177ac6f02d0611"
+	{
+		"en"		"Map by Shadgrimgrvy"
+		"es"		"Mapa por Shadgrimgrvy"
+	}
+	"214ddc3a6b8ccdb140ee9031df836ff5"
+	{
+		"en"		"Dodge the lasers!!!"
+		"es"		"Esquiva los láseres!!!"
+	}
+	"4e399ba3e0106019683a8b8b7606c161"
+	{
+		"en"		"ASSESSMENT: CONTACT LOST. LOCATION UNKNOWN."
+		"es"		"REPORTE: CONTACTO PERDIDO. UBICACIÓN DESCONOCIDA"
+	}
+	"cedc5f7be8f18cd59d74825a535fbb81"
+	{
+		"en"		"STATUS: AT LARGE."
+		"es"		"ESTADO: A LA FUGA."
+	}
+	"ea00c83ba8fe4aaf8d3af711cfdeab9d"
+	{
+		"en"		"SUBJECT: 0255"
+		"es"		"SUJETO: 0255"
+	}
+	"605d564260b478e34a3c5da4ffa02146"
+	{
+		"en"		"Hypnophobia"
+		"es"		"Hypnophobia"
+	}
+}

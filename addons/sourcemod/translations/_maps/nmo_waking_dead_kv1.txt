@@ -1,0 +1,213 @@
+"Phrases"
+{
+	"90202a35b373785a813a01eba3a90eeb"
+	{
+		"en"		"Map by DaMaN"
+		"es"		"Mapa por DaMaN"
+	}
+	"0feaba2fa3b4b3b4576a69acd534c3b6"
+	{
+		"en"		"This radio isn't working. You will have to keep moving forward and find help."
+		"es"		"La radio no funciona. Tendrás que continuar avanzando y encontrar ayuda."
+	}
+	"ad4e6db781f68b93cdaf0d72caa4a640"
+	{
+		"en"		"NMRIH Edit By xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"37776f1b285d371e730b17ef0e19cbc1"
+	{
+		"en"		"1.35 modifications by W0rf0x"
+		"es"		"Modificaciones 1.35 por W0rf0x"
+	}
+	"3e0774524cc80cf5d5d833d7aa26c4b9"
+	{
+		"en"		"Special Thanks: Obsidian Conflict (skidz & Hyperjag3)"
+		"es"		"Gracias a: Obsidian Conflict (skidz y Hyperjag3)"
+	}
+	"36893a8a281a236f4ddb591828d0ed72"
+	{
+		"en"		"CSS Models: Valve"
+		"es"		"Modelos de CSS: Valve"
+	}
+	"582d9e5dc62ff1a365e7ca266c371e98"
+	{
+		"en"		"Music: E Nomine and Valve"
+		"es"		"Música: E Nomine y Valve"
+	}
+	"3dd4631d6ff12ef1a88280f5c196c679"
+	{
+		"en"		"Custom Zombies by: Snood"
+		"es"		"Zombis custom por: Snood"
+	}
+	"051b913c2169b05b838079c3721c5824"
+	{
+		"en"		"Another human voice that is..."
+		"es"		"Otra voz humana, digo..."
+	}
+	"0c2fdd126eec3b3e37912e5533779b53"
+	{
+		"en"		"Hold out until then.  Good luck!"
+		"es"		"Mientras tanto, sobrevive. Buena suerte!"
+	}
+	"b767258f2fd24599ad8b0301ad3d3fca"
+	{
+		"en"		"so it'll take about 3 minutes to get there."
+		"es"		"así que tardará 3 minutos en llegar allí."
+	}
+	"66453de54ce51e7c15eae388ac619b40"
+	{
+		"en"		"You're in the middle of the infested zone,"
+		"es"		"Te encuentras en el medio de una zona invadida por zombis,"
+	}
+	"fd1bce3125b3e36de924fd73b4b7f8e3"
+	{
+		"en"		"Radio: We're dispatching a Blackhawk to get you out of there."
+		"es"		"Radio: Estamos enviando un helicóptero Blackhawk para rescatarte."
+	}
+	"d0d38f717d7d62402160070e1205be7f"
+	{
+		"en"		"Damn it's good to hear another voice!"
+		"es"		"Se siente bien oír otra voz!"
+	}
+	"8ae7a4fb36abead0f0dda81c099496bb"
+	{
+		"en"		"Radio: Hello?  Is anyone alive out there?"
+		"es"		"Radio: Hola? Hay alguien vivo del otro lado?"
+	}
+	"db218dc216409c33445ef901188bd5a4"
+	{
+		"en"		"Happy Halloween!"
+		"es"		"Feliz Halloween!"
+	}
+	"543ad9feb036d84d9b5a3a855e68016a"
+	{
+		"en"		"Da_HL_MaN@yahoo.ca"
+		"es"		"Da_HL_MaN@yahoo.ca"
+	}
+	"fc131e35b3bc171c4757717264b9f2ad"
+	{
+		"en"		"By: DaMaN"
+		"es"		"Por: DaMaN"
+	}
+	"b93f779629e7b2cc59830a45efeead40"
+	{
+		"en"		"oc_waking_dead"
+		"es"		"oc_waking_dead"
+	}
+	"d5dfd77feb45572e71b801bb4c4cef1b"
+	{
+		"en"		"Zombie infestation remains extensive."
+		"es"		"Sigue habiendo muchos zombies."
+	}
+	"60566084e80ced71c6ff6962a9dc34fb"
+	{
+		"en"		"Rescued by the military."
+		"es"		"Rescatado por el ejército."
+	}
+	"24a23d787190f2c4812ff9ab11847a72"
+	{
+		"en"		"Status:"
+		"es"		"Estado:"
+	}
+	"8d80ec208287312e595f3c2e485fdd20"
+	{
+		"en"		"Achievement: You're letting them in!"
+		"es"		"Logro: Los estás dejando entrar!"
+	}
+	"ff667725960faee310177547052d2f59"
+	{
+		"en"		"Destroy all boards nailed to doors"
+		"es"		"Destruye las barricadas de las puertas"
+	}
+	"2ba0d7d59bef84e78b207b551090cb16"
+	{
+		"en"		"Simon: Come on inside!"
+		"es"		"Simon: Ven adentro!"
+	}
+	"c5ff9f38f2b817f13c44605acb9d9719"
+	{
+		"en"		"Simon: Sorry for the delay, the door was stuck."
+		"es"		"Simon: Perdón por la demora, la puerta estaba bloqueada."
+	}
+	"b3986f41144a34b73fd1a5238478a4c0"
+	{
+		"en"		"Riley: Hold them off while we unbar the door!"
+		"es"		"Riley: Mantenlos alejados mientras desbloqueamos la puerta!"
+	}
+	"1f3df6d53e64ff830afe094f707d6e72"
+	{
+		"en"		"Riley: Damn, looks like the zombies are back."
+		"es"		"Riley: Mierda, al parecer los zombis volvieron."
+	}
+	"33b0cba14c0ff9f7e9e5b76b8ca43ed7"
+	{
+		"en"		"Riley: Give us five minutes and you'll be safe in here!"
+		"es"		"Riley: Danos 5 minutos y estarás seguro aquí!"
+	}
+	"5aab622c876dbd82019c39957bf62027"
+	{
+		"en"		"Simon: Hang on.  We'll unbar the door for you!"
+		"es"		"Simon: Espera. Voy a destrabar la puerta para ti!"
+	}
+	"a90590a7fcc025e51b47c47fd13fa97e"
+	{
+		"en"		"Riley: We thought we were the only ones left."
+		"es"		"Riley: Pensamos que éramos los únicos que quedaban vivos."
+	}
+	"9c50a6657b3ec0c4f9fc46cabcd8686c"
+	{
+		"en"		"Simon: Wow, people!"
+		"es"		"Simon: Wow, personas!"
+	}
+	"9614efe77b5c2c27831e85b182c26658"
+	{
+		"en"		"Save Chuck the Plant"
+		"es"		"Salva a Chuck, la planta"
+	}
+	"ee4bf2638d945de0566f52f47c649ca4"
+	{
+		"en"		"Achievement: Saving Private Chuck"
+		"es"		"Logro: Rescatando al soldado Chuck"
+	}
+	"0f7df106b8da0f5e9c110a1039cb7c38"
+	{
+		"en"		"Survive until chopper arrives."
+		"es"		"Sobrevive hasta que llegue el helicóptero"
+	}
+	"f3181f282584b9afac7dd5d7c809691c"
+	{
+		"en"		"Use the radio to call for some help."
+		"es"		"Usa la radio para pedir ayuda."
+	}
+	"d5271c3472de6e94f7b288b6ac0cf1cf"
+	{
+		"en"		"Exit the theatre."
+		"es"		"Sal del teatro."
+	}
+	"a650fcb775fafbebb7f30315ff4a51ed"
+	{
+		"en"		"Find something blow up the doors inside theatre."
+		"es"		"Encuentra algo para detonar las puertas en el escenario del teatro."
+	}
+	"f86cbb0c105fb9ff79119444dcad2ab9"
+	{
+		"en"		"Head to the horse statue to regroup with any survivors and use the radio to call help."
+		"es"		"Dirígete a la estatua del caballo para reagruparte con los sobrevivientes y usa la radio para pedir ayuda."
+	}
+	"26c94a4aaf590533873e0747c5483f41"
+	{
+		"en"		"Navigate through the apartments."
+		"es"		"Cruza por los apartamentos."
+	}
+	"4fe039479a71410991fdc9957e63921b"
+	{
+		"en"		"Explore around the town and search for help."
+		"es"		"Explora la ciudad y busca ayuda."
+	}
+	"19d219fd003655103c02a9d4a69c492c"
+	{
+		"en"		"Leave the apartment."
+		"es"		"Sal del apartamento."
+	}
+}

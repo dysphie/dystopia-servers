@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"078671acc168c82af9dac8b1a4d10fc2"
+	{
+		"en"		"Code: 74569321"
+		"es"		"Código: 74569321"
+	}
+	"f2954565c30144c1a920e79d353f0174"
+	{
+		"en"		"Code:98121397"
+		"es"		"Código: 98121397"
+	}
+	"139594c550071afa6e2e8809c81d4d40"
+	{
+		"en"		"Thank You for Playing! 2021 Happy New Year! =)"
+		"es"		"Gracias por jugar! 2021 Feliz año nuevo! =)"
+	}
+	"d5d8e7f7e48f6c7e379d2fb275d8b2ac"
+	{
+		"en"		"Made by Steinman.  Modify by WuXin."
+		"es"		"Creado por Steinman.  Modificado por WuXin."
+	}
+	"1a4dcb9c4ae2e448ab5d269fd4e01092"
+	{
+		"en"		"QQGroup: 1057157630 // 2020.12.29 AM 0:12"
+		"es"		"Grupo de QQ: 1057157630 // 2020.12.29 AM 0:12"
+	}
+	"3dd24edbc43efc27836f90a67cc908db"
+	{
+		"en"		"This Map From Garry's Mod // nmo_slash_highschool_v8"
+		"es"		"Este mapa es de Garry's Mod // nmo_slash_highschool_v8"
+	}
+	"ecd2fc9488df2048ef1276a9faf52a1c"
+	{
+		"en"		"Escape With Your Supplies"
+		"es"		"Escapa con tus suministros"
+	}
+	"5d2e5e368391dab96d3fda9aabe4ee77"
+	{
+		"en"		"Supply 1/8"
+		"es"		"Suministro 1/8"
+	}
+	"99a0c81e9c5f8f7c7260e2ca0ca3994b"
+	{
+		"en"		"Supply 2/8"
+		"es"		"Suministro 2/8"
+	}
+	"ddb28901635dd4f96a9fd15f474f43b3"
+	{
+		"en"		"Supply 3/8"
+		"es"		"Suministro 3/8"
+	}
+	"0150c53bf31740a2749f3b056932d236"
+	{
+		"en"		"Supply 4/8"
+		"es"		"Suministro 4/8"
+	}
+	"3e9e897a00faf4b92766ab1f399e51c1"
+	{
+		"en"		"Supply 5/8"
+		"es"		"Suministro 5/8"
+	}
+	"0fcc11f63a9a79932ac6269ecea29f39"
+	{
+		"en"		"Supply 6/8"
+		"es"		"Suministro 6/8"
+	}
+	"2779d2cb834909e8c24d7f1d811c71ec"
+	{
+		"en"		"Supply 7/8"
+		"es"		"Suministro 7/8"
+	}
+	"b1f67a87124d44115e310ed091bb8b0f"
+	{
+		"en"		"Supply 8/8"
+		"es"		"Suministro 8/8"
+	}
+	"28882d06cd5b9dff7e96ce63d628bc59"
+	{
+		"en"		"Try to get out of here!"
+		"es"		"Intenta escapar de aquí"
+	}
+	"b1c40cec4a77b9516c62b1d5dd431820"
+	{
+		"en"		"Leave now!"
+		"es"		"Escapa ahora!"
+	}
+	"349ace72ef09d138c908e519c4ee6f28"
+	{
+		"en"		"Look for a fire extinguisher"
+		"es"		"Encuentra un extintor"
+	}
+	"81376468fdad65190a05f61f06351840"
+	{
+		"en"		"Blow up the back door."
+		"es"		"Destruye la puerta trasera"
+	}
+	"f9f95569114065efd8f5ad1148345fcf"
+	{
+		"en"		"Look for a welder."
+		"es"		"Encuentra un soldador."
+	}
+	"521dbca68dc870add0e8080d4e9490bd"
+	{
+		"en"		"Find keycard to access laboratories"
+		"es"		"Encuentra la tarjeta de acceso al laboratorio"
+	}
+	"99dcef5f939f39df85a67c93baae1ad4"
+	{
+		"en"		"Find keycard to access offices"
+		"es"		"Encuentra la llave a las oficinas"
+	}
+	"9cf8ea5dec8be271d42d1f4b95d1f7d9"
+	{
+		"en"		"Use laptop to call for help"
+		"es"		"Usa la laptop para pedir ayuda"
+	}
+	"b7b78d33c86f6518cb163ac4eda3de22"
+	{
+		"en"		"Find keycard to access computer room"
+		"es"		"Encuentra la tarjeta de acceso a la sala de ordenadores."
+	}
+	"17ac3a9540e7d9885b87e8ccbb19b04a"
+	{
+		"en"		"Find and take supplies."
+		"es"		"Encuentra y toma suministros."
+	}
+}

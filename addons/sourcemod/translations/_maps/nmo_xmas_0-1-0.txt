@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"baa8634734427f6dcfca8c4fd3e1cbfd"
+	{
+		"en"		"The radio is dead, you'd better give Santa a present!"
+		"es"		"La radio está muerta ¡Será mejor que le des un regalo a Santa!"
+	}
+	"3355113672f01809f6672d4e730ba4c8"
+	{
+		"en"		"The radio isn't working, find a battery"
+		"es"		"La radio no funciona, encuentra una batería"
+	}
+	"3b992d467347fa9aee88e55a65af4f3d"
+	{
+		"en"		"Call for help with the radio"
+		"es"		"Pide ayuda por la radio"
+	}
+	"175cb74fcec7eac167e19843ee17428c"
+	{
+		"en"		"Cut the pole"
+		"es"		"Derriba el poste"
+	}
+	"a977e3c64f44196c85cd32327ee05df0"
+	{
+		"en"		"Search for the safe box and pick up the secret stuff"
+		"es"		"Encuentra una caja fuerte y toma el material secreto"
+	}
+	"c268d83ee3ca25cf4991d8fb43a3da9b"
+	{
+		"en"		"Search for the key and open the front door!"
+		"es"		"Encuentra una llave y abre la puerta"
+	}
+	"3eaf6a13db49e5b2a6a27ec5cb7c2efe"
+	{
+		"en"		"Fix the electricity"
+		"es"		"Restablece la electricidad"
+	}
+	"018faba16f4f70c30ac69457f15f1e4d"
+	{
+		"en"		"Fix Oliver the snowman"
+		"es"		"Arregla a Oliver, el muñeco de nieve"
+	}
+	"2878ac30d6b85818b36ee672f31f82a2"
+	{
+		"en"		"Go outside"
+		"es"		"Ve afuera"
+	}
+}

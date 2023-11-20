@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"ba6d7f9596b72f5c8bb38e0447aa5a22"
+	{
+		"en"		"Escape Raccoon Police Department"
+		"es"		"Escapa del Departamento de Policía de Raccoon"
+	}
+	"2a085e6152cc062f9cb7286cb88896f6"
+	{
+		"en"		"Use Keycard on Computer"
+		"es"		"Usa la tarjeta magnética en el ordenador"
+	}
+	"9e94fb197226d6267fef5444f7447204"
+	{
+		"en"		"You have aquired the Club Key."
+		"es"		"Has adquirido la llave del trébol."
+	}
+	"d333015493ad42692f10b0fc069ad6df"
+	{
+		"en"		"A strong smell of fuel is coming from the wood."
+		"es"		"Un fuerte olor a combustible sale de la madera."
+	}
+	"f0b13b3a6bab79068cf2f2b05d41bd72"
+	{
+		"en"		"You have aquired the Bishop Plug."
+		"es"		"Has adquirido el enchufe del alfil."
+	}
+	"d338f92da3d13776e15e17daaa1e709f"
+	{
+		"en"		"You have aquired the Knight Plug."
+		"es"		"Has adquirido el enchufe del caballo."
+	}
+	"bca83d441fa90c2544acbe694e5aa03a"
+	{
+		"en"		"You have aquired the King Plug."
+		"es"		"Has adquirido el enchufe del rey."
+	}
+	"093aa7b183f9609766350570bdaa6c9d"
+	{
+		"en"		"You have aquired the Rook Plug."
+		"es"		"Has adquirido el enchufe de la torre."
+	}
+	"d069c025abec325f0f2845a7c1a6cf33"
+	{
+		"en"		"You have aquired the Heart Key."
+		"es"		"Has adquirido la llave del corazón."
+	}
+	"74d60c9c9aa4eb33d5b5f6a846ab2d53"
+	{
+		"en"		"You have aquired the Diamond Key."
+		"es"		"Has adquirido la llave del diamante."
+	}
+	"e39e900c52ba9bcdfa8e49ee5ee7a71d"
+	{
+		"en"		"It won't budge...I might be able to melt the lock."
+		"es"		"No se mueve...Quizás pueda derretir el candado."
+	}
+	"13a142ff8ed8316b213e98eeb00bfb82"
+	{
+		"en"		"It looks like a panel to release the lock."
+		"es"		"Parece un panel para liberar el cerrojo."
+	}
+	"7cbf818f0f6ab524dbe7bbd9342e90c6"
+	{
+		"en"		"Four slots to insert plugs is exposed."
+		"es"		"Se exponen cuatro ranuras para insertar enchufes."
+	}
+	"b7f9ce896e4c7a72c333577c1e408973"
+	{
+		"en"		"Something unlocked..."
+		"es"		"Algo se ha desbloqueado..."
+	}
+	"55c90e7cc503d13f1a460971d4b04f3b"
+	{
+		"en"		"A latch release must be close by."
+		"es"		"Un liberador de pestillo debe estar cerca."
+	}
+	"6347d4749228b6d5a345b806e7e78087"
+	{
+		"en"		"It's locked from the other side."
+		"es"		"Está cerrado desde el otro lado."
+	}
+	"a6df09f0fa8bf1b2817a392b1646b868"
+	{
+		"en"		"A Diamond is etched on the door."
+		"es"		"Hay un diamante grabado en la puerta."
+	}
+	"5e3d0c4a8fcf2a3acb3e465884d1f005"
+	{
+		"en"		"A Spade is etched on the door."
+		"es"		"Hay una pica grabada en la puerta."
+	}
+	"15efc6d47bce3396e642818d39638bb4"
+	{
+		"en"		"A Club is etched on the door."
+		"es"		"Hay un trébol grabado en la puerta."
+	}
+	"13ac5083210e10f40ed9c45ffe6dcc05"
+	{
+		"en"		"A Heart is etched on the door."
+		"es"		"Hay un corazón grabado en la puerta."
+	}
+	"5277ec3ab570055277173859c66969f5"
+	{
+		"en"		"It's locked..."
+		"es"		"Está cerrado..."
+	}
+	"1ceee06927c3814ddd3d2ec52821588c"
+	{
+		"en"		"It's electronically locked."
+		"es"		"Está cerrado electrónicamente."
+	}
+}

@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Restart Scheduled"
+	{
+		"en"	"The server will restart once the current match is over"
+		"es"	"El server se reiniciará cuando la partida actual termine"
+	}
+
+	"Restarting Now"
+	{
+		"en"	"Restarting the server... Should be back online in a few minutes"
+		"es"	"Reiniciando el servidor... Volverá a estar en línea en unos minutos"
+	}
+}

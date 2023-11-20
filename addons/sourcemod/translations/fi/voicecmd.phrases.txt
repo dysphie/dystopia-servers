@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"fi"		"Puhe"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"fi"		"Tarvitsen ammuksia"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"fi"		"Seuraa minua"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"fi"		"Apua!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"fi"		"Pysähdy tähän"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"fi"		"Ei"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"fi"		"Kyllä"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"fi"		"Kiitos"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"fi"		"Vihollisia tulossa!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"fi"		"Vahingoittunut"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"fi"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"fi"		"Kranaatti!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"fi"		"Polttopullo!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"fi"		"TNT!"
+	}	
+}

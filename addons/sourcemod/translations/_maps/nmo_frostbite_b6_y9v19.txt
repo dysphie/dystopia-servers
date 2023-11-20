@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"0b7e3ec52849aa551d75069c432ce784"
+	{
+		"en"		"Made by MrNyet. Modified by yomox9"
+		"es"		"Creado por MrNyet. Modificado por yomox9"
+	}
+	"b31119686bcda5d7a9d8f64e06013a09"
+	{
+		"en"		"You failed: It took you too long to complete the mission!"
+		"es"		"Fallaste: Demoraste demasiado para completar la misión"
+	}
+	"544cbaecb18a404797df27c8b2603a70"
+	{
+		"en"		"Difficulty chosen: Hard"
+		"es"		"Dificultad elegida: Difícil"
+	}
+	"a5d5b8c4f28f95d27e46d79b0e612333"
+	{
+		"en"		"Difficulty chosen: Easy"
+		"es"		"Dificultad elegida: Fácil"
+	}
+	"bf52bb3e8de9a617f1b759940daee746"
+	{
+		"en"		"Bombs placed: 5/5. 2 minutes until they explode"
+		"es"		"Bombas colocadas: 5/5. Explotarán en 2 minutos"
+	}
+	"daf23612d70a84e4e44e6dfe2ff60774"
+	{
+		"en"		"Bombs placed: 4/5"
+		"es"		"Bombas colocadas: 4/5"
+	}
+	"853da1ffdd46c87628510cd08c898a90"
+	{
+		"en"		"Bombs placed: 0/5"
+		"es"		"Bombas colocadas: 0/5"
+	}
+	"11059f615e56dc47f9ba250094816c68"
+	{
+		"en"		"Bombs placed: 1/5"
+		"es"		"Bombas colocadas: 1/5"
+	}
+	"a6dab23fad23eaa89f7254d7a35bf6ac"
+	{
+		"en"		"Bombs placed: 3/5"
+		"es"		"Bombas colocadas: 3/5"
+	}
+	"160058cf0d7660fb0d53e8f59bc23ccf"
+	{
+		"en"		"Bombs placed: 2/5"
+		"es"		"Bombas colocadas: 2/5"
+	}
+	"77ca325305620a93caf84f4a7092b33e"
+	{
+		"en"		"Get out of safehouse"
+		"es"		"Sal del refugio"
+	}
+	"265ad821edc4c4f128268ea8f9309048"
+	{
+		"en"		"Call elevator! You almost made it!"
+		"es"		"¡Llama al ascensor! ¡Ya casi lo logras!"
+	}
+	"5e3d70f24a0ada5e76917a9670958862"
+	{
+		"en"		"Figure out the code to open door"
+		"es"		"Descubre el código para abrir la puerta"
+	}
+	"9db4e5e1c803e4a7e44c31c415ef8370"
+	{
+		"en"		"Use welder to get in big warehouse"
+		"es"		"Usa el soldador para acceder al depósito grande"
+	}
+	"2d9351fe322bb7ea73d57f65759df909"
+	{
+		"en"		"Find key to open small warehouse"
+		"es"		"Encuentra una llave para acceder al depósito pequeño"
+	}
+	"8a73bee26579843e7fa1c69cf0a661c8"
+	{
+		"en"		"Place bombs to blow up this complex"
+		"es"		"Coloca bombas para hacer explotar este complejo"
+	}
+}

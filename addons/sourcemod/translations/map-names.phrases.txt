@@ -1,0 +1,880 @@
+"Phrases"
+{
+	"nmo_BlueHeaven_part1_v3"
+	{
+		"en"	"Blue Heaven"
+	}
+	"nmo_disanshijie_v2"
+	{
+		"en"	"Disanshijie"
+	}
+	"nmo_superstructure"
+	{
+		"en"	"Superstructure"
+	}
+	"nmo_mall_of_death"
+	{
+		"en"	"Mall of Death"
+	}
+	"nmo_cagefight_v3"
+	{
+		"en" "Cage Fight"
+	}
+	"nmo_mayday_v4"
+	{
+		"en"	"Mayday"
+	}
+	"nmo_9hells"
+	{
+		"en" "9 Hells"
+	}
+	"nmo_runner_channel_v2"
+	{
+		"en" "Runner Channel"
+	}
+	"nmo_escaperoom_fix2"
+	{
+		"en" "Escape Room"
+	}
+	"nmo_takfactory_a2"
+	{
+		"en" "Tak Factory"
+	}
+	"nmo_shelter_hard"
+	{
+		"en" "Shelter (Hard)"
+		"es"	"Shelter (Difícil)"
+	}
+	"nmo_cityscapehellv2"
+	{
+		"en"	"Cityscape Hell"
+	}
+	"nmo_1_rest_d2_repack"
+	{
+		"en"	"Rest"
+		"es"	"Rest"
+	}
+
+	"nmo_burdett_v1"
+	{
+		"en"	"Burdett (Easy)"
+		"es"	"Burdett (Fácil)"
+	}
+
+	"nmo_burdett_v1_3"
+	{
+		"en"	"Burdett (Hard)"
+		"es"	"Burdett (Difícil)"
+	}
+
+	"nmo_scream_woods_v4"
+	{
+		"en"	"Scream Woods"
+	}
+
+	"nmo_otakuroom_t1_3_repack"
+	{
+		"en"	"Osito Room"
+	}
+	"nmo_division_a1_repack"
+	{
+		"en"	"Division"
+	}
+	"nmo_crossfire_t2"
+	{
+		"en"	"Crossfire"
+	}
+	"nmo_blocktown_night_v1"
+	{
+		"en" "Block Town"
+	}
+	"nmo_scp_containment_breach_t1_2"
+	{
+		"en" "SCP Containment Breach"
+	}
+	"nmo_subway_troubles_y9v2"
+	{
+		"en"	"Subway Troubles"
+	}
+	"nmo_not-ready-to-die"
+	{
+		"en"	"Not Ready to Die"
+	}
+	"nmo_9circlesofhell_1-3_ep1_v2"
+	{
+		"en"	"9 Circles of Hell"
+	}
+	"nmo_nhh_part_2_beta"
+	{
+		"en"	"Night House of Horrors"
+	}
+	"nmo_zomboeing_v1_repack"
+	{
+		"en"	"Zomboeing"
+	}
+	"nmo_memorial"
+	{
+		"en" "Memorial"
+	}
+	"nmo_detroit_v3_repack"
+	{
+		"en"	"Detroit"
+	}
+	"nmo_survivor_rescuev1_1_y9v1"
+	{
+		"en"	"Survivor Rescue"
+	}
+	"nmo_bnk3r_v1"
+	{
+		"en"	"BNK-3R"
+	}
+	"nmo_base_v2_2"
+	{
+		"en"	"Base"
+	}
+	"nmo_machetecraft_y9v2"
+	{
+	"en"	"Machete Craft"
+	}
+	"nmo_aftermath_v2t"
+	{
+		"en"	"Aftermath"
+	}
+	"nmo_silent_hill_blackblood_t1_7_repack"
+	{
+		"en"	"Silent Hill Blackblood"
+	}
+	"nmo_silent_hill_blackblood_t1_7"
+	{
+		"en"	"Silent Hill Blackblood"
+	}
+	"nmo_nukedrop_repack"
+	{
+		"en"	"Nuke Drop"
+	}
+	"nmo_kink_v3"
+	{
+		"en"	"Kink"
+	}
+	"nmo_minecraft_adventure"
+	{
+		"en"	"Minecraft Adventure"
+	}
+	"nmo_minecraft_village_v3"
+	{
+		"en"	"Minecraft Village"
+	}
+	"nmo_outbreak_repack"
+	{
+		"en"	"Outbreak"
+	}
+	"nmo_biohazard_v3_fix_repack"
+	{
+		"en"	"Biohazard"
+	}
+	"nmo_threshold"
+	{
+		"en"	"Threshold"
+	}
+	"nmo_blackout_v5_repack"
+	{
+		"en"	"Blackout"
+	}
+	"nmo_ishimura_task_v1_3"
+	{
+		"en"	"Ishimura Task"
+	}
+	"nmo_cornisa_1_y9v3"
+	{
+		"en"	"Cornisa"
+	}
+	"nmo_roc_y9v1"
+	{
+		"en"	"Roc"
+	}
+	"nmo_smalltown"
+	{
+		"en"	"Small Town"
+	}
+
+	"nmo_subside_v1"
+	{
+		"en"	"Subside (Classic)"
+		"es"	"Subside (Clásico)"
+	}
+	"nmo_anxiety_classic_v1"
+	{
+		"en"	"Anxiety (Classic)"
+		"es"	"Anxiety (Clásico)"
+	}
+	"nmo_insomniatown_v1"
+	{
+		"en"	"Insomnia Town"
+	}
+	"nmo_liner_static_v1"
+	{
+		"en"	"Liner Static"
+	}
+	"nmo_area_51_y9v4"
+	{
+		"en"	"Area 51"
+	}
+	"nmo_area_51_y9v3"
+	{
+		"en"	"Area 51"
+	}
+	"nmo_highway_to_hell_v1_4"
+	{
+		"en"	"Highway to Hell"
+	}
+	"nmo_penitentiaryv1"
+	{
+		"en"	"Penitentiary"
+	}
+	"nmo_downtown_v3-p1"
+	{
+		"en"	"Downtown 1"
+	}
+	"nmo_evocation_prelude_v2"
+	{
+		"en"	"Evocation Prelude"
+	}
+	"nmo_downtown_v3-p2"
+	{
+		"en"	"Downtown 2"
+	}
+	"nmo_las_alcantarillas"
+	{
+		"en"	"Las Alcantarillas"
+	}
+	"nmo_lab_f3"
+	{
+		"en"	"Lab"
+	}
+	"nmo_collegiate_v3_final"
+	{
+		"en"	"Collegiate"
+	}
+	"nmo_corner"
+	{
+		"en"	"Corner"
+	}
+	"nmo_clayton_v3"
+	{
+		"en"	"Clayton"
+	}
+	"nmo_barren_town_v5"
+	{
+		"en"	"Barren Town"
+	}
+	"nmo_lux_umbra_t1"
+	{
+		"en"	"Lux Umbra"
+	}
+	"nmo_collegiate_v1"
+	{
+		"en" "Collegiate"
+	}
+	"nmo_aftermath_v1_repack"
+	{
+		"en" "Aftermath (Classic)"
+		"es" "Aftermath (Clásico)"
+	}
+	"nmo_liner_dynamic_v1"
+	{
+		"en" "Liner Dynamic"
+	}
+	"nmo_abra_dungeon_v11"
+	{
+		"en"	"Abra Dungeon"
+	}
+	"nmo_2012_t1_3_repack"
+	{
+		"en" "2012"
+	}
+	"nmo_2012_t1_3"
+	{
+		"en" "2012"
+	}
+	"nmo_broadway"
+	{
+		"en" "Broadway"
+	}
+	"nmo_abandonment_v1"
+	{
+		"en" "Abandonment"
+	}
+	"nmo_abducted"
+	{
+		"en" "Abducted"
+	}
+	"nmo_abducted_light"
+	{
+		"en" "Abducted Light"
+	}
+	"nmo_abra_dungeon_v3"
+	{
+		"en" "Abra Dungeon (Classic)"
+		"es" "Abra Dungeon (Clásico)"
+	}
+	"nmo_abra_dungeon_v5"
+	{
+		"en" "Abra Dungeon 5"
+	}
+	"nmo_anxiety"
+	{
+		"en" "Anxiety"
+	}
+	"nmo_arctic_v2"
+	{
+		"en" "Arctic V2"
+	}
+	"nmo_arctic_v3"
+	{
+		"en" "Arctic"
+	}
+	"nmo_ascension_towned_d"
+	{
+		"en" "Ascension Towned"
+	}
+	"nmo_asylum"
+	{
+		"en" "Asylum"
+	}
+	"nmo_babel_v10"
+	{
+		"en" "Babel"
+	}
+	"nmo_bad_gas_3009"
+	{
+		"en" 	"Bad Gas (Classic)"
+		"es"	"Bad Gas (Clásico)"
+	}
+	"nmo_miner_detour_v17"
+	{
+		"en" "Miner Detour (Remix)"
+	}
+	"nmo_bad_gas_b1"
+	{
+		"en" "Bad Gas"
+	}
+	"nmo_base_tunnel_v2_3"
+	{
+		"en" "Base Tunnel"
+	}
+	"nmo_bluevelvet_v3"
+	{
+		"en" "Blue Velvet"
+	}
+	"nmo_boardwalk"
+	{
+		"en" "Boardwalk"
+	}
+	"nmo_boowalk"
+	{
+		"en" "Boowalk"
+	}
+	"nmo_breakpoint_v2"
+	{
+		"en" "Breakpoint"
+	}
+	"nmo_broadway2"
+	{
+		"en" "Broadway 2"
+	}
+	"nmo_brooklyn"
+	{
+		"en" "Brooklyn"
+	}
+	"nmo_brooklyn_2_8"
+	{
+		"en" "Brooklyn 2"
+	}
+	"nmo_bunker_a_150"
+	{
+		"en" "Bunker"
+	}
+	"nmo_cabin"
+	{
+		"en" "Cabin"
+	}
+	"nmo_canal_v2"
+	{
+		"en" "Canal"
+	}
+	"nmo_cbe_office_v2"
+	{
+		"en" "Office"
+	}
+	"nmo_shiqi_v2"
+	{
+		"en" "Shiqi"
+	}
+	"nmo_chengshi_min"
+	{
+		"en" "Chengshi"
+	}
+	"nmo_chinatown"
+	{
+		"en" "Chinatown"
+	}
+	"nmo_cleopas"
+	{
+		"en" "Cleopas"
+	}
+	"nmo_condemned_1094"
+	{
+		"en" "Condemned"
+	}
+	"nmo_corpsington"
+	{
+		"en" "Corpsington"
+	}
+	"nmo_crestofwaves_v3"
+	{
+		"en" "Crest of Waves"
+	}
+	"nmo_crisis_final"
+	{
+		"en" "Crisis Final"
+	}
+	"nmo_dangerspot_v11"
+	{
+		"en" "Danger Spot"
+	}
+	"nmo_darkocean_r3"
+	{
+		"en" "Dark Ocean"
+	}
+	"nmo_darkocean_r4"
+	{
+		"en" "Dark Ocean"
+	}
+	"nmo_darkocean_r5"
+	{
+		"en" "Dark Ocean"
+	}
+	"nmo_dead_airline_v4_repack"
+	{
+		"en" "Dead Airline"
+	}
+	"nmo_deadlock_y9v1"
+	{
+		"en" "Deadlock"
+	}
+	"nmo_deviation"
+	{
+		"en" "Deviation"
+	}
+	"nmo_dimension_time_b3_repack"
+	{
+		"en" "Dimension Time"
+	}
+	"nmo_dust2_xbox"
+	{
+		"en" "Dust2"
+	}
+	"nmo_emergency_1101"
+	{
+		"en" "Emergency (Classic)"
+		"es"	"Emergency (Clásico)"
+	}
+	"nmo_emergency_2807"
+	{
+		"en" "Emergency"
+	}
+	"nmo_emergency_b1"
+	{
+		"en" "Emergency"
+	}
+	"nmo_enervation_v1"
+	{
+		"en" "Enervation"
+	}
+	"nmo_escape_mplay_b7"
+	{
+		"en" "Escape Mplay"
+	}
+	"nmo_evocation_prelude_a3"
+	{
+		"en" "Evocation Prelude"
+	}
+	"nmo_exodus_dawn_v1"
+	{
+		"en" "Exodus Dawn"
+	}
+	"nmo_exodus_final_v3"
+	{
+		"en" "Exodus Final"
+	}
+	"nmo_experiment_v3_fix"
+	{
+		"en" "Experiment"
+	}
+	"nmo_falloutlimbo_v5_repack"
+	{
+		"en" "Fallout Limbo"
+	}
+	"nmo_falloutlimbo_v5"
+	{
+		"en" "Fallout Limbo"
+	}
+	"nmo_fema"
+	{
+		"en" "Fema"
+	}
+	"nmo_flowingdisaster_b3_mcg_v3"
+	{
+		"en" "Flowing Disaster"
+	}
+	"nmo_frostbite_b6_y9v19"
+	{
+		"en" "Frostbite"
+	}
+	"nmo_genex"
+	{
+		"en" "Genex"
+	}
+	"nmo_ghostbuster"
+	{
+		"en" "Ghostbusters"
+	}
+	"nmo_gmi_hunt_ep2_v2_repack"
+	{
+		"en" "GMI Hunt (Episode 2)"
+		"es" "GMI Hunt (Episodio 2)"
+	}
+	"nmo_gmi_hunt_ep3_v2_repack"
+	{
+		"en" "GMI Hunt (Episode 3)"
+		"es" "GMI Hunt (Episodio 3)"
+	}
+	"nmo_gmihunt_ep1_v3"
+	{
+		"en" "GMI Hunt (Episode 1)"
+		"es" "GMI Hunt (Episodio 1)"
+	}
+	"nmo_hanger"
+	{
+		"en" "Hanger"
+	}
+	"nmo_hard_time_0802"
+	{
+		"en" "Hard Time"
+	}
+	"nmo_hl2apartments"
+	{
+		"en" "HL2 Apartments"
+	}
+	"nmo_project_enigma_min"
+	{
+		"en"	"Project Enigma"
+	}
+	"nmo_hl2mineshaft_y9v3"
+	{
+		"en" "HL2 Mineshaft"
+	}
+	"nmo_hospitality_v2"
+	{
+		"en" "Hospitality"
+	}
+	"nmo_hylophobia"
+	{
+		"en" "Hylophobia"
+	}
+	"nmo_hypnophobia_v6"
+	{
+		"en" "Hypnophobia"
+	}
+	"nmo_in_the_darkv2"
+	{
+		"en" "In the Dark"
+	}
+	"nmo_insomnia_alpha"
+	{
+		"en" "Insomnia Alpha"
+	}
+	"nmo_insomnia_v3"
+	{
+		"en" "Insomnia"
+	}
+	"nmo_junction"
+	{
+		"en" "Junction"
+	}
+	"nmo_khafre_v12"
+	{
+		"en" "Khafre"
+	}
+	"nmo_kosovos_v7"
+	{
+		"en" "Kosovos"
+	}
+	"nmo_l4d_the_sacrifice_v1"
+	{
+		"en" "The Sacrifice"
+	}
+	"nmo_lake_escape"
+	{
+		"en" "Lake Escape"
+	}
+	"nmo_lakeside"
+	{
+		"en" "Lakeside"
+	}
+	"nmo_lighthouse_v2_repack"
+	{
+		"en" "Lighthouse"
+	}
+	"nmo_cold_black_y9v4"
+	{
+		"en"	"Cold Black"
+	}
+	"nmo_facility_b5"
+	{
+		"en"	"Facility"
+	}
+	"nmo_escorted_y9v1"
+	{
+		"en"	"Escorted"
+	}
+	"nmo_lost_v2f"
+	{
+		"en" "Lost"
+	}
+	"nmo_mansion_v1_eng"
+	{
+		"en" "Mansion"
+	}
+	"nmo_medical_clinic_lite_v2"
+	{
+		"en" "Medical Clinic"
+	}
+	"nmo_miner_detour_v3"
+	{
+		"en" "Miner Detour"
+	}
+	"nmo_moonarbase_v2fix"
+	{
+		"en" "Moonar Base"
+	}
+	"nmo_mountains"
+	{
+		"en" "Mountains"
+	}
+	"nmo_mutual_place_v2"
+	{
+		"en" "Mutual Place"
+	}
+	"nmo_necrophobia_1"
+	{
+		"en" "Necrophobia"
+	}
+	"nmo_necrophobia_2"
+	{
+		"en" "Necrophobia 2"
+	}
+	"nmo_necrophobia_3"
+	{
+		"en" "Necrophobia 3"
+	}
+	"nmo_night_forest"
+	{
+		"en" "Night Forest"
+	}
+	"nmo_oil_rig_v9"
+	{
+		"en" "Oil Rig"
+	}
+	"nmo_small_game_v9"
+	{
+		"en"	"Small Game"
+	}
+	"nmo_gm_abandoned"
+	{
+		"en"	"Abandoned"
+	}
+	"nmo_panel_0-1-2"
+	{
+		"en" "Panel"
+	}
+	"nmo_paranoia_v3"
+	{
+		"en" "Paranoia"
+	}
+	"nmo_pharmacy_v3"
+	{
+		"en" "Pharmacy"
+	}
+	"nmo_plutonium_v3_fix"
+	{
+		"en" "Plutonium"
+	}
+	"nmo_quarantine"
+	{
+		"en" "Quarantine"
+	}
+	"nmo_quiet_rehabilitation_v3"
+	{
+		"en" "Quiet Rehabilitation"
+	}
+	"nmo_ravenholm_v4"
+	{
+		"en" "Ravenholm"
+	}
+	"nmo_rebel_ways"
+	{
+		"en" "Rebel Ways"
+	}
+	"nmo_red_queen_v3"
+	{
+		"en" "Red Queen"
+	}
+	"nmo_requiem"
+	{
+		"en" "Requiem"
+	}
+	"nmo_resident_evil_revelation2_v4"
+	{
+		"en" "Resident Evil Revelations 2"
+	}
+	"nmo_rockpit"
+	{
+		"en" "Rockpit"
+	}
+	"nmo_rush_b_t1_4"
+	{
+		"en" "Rush B"
+	}
+	"nmo_rush_b_t1_4_repack"
+	{
+		"en" "Rush B"
+	}
+	"nmo_saw_t1_3_repack"
+	{
+		"en" "Saw"
+	}
+	"nmo_sewersickness_y9v6"
+	{
+		"en" "Sewer Sickness"
+	}
+	"nmo_shelter"
+	{
+		"en" "Shelter"
+	}
+	"nmo_shreddingfield_v3"
+	{
+		"en" "Shreddingfield"
+	}
+	"nmo_silo_v1"
+	{
+		"en" "Silo"
+	}
+	"nmo_slash_highschool_v8"
+	{
+		"en" "Slash Highschool"
+	}
+	"nmo_stone_creek_v5"
+	{
+		"en" "Stone Creek"
+	}
+	"nmo_subside_v5"
+	{
+		"en" "Subside"
+	}	
+
+	"nmo_suidao_r5"
+	{
+		"en" "Suidao (Classic)"
+		"es" "Suidao (Cl�sico)"
+	}
+
+	"nmo_suidao_r6_fix"
+	{
+		"en" "Suidao"
+	}
+	"nmo_suzhou"
+	{
+		"en" "Suzhou"
+	}
+	"nmo_sweden1_v1"
+	{
+		"en" "Sweden"
+	}
+	"nmo_tenkinoko_welkin_t1_3"
+	{
+		"en" "Tenki no Ko"
+	}
+	"nmo_toxicbase"
+	{
+		"en" "Toxic Base"
+	}
+	"nmo_powerstation_pt1_alpha_repack"
+	{
+		"en"	"Power Station"
+	}
+	"nmo_toxicbase_v4"
+	{
+		"en" "Toxic Base V4"
+	}
+	"nmo_toxicbase_v5"
+	{
+		"en" "Toxic Base V5"
+	}
+	"nmo_toxteth"
+	{
+		"en" "Toxteth"
+	}
+	"nmo_toxtethdark"
+	{
+		"en" "Toxteth Dark"
+	}
+	"nmo_traak_v1_repack"
+	{
+		"en" "Traak"
+	}
+	"nmo_tunnels"
+	{
+		"en" "Tunnels"
+	}
+	"nmo_ug_lab_v2"
+	{
+		"en" "Underground Lab"
+	}
+	"nmo_underground"
+	{
+		"en" "Underground"
+	}
+	"nmo_urban_chaos_v3_3"
+	{
+		"en" "Urban Chaos"
+	}
+	"nmo_urbanhazard_v4"
+	{
+		"en" "Urban Hazard"
+	}
+	"nmo_vertigo_v13"
+	{
+		"en" "Vertigo"
+	}
+	"nmo_vws"
+	{
+		"en" "VWS"
+	}
+	"nmo_waking_dead_kv1"
+	{
+		"en" "Waking Dead"
+	}
+	"nmo_xmas_0-1-0"
+	{
+		"en" "Xmas"
+	}
+	"nmo_zephyr"
+	{
+		"en" "Zephyr"
+	}
+	"nms_laundry"
+	{
+		"en" "Laundry"
+	}
+}

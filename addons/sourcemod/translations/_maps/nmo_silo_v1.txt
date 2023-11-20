@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"fec0742e0fe631986db08da5bd571f04"
+	{
+		"en"		"Prepare the Rocket"
+		"es"		"Prepara el cohete"
+	}
+	"bf517d142b33e367c0a8e627d53bf9a8"
+	{
+		"en"		"Extinguish the Stairwell Fire"
+		"es"		"Apaga el fuego en las escaleras"
+	}
+	"52a1637654689cba6810c3ee8c1fbe7b"
+	{
+		"en"		"Unlock the Stairwell"
+		"es"		"Desbloquea las escaleras"
+	}
+	"c54406e5a8d54af4711cd367c87c1bcc"
+	{
+		"en"		"Map by: JB91UK / NMRiH Edit: Porkchops4lunch"
+		"es"		"Mapa por JB91UK / Adaptado por Porkchops4lunch"
+	}
+}

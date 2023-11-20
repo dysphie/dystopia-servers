@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"6b316d59fc978e3bb516f4b5adc10423"
+	{
+		"ru"		"Кто-то запер вас в этой больнице, нужно найти ключ чтобы выбраться отсюда!"
+		"en"		"Someone locked you in this hospital, you need to find the key to get out of here!"
+		"es"		"Alguien te encerró en este hospital, encuentra la llave para escapar"
+	}
+	"c18d3becd6187ea16ab1fcb1f8c84b6e"
+	{
+		"ru"		"Обыщите этот этаж, возможно ключ где-то здесь."
+		"en"		"Search this floor, maybe the key is here somewhere."
+		"es"		"Investiga este piso, quizás la llave esté aquí"
+	}
+	"49747f74808d67da100b19426f6a5019"
+	{
+		"ru"		"Отлично, вы успешно сбежали из этой клиники!"
+		"en"		"Great, you successfully escaped from this clinic! "
+		"es"		"¡Genial, escapaste exitosamente del hospital!"
+	}
+	"531541d5d50ddb721aa21c85d6233b64"
+	{
+		"ru"		"Ключ найден! Спускайтесь к парадной входной двери. Открыв ее, покиньте зону карантина."
+		"en"		"The key is found! Go down to the front door. After opening it, leave the quarantine zone."
+		"es"		"Llave encontrada, vuelve a la entrada del hospital y escapa."
+	}
+	"c53918725347e4df19f7518d3c48a543"
+	{
+		"ru"		"Вы обыскали цоколь и первый этаж. Остаётся верхний - технический этаж, где вас еще не было."
+		"en"		"You searched the basement and the first floor. Go up to the last one and search it too."
+		"es"		"Busca la llave en el primer piso"
+	}
+	"09c1971c07394d519eba2e8dc3a999ba"
+	{
+		"ru"		"Пламя не отступает! Обыщите цоколь в поисках того, что поможет потушить пожар!"
+		"en"		"The flames are not retreating! Search the basement for something that will help put out the fire!"
+		"es"		"El fuego no se extingue. Encuentra algo en el sótano para apagarlo"
+	}
+	"94e986f007d6644f096575e04370e990"
+	{
+		"ru"		"Нужно двигаться дальше и продолжать поиски ключа."
+		"en"		"You need to move on and continue searching for the key."
+		"es"		"Avanza y continúa buscando la llave"
+	}
+	"95026adc16b545ede8d3e4620a83c218"
+	{
+		"ru"		"Потушите огонь, который мешает вам пройти дальше."
+		"en"		"Put out the fire that prevents you from going further."
+		"es"		"Apaga el fuego que bloquea el camino"
+	}
+	"f051e190fffe6f068f90ad8afd4240e5"
+	{
+		"ru"		"Спуститесь и найдите способ попасть на другую сторону."
+		"en"		"Go down and find a way to get to the other side."
+		"es"		"Continúa por el sótano"
+	}
+	"be0ddc5f948abbd1adb03c5ace97c069"
+	{
+		"en"		"Hi =)"
+		"es"		"Hola =)"
+	}
+}

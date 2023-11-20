@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Enabled"
+	{
+		"en"	"Jumping temporarily disabled by admin"
+		"es"	"Admin desactivó el salto temporalmente."
+	}
+	"Disabled"
+	{
+		"en"	"Jumping enabled"
+		"es"	"Salto activado"
+	}
+}

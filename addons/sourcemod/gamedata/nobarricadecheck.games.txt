@@ -1,0 +1,39 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CNMRiH_BaseZombie::OnObstructionPreSteer"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x81\xEC\x28\x02\x00\x00\x53\x56\x8B\x75\x08\x8B\xD9\x57"
+				"linux"		"@_ZN17CNMRiH_BaseZombie21OnObstructionPreSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+			}
+		}
+
+
+		"MemPatches"
+		{
+			// IDA Win: 10346439	0x4	0F 84 43 05 	E9 44 05 00 
+			// IDA Lin: 007FB547	0x4	0F 84 B3 04 	E9 B4 04 00 
+			
+			"CNMRiH_BaseZombie::OnObstructionPreSteer"
+			{
+				"signature" "CNMRiH_BaseZombie::OnObstructionPreSteer"
+				"windows"
+				{
+					"offset"	"19h"
+					"verify"	"0F 84 43 05"
+					"patch"		"E9 44 05 00"
+				}
+				"linux"
+				{
+					"offset"	"17h"
+					"verify"	"0F 84 B3 04"
+					"patch"		"E9 B4 04 00"
+				}
+			}
+		}
+	}
+}

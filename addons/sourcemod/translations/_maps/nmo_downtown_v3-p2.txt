@@ -1,0 +1,258 @@
+"Phrases"
+{
+	"119c4e26f4ae430867c8c94da6de6e0b"
+	{
+		"en"		"OBJ 9/9 : The bus is now operational: one player can drive"
+		"es"		"OBJ 9/9 : The bus is now operational: one player can drive"
+	}
+	"e3422e304a22708e3349fc2e4cc583b1"
+	{
+		"en"		"OBJ 8/9 : Collect and bring food to the bus using a crate"
+		"es"		"Recoge y lleva comida al autobús usando una canasta"
+	}
+	"f1ccbe03db9ecd86b66129c3c8d29d33"
+	{
+		"en"		"OBJ 7/9 : Adding gas to the bus"
+		"es"		"OBJ 7/9 : Adding gas to the bus"
+	}
+	"3371af8201931ddb175bebca378a453f"
+	{
+		"en"		"BY : Mrblagues"
+		"es"		"BY : Mrblagues"
+	}
+	"b2096a1db4829a8adb6ce15e5fd564ae"
+	{
+		"en"		"Version de carte | map version : V3 part 2/2"
+		"es"		"Version de carte | map version : V3 part 2/2"
+	}
+	"2fe396ac8e2a9ebf65df0fe4e8395ed2"
+	{
+		"en"		"La voix off : | The voice off :"
+		"es"		"La voix off : | The voice off :"
+	}
+	"b26c352e1f08c831647218304f8429ef"
+	{
+		"en"		"En ouvrant la porte <Alive Inside> les joueurs morts vont reaparaitre"
+		"es"		"En ouvrant la porte <Alive Inside> les joueurs morts vont reaparaitre"
+	}
+	"6733dcf989bfe68608384c03f8be6adb"
+	{
+		"en"		"By opening the door <Alive Inside> all dead players will respawn"
+		"es"		"By opening the door <Alive Inside> all dead players will respawn"
+	}
+	"ee70fba0f8ad7aca1aba94b105a661d5"
+	{
+		"en"		"But beware, you can only respawn the players once, you have to choose the right moment."
+		"es"		"But beware, you can only respawn the players once, you have to choose the right moment."
+	}
+	"c7f22483aaaeef6b17b64737e23584d3"
+	{
+		"en"		"Mais attention, vous avez 1 seul essai, a vous de choisir le bon moment."
+		"es"		"Mais attention, vous avez 1 seul essai, a vous de choisir le bon moment."
+	}
+	"b618979683ea77f04cbab2176f073a12"
+	{
+		"en"		"La caisse a ete trouve | The crate was found"
+		"es"		"La caisse a ete trouve | The crate was found"
+	}
+	"33269984358235dfc7610faf7be3f1dc"
+	{
+		"en"		"Le bidon a ete trouve | The gas can was found"
+		"es"		"Le bidon a ete trouve | The gas can was found"
+	}
+	"7ff84d34a0d35bebd14e1193a8b7883e"
+	{
+		"en"		"Trouve et utilise la clee | Find and use the key"
+		"es"		"Trouve et utilise la clee | Find and use the key"
+	}
+	"d85f15867eaad05fec6d6b52a62b6be9"
+	{
+		"en"		"Utiliser un chalumeau pour casser le cadenas | You need a Welder to break the padlock"
+		"es"		"Utiliser un chalumeau pour casser le cadenas | You need a Welder to break the padlock"
+	}
+	"a3498ae32555416bc5abe5381e5c132f"
+	{
+		"en"		"Poor guy, but now the bus is out of fuel!!!"
+		"es"		"Poor guy, but now the bus is out of fuel!!!"
+	}
+	"bdbcb817105a64617eaec7df37eb150e"
+	{
+		"en"		"The bus driver died without turning off the engine"
+		"es"		"The bus driver died without turning off the engine"
+	}
+	"70540b3a715d1a2c8ed56d4179f6d997"
+	{
+		"en"		"Certes, pauvre chauffeur. Mais le bus n'a plus d'essence !!"
+		"es"		"Certes, pauvre chauffeur. Mais le bus n'a plus d'essence !!"
+	}
+	"2b8a6c6ae4d46d5c9b0802ba29164ad5"
+	{
+		"en"		"Le chauffeur de bus est mort en oubliant d'eteindre le moteur"
+		"es"		"Le chauffeur de bus est mort en oubliant d'eteindre le moteur"
+	}
+	"d2dea64e6261fc6c77c6c300fe1d64f5"
+	{
+		"en"		"Le bidon est vide | The gas can is empty"
+		"es"		"Le bidon est vide | The gas can is empty"
+	}
+	"53fa1ced38eaf903f0523e342fb840a2"
+	{
+		"en"		"Le bidon est plein | The gas can is full"
+		"es"		"Le bidon est plein | The gas can is full"
+	}
+	"b8c8f0357560aef0ef57b5cfb53c7d1d"
+	{
+		"en"		"Obj complete 22/22"
+		"es"		"Obj complete 22/22"
+	}
+	"79f6ab5a8947af476e5c81999b5c87a6"
+	{
+		"en"		"Obj complete 1/22"
+		"es"		"Obj complete 1/22"
+	}
+	"3ef5d093d704b55f68d58c2b544cbb5a"
+	{
+		"en"		"Obj complete 21/22"
+		"es"		"Obj complete 21/22"
+	}
+	"e3aad0c32129c44c9270121c2d9ea2b1"
+	{
+		"en"		"Obj complete 20/22"
+		"es"		"Obj complete 20/22"
+	}
+	"4eb44e95df6e609710b68d68987f0bb4"
+	{
+		"en"		"Obj complete 19/22"
+		"es"		"Obj complete 19/22"
+	}
+	"a1688c13583b6b98ff09fd355a92070f"
+	{
+		"en"		"Obj complete 18/22"
+		"es"		"Obj complete 18/22"
+	}
+	"1c2342946f55a74f7ae53b05b0ee1174"
+	{
+		"en"		"Obj complete 17/22"
+		"es"		"Obj complete 17/22"
+	}
+	"9442e62cb2a9b6170252ccd5698176f6"
+	{
+		"en"		"Obj complete 16/22"
+		"es"		"Obj complete 16/22"
+	}
+	"d3d9c9f422c5f113e2f9075f065e4da3"
+	{
+		"en"		"Obj complete 15/22"
+		"es"		"Obj complete 15/22"
+	}
+	"d66a0c44a061fb8220d9dc00b1a16fb5"
+	{
+		"en"		"Obj complete 14/22"
+		"es"		"Obj complete 14/22"
+	}
+	"efc49d707317968865fbe6a9002102de"
+	{
+		"en"		"Obj complete 13/22"
+		"es"		"Obj complete 13/22"
+	}
+	"ed76f6865fc9912af998889015c5e26d"
+	{
+		"en"		"Obj complete 12/22"
+		"es"		"Obj complete 12/22"
+	}
+	"736b53d49f0461735bef60043dc32d47"
+	{
+		"en"		"Obj complete 11/22"
+		"es"		"Obj complete 11/22"
+	}
+	"02a404e606c84f9e256fd1d7c86fb966"
+	{
+		"en"		"Obj complete 10/22"
+		"es"		"Obj complete 10/22"
+	}
+	"9aea309e7c85712612e04f3c1215dcd7"
+	{
+		"en"		"Obj complete 9/22"
+		"es"		"Obj complete 9/22"
+	}
+	"6bd6232388e08b4453ec20676e7ba7ad"
+	{
+		"en"		"Obj complete 8/22"
+		"es"		"Obj complete 8/22"
+	}
+	"e18bf2be56a6a1f41b6df8e26026e668"
+	{
+		"en"		"Obj complete 7/22"
+		"es"		"Obj complete 7/22"
+	}
+	"b3372fd1106c6b664518a0a50026347e"
+	{
+		"en"		"Obj complete 6/22"
+		"es"		"Obj complete 6/22"
+	}
+	"c48d84d48983ce5b36557b456fcdbb92"
+	{
+		"en"		"Obj complete 5/22"
+		"es"		"Obj complete 5/22"
+	}
+	"20a017ac379c3e3d655aea4cec2abdc8"
+	{
+		"en"		"Obj complete 4/22"
+		"es"		"Obj complete 4/22"
+	}
+	"71d2be7809c54dea2fd0b3fb172b3cf5"
+	{
+		"en"		"Obj complete 3/22"
+		"es"		"Obj complete 3/22"
+	}
+	"0ea0b7a0a55af1d0b48968cf27de1b0d"
+	{
+		"en"		"Obj complete 2/22"
+		"es"		"Obj complete 2/22"
+	}
+	"b43210f90f6eb4496d2c97d807c615b8"
+	{
+		"en"		"Another stage of survival is the food, finding and filling an empty crate with ..."
+		"es"		"Another stage of survival is the food, finding and filling an empty crate with ..."
+	}
+	"a5d1572b86ed80160a89b4a373d94614"
+	{
+		"en"		"Une autre etape de la survie est la nourriture, trouver et remplir une caisse vide..."
+		"es"		"Une autre etape de la survie est la nourriture, trouver et remplir une caisse vide..."
+	}
+	"97cd421b5b79a885a7d266171353c83b"
+	{
+		"en"		"... conserves et bouteils. Puis posez la dans le porte bagage du bus"
+		"es"		"... conserves et bouteils. Puis posez la dans le porte bagage du bus"
+	}
+	"404d2eac8ef44391c4508d45d8cabdc3"
+	{
+		"en"		"... preserves and bottles. Then put it in the bus luggage rack"
+		"es"		"... preserves and bottles. Then put it in the bus luggage rack"
+	}
+	"26fa987d99a9d78229c6078a74ec6a2c"
+	{
+		"en"		"Controle du bus : < sauter > = quiter le control || Bus control : < JUMP > = quit control"
+		"es"		"Controle du bus : < sauter > = quiter le control || Bus control : < JUMP > = quit control"
+	}
+	"5875ed9c367891b8c1da0cf08b2d03ed"
+	{
+		"en"		"< DEPLACEMENT GAUCHE > = Ouverture porte || < DEPLACEMENT DROITE > = Fermeture porte."
+		"es"		"< DEPLACEMENT GAUCHE > = Ouverture porte || < DEPLACEMENT DROITE > = Fermeture porte."
+	}
+	"f181269742b268f9c9be40b1eb143b74"
+	{
+		"en"		"< ATTAQUE > = Klason || < DEPLACEMENT AVENCER > = Demarrer le bus"
+		"es"		"< ATTAQUE > = Klason || < DEPLACEMENT AVENCER > = Demarrer le bus"
+	}
+	"d84239162d1c552147abb3b4ec776ee0"
+	{
+		"en"		"< ATTAQUE > = horn | < MOVING FOWARD > = start bus"
+		"es"		"< ATTAQUE > = horn | < MOVING FOWARD > = start bus"
+	}
+	"6bc9b241871de425b4d7cc1cbab7ebfb"
+	{
+		"en"		"< MOVING LEFT > = oppening door | < MOVING RIGHT > = closing door."
+		"es"		"< MOVING LEFT > = oppening door | < MOVING RIGHT > = closing door."
+	}
+}

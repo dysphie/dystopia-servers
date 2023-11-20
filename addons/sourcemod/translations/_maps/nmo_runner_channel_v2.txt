@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"755015533e5362872321f856ca478e1a"
+	{
+		"en"		"一路到底"
+		"es"		"一路到底"
+	}
+	"86a78b71afc71aee874bd802757a2d6b"
+	{
+		"en"		"everybody stay here"
+		"es"		"everybody stay here"
+	}
+	"1520e232c6c62f19c9a9c8b25985cb80"
+	{
+		"en"		"use this button"
+		"es"		"use this button"
+	}
+	"5a25d40e757cfc38050e3d14a28430f0"
+	{
+		"en"		"Zombies in the current area can only be killed with a knife"
+		"es"		"Zombies in the current area can only be killed with a knife"
+	}
+}

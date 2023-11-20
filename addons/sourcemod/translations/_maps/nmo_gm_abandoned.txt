@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"2228104248f09a763cd672c9e2ea6c4b"
+	{
+		"en"		"Go through the tunnel"
+		"es"		"Ve por el túnel"
+	}
+	"1993b5fa255ea7621211b217b9090ac0"
+	{
+		"en"		"There's been a fire. Find a way to escape"
+		"es"		"Hay un incendio, encuentra una manera de escapar."
+	}
+	"dfca1e64969e60ea5a4aa03c67c8090d"
+	{
+		"en"		"Find and use a radio"
+		"es"		"Encuentra y usa una radio"
+	}
+	"948bff9ed28b501852ebf4d71aab8779"
+	{
+		"en"		"Find the password to unlock the door"
+		"es"		"Encuentra la contraseña de la puerta"
+	}
+	"87a4a62b3301c2921f077cdcf3212be1"
+	{
+		"en"		"Find the last key and unlock the door"
+		"es"		"Encuentra una última llave y úsala para abrir la puerta"
+	}
+	"e49d3ccdadbaf2a97bc1ade0de630a90"
+	{
+		"en"		"Find the second key and unlock the door."
+		"es"		"Encuentra una segunda llave y úsala para abrir la puerta"
+	}
+	"8569963950d544900132a67948aacc24"
+	{
+		"en"		"Find a key and unlock the door."
+		"es"		"Encuentra una llave y úsala para abrir la puerta"
+	}
+	"43f5b2a3719ccf976c3996bdd2d97faf"
+	{
+		"en"		"Leave the house"
+		"es"		"Sal de la casa"
+	}
+	"41ea2560686e3852cf3397f1de606a70"
+	{
+		"en"		"Credits: Inconspicuous // Ported : Akatsuki // Modified by yomox9"
+		"es"		"Créditos: Inconspicuous // Adaptado por : Akatsuki // Modificado por yomox9"
+	}
+}

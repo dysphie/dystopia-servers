@@ -1,0 +1,333 @@
+"Phrases"
+{
+	"e65e7f7a5924a58aefbc09c09539fe79"
+	{
+		"en"		"Defeat Medusa in this final boss battle to conquer the Serpentis Temple!"
+		"es"		"Vence a Medusa en esta batalla final para conquistar el Templo Serpentis"
+	}
+	"c4f6bdc35a4a630a7ea110dbdaef5516"
+	{
+		"en"		"Collect all magic crystals (7/8)"
+		"es"		"Recoge todos los cristales mágicos (7/8)"
+	}
+	"b18f846b1e665051c4d461bb09f3928a"
+	{
+		"en"		"Collect all magic crystals (6/8)"
+		"es"		"Recoge todos los cristales mágicos (6/8)"
+	}
+	"9d15afcffb7412183699624eb75576ca"
+	{
+		"en"		"Collect all magic crystals (5/8)"
+		"es"		"Recoge todos los cristales mágicos (5/8)"
+	}
+	"238a4dd19ead4ea762d2a8aef4c9a306"
+	{
+		"en"		"Collect all magic crystals (4/8)"
+		"es"		"Recoge todos los cristales mágicos (4/8)"
+	}
+	"4c05e4df5c6a1f0e2d71f9ef94118971"
+	{
+		"en"		"Collect all magic crystals (3/8)"
+		"es"		"Recoge todos los cristales mágicos (3/8)"
+	}
+	"d916fe91ecf68ffc0f25a5a79ff2aa2d"
+	{
+		"en"		"Collect all magic crystals (2/8)"
+		"es"		"Recoge todos los cristales mágicos (2/8)"
+	}
+	"933c33ecdd6907319883251a0b182e6b"
+	{
+		"en"		"Collect all magic crystals (1/8)"
+		"es"		"Recoge todos los cristales mágicos (1/8)"
+	}
+	"6b928fc869b6366dd6e3b7d2221af4cf"
+	{
+		"en"		"Collect all magic crystals (0/8)"
+		"es"		"Recoge todos los cristales mágicos (0/8)"
+	}
+	"437e91099bc6f4af7e22a4d8ab95c47a"
+	{
+		"en"		"Reach the Medusa Chamber"
+		"es"		"Reach the Medusa Chamber"
+	}
+	"8527f716dd689da73f93a2003d4bc727"
+	{
+		"en"		"Find a way to enter Serpentis Temple"
+		"es"		"Encuentra una manera de entrar al Templo Serpentis"
+	}
+	"05e4aff0603979de905b7f986fe49251"
+	{
+		"en"		"FINDING A CRYSTAL ENABLED THE ALTAR!"
+		"es"		"FINDING A CRYSTAL ENABLED THE ALTAR!"
+	}
+	"323debf90838a2c8e6dcad291ef9f3e4"
+	{
+		"en"		"A Serpentine Warrior appears!"
+		"es"		"A Serpentine Warrior appears!"
+	}
+	"cae61497c33ab0cd20dce910ef35ca59"
+	{
+		"en"		"THE TEMPLE ENTRANCE IS NOW OPEN"
+		"es"		"LA ENTRADA AL TEMPLO FUE ABIERTA"
+	}
+	"f16d329971bc4f6b243e9383ed5dcf25"
+	{
+		"en"		"SHORTCUT IS NOW AVAILABLE FROM SPAWN"
+		"es"		"ATAJO AHORA DISPONIBLE EN EL SPAWN"
+	}
+	"eee03b0a457ae4e44a8c9499c98e761a"
+	{
+		"en"		"The last crystal has spoken!"
+		"es"		"The last crystal has spoken!"
+	}
+	"3d0595afed5110b164b029acdfda2a2d"
+	{
+		"en"		"The secret shall be revealed!"
+		"es"		"¡El secreto será revelado!"
+	}
+	"90e2d2389c352aee14e5b57a1fe891e3"
+	{
+		"en"		"The seventh crystal becomes a vessel."
+		"es"		"The seventh crystal becomes a vessel."
+	}
+	"b9ceed19f9facdb9dd73c3607513cb14"
+	{
+		"en"		"She only needs one more."
+		"es"		"Solo necesita uno más."
+	}
+	"b05ac9c87caf88e43979ee9bf86b8872"
+	{
+		"en"		"The sixth crystal satiates its hunger."
+		"es"		"The sixth crystal satiates its hunger."
+	}
+	"c1bebce8d81157509e8b8b6cdf9804e5"
+	{
+		"en"		"Two remain hollow."
+		"es"		"Two remain hollow."
+	}
+	"a2728402862a94cc51def3a238faf348"
+	{
+		"en"		"The fifth crystal pulses with energy."
+		"es"		"The fifth crystal pulses with energy."
+	}
+	"3086062d5563f1b27beadb0d32b4ad97"
+	{
+		"en"		"Three remain forgotten."
+		"es"		"Three remain forgotten."
+	}
+	"2be7ded6402e749eaeb214b7a63724de"
+	{
+		"en"		"The fourth crystal glows with power."
+		"es"		"The fourth crystal glows with power."
+	}
+	"ca755c10a8e2df005ab7daf16f7ba38e"
+	{
+		"en"		"Four remain in shadows."
+		"es"		"Four remain in shadows."
+	}
+	"1394064a7c7ea44b1e9b5856ae2908cb"
+	{
+		"en"		"The third crystal awakes to the world."
+		"es"		"The third crystal awakes to the world."
+	}
+	"01c9026f5ef7980f3ea36608592b5e5b"
+	{
+		"en"		"Five remain dreaming."
+		"es"		"Five remain dreaming."
+	}
+	"041b12404825eab2a41b6dcdfd863cd1"
+	{
+		"en"		"The second crystal speaks of secrets."
+		"es"		"The second crystal speaks of secrets."
+	}
+	"80ff9c0d3213945d720f3e6995564f99"
+	{
+		"en"		"Six remain silent."
+		"es"		"Six remain silent."
+	}
+	"fd725708c04f1d74f4dc0d8786307b0b"
+	{
+		"en"		"Seven remain hidden."
+		"es"		"Seven remain hidden."
+	}
+	"a9e2a2d6b3290a369dc14d32c3a1e3f6"
+	{
+		"en"		"The first crystal has been found."
+		"es"		"The first crystal has been found."
+	}
+	"eee81efdbdd613e1e1f056a1f990fdd5"
+	{
+		"en"		"You are infused with the power of Serpentis!"
+		"es"		"You are infused with the power of Serpentis!"
+	}
+	"64cf695d09d6fb1ae5279969eb860b9f"
+	{
+		"en"		"You died."
+		"es"		"You died."
+	}
+	"176a12f51c4870fcb04efd3c78db6aa3"
+	{
+		"en"		"The Sewers Secret has been found."
+		"es"		"The Sewers Secret has been found."
+	}
+	"84dcb301e8e9354d2a6a694391fa2a19"
+	{
+		"en"		"GRAB YOUR WEAPONS AND GET READY!"
+		"es"		"GRAB YOUR WEAPONS AND GET READY!"
+	}
+	"7126462bb1f7b0b9003e42bca7b9e6a4"
+	{
+		"en"		"TELEPORTING EVERYONE TO MEDUSA'S CHAMBER IN 15 SECONDS"
+		"es"		"TELEPORTING EVERYONE TO MEDUSA'S CHAMBER IN 15 SECONDS"
+	}
+	"46cd6ca97f2a4c648ded89b8c8db413a"
+	{
+		"en"		"ALL CRYSTALS HAVE BEEN FOUND!"
+		"es"		"ALL CRYSTALS HAVE BEEN FOUND!"
+	}
+	"3977ee719f72c4ca2db052715b337746"
+	{
+		"en"		"The Elevating Spirit has been lifted."
+		"es"		"The Elevating Spirit has been lifted."
+	}
+	"414f5f8b0de9d231e2661ee227ac442e"
+	{
+		"en"		"~ The End ~"
+		"es"		"~ El Fin ~"
+	}
+	"429aab9e7060a88512026d8c7bd9a3e0"
+	{
+		"en"		"Map stolen by Ulreth"
+		"es"		"Map stolen by Ulreth"
+	}
+	"0d14c8844bd1dcfb9eab7698ed352748"
+	{
+		"en"		"Thanks for playing!"
+		"es"		"¡Gracias por jugar!"
+	}
+	"30db2f0da406fae8164662094f879b3b"
+	{
+		"en"		"YOU ARE TRUE HEROES OF LEGEND!"
+		"es"		"¡ERES UN VERDADERO HÉROE!"
+	}
+	"ce8e5fbcdf93821d8bd71be5d7369240"
+	{
+		"en"		"YOU DEFEATED MEDUSA AND CONQUERED THE SERPENTIS TEMPLE!"
+		"es"		"¡VENCISTE A MEDUSA Y CONQUISTASTE EL TEMPLO SERPENTIS!"
+	}
+	"e0ea1fa1cc1486ec1d631529a8be84b9"
+	{
+		"en"		"CONGRATULATIONS!"
+		"es"		"¡FELICITACIONES!"
+	}
+	"d835cfb22207ef339ed76d00789a21e0"
+	{
+		"en"		"The Wheels of Water have been crossed."
+		"es"		"The Wheels of Water have been crossed."
+	}
+	"a12ddd85cfacf84358f337a8939b1451"
+	{
+		"en"		"Behold Kaesar ~ Maker of Beings!"
+		"es"		"Behold Kaesar ~ Maker of Beings!"
+	}
+	"b01f002a88bd38521a751e64d44d9186"
+	{
+		"en"		"Behold Hannibal ~ Creator of Mistakes!"
+		"es"		"Behold Hannibal ~ Creator of Mistakes!"
+	}
+	"4e486266602519cec679596e5e71308b"
+	{
+		"en"		"Behold Kaemonarch ~ Master of Serpentis!"
+		"es"		"Behold Kaemonarch ~ Master of Serpentis!"
+	}
+	"1e4b57b8922cfa3ca9aa104a2a39205b"
+	{
+		"en"		"Behold Luffaren ~ Visage of Horror!"
+		"es"		"Behold Luffaren ~ Visage of Horror!"
+	}
+	"4fbb4d8fbfb7fff2a4db0681f2d067e1"
+	{
+		"en"		"Behold Syoudous ~ Breaker of Dreams!"
+		"es"		"Behold Syoudous ~ Breaker of Dreams!"
+	}
+	"00adb9f177720e57fe56248db01eabfb"
+	{
+		"en"		"The Rooms of Deception have been solved."
+		"es"		"The Rooms of Deception have been solved."
+	}
+	"a58d31e0f3194ea2f392a540093a40a6"
+	{
+		"en"		"The Rising Fires have been outran."
+		"es"		"The Rising Fires have been outran."
+	}
+	"92720b182eb97d9aadd2596b168cdbc7"
+	{
+		"en"		"The Room of Sacrifices has been satisfied."
+		"es"		"The Room of Sacrifices has been satisfied."
+	}
+	"3017291dc28fc7972391df3105b26c42"
+	{
+		"en"		"The Infinite Paths have been walked."
+		"es"		"The Infinite Paths have been walked."
+	}
+	"00c84e8d36a08b5a5c6e42de0745468f"
+	{
+		"en"		"The Chains of Serpentis have been unraveled."
+		"es"		"The Chains of Serpentis have been unraveled."
+	}
+	"24cdd278385a11a986df10c2b1724484"
+	{
+		"en"		"Medusa turned you into stone."
+		"es"		"Medusa turned you into stone."
+	}
+	"982339ed0e445dbd48eab9f750f7afc4"
+	{
+		"en"		"Map stolen by Ulreth* (created by Kaemon & Luffaren)"
+		"es"		"Mapa robado por Ulreth* (creado por Kaemon & Luffaren)"
+	}
+	"c2759effffc94bb9acc71d69fe3e8a1f"
+	{
+		"en"		"FAIL"
+		"es"		"FALLO"
+	}
+	"d2543a015f09857d39ad89635dac89b8"
+	{
+		"en"		"Choose your fourth and final path..."
+		"es"		"Elige tu cuarto y final camino..."
+	}
+	"e3d9cc4e25f4a2cebfb0c3e7704644c9"
+	{
+		"en"		"Choose your third and final path..."
+		"es"		"Elige tu tercer y final camino..."
+	}
+	"cb56d64312c4f72fa1fb3f0818853ad3"
+	{
+		"en"		"Choose your second path..."
+		"es"		"Elige tu segundo camino..."
+	}
+	"95acebef9bdf15f4070b1963264a7a5b"
+	{
+		"en"		"Choose your first path..."
+		"es"		"Elige tu primer camino..."
+	}
+	"783daac84121376e3bc0e13879f53229"
+	{
+		"en"		"Choose your final path..."
+		"es"		"Choose your final path..."
+	}
+	"bc33d5dd9819733261e840ea96a51312"
+	{
+		"en"		"Choose your third path..."
+		"es"		"Choose your third path..."
+	}
+	"22b9f780f363938e70a19f5c8224089f"
+	{
+		"en"		"Choose your second path..."
+		"es"		"Choose your second path..."
+	}
+	"ce33edfa4f92c98e19f31f8de9e371e1"
+	{
+		"en"		"Choose your first path..."
+		"es"		"Choose your first path..."
+	}
+}

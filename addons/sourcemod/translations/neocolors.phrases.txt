@@ -1,0 +1,173 @@
+"Phrases"
+{
+	"New Name Preview"
+	{
+		"#format" 	"{1:s}"
+		"en"	"New name: {1}"
+		"es"	"Nuevo nombre: {1}"
+	}
+	"Menu Title - Add Color"
+	{
+		"#format" 	"{1:d}"
+		"en"	"Add Color (Slot {1})"
+		"es"	"Agregar Color (Slot {1})"
+	}
+	"Menu Title - Edit Color"
+	{
+		"#format" 	"{1:d}"
+		"en"	"Edit Color (Slot {1})"
+		"es"	"Editar Color (Slot {1})"
+	}
+
+	"Type Custom Color"
+	{
+		"en"	"Type a hex code in the chat"
+		"es"	"Escribí el código hex en el chat"
+	}
+
+	"Invalid Custom Color"
+	{
+		"en"	"Invalid hex code"
+		"es"	"Código hex inválido"
+	}
+
+	"Menu Title - Colors"
+	{
+		"en"	"Name Colors"
+		"es"	"Colores de Nombre"
+	}
+	"Menu Title - Color Options"
+	{
+		"en"	"Name Colors"
+		"es"	"Colores de Nombre"
+	}
+	"Custom Prompt"
+	{
+		"en"	"{lightpink}Type a hex color in chat (e.g. ff00ff)"
+		"es"	"{lightpink}Escribe un código de color hexadecimal en el chat (por ejemplo ff00ff)"
+	}
+
+	"Add Color"
+	{
+		"en"	"Add color"
+		"es"	"Agregar color"
+	}
+
+	"Remove"
+	{
+		"en"	"Remove"
+		"es"	"Remover"
+	}
+
+
+	"Custom"
+	{
+		"en"	"Custom"
+		"es"	"Custom"
+	}
+
+	"Default"
+	{
+		"en"	"Default"
+		"es"	"Por defecto"
+	}
+
+	"First Color"
+	{
+		"en"	"First Color"
+		"es"	"Primer Color"
+	}
+
+	"Second Color"
+	{
+		"en"	"Second Color"
+		"es"	"Segundo Color"
+	}
+	"Invalid Code"
+	{
+		"en"	"{lightpink}Invalid hex code"
+		"es"	"{lightpink}Código de color inválido"
+	}
+	"Name Updated"
+	{
+		"#format"	"{1:s}"
+		"en"	"{lightpink}Updated name to {1}"
+		"es"	"{lightpink}Nombre actualizado a {1}"
+	}
+
+    "FFFFFF"
+    {
+        "en"    "White"
+        "es"    "Blanco"
+    }
+    "808080"
+    {
+        "en"    "Gray"
+        "es"    "Gris"
+    }
+    "000000"
+    {
+        "en"    "Black"
+        "es"    "Negro"
+    }
+    "FF0000"
+    {
+        "en"    "Red"
+        "es"    "Rojo"
+    }
+    "800000"
+    {
+        "en"    "Maroon"
+        "es"    "Marron"
+    }
+    "FFFF00"
+    {
+        "en"    "Yellow"
+        "es"    "Amarillo"
+    }
+    "808000"
+    {
+        "en"    "Olive"
+        "es"    "Oliva"
+    }
+    "00FF00"
+    {
+        "en"    "Lime"
+        "es"    "Lima"
+    }
+    "008000"
+    {
+        "en"    "Green"
+        "es"    "Verde"
+    }
+    "00FFFF"
+    {
+        "en"    "Aqua"
+        "es"    "Aqua"
+    }
+    "008080"
+    {
+        "en"    "Teal"
+        "es"    "Teal"
+    }
+    "0000FF"
+    {
+        "en"    "Blue"
+        "es"    "Azul"
+    }
+    "000080"
+    {
+        "en"    "Navy"
+        "es"    "Navy"
+    }
+    "FF00FF"
+    {
+        "en"    "Fuchsia"
+        "es"    "Fucsia"
+    }
+    "800080"
+    {
+        "en"    "Purple"
+        "es"    "Purpura"
+	}
+}

@@ -1,0 +1,15 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CItem_InventoryBox::EndUseForPlayer"
+			{
+				"library"	"server"
+				"linux"		"@_ZN18CItem_InventoryBox15EndUseForPlayerEP11CBasePlayer"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x20\x56\x8B\x75\x08\x57\x8B\xF9\x85\xF6\x0F\x84\x2A\x2A\x2A\x2A\x8B\x06\x8B\xCE\x53"
+			}
+		}
+	}
+}

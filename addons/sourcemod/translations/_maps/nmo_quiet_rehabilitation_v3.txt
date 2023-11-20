@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"89f6711b858f743f8c17c2ef2fbaa930"
+	{
+		"en"		"Survive until elevator arrives."
+		"es"		"Sobrevive hasta que llegue el ascensor."
+	}
+	"a34e69dca7c845ae1fc946796102d149"
+	{
+		"en"		"Turn crank to power generator and press the button to call elevator."
+		"es"		"Gira la manivela para encender el generador y presiona el botón para llamar al ascensor."
+	}
+	"0ccc4abe3b56a97d456348ae317f1ac9"
+	{
+		"en"		"Find key to open doors"
+		"es"		"Encuentra una llave para abrir las puertas"
+	}
+	"b478c3e3baa66c9355d2ed61fbd3bc69"
+	{
+		"en"		"Escape the prison."
+		"es"		"Escapa de la prisión."
+	}
+	"0bfe83b752fb152df0818514490b4888"
+	{
+		"en"		"Disable power"
+		"es"		"Desactiva la electricidad"
+	}
+	"0489132224279bfe7f0da7cb04974368"
+	{
+		"en"		"Proceed ahead"
+		"es"		"Sigue avanzando"
+	}
+	"3b9b21eb3d3fa304bbb4af8719cfbcb0"
+	{
+		"en"		"Find a way inside the room."
+		"es"		"Encuentra una manera de entrar a la habitación."
+	}
+	"d4fefd3392c4688adf90daa28b902fe9"
+	{
+		"en"		"Find a crank to open gate."
+		"es"		"Encuentra una manivela para abrir el portón."
+	}
+	"7d2677bb15a4ca419302dbb0d6b8295b"
+	{
+		"en"		"Head underground."
+		"es"		"Ábrete camino bajo tierra."
+	}
+	"3e7eccb944a12295a700d515fdeb825a"
+	{
+		"en"		"Find a way to open upper gates."
+		"es"		"Find a way to open upper gates."
+	}
+	"0dd2cd452641d87aba8e3a2f8d0c4309"
+	{
+		"en"		"Open lower gate."
+		"es"		"Open lower gate."
+	}
+	"379eab59e3480afdc8aa98def6d3737e"
+	{
+		"en"		"Lever will unlock itself within 1 minute,"
+		"es"		"Lever will unlock itself within 1 minute,"
+	}
+	"c500b65a66fccf969a2d3bc2c8184cfd"
+	{
+		"en"		"turn off gas."
+		"es"		"turn off gas."
+	}
+	"5cae370cf0600df2e4b93002b958da2d"
+	{
+		"en"		"Ignite the barrel. (Hold E)"
+		"es"		"Ignite the barrel. (Hold E)"
+	}
+	"a7f1b5d571f33f0b9eb18c2cd887da8b"
+	{
+		"en"		"Don't forget to pick up the walkie talkie!"
+		"es"		"Don't forget to pick up the walkie talkie!"
+	}
+	"1d7885dfcf48506d7ab71211bf771185"
+	{
+		"en"		"Pick up the walkie talkie in control room."
+		"es"		"Pick up the walkie talkie in control room."
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Ported by xkarma123x"
+	}
+	"395be171b862461a9dabb0dbcf371675"
+	{
+		"en"		"Map by Tabajara"
+		"es"		"Mapa por Tabajara"
+	}
+	"a6c40e593b2a9000a8da79edfe5b7316"
+	{
+		"en"		"All players need to be at end!"
+		"es"		"¡Todos los jugadores deben estar en el final!"
+	}
+}

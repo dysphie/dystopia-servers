@@ -1,0 +1,1459 @@
+"Phrases"
+{
+	"fac7a2b0661b0e5fe843e8b00587e7bd"
+	{
+		"en"		"打破所有箱子"
+		"es"		"打破所有箱子"
+	}
+	"1cb251ec0d568de6a929b520c4aed8d1"
+	{
+		"en"		"text"
+		"es"		"text"
+	}
+	"9a7440c31215adeb3fddac34cccd7d63"
+	{
+		"en"		"♚No Mercy♚开出了6只小孩!"
+		"es"		"♚No Mercy♚开出了6只小孩!"
+	}
+	"e9e464d968e9d53c70ba5b4f865ad70c"
+	{
+		"en"		"♚No Mercy♚开出了80只跑尸!"
+		"es"		"♚No Mercy♚开出了80只跑尸!"
+	}
+	"11d50c5d32ee558ff248e480d8550976"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+538"
+		"es"		"BassBox开出现场全体僵尸HP+538"
+	}
+	"a19160e066dea762005bd2176fa4d1e4"
+	{
+		"en"		"♚No Mercy♚开出了1只捣乱哥"
+		"es"		"♚No Mercy♚开出了1只捣乱哥"
+	}
+	"4369b41c922319bb772f9e6825b02d92"
+	{
+		"en"		"♚No Mercy♚开出了23只小孩!"
+		"es"		"♚No Mercy♚开出了23只小孩!"
+	}
+	"24074348276aff48baec132611ed2de6"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-9"
+		"es"		"♚No Mercy♚开出全体玩家HP-9"
+	}
+	"51ea03903d2254b0dba3f7972ca87c10"
+	{
+		"en"		"♚No Mercy♚开出了1只毒哥!"
+		"es"		"♚No Mercy♚开出了1只毒哥!"
+	}
+	"e45956934820629f18f8ff107a2f5b2d"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-2"
+		"es"		"♚No Mercy♚开出全体玩家HP-2"
+	}
+	"51f86a43f332f3d2c2a08fb2441a2bd4"
+	{
+		"en"		"♚No Mercy♚开出了21只小孩!"
+		"es"		"♚No Mercy♚开出了21只小孩!"
+	}
+	"e8efe4a367690664d284729c765988c5"
+	{
+		"en"		"♚No Mercy♚开出所有人HP和HPmax+10"
+		"es"		"♚No Mercy♚开出所有人HP和HPmax+10"
+	}
+	"0496e8e72f0710c663efed01914d93d9"
+	{
+		"en"		"BassBox开出了30只跑尸!"
+		"es"		"BassBox开出了30只跑尸!"
+	}
+	"519427f165ec083db058e87bb8d67230"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-8"
+		"es"		"♚No Mercy♚开出全体玩家HP-8"
+	}
+	"13a9af7a14d3024fe209e94511e74fcd"
+	{
+		"en"		"♚No Mercy♚开出了37只小孩!"
+		"es"		"♚No Mercy♚开出了37只小孩!"
+	}
+	"e6e2e818d23d303b9f3db5d3ec0ba1fc"
+	{
+		"en"		"BassBox开出了47只小孩!"
+		"es"		"BassBox开出了47只小孩!"
+	}
+	"24e2df7c99c75e32989bb607df858094"
+	{
+		"en"		"The Crazy Rock开出了88只跑尸!"
+		"es"		"The Crazy Rock开出了88只跑尸!"
+	}
+	"e77c53d6d689208cc8a2c2e628c60c87"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+842"
+		"es"		"BassBox开出现场全体僵尸HP+842"
+	}
+	"6731eb077d543c5d9411f8634a775d21"
+	{
+		"en"		"BassBox开出全体玩家HP-3"
+		"es"		"BassBox开出全体玩家HP-3"
+	}
+	"7ef60a29ff6fd6d13c5b7f23b17db8ce"
+	{
+		"en"		"BassBox开出了1只加血哥"
+		"es"		"BassBox开出了1只加血哥"
+	}
+	"650293cd3c34548ac085003174984eef"
+	{
+		"en"		"BassBox开出全体玩家HP-6"
+		"es"		"BassBox开出全体玩家HP-6"
+	}
+	"0612c5ad10a8737503eafb93c8e7e4a0"
+	{
+		"en"		"Kai开出现场全体僵尸HP+917"
+		"es"		"Kai开出现场全体僵尸HP+917"
+	}
+	"2153f97afa49f95c59a0db759b052e48"
+	{
+		"en"		"Kai开出补给箱"
+		"es"		"Kai开出补给箱"
+	}
+	"e85a71141de863893e3849b975169e95"
+	{
+		"en"		"Kai开出现场全体僵尸HP+522"
+		"es"		"Kai开出现场全体僵尸HP+522"
+	}
+	"7b5fcad6eba1e59c99d8d74cfc0f8e71"
+	{
+		"en"		"BassBox开出了37只小孩!"
+		"es"		"BassBox开出了37只小孩!"
+	}
+	"da9edffecd9b770b677e58ceece07246"
+	{
+		"en"		"BassBox开出了单挑BOSS!"
+		"es"		"BassBox开出了单挑BOSS!"
+	}
+	"0901ba52adbf38f0d0c1b765dcb1048a"
+	{
+		"en"		"僵尸开出了78只小孩!"
+		"es"		"僵尸开出了78只小孩!"
+	}
+	"7b82914222bfdf25ce3b42709b265961"
+	{
+		"en"		"僵尸开出了5只小孩!"
+		"es"		"僵尸开出了5只小孩!"
+	}
+	"0833aac41f62b9c194efd0734d5a2dbd"
+	{
+		"en"		"Dysphie开出了无限只小孩!"
+		"es"		"Dysphie开出了无限只小孩!"
+	}
+	"686573c8b12a9c2058c4583e7b76bcb2"
+	{
+		"en"		"Dysphie开出了61只小孩!"
+		"es"		"Dysphie开出了61只小孩!"
+	}
+	"42e198d62a90cd3bb5d77de806114783"
+	{
+		"en"		"Dysphie开出全体玩家HP-8"
+		"es"		"Dysphie开出全体玩家HP-8"
+	}
+	"40b51c8acdf6028f400e605d6814248b"
+	{
+		"en"		"Kai开出了57只小孩!"
+		"es"		"Kai开出了57只小孩!"
+	}
+	"96774fd3dcf2d0211eafae5e8577bc30"
+	{
+		"en"		"Kai开出全体玩家HP-9"
+		"es"		"Kai开出全体玩家HP-9"
+	}
+	"2c707b12a209554c6fc31c8cd91f9bd1"
+	{
+		"en"		"Kai开出了1只跑尸!"
+		"es"		"Kai开出了1只跑尸!"
+	}
+	"31cdca28005ddecba5e36bed16185e3e"
+	{
+		"en"		"Dysphie开出全体玩家HP-7"
+		"es"		"Dysphie开出全体玩家HP-7"
+	}
+	"2730976627a1c58d52119a575863ddc9"
+	{
+		"en"		"Dysphie开出了37只小孩!"
+		"es"		"Dysphie开出了37只小孩!"
+	}
+	"ce7a82136d1ce8d843c2fccfd4bfaa08"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+560"
+		"es"		"Dysphie开出现场全体僵尸HP+560"
+	}
+	"0624dd5776a042b2bf3c5cf112d0ef85"
+	{
+		"en"		"Dysphie开出了34只跑尸!"
+		"es"		"Dysphie开出了34只跑尸!"
+	}
+	"a086beb534e4eeaf1a2d4868bed98e15"
+	{
+		"en"		"Dysphie开出了渣渣辉BOSS!"
+		"es"		"Dysphie开出了渣渣辉BOSS!"
+	}
+	"292cf0979e86894e192a516c3a22d5c5"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+351"
+		"es"		"Dysphie开出现场全体僵尸HP+351"
+	}
+	"5fc1eca45472888643b4ef15556b04db"
+	{
+		"en"		"Dysphie开出了并夕夕BOSS!"
+		"es"		"Dysphie开出了并夕夕BOSS!"
+	}
+	"a4fa5742a5b245d6bd5b5da3a27a911a"
+	{
+		"en"		"Dysphie开出了16只小孩!"
+		"es"		"Dysphie开出了16只小孩!"
+	}
+	"eddc14e2252201abc758336ed8cfd473"
+	{
+		"en"		"捣乱哥开出了人妖BOSS!"
+		"es"		"捣乱哥开出了人妖BOSS!"
+	}
+	"7ac04b0624e942041102f5ccb9835bb3"
+	{
+		"en"		"Dysphie开出了1只捣乱哥"
+		"es"		"Dysphie开出了1只捣乱哥"
+	}
+	"7cdfb7fed9b0248105dc06b7575605ba"
+	{
+		"en"		"Kai开出全体玩家HP-6"
+		"es"		"Kai开出全体玩家HP-6"
+	}
+	"b11f2540b6442bfb50f15a4c4f5e4c78"
+	{
+		"en"		"Kai开出现场全体僵尸HP+854"
+		"es"		"Kai开出现场全体僵尸HP+854"
+	}
+	"590c86da02b25d6aa255a4125e25ef2a"
+	{
+		"en"		"Dysphie开出全体玩家HP-9"
+		"es"		"Dysphie开出全体玩家HP-9"
+	}
+	"0063c087b3d7f1424c297309ae533997"
+	{
+		"en"		"Kai开出现场全体僵尸HP+672"
+		"es"		"Kai开出现场全体僵尸HP+672"
+	}
+	"dcb4626971d1392aa84a5e340843c4cd"
+	{
+		"en"		"BassBox开出补给箱"
+		"es"		"BassBox开出补给箱"
+	}
+	"83503138430e85df33d7ebe55e529dc4"
+	{
+		"en"		"The Crazy Rock开出了人妖BOSS!"
+		"es"		"The Crazy Rock开出了人妖BOSS!"
+	}
+	"5c562529d92697aa5fddbc5de57a5091"
+	{
+		"en"		"The Crazy Rock开出了22只跑尸!"
+		"es"		"The Crazy Rock开出了22只跑尸!"
+	}
+	"0f8b21de48e2d3cd83a8345c919e6c5c"
+	{
+		"en"		"Dysphie开出了无限只跑尸!"
+		"es"		"Dysphie开出了无限只跑尸!"
+	}
+	"bdee655cc9f5227a7dab0a3b8a6c8e3f"
+	{
+		"en"		"The Crazy Rock开出了18只小孩!"
+		"es"		"The Crazy Rock开出了18只小孩!"
+	}
+	"dc4354bfe5afbdafa96be4c01f407d5b"
+	{
+		"en"		"The Crazy Rock开出了并夕夕BOSS!"
+		"es"		"The Crazy Rock开出了并夕夕BOSS!"
+	}
+	"1bb75b541a8fec6c341fe80d5a732619"
+	{
+		"en"		"The Crazy Rock开出现场全体僵尸HP+747"
+		"es"		"The Crazy Rock开出现场全体僵尸HP+747"
+	}
+	"cb9ffd34ce6aa100ee510f0564afca14"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+889"
+		"es"		"Dysphie开出现场全体僵尸HP+889"
+	}
+	"33f83908ebb8c5ec618ddd3869e67103"
+	{
+		"en"		"Dysphie开出补给箱"
+		"es"		"Dysphie开出补给箱"
+	}
+	"e805cc4837ab7f82464ce67769fb82e4"
+	{
+		"en"		"Dysphie开出所有人HP+15"
+		"es"		"Dysphie开出所有人HP+15"
+	}
+	"5a83e0f64f79cf1b09769bf515f48824"
+	{
+		"en"		"Dysphie开出了1只加血哥"
+		"es"		"Dysphie开出了1只加血哥"
+	}
+	"5e9142799ffdfe2b049cfb03d2ac9ed0"
+	{
+		"en"		"The Crazy Rock开出补给箱"
+		"es"		"The Crazy Rock开出补给箱"
+	}
+	"b9251d5de40d52c57b1a582d2c9a1bb6"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+850"
+		"es"		"Dysphie开出现场全体僵尸HP+850"
+	}
+	"8e51552b9fad2374075ab4b5b51697cd"
+	{
+		"en"		"Dysphie开出了1只毒哥!"
+		"es"		"Dysphie开出了1只毒哥!"
+	}
+	"7238fcfd76293ecce09c88e0295f82e1"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+767"
+		"es"		"Dysphie开出现场全体僵尸HP+767"
+	}
+	"4ddb8c87b9048c854de9e65ccfa16f1a"
+	{
+		"en"		"Dysphie开出全体玩家HP-4"
+		"es"		"Dysphie开出全体玩家HP-4"
+	}
+	"7a94f404fc3fa1da762b3532f401bbe1"
+	{
+		"en"		"The Crazy Rock开出了1只加血哥"
+		"es"		"The Crazy Rock开出了1只加血哥"
+	}
+	"6e81d45e1890cbd3f3a1dcaa3eae8a2e"
+	{
+		"en"		"The Crazy Rock开出全体玩家HP-3"
+		"es"		"The Crazy Rock开出全体玩家HP-3"
+	}
+	"d2f4648e80505dfe6b58d0d989c208cf"
+	{
+		"en"		"开局送的小鬼有大用"
+		"es"		"开局送的小鬼有大用"
+	}
+	"9a2c1f5a6a6ae0b70b6904d7d5899f85"
+	{
+		"en"		"捣乱哥开出了28只小孩!"
+		"es"		"捣乱哥开出了28只小孩!"
+	}
+	"09fbe2016125a9ef21cb4b1387afa7a2"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+477"
+		"es"		"BassBox开出现场全体僵尸HP+477"
+	}
+	"817224fe572980bbf0205e063b2a7127"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+509"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+509"
+	}
+	"93f275d6b9f6dd896901b58766dbee29"
+	{
+		"en"		"♚No Mercy♚开出了71只小孩!"
+		"es"		"♚No Mercy♚开出了71只小孩!"
+	}
+	"2664ed3f99423088b8d6b971e2810d66"
+	{
+		"en"		"♚No Mercy♚开出了62只小孩!"
+		"es"		"♚No Mercy♚开出了62只小孩!"
+	}
+	"f361cea2c7c1661898683eccccf9d5e0"
+	{
+		"en"		"♚No Mercy♚开出了20只跑尸!"
+		"es"		"♚No Mercy♚开出了20只跑尸!"
+	}
+	"ae573d6e87ce6f03791b3998e7817c3e"
+	{
+		"en"		"♚No Mercy♚开出了42只跑尸!"
+		"es"		"♚No Mercy♚开出了42只跑尸!"
+	}
+	"acb0a9406f9bdb440e4c4da71e057a00"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+631"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+631"
+	}
+	"8df024ac43c0e87dba6c83532d8414ea"
+	{
+		"en"		"♚No Mercy♚开出了65只小孩!"
+		"es"		"♚No Mercy♚开出了65只小孩!"
+	}
+	"9532a4b34760efc227daa86dba8af456"
+	{
+		"en"		"♚No Mercy♚开出了28只跑尸!"
+		"es"		"♚No Mercy♚开出了28只跑尸!"
+	}
+	"dc041de066d4cbace0bd71c7bdfa579c"
+	{
+		"en"		"♚No Mercy♚开出了1只小孩!"
+		"es"		"♚No Mercy♚开出了1只小孩!"
+	}
+	"d4f800419b3d82d6284fe522afe2888f"
+	{
+		"en"		"♚No Mercy♚开出了无限只小孩!"
+		"es"		"♚No Mercy♚开出了无限只小孩!"
+	}
+	"04b9628b4e95d853abd0510f7ff9fac8"
+	{
+		"en"		"♚No Mercy♚开出了51只跑尸!"
+		"es"		"♚No Mercy♚开出了51只跑尸!"
+	}
+	"a67634f5ea07d5340a382877acac4163"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+706"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+706"
+	}
+	"d921e37dbcb146323864fe66055edd40"
+	{
+		"en"		"♚No Mercy♚开出了86只小孩!"
+		"es"		"♚No Mercy♚开出了86只小孩!"
+	}
+	"4bbc3acedc97e9c889729463ca0c24b3"
+	{
+		"en"		"♚No Mercy♚开出了88只跑尸!"
+		"es"		"♚No Mercy♚开出了88只跑尸!"
+	}
+	"521a90a1c1dea14011ac675dde2edb3f"
+	{
+		"en"		"BassBox开出了23只跑尸!"
+		"es"		"BassBox开出了23只跑尸!"
+	}
+	"150a291430c088cfabdc07f9249b8ecc"
+	{
+		"en"		"The Crazy Rock开出现场全体僵尸HP+551"
+		"es"		"The Crazy Rock开出现场全体僵尸HP+551"
+	}
+	"62e47abb4875e8c22a77beee266d4235"
+	{
+		"en"		"Dysphie开出了19只小孩!"
+		"es"		"Dysphie开出了19只小孩!"
+	}
+	"15f6f86542ddb701ecdf1471be54e0ad"
+	{
+		"en"		"Dysphie开出了30只跑尸!"
+		"es"		"Dysphie开出了30只跑尸!"
+	}
+	"ba9eee7129dd0b49cb02c639713b43d5"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+457"
+		"es"		"Dysphie开出现场全体僵尸HP+457"
+	}
+	"e95270384214a6ea961d4759a119d3c7"
+	{
+		"en"		"Dysphie开出了24只跑尸!"
+		"es"		"Dysphie开出了24只跑尸!"
+	}
+	"e9add412bf0b4c5157209fe9445ead22"
+	{
+		"en"		"The Crazy Rock开出现场全体僵尸HP+422"
+		"es"		"The Crazy Rock开出现场全体僵尸HP+422"
+	}
+	"be004857bbaed84fcba6a31fcb7ac508"
+	{
+		"en"		"Dysphie开出了29只跑尸!"
+		"es"		"Dysphie开出了29只跑尸!"
+	}
+	"fed6b794562499939ddac8f434f3e67b"
+	{
+		"en"		"BassBox开出了87只小孩!"
+		"es"		"BassBox开出了87只小孩!"
+	}
+	"919ff5e296f8d0fc5269acb780a0cbc8"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+356"
+		"es"		"Dysphie开出现场全体僵尸HP+356"
+	}
+	"2c2506907f971359ae5334e12fec8602"
+	{
+		"en"		"The Crazy Rock开出了24只跑尸!"
+		"es"		"The Crazy Rock开出了24只跑尸!"
+	}
+	"30c533f780c7b9b8f0e0e0581714beb4"
+	{
+		"en"		"BassBox开出全体玩家HP-4"
+		"es"		"BassBox开出全体玩家HP-4"
+	}
+	"610eb4b9db843c19fd994af428ea97bb"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+718"
+		"es"		"BassBox开出现场全体僵尸HP+718"
+	}
+	"747fd9ceb02ed95a6dbac516373bc6fe"
+	{
+		"en"		"The Crazy Rock开出全体玩家HP-7"
+		"es"		"The Crazy Rock开出全体玩家HP-7"
+	}
+	"43a020e444d0807e437064ea60dc03de"
+	{
+		"en"		"The Crazy Rock开出所有人HP+15"
+		"es"		"The Crazy Rock开出所有人HP+15"
+	}
+	"6ae5755e6ecef9c9da3903802db68ba3"
+	{
+		"en"		"捣乱哥开出了无限只跑尸!"
+		"es"		"捣乱哥开出了无限只跑尸!"
+	}
+	"295c2adfa9224a4b277588edc3595d1c"
+	{
+		"en"		"BassBox开出了31只跑尸!"
+		"es"		"BassBox开出了31只跑尸!"
+	}
+	"a41dab8223512b5743a12f3d58c57467"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+889"
+		"es"		"BassBox开出现场全体僵尸HP+889"
+	}
+	"ad1e9f140177ce7e73143af9ae369ed7"
+	{
+		"en"		"BassBox开出了53只跑尸!"
+		"es"		"BassBox开出了53只跑尸!"
+	}
+	"d19aed5aed4458fa741dfe0bb7d50c77"
+	{
+		"en"		"捣乱哥开出了单挑BOSS!"
+		"es"		"捣乱哥开出了单挑BOSS!"
+	}
+	"dbf93aabfbd686437893492af4e57bc2"
+	{
+		"en"		"BassBox开出了无限只跑尸!"
+		"es"		"BassBox开出了无限只跑尸!"
+	}
+	"90c0fe3e98f1089fd8c15e00d2c3bb21"
+	{
+		"en"		"捣乱哥开出了50只小孩!"
+		"es"		"捣乱哥开出了50只小孩!"
+	}
+	"f57e96ac290da886666590709291d3e2"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+656"
+		"es"		"BassBox开出现场全体僵尸HP+656"
+	}
+	"e47a1f6de5cabad57b70c48e053b1743"
+	{
+		"en"		"BassBox开出了69只小孩!"
+		"es"		"BassBox开出了69只小孩!"
+	}
+	"12b528baff15963107d83ecdc78c13d5"
+	{
+		"en"		"捣乱哥开出全体玩家HP-3"
+		"es"		"捣乱哥开出全体玩家HP-3"
+	}
+	"76655058f593a34121aa9933253feae0"
+	{
+		"en"		"捣乱哥开出现场全体僵尸HP+983"
+		"es"		"捣乱哥开出现场全体僵尸HP+983"
+	}
+	"a8fc037f19d6f6c7930af71078100758"
+	{
+		"en"		"BassBox开出了38只跑尸!"
+		"es"		"BassBox开出了38只跑尸!"
+	}
+	"0238347a07d780d85a15aa681561e7e1"
+	{
+		"en"		"BassBox开出了41只跑尸!"
+		"es"		"BassBox开出了41只跑尸!"
+	}
+	"e39d96c99d314ace2c7ca59bd8b4e768"
+	{
+		"en"		"Dysphie开出了69只小孩!"
+		"es"		"Dysphie开出了69只小孩!"
+	}
+	"f0400ce039959fd5ac8b9e37e2c1d03d"
+	{
+		"en"		"BassBox开出了37只跑尸!"
+		"es"		"BassBox开出了37只跑尸!"
+	}
+	"c794d405433cfc15d434f9d8aa1ef32e"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+574"
+		"es"		"BassBox开出现场全体僵尸HP+574"
+	}
+	"c640dda547d0937bce483599b10c0fcd"
+	{
+		"en"		"BassBox开出全体玩家HP-5"
+		"es"		"BassBox开出全体玩家HP-5"
+	}
+	"952c1ea7f5bab2a246e04ecb3d844a24"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+464"
+		"es"		"Dysphie开出现场全体僵尸HP+464"
+	}
+	"e942ffa2b9f5f2d17b2e21f3ff7e160f"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+874"
+		"es"		"BassBox开出现场全体僵尸HP+874"
+	}
+	"4ca08e742e45581872672155c06b88c1"
+	{
+		"en"		"BassBox开出了5只小孩!"
+		"es"		"BassBox开出了5只小孩!"
+	}
+	"27204be75ab9df150ac166f7d108231e"
+	{
+		"en"		"BassBox开出了25只跑尸!"
+		"es"		"BassBox开出了25只跑尸!"
+	}
+	"3aaef507ab767445d315f710f60725e8"
+	{
+		"en"		"Kai开出现场全体僵尸HP+726"
+		"es"		"Kai开出现场全体僵尸HP+726"
+	}
+	"91ce8f58d86ac3b30520a64215da69c0"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+955"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+955"
+	}
+	"00116bee819b04586039cbad2e99bcad"
+	{
+		"en"		"Kai开出了22只小孩!"
+		"es"		"Kai开出了22只小孩!"
+	}
+	"dda1bffa2461452f8c8486ce497d17b6"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+474"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+474"
+	}
+	"fc10559e8748535cf4ae5d729d1aab2e"
+	{
+		"en"		"♚No Mercy♚开出了83只跑尸!"
+		"es"		"♚No Mercy♚开出了83只跑尸!"
+	}
+	"73170f0eda97171cea021c05d12a7a76"
+	{
+		"en"		"捣乱哥开出全体玩家HP-4"
+		"es"		"捣乱哥开出全体玩家HP-4"
+	}
+	"2bc427ee95d98e19a23260e0ddd44b6b"
+	{
+		"en"		"♚No Mercy♚开出了23只跑尸!"
+		"es"		"♚No Mercy♚开出了23只跑尸!"
+	}
+	"98a191c4d00ddebbbc8279232f60dd9a"
+	{
+		"en"		"♚No Mercy♚开出了45只跑尸!"
+		"es"		"♚No Mercy♚开出了45只跑尸!"
+	}
+	"394d6d5214c168bf3cbe105bc373f566"
+	{
+		"en"		"BassBox开出了无限只小孩!"
+		"es"		"BassBox开出了无限只小孩!"
+	}
+	"69db4ea4637165b5eaf7e5157d8785e4"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+785"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+785"
+	}
+	"acdd457efc6cf19b28b5226dc5499669"
+	{
+		"en"		"BassBox开出了56只小孩!"
+		"es"		"BassBox开出了56只小孩!"
+	}
+	"e01e23f839c46f984255a6ba264fc624"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-3"
+		"es"		"♚No Mercy♚开出全体玩家HP-3"
+	}
+	"9dd5f8afe816848e0b58ab875919f33b"
+	{
+		"en"		"捣乱哥开出了67只跑尸!"
+		"es"		"捣乱哥开出了67只跑尸!"
+	}
+	"89acc419f884d1a43c8b93c99ec1fc47"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+744"
+		"es"		"BassBox开出现场全体僵尸HP+744"
+	}
+	"9b7c23309f614916c0ba03b51971b041"
+	{
+		"en"		"Kai开出了无限只小孩!"
+		"es"		"Kai开出了无限只小孩!"
+	}
+	"ef0520550c1622a0cfa1b1461429833c"
+	{
+		"en"		"BassBox开出了39只小孩!"
+		"es"		"BassBox开出了39只小孩!"
+	}
+	"cbd714a74136bed12b37adc1d0a54712"
+	{
+		"en"		"Dysphie开出了16只跑尸!"
+		"es"		"Dysphie开出了16只跑尸!"
+	}
+	"db715303f698a8603fb8dcff0cdf8be6"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+640"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+640"
+	}
+	"db9ef2c14d98bd1ee1fe960a03106d9b"
+	{
+		"en"		"♚No Mercy♚开出了43只小孩!"
+		"es"		"♚No Mercy♚开出了43只小孩!"
+	}
+	"6cfa0a2d90905111cf0e4b9e2b5f68c4"
+	{
+		"en"		"BassBox开出了人妖BOSS!"
+		"es"		"BassBox开出了人妖BOSS!"
+	}
+	"4a458635cd75664b83675b21f87f2921"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-5"
+		"es"		"♚No Mercy♚开出全体玩家HP-5"
+	}
+	"a99d92c30c9b4db83b77c5c12650a806"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+762"
+		"es"		"BassBox开出现场全体僵尸HP+762"
+	}
+	"b3f1bbebfd1af69f3f7565aa50a6a403"
+	{
+		"en"		"♚No Mercy♚开出了76只小孩!"
+		"es"		"♚No Mercy♚开出了76只小孩!"
+	}
+	"d4a9b62e52517feb11273d6066a8fa35"
+	{
+		"en"		"BassBox开出了43只小孩!"
+		"es"		"BassBox开出了43只小孩!"
+	}
+	"29a91be316941ca4b431aba073df2526"
+	{
+		"en"		"Dysphie开出全体玩家HP-6"
+		"es"		"Dysphie开出全体玩家HP-6"
+	}
+	"7aa6edf7e3600c880ea4e676be12adc1"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+808"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+808"
+	}
+	"0839bc27ba1cbdca1580bd782fcc7842"
+	{
+		"en"		"♚No Mercy♚开出了14只小孩!"
+		"es"		"♚No Mercy♚开出了14只小孩!"
+	}
+	"7eddf58ad9e01994aeefcf0a9f112549"
+	{
+		"en"		"Dysphie开出了单挑BOSS!"
+		"es"		"Dysphie开出了单挑BOSS!"
+	}
+	"dcdb72a49f0fcb061ebea482b2509cdf"
+	{
+		"en"		"Dysphie开出了70只跑尸!"
+		"es"		"Dysphie开出了70只跑尸!"
+	}
+	"284231439bdc98b931bddb71b63d3c81"
+	{
+		"en"		"Kai开出全体玩家HP-7"
+		"es"		"Kai开出全体玩家HP-7"
+	}
+	"646e50f1b36bff7375e50c21b7722589"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+366"
+		"es"		"Dysphie开出现场全体僵尸HP+366"
+	}
+	"439e32c42eb52305ae2583a2b5b009c6"
+	{
+		"en"		"Kai开出了18只跑尸!"
+		"es"		"Kai开出了18只跑尸!"
+	}
+	"ae1f2578649403e820b8a4d692bf7419"
+	{
+		"en"		"捣乱哥开出了75只跑尸!"
+		"es"		"捣乱哥开出了75只跑尸!"
+	}
+	"9132ce564a892ec98dc5f2fd3546aaab"
+	{
+		"en"		"Dysphie开出了55只跑尸!"
+		"es"		"Dysphie开出了55只跑尸!"
+	}
+	"35d5155ee9c1395a6208909e84dfcfbf"
+	{
+		"en"		"Kai开出了46只小孩!"
+		"es"		"Kai开出了46只小孩!"
+	}
+	"a8bb18fb8960874983718d8ff26118c6"
+	{
+		"en"		"Kai开出了69只小孩!"
+		"es"		"Kai开出了69只小孩!"
+	}
+	"9783cd18b15f8f7d70f5f00d6dcb5516"
+	{
+		"en"		"Dysphie开出了7只跑尸!"
+		"es"		"Dysphie开出了7只跑尸!"
+	}
+	"3b776223ddf9a056df49746dde4f21c0"
+	{
+		"en"		"The Crazy Rock开出全体玩家HP-6"
+		"es"		"The Crazy Rock开出全体玩家HP-6"
+	}
+	"be02d9a800b01d073f6f9beeacd19a07"
+	{
+		"en"		"BassBox开出了51只小孩!"
+		"es"		"BassBox开出了51只小孩!"
+	}
+	"0af4480cf46baecbf78646bfe4b5b3dc"
+	{
+		"en"		"♚No Mercy♚开出了81只小孩!"
+		"es"		"♚No Mercy♚开出了81只小孩!"
+	}
+	"3c68bfb6c1e843f9dca7e590248e8abb"
+	{
+		"en"		"Dysphie开出了51只小孩!"
+		"es"		"Dysphie开出了51只小孩!"
+	}
+	"f6dd024f7d809af12eaf9a18d2e2c54d"
+	{
+		"en"		"♚No Mercy♚开出了52只跑尸!"
+		"es"		"♚No Mercy♚开出了52只跑尸!"
+	}
+	"234d44d1a2d71b3ffe9ca81a77ba6f1d"
+	{
+		"en"		"Dysphie开出了4只跑尸!"
+		"es"		"Dysphie开出了4只跑尸!"
+	}
+	"fe0ed83b687f296e955548dad2c700f0"
+	{
+		"en"		"Dysphie开出全体玩家HP-2"
+		"es"		"Dysphie开出全体玩家HP-2"
+	}
+	"a17bf386348aa598b78290500d345cc0"
+	{
+		"en"		"♚No Mercy♚开出了并夕夕BOSS!"
+		"es"		"♚No Mercy♚开出了并夕夕BOSS!"
+	}
+	"440db7c1b2dfa3fbb56204efc4d0e309"
+	{
+		"en"		"Dysphie开出了27只跑尸!"
+		"es"		"Dysphie开出了27只跑尸!"
+	}
+	"de890e808f8bb92c0c1b71bd82aa7db8"
+	{
+		"en"		"Kai开出了55只小孩!"
+		"es"		"Kai开出了55只小孩!"
+	}
+	"91f4312902d4abf3242607141311f205"
+	{
+		"en"		"Dysphie开出了70只小孩!"
+		"es"		"Dysphie开出了70只小孩!"
+	}
+	"d06f4ec3586d04ac455c0b0eec146a1b"
+	{
+		"en"		"Dysphie开出了87只小孩!"
+		"es"		"Dysphie开出了87只小孩!"
+	}
+	"06e68369af747647d6e04e3b0ae6630a"
+	{
+		"en"		"Dysphie开出了41只小孩!"
+		"es"		"Dysphie开出了41只小孩!"
+	}
+	"e0c4f975ed57f9f77f416958edbbc761"
+	{
+		"en"		"捣乱哥开出了35只小孩!"
+		"es"		"捣乱哥开出了35只小孩!"
+	}
+	"0dde2950bde27e73cb0b5f8268a5e239"
+	{
+		"en"		"Dysphie开出了67只跑尸!"
+		"es"		"Dysphie开出了67只跑尸!"
+	}
+	"c0f78ec764a23ea7aeebfedee168cb7a"
+	{
+		"en"		"BassBox开出了54只小孩!"
+		"es"		"BassBox开出了54只小孩!"
+	}
+	"0d05c07428207970dd93138fa8e61741"
+	{
+		"en"		"BassBox开出全体玩家HP-9"
+		"es"		"BassBox开出全体玩家HP-9"
+	}
+	"dae0163e1eda5a843332fa56b31b86d3"
+	{
+		"en"		"♚No Mercy♚开出了39只小孩!"
+		"es"		"♚No Mercy♚开出了39只小孩!"
+	}
+	"b331f502e48a7a4f1e3f2b5a033d4604"
+	{
+		"en"		"♚No Mercy♚开出了77只跑尸!"
+		"es"		"♚No Mercy♚开出了77只跑尸!"
+	}
+	"896cb24440b9bf6ea688f0c9b165e841"
+	{
+		"en"		"The Crazy Rock开出现场全体僵尸HP+675"
+		"es"		"The Crazy Rock开出现场全体僵尸HP+675"
+	}
+	"6a9c4601463573f0a4973f7caaa7ff0a"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+504"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+504"
+	}
+	"f85b948fc399ddb9dfaedd57d578bc4b"
+	{
+		"en"		"左右后前+攻击触发技能"
+		"es"		"左右后前+攻击触发技能"
+	}
+	"785268c737ccadba516f21c4577fb0d4"
+	{
+		"en"		"The Crazy Rock开出了35只跑尸!"
+		"es"		"The Crazy Rock开出了35只跑尸!"
+	}
+	"c3a8cf1dcda23febe84ba7302ed66ba7"
+	{
+		"en"		"The Crazy Rock开出全体玩家HP-2"
+		"es"		"The Crazy Rock开出全体玩家HP-2"
+	}
+	"925fb2a07c40f81068cc81f90640ccfa"
+	{
+		"en"		"The Crazy Rock开出了56只小孩!"
+		"es"		"The Crazy Rock开出了56只小孩!"
+	}
+	"3e6302448422d73b2de2a32a2d037815"
+	{
+		"en"		"神器天锁斩月现世!"
+		"es"		"神器天锁斩月现世!"
+	}
+	"2700766a5ca7f09db8d14dc6bb46f0d7"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+570"
+		"es"		"BassBox开出现场全体僵尸HP+570"
+	}
+	"6a838aac1b3525e76e6c618d1dd71e97"
+	{
+		"en"		"Dysphie开出了66只小孩!"
+		"es"		"Dysphie开出了66只小孩!"
+	}
+	"f409a6acb57a9cd08de63f3c42d4791d"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+970"
+		"es"		"Dysphie开出现场全体僵尸HP+970"
+	}
+	"1f4583097741cb9924ec1bfa300b9f9a"
+	{
+		"en"		"Dysphie开出了65只跑尸!"
+		"es"		"Dysphie开出了65只跑尸!"
+	}
+	"1664e50d922a2a6c4f254f67c43933db"
+	{
+		"en"		"Dysphie开出了45只跑尸!"
+		"es"		"Dysphie开出了45只跑尸!"
+	}
+	"d6919de5e874a3d8afd8e81e42a1cd42"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+362"
+		"es"		"Dysphie开出现场全体僵尸HP+362"
+	}
+	"e4f7c683f878747d8bec96a2bfe3f1c1"
+	{
+		"en"		"Dysphie开出了0只小孩!"
+		"es"		"Dysphie开出了0只小孩!"
+	}
+	"b03a84ce48be3975b69d3a27dfef1370"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+732"
+		"es"		"Dysphie开出现场全体僵尸HP+732"
+	}
+	"02fa487f0020023eab99cf498c70ec9d"
+	{
+		"en"		"Dysphie开出全体玩家HP-5"
+		"es"		"Dysphie开出全体玩家HP-5"
+	}
+	"85442573fc3ea6569d8d605eb74e4029"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+900"
+		"es"		"BassBox开出现场全体僵尸HP+900"
+	}
+	"a45a743bf073a2f7ddc483a4a2292b95"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+514"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+514"
+	}
+	"7be067f291b95cacb7803798b22374e1"
+	{
+		"en"		"Dysphie开出了81只跑尸!"
+		"es"		"Dysphie开出了81只跑尸!"
+	}
+	"a0af78af33a267295355fbbd3c583c97"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+658"
+		"es"		"BassBox开出现场全体僵尸HP+658"
+	}
+	"ec94d24faafa9054b2d542dbca05fdcd"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+490"
+		"es"		"BassBox开出现场全体僵尸HP+490"
+	}
+	"a2d17aa21dd4d216090cc383f13483dd"
+	{
+		"en"		"Dysphie开出了47只跑尸!"
+		"es"		"Dysphie开出了47只跑尸!"
+	}
+	"137e8da11591fe57820bf912ed750f21"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+975"
+		"es"		"BassBox开出现场全体僵尸HP+975"
+	}
+	"5cf9f0671794ff80aeb4f7f6b4cdcfd9"
+	{
+		"en"		"Dysphie开出了21只跑尸!"
+		"es"		"Dysphie开出了21只跑尸!"
+	}
+	"eef3fdd3b3b591d7f58436fefbfcd7a6"
+	{
+		"en"		"Dysphie开出全体玩家HP-1"
+		"es"		"Dysphie开出全体玩家HP-1"
+	}
+	"53c95f7d7d3817878c77f046f0f7321f"
+	{
+		"en"		"Dysphie开出了82只跑尸!"
+		"es"		"Dysphie开出了82只跑尸!"
+	}
+	"12cd1321884d9e4c66a783beaaa22c6c"
+	{
+		"en"		"Dysphie开出了46只跑尸!"
+		"es"		"Dysphie开出了46只跑尸!"
+	}
+	"d534c265b3bf7e89d63e014c96bb4d37"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+633"
+		"es"		"Dysphie开出现场全体僵尸HP+633"
+	}
+	"cf464c405eb2181e490f7f695d3df4bd"
+	{
+		"en"		"Dysphie开出了15只跑尸!"
+		"es"		"Dysphie开出了15只跑尸!"
+	}
+	"88124c068c8fbd7cb01f0a2fb6732b5a"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+524"
+		"es"		"Dysphie开出现场全体僵尸HP+524"
+	}
+	"59667d82936d8dbc4e22c6f864314c48"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+558"
+		"es"		"Dysphie开出现场全体僵尸HP+558"
+	}
+	"ca0797e419995c512bb62a6416c54661"
+	{
+		"en"		"Dysphie开出了82只小孩!"
+		"es"		"Dysphie开出了82只小孩!"
+	}
+	"953117527ee47e60469fc3051a2b8ace"
+	{
+		"en"		"Dysphie开出了21只小孩!"
+		"es"		"Dysphie开出了21只小孩!"
+	}
+	"52912aec704bf66023ab143c5ed71c65"
+	{
+		"en"		"Dysphie开出了39只小孩!"
+		"es"		"Dysphie开出了39只小孩!"
+	}
+	"61bdab2fda8cb07d83e878c410ed8b24"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+801"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+801"
+	}
+	"95393c0a6825f49470bf269b82c3f5f9"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+687"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+687"
+	}
+	"07b31be0b31d94ce61daca9477bbf257"
+	{
+		"en"		"♚No Mercy♚开出了40只跑尸!"
+		"es"		"♚No Mercy♚开出了40只跑尸!"
+	}
+	"df4dea1a70ddd5b9045b32ecd38bb305"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+828"
+		"es"		"BassBox开出现场全体僵尸HP+828"
+	}
+	"81b1c9246853dfdd15039985d15ae3f3"
+	{
+		"en"		"BassBox开出了35只跑尸!"
+		"es"		"BassBox开出了35只跑尸!"
+	}
+	"54a08cb6eb0e9eb07dd72cee23825865"
+	{
+		"en"		"BassBox开出了90只跑尸!"
+		"es"		"BassBox开出了90只跑尸!"
+	}
+	"e55d9c807d1c05874babfbf032d64b4f"
+	{
+		"en"		"捣乱哥开出了46只跑尸!"
+		"es"		"捣乱哥开出了46只跑尸!"
+	}
+	"e7157b06245172a8fc9f785dbbc44ca6"
+	{
+		"en"		"BassBox开出了21只跑尸!"
+		"es"		"BassBox开出了21只跑尸!"
+	}
+	"33ef0844aca7d645dc728e2f46e424c0"
+	{
+		"en"		"BassBox开出了62只跑尸!"
+		"es"		"BassBox开出了62只跑尸!"
+	}
+	"40314a360b5f62271888ee3183127b52"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+773"
+		"es"		"BassBox开出现场全体僵尸HP+773"
+	}
+	"84de1ba6f4390fc9ead013f00dcd619d"
+	{
+		"en"		"BassBox开出全体玩家HP-8"
+		"es"		"BassBox开出全体玩家HP-8"
+	}
+	"a75b474a209b15a46ebf87f48701f687"
+	{
+		"en"		"BassBox开出了67只跑尸!"
+		"es"		"BassBox开出了67只跑尸!"
+	}
+	"3640a814407b9b675114dd3cc835fabb"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+980"
+		"es"		"BassBox开出现场全体僵尸HP+980"
+	}
+	"c05b366ef1db476fe60c59ffd2dac04f"
+	{
+		"en"		"BassBox开出了渣渣辉BOSS!"
+		"es"		"BassBox开出了渣渣辉BOSS!"
+	}
+	"950eed8869fbb25b65e7688ecbaf90fb"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+657"
+		"es"		"BassBox开出现场全体僵尸HP+657"
+	}
+	"dcf63505019c9e21364f1437f09f2262"
+	{
+		"en"		"BassBox开出所有人HP和HPmax+10"
+		"es"		"BassBox开出所有人HP和HPmax+10"
+	}
+	"3a7cb469bd96857a9e79b98f2794cc4c"
+	{
+		"en"		"捣乱哥开出了1只加血哥"
+		"es"		"捣乱哥开出了1只加血哥"
+	}
+	"ae83e6e8741eadf4a5ca88d1e097a64d"
+	{
+		"en"		"BassBox开出了1只毒哥!"
+		"es"		"BassBox开出了1只毒哥!"
+	}
+	"4eae9d648fe57eaf440c7c81b13697cb"
+	{
+		"en"		"BassBox开出了86只小孩!"
+		"es"		"BassBox开出了86只小孩!"
+	}
+	"7fa3dd7c3deebcdf3921591db736e087"
+	{
+		"en"		"Kai开出了6只跑尸!"
+		"es"		"Kai开出了6只跑尸!"
+	}
+	"80ae6a5eda61dce4ba9fc366e7fb04da"
+	{
+		"en"		"捣乱哥开出了27只跑尸!"
+		"es"		"捣乱哥开出了27只跑尸!"
+	}
+	"8a415103496d11c989866bd6e8fd80d6"
+	{
+		"en"		"捣乱哥开出了无限只小孩!"
+		"es"		"捣乱哥开出了无限只小孩!"
+	}
+	"7db2b4c9c7c7d993cc1b1e4206d7d7a5"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+565"
+		"es"		"Dysphie开出现场全体僵尸HP+565"
+	}
+	"e1416feac8809d85950a0d15d574222a"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+691"
+		"es"		"Dysphie开出现场全体僵尸HP+691"
+	}
+	"fde69d4c03d11aec502cf4bd4d148b51"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+953"
+		"es"		"Dysphie开出现场全体僵尸HP+953"
+	}
+	"425372f2f1bd980bf47b6d568d801470"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+643"
+		"es"		"Dysphie开出现场全体僵尸HP+643"
+	}
+	"16040be44e1a99d777cba47b6ea0ea95"
+	{
+		"en"		"Dysphie开出了32只跑尸!"
+		"es"		"Dysphie开出了32只跑尸!"
+	}
+	"0719101a0640117a55054c29aee62553"
+	{
+		"en"		"Dysphie开出了38只小孩!"
+		"es"		"Dysphie开出了38只小孩!"
+	}
+	"a928bc5c44638b15123f0b7847ba63b9"
+	{
+		"en"		"Dysphie开出了59只跑尸!"
+		"es"		"Dysphie开出了59只跑尸!"
+	}
+	"5facb976f2b36223ea632364665608a7"
+	{
+		"en"		"Dysphie开出了55只小孩!"
+		"es"		"Dysphie开出了55只小孩!"
+	}
+	"f0c1327880112a6b13e7c2d28cb08eb5"
+	{
+		"en"		"Dysphie开出现场全体僵尸HP+410"
+		"es"		"Dysphie开出现场全体僵尸HP+410"
+	}
+	"744458607fc8eac3e0d7f5186532e8ab"
+	{
+		"en"		"Dysphie开出了5只小孩!"
+		"es"		"Dysphie开出了5只小孩!"
+	}
+	"79a957149be32a1daf3e863fb23c49cf"
+	{
+		"en"		"Kai开出了并夕夕BOSS!"
+		"es"		"Kai开出了并夕夕BOSS!"
+	}
+	"3478e914950474845a90845a122c1522"
+	{
+		"en"		"捣乱哥开出现场全体僵尸HP+881"
+		"es"		"捣乱哥开出现场全体僵尸HP+881"
+	}
+	"9d65587a478cede61aa18c9809cb3229"
+	{
+		"en"		"Kai开出所有人HP+15"
+		"es"		"Kai开出所有人HP+15"
+	}
+	"12044f6b126956bff5e6051afc6d2886"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+786"
+		"es"		"BassBox开出现场全体僵尸HP+786"
+	}
+	"ee338891368464a52376c8f2aa70434c"
+	{
+		"en"		"捣乱哥开出了32只小孩!"
+		"es"		"捣乱哥开出了32只小孩!"
+	}
+	"4a0ab6dd2dabf4d4c5b63b7209151052"
+	{
+		"en"		"BassBox开出全体玩家HP-2"
+		"es"		"BassBox开出全体玩家HP-2"
+	}
+	"44257dffeaf1b417d369da4c56cab27b"
+	{
+		"en"		"BassBox开出全体玩家HP-7"
+		"es"		"BassBox开出全体玩家HP-7"
+	}
+	"bd30f7de72c126997471f2031fa28bfa"
+	{
+		"en"		"BassBox开出了73只跑尸!"
+		"es"		"BassBox开出了73只跑尸!"
+	}
+	"58287fef4a613fb5b7b398f084556bd8"
+	{
+		"en"		"Kai开出了1只毒哥!"
+		"es"		"Kai开出了1只毒哥!"
+	}
+	"fdd6fbcf39da7320494abf86881cf3a0"
+	{
+		"en"		"♚No Mercy♚开出了86只跑尸!"
+		"es"		"♚No Mercy♚开出了86只跑尸!"
+	}
+	"6d639d4c5be8a1dfada5c3d7a3ad44a5"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+477"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+477"
+	}
+	"4bb1e82bbd61bb991656f88642e2cefe"
+	{
+		"en"		"神器黄色闪光现世!"
+		"es"		"神器黄色闪光现世!"
+	}
+	"6d1507e88c299ebf057be83add2a5c88"
+	{
+		"en"		"♚No Mercy♚开出了1只加血哥"
+		"es"		"♚No Mercy♚开出了1只加血哥"
+	}
+	"e720def72c663a336a85b0e5c0730789"
+	{
+		"en"		"捣乱哥开出全体玩家HP-2"
+		"es"		"捣乱哥开出全体玩家HP-2"
+	}
+	"529e5e36efcfcd05b06f1f998470aaab"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-4"
+		"es"		"♚No Mercy♚开出全体玩家HP-4"
+	}
+	"aab96aa3719e9958308163f8f26a98e6"
+	{
+		"en"		"♚No Mercy♚开出现场全体僵尸HP+354"
+		"es"		"♚No Mercy♚开出现场全体僵尸HP+354"
+	}
+	"288ded0cbddfbf735b031dd79233fec1"
+	{
+		"en"		"♚No Mercy♚开出所有人HP+15"
+		"es"		"♚No Mercy♚开出所有人HP+15"
+	}
+	"8d9e69500b5441331dbe606b5ad3cdac"
+	{
+		"en"		"BassBox开出全体玩家HP-1"
+		"es"		"BassBox开出全体玩家HP-1"
+	}
+	"3f2901aa27f91f1370445ec75c704bb1"
+	{
+		"en"		"♚No Mercy♚开出了33只小孩!"
+		"es"		"♚No Mercy♚开出了33只小孩!"
+	}
+	"6c797035ae67c86a458258cd332e7e9d"
+	{
+		"en"		"♚No Mercy♚开出了71只跑尸!"
+		"es"		"♚No Mercy♚开出了71只跑尸!"
+	}
+	"1b2a982840d90c4912ad599daf8e6631"
+	{
+		"en"		"♚No Mercy♚开出了45只小孩!"
+		"es"		"♚No Mercy♚开出了45只小孩!"
+	}
+	"6485e888bff25ff60953ecbf171f125a"
+	{
+		"en"		"♚No Mercy♚开出了43只跑尸!"
+		"es"		"♚No Mercy♚开出了43只跑尸!"
+	}
+	"da9b779efbd26e26f3e405670b9304fb"
+	{
+		"en"		"BassBox开出了并夕夕BOSS!"
+		"es"		"BassBox开出了并夕夕BOSS!"
+	}
+	"76b2268573f5601a49c7425c6a70ae62"
+	{
+		"en"		"♚No Mercy♚开出了人妖BOSS!"
+		"es"		"♚No Mercy♚开出了人妖BOSS!"
+	}
+	"4e3582e12a5be73d3b2d1c289819f1f5"
+	{
+		"en"		"捣乱哥开出现场全体僵尸HP+460"
+		"es"		"捣乱哥开出现场全体僵尸HP+460"
+	}
+	"e460f3b39377bfcfbd6e2d75558f29f5"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-7"
+		"es"		"♚No Mercy♚开出全体玩家HP-7"
+	}
+	"e9e12a799ef2e3906705caceb753a956"
+	{
+		"en"		"BassBox开出了77只跑尸!"
+		"es"		"BassBox开出了77只跑尸!"
+	}
+	"d74ddcc511460a5f1eb74f9ba0b19f72"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+636"
+		"es"		"BassBox开出现场全体僵尸HP+636"
+	}
+	"aa872aa496b884a38e92756f20be3f47"
+	{
+		"en"		"捣乱哥开出了27只小孩!"
+		"es"		"捣乱哥开出了27只小孩!"
+	}
+	"c9616f356ceb29f0f38fb42cd8dd2d7e"
+	{
+		"en"		"僵尸开出现场全体僵尸HP+561"
+		"es"		"僵尸开出现场全体僵尸HP+561"
+	}
+	"11313657973515e8131a41c9f8b85c1e"
+	{
+		"en"		"Dysphie开出了68只跑尸!"
+		"es"		"Dysphie开出了68只跑尸!"
+	}
+	"75d4b6ffdad68e070d6a08712dda8ecb"
+	{
+		"en"		"僵尸开出现场全体僵尸HP+445"
+		"es"		"僵尸开出现场全体僵尸HP+445"
+	}
+	"e382100b6a132b39dcedfdd9e435bda3"
+	{
+		"en"		"僵尸开出现场全体僵尸HP+829"
+		"es"		"僵尸开出现场全体僵尸HP+829"
+	}
+	"f24579b46f619f38381c628df0fdc4e6"
+	{
+		"en"		"捣乱哥开出了46只小孩!"
+		"es"		"捣乱哥开出了46只小孩!"
+	}
+	"0161427cadd7941a4305af6c1070a9b5"
+	{
+		"en"		"捣乱哥开出全体玩家HP-5"
+		"es"		"捣乱哥开出全体玩家HP-5"
+	}
+	"10a6fd362820b5f5b538f2b95daced4a"
+	{
+		"en"		"捣乱哥开出了71只小孩!"
+		"es"		"捣乱哥开出了71只小孩!"
+	}
+	"6e69531d5357f0289c766a2e7701d97a"
+	{
+		"en"		"BassBox开出了1只捣乱哥"
+		"es"		"BassBox开出了1只捣乱哥"
+	}
+	"d35abd5c0aea2e5ca3b7b0470f7f0908"
+	{
+		"en"		"Dysphie开出所有人HP和HPmax+10"
+		"es"		"Dysphie开出所有人HP和HPmax+10"
+	}
+	"8832739991cdd42538926f22594f936c"
+	{
+		"en"		"雷刀
+砍怪20%几率触发范围500落雷
+自身每100杀敌数增加1条落雷
+最多9条!"
+		"es"		"雷刀
+砍怪20%几率触发范围500落雷
+自身每100杀敌数增加1条落雷
+最多9条!"
+	}
+	"4bcd8c0cec6d144d5d98bbce04ae281b"
+	{
+		"en"		"神器雷刀现世!"
+		"es"		"神器雷刀现世!"
+	}
+	"9783d385b090058c9d45950ff58af67f"
+	{
+		"en"		"♚No Mercy♚开出了64只小孩!"
+		"es"		"♚No Mercy♚开出了64只小孩!"
+	}
+	"853454198ddfad6798fe05009c209ae0"
+	{
+		"en"		"♚No Mercy♚开出了无限只跑尸!"
+		"es"		"♚No Mercy♚开出了无限只跑尸!"
+	}
+	"3844258d59a18d1ef10abfc6bfa63051"
+	{
+		"en"		"♚No Mercy♚开出全体玩家HP-1"
+		"es"		"♚No Mercy♚开出全体玩家HP-1"
+	}
+	"7e0f1b1928964493fde45590f0a41bad"
+	{
+		"en"		"♚No Mercy♚开出补给箱"
+		"es"		"♚No Mercy♚开出补给箱"
+	}
+	"f85c5da56cec380487b9d32e09c068d0"
+	{
+		"en"		"BassBox开出所有人HP+15"
+		"es"		"BassBox开出所有人HP+15"
+	}
+	"cda5c275165b3d5f4279d1d4b95fd63c"
+	{
+		"en"		"♚No Mercy♚开出了41只小孩!"
+		"es"		"♚No Mercy♚开出了41只小孩!"
+	}
+	"c654fddd0c1ff3edabfa9b03d20581ea"
+	{
+		"en"		"BassBox开出现场全体僵尸HP+386"
+		"es"		"BassBox开出现场全体僵尸HP+386"
+	}
+	"0b803b08e62dba04f0c5141d3e3ae577"
+	{
+		"en"		"♚No Mercy♚开出了单挑BOSS!"
+		"es"		"♚No Mercy♚开出了单挑BOSS!"
+	}
+	"9b1e3df9388b4bd9b7a6feaff7265d40"
+	{
+		"en"		"♚No Mercy♚开出了渣渣辉BOSS!"
+		"es"		"♚No Mercy♚开出了渣渣辉BOSS!"
+	}
+}

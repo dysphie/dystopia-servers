@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"850bd92f58382712dcfb9c55d0f61c4e"
+	{
+		"en"		"WAVE: 1"
+		"es"		"WAVE: 1"
+	}
+	"71ff7d066ceb8abc9a657c873ee9ec36"
+	{
+		"en"		"REMAINING: 150"
+		"es"		"REMAINING: 150"
+	}
+	"c281a894587398a48f9cb3d531501d64"
+	{
+		"en"		"the door!"
+		"es"		"the door!"
+	}
+	"85ae9c6fde3a44d29838c8aaaa8123dc"
+	{
+		"en"		"All players are required"
+		"es"		"All players are required"
+	}
+	"2f652881fe65c4cf7cbb7aef6cb0a089"
+	{
+		"en"		"We survived this battle. It's time to move on."
+		"es"		"We survived this battle. It's time to move on."
+	}
+	"e006c9921241425ff290b427de9b6611"
+	{
+		"en"		"You have a little time to prepare for the next wave, hurry up."
+		"es"		"You have a little time to prepare for the next wave, hurry up."
+	}
+	"9d13bca4f3e7f729d2170e4d4c1cbfeb"
+	{
+		"en"		"Wave 3"
+		"es"		"Wave 3"
+	}
+	"d5b4863c6272dc147d357568c54e34f8"
+	{
+		"en"		"Wave 2"
+		"es"		"Wave 2"
+	}
+	"4f687416b88d42b390715ee52c121b4d"
+	{
+		"en"		"Wave 1"
+		"es"		"Wave 1"
+	}
+	"bd585319aa118b8e625ded1b35f2607a"
+	{
+		"en"		"the survivors escaped the building"
+		"es"		"the survivors escaped the building"
+	}
+	"b9a7fb3775b270c98c2af389052f81df"
+	{
+		"en"		"the elevator starts in 10seconds"
+		"es"		"the elevator starts in 10seconds"
+	}
+	"71a6711819d42ca3f0ca40803ef305b6"
+	{
+		"en"		"The door is now opening!"
+		"es"		"The door is now opening!"
+	}
+	"6521e1e57043e0494c5eb575d4922c9c"
+	{
+		"en"		"setting up the generator survive 3minutes"
+		"es"		"setting up the generator survive 3minutes"
+	}
+	"84502c50858a8767c9123c615100c4eb"
+	{
+		"en"		"We must destroy these rocks for passing the corridor"
+		"es"		"We must destroy these rocks for passing the corridor"
+	}
+	"4d002ed9c9d4c0757099665eb948893b"
+	{
+		"en"		"we must destroy the door!"
+		"es"		"we must destroy the door!"
+	}
+	"e6b4e25cc51b3a9efced2e197161adc5"
+	{
+		"en"		"the door is now opening"
+		"es"		"the door is now opening"
+	}
+	"4385d4192737397dd000ebb2881e157e"
+	{
+		"en"		"Protect yourself during a system reboot."
+		"es"		"Protect yourself during a system reboot."
+	}
+	"6fa1755e6674bfc3d0f0ffad8be1cc5c"
+	{
+		"en"		"we need pliers to hack the system, to open the door."
+		"es"		"we need pliers to hack the system, to open the door."
+	}
+	"277bf390743914d66536dfe4f357d2db"
+	{
+		"en"		"Find the pliers and bring them to the computer."
+		"es"		"Find the pliers and bring them to the computer."
+	}
+	"c7d605fda2e958b91238c8fa474f581b"
+	{
+		"en"		"Нам не удалось остановить аварийный процесс. Дверь поддалась, но у нас мало времени! / We were unable to stop the emergency process. The door gave way, but we don't have much time!"
+		"es"		"Нам не удалось остановить аварийный процесс. Дверь поддалась, но у нас мало времени! / We were unable to stop the emergency process. The door gave way, but we don't have much time!"
+	}
+	"8aba568bd9898cf0af4f611f978ed509"
+	{
+		"en"		"Сработала система самоуничтожения. Перезагрузка системы займёт три минуты. / The self-destruct system was triggered. It will take three minutes to reboot the system."
+		"es"		"Сработала система самоуничтожения. Перезагрузка системы займёт три минуты. / The self-destruct system was triggered. It will take three minutes to reboot the system."
+	}
+	"6d459ce77077eab94c6daa4e2a069545"
+	{
+		"en"		"За камнями виднеется дверь. / We can see the door behind the stones."
+		"es"		"За камнями виднеется дверь. / We can see the door behind the stones."
+	}
+	"19f1d482e6d7fc030917a363d0c8a01f"
+	{
+		"en"		"Проход под обвалом. Поищем обходной путь. / The passage under the collapse. Let's look for a workaround."
+		"es"		"Проход под обвалом. Поищем обходной путь. / The passage under the collapse. Let's look for a workaround."
+	}
+	"2c981e1f2e8761e951d92a94406e0eed"
+	{
+		"en"		"Системе потребуется некоторое время, для перезагрузки. / The system needs some time to reboot."
+		"es"		"Системе потребуется некоторое время, для перезагрузки. / The system needs some time to reboot."
+	}
+	"350e788888929b9f670f1606c4928f23"
+	{
+		"en"		"Система управления дверью повреждена. Необходимо найти способ её починить. / The door control system is damaged. Find a way to fix it."
+		"es"		"Система управления дверью повреждена. Необходимо найти способ её починить. / The door control system is damaged. Find a way to fix it."
+	}
+	"844353f01d99a44ae0b985d8d5df6fac"
+	{
+		"en"		"Нужно осмотреться. / Take a look around."
+		"es"		"Нужно осмотреться. / Take a look around."
+	}
+	"2bc4c08bb31ec7abde0d899bccdda94f"
+	{
+		"en"		"Похоже, что нам придется проломить стену. / Looks like we need to break through the wall."
+		"es"		"Похоже, что нам придется проломить стену. / Looks like we need to break through the wall."
+	}
+}

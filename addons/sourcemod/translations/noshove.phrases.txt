@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Enabled"
+	{
+		"en"	"Shoving enabled"
+		"es"	"Empujón desactivado"
+	}
+	"Disabled"
+	{
+		"en"	"Shoving disabled"
+		"es"	"Empujón activado"
+	}
+}

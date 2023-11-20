@@ -1,0 +1,46 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CNMRiH_GameRules::IsSpawnPointValid"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x81\xEC\x0C\x08\x00\x00\x53\x57\x8B\x7D\x08\x6A\x00\x68"
+				"linux"			"@_ZN16CNMRiH_GameRules17IsSpawnPointValidEP11CBaseEntityP11CBasePlayer"
+			}
+		}
+
+		"Offsets"
+		{
+			"CNMRiH_PlayerSpawn::m_bEnabled"
+			{
+				"windows"	"893"
+				"linux"		"917"
+			}
+		}
+
+		"Functions"
+        {
+            "CNMRiH_GameRules::IsSpawnPointValid"
+            {
+                "signature"  "CNMRiH_GameRules::IsSpawnPointValid"
+                "callconv"  "thiscall"
+                "return"  "bool"
+                "this"  "ignore"
+                "arguments"
+                {
+                    "spot"
+                    {
+                        "type"  "cbaseentity"
+                    }
+                    "player"
+                    {
+                        "type"  "cbaseentity"
+                    }
+                }
+            }
+        }
+	}
+}

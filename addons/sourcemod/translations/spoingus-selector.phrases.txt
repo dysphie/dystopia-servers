@@ -1,0 +1,109 @@
+"Phrases"
+{
+	"Gamemode Normal"
+	{
+		"en"	"Vanilla"
+		"es"	"Normal"
+	}
+
+	"Gamemode Normal Short"
+	{
+		"en"	"vanilla"
+		"es"	"normal"
+	}
+
+	"Gamemode Runners"
+	{
+		"en"	"Runners Only"
+		"es"	"Solo Runners"
+	}
+
+	"Gamemode Runners Short"
+	{
+		"en"	"runners"
+		"es"	"runners"
+	}
+
+	"Nominated Tag"
+	{
+		"en"	"(Nominated)"
+		"es"	"(Nominado)"
+	}
+
+	"Gamemode Specials"
+	{
+		"en"	"Special Zombies"
+		"es"	"Zombies Especiales"
+	}
+
+	"Gamemode Specials Short"
+	{
+		"en"	"special zombies"
+		"es"	"zombies especiales"
+	}
+
+	"Player Nominated"
+	{
+		"#format" "{1:N}{2:s}{3:t}" 
+		"en"	"{lightpink}ꕤ {hotpink}{1}{lightpink} nominated {hotpink}{2} ({3})"
+		"es"	"{lightpink}ꕤ {hotpink}{1}{lightpink} nominó {hotpink}{2} ({3})"
+	}
+
+	"Player RTVed"
+	{
+		"#format" "{1:N}{2:d}{3:d}" 
+		"en"	"{lightpink}ꕤ {hotpink}{1}{lightpink} wants to change maps ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+		"es"	"{lightpink}ꕤ {hotpink}{1}{lightpink} quiere cambiar de mapa ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+	}
+
+	"RTV Vote Started"
+	{
+		"en"	"{lightpink}ꕤ Voting to change the map ~"
+		"es"	"{lightpink}ꕤ Votando para cambiar de mapa ~"
+	}
+
+	"RTV Vote Ended"
+	{ 
+		"#format" "{1:s}{2:t}" 
+		"en"	"{lightpink}ꕤ {hotpink}{1} ({2}){lightpink} won the vote, changing ~"
+		"es"	"{lightpink}ꕤ {hotpink}{1} ({2}){lightpink} ganó el voto, cambiando ~"
+	}
+
+	"RTV Vote Ended No Change"
+	{
+		"en"	"{lightpink}ꕤ Vote finished, current map continues"
+		"es"	"{lightpink}ꕤ Voto finalizado, el mapa actual continúa"
+	}
+
+	"Menu Entry"
+	{
+		"#format" "{1:s}{2:t}" 
+		"en"	"{1} ({2})"	
+		"es"	"{1} ({2})"	
+	}
+
+	"Pick the Next Map"
+	{
+		"en"	"Pick the next map"
+		"es"	"Elige el próximo mapa"
+	}
+
+	"RTV Enabled Timed"
+	{
+		"#format" "{1:d}" 
+		"en"	"{lightpink}ꕤ Votes available for {hotpink}{1}{lightpink} seconds. Use {hotpink}/rtv{lightpink} to change maps"
+		"es"	"{lightpink}ꕤ Votos disponible por {hotpink}{1}{lightpink} segundos. Usa {hotpink}/rtv{lightpink} para cambiar de mapa"
+	}
+
+	"RTV Disabled"
+	{
+		"en"	"{lightpink}ꕤ {hotpink}/rtv{lightpink} disabled till next round"
+		"es"	"{lightpink}ꕤ {hotpink}/rtv{lightpink} desactivado hasta la próxima ronda"
+	}
+
+	"RTV Denied"
+	{
+		"en"	"{lightpink}ꕤ {hotpink}/rtv{lightpink} is disabled till next round"
+		"es"	"{lightpink}ꕤ {hotpink}/rtv{lightpink} está desactivado hasta la próxima ronda"	
+	}
+}

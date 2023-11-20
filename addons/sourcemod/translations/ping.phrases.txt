@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Player Ping"
+	{
+		"#format"	"{1:N}"
+		"en"	"{1} points"
+		"es"	"{1} señala"
+	}
+}

@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"e6556f3798d5b357bb75752b80336133"
+	{
+		"en"		"Destroy the board to gain access towards the sewer"
+		"es"		"Destruye el tablero para obtener acceso al alcantarillado"
+	}
+	"feed2bfb1304382d3cfc83410fb37e84"
+	{
+		"en"		"Head downstairs into the maintenance tunnels"
+		"es"		"Baja por las escaleras hacia los túneles de mantenimiento"
+	}
+	"24edaaa96691d2a26e3c03b241434a5c"
+	{
+		"en"		"Activate the generator by pressing the button in the engine room"
+		"es"		"Activa el generador presionando el botón en la sala de máquinas"
+	}
+	"d635a745d4cb55e762b678d2268ddd71"
+	{
+		"en"		"Turn off the gas"
+		"es"		"Apaga el gas"
+	}
+	"0055623d9377e06c3314401c31f8fa22"
+	{
+		"en"		"Prepare your escape route!"
+		"es"		"¡Prepara tu ruta de escape!"
+	}
+	"76193d7f908f0d97ae1f872847aa306b"
+	{
+		"en"		"Find switches and activate them onto the panel"
+		"es"		"Encuentra interruptores y actívalos en el panel"
+	}
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"es"		"Busca pistas"
+	}
+	"c0e7dd8187035b6bc9fc0e3c9dfaef32"
+	{
+		"en"		"Open the door which is pointing towards the sewers"
+		"es"		"Abre la puerta que señala hacia los alcantarillados"
+	}
+	"7138b3d42841df93413b6b782c9c3887"
+	{
+		"en"		"Find a lever and use it to gain entrance towards the maintenance tunnels"
+		"es"		"Encuentra una palanca y úsala para acceder a los túneles de mantenimiento"
+	}
+	"09e72c25905f962a8ca924e99a9dcf1b"
+	{
+		"en"		"Use the heart key to open up the door connecting to the lobby room (which is located upstairs)"
+		"es"		"Usa la llave de corazón para abrir la puerta que conecta con la sala del vestíbulo (que está ubicada arriba)"
+	}
+	"69afececefba53d19d794b8b23e4d898"
+	{
+		"en"		"Find a way to open up the control room"
+		"es"		"Encuentra una manera de abrir la sala de control"
+	}
+	"625849882164ee63a4340ffc0b758af6"
+	{
+		"en"		"Go upstairs"
+		"es"		"Sube las escaleras"
+	}
+	"4f1eef866b82362cec42b80dc09a84da"
+	{
+		"en"		"Proceed to the main hall"
+		"es"		"Dirígete hacia el vestíbulo principal"
+	}
+	"51763b32ce627f76b1b68c82f14ffe36"
+	{
+		"en"		"You got 11 minutes to get extracted"
+		"es"		"Tienes 11 minutos para ser extraído"
+	}
+	"795a5ccb3ab5663f4854343d0c1ed382"
+	{
+		"en"		"Someone's using the lever"
+		"es"		"Alguien está usando la palanca"
+	}
+	"4ad867cea3e40c46682fe221d4bcf771"
+	{
+		"en"		"You give up to live another day"
+		"es"		"Te rindes para vivir otro día"
+	}
+}

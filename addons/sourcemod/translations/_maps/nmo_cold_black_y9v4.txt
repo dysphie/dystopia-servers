@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"0bee39b6bc8cc4da180848d7951ef08d"
+	{
+		"en"		"Escape on the shuttles"
+		"es"		"Escapa en las naves"
+	}
+	"1291a300fc8a2a0b4d90fed72a61fe30"
+	{
+		"en"		"Arm the self-destruct mechanism"
+		"es"		"Arma la autodestrucción"
+	}
+	"a14008352bae8b72d7d5c36072a93509"
+	{
+		"en"		"Get to the turbolift"
+		"es"		"Llega al turbolift"
+	}
+	"3f9adde300281f7800c91f3e0b58631c"
+	{
+		"en"		"Created by Zen. Modified by yomox9."
+		"es"		"Creado por Zen. Modificado por yomox9."
+	}
+}

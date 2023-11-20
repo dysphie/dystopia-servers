@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"f36152df1bfc35dc200cc3a901edd482"
+	{
+		"en"		"You have 60 seconds to save yourself."
+		"es"		"Tienes 1 minuto para salvarte"
+	}
+	"5a25abb48d487c176708cc5203b8b8e1"
+	{
+		"en"		"Your goal is to blow this complex"
+		"es"		"Tu objetivo es hacer explotar el complejo"
+	}
+}

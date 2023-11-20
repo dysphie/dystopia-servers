@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Drużyna) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"*Martwy*(Drużyna) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Obserwator) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Martwy) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Obserwuje) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Ocalony) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Obserwuje) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(ADMIN) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Martwy) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"pl"		"(Ocalony) {1}: "
+	}
+}

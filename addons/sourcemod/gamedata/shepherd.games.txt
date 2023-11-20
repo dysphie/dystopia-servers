@@ -1,0 +1,26 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"CBaseTrigger::m_hTouchingEntities"
+			{
+				"windows"	"1164"
+				"linux"		"1188"
+			}
+
+			"UtlVector::m_pElements"
+			{
+				"windows"	"16"
+				"linux"		"16"
+			}
+
+			"UtlVector::m_Size"
+			{
+				"windows"	"12"
+				"linux"		"12"
+			}
+		}
+	}
+}

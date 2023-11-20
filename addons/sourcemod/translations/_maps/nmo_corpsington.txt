@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"d0c8e45f73824f106b2ae627608d1f06"
+	{
+		"en"		"Map by E-Arkham. NMRiH edit by Porkchops4lunch."
+		"es"		"Mapa por E-Arkham. Adaptado a NMRiH por Porkchops4lunch."
+	}
+	"1cbf0845141e72c5fc6d1f8be0ae2397"
+	{
+		"en"		"Clear the safehouse"
+		"es"		"Despeja el refugio"
+	}
+	"33f44e09aab97e36a965701ed29b5b47"
+	{
+		"en"		"Turn on the generator"
+		"es"		"Enciende el generador"
+	}
+	"e921455c9efc7f0457923221c2e2e79a"
+	{
+		"en"		"Push the generator to the safe house"
+		"es"		"Empuja el generador hasta el refugio"
+	}
+	"7db41dc420c4a776649fe846a2e9e5c6"
+	{
+		"en"		"Reach the gas station"
+		"es"		"Alcanza la estación de servicio"
+	}
+	"0d75debcc5375fe94c7799ce47a9e0ed"
+	{
+		"en"		"Unlock the warehouse"
+		"es"		"Desbloquea el depósito"
+	}
+	"4683d61624e19fcd8af28ea66552ea9e"
+	{
+		"en"		"Weld the lock"
+		"es"		"Suelda el candado"
+	}
+	"9dc5c30f22200506873539644409259b"
+	{
+		"en"		"Unlock the gate"
+		"es"		"Abre la reja"
+	}
+}

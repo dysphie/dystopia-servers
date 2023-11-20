@@ -1,0 +1,163 @@
+"Phrases"
+{
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Hatsune Miku"
+		"es"		"Mapa creado por Hatsune Miku"
+	}
+	"50081814629bb5d26cedc8ddbfe55ac2"
+	{
+		"en"		"We run out of supplies, our only chance is to escape from this building..."
+		"es"		"Nos quedamos sin suministros, nuestra única manera de escapar de este edificio"
+	}
+	"43d5668492d4e6bfe51089fa29247084"
+	{
+		"en"		"Access code:"
+		"es"		"Código de acceso:"
+	}
+	"75e8e74ee3d3b6b093aaea2896df78af"
+	{
+		"en"		"Chopper leaves in 40 seconds!"
+		"es"		"El helicóptero se va en 40 segundos!"
+	}
+	"2d5dbcf18b836c369cd91da91283087f"
+	{
+		"en"		"Wait for the rescue chopper"
+		"es"		"Espera al helicóptero de rescate"
+	}
+	"c1753ae101065dc8d0a3113a57b7ac5c"
+	{
+		"en"		"Use the welder to open rooftop door"
+		"es"		"Usa el soldador en la puerta hacia la azotea"
+	}
+	"e5d73c6ffc418a71faadfca9898c7f81"
+	{
+		"en"		"Search for the access code to unlock the storage"
+		"es"		"Encuentra el código de acceso al área de almacenamiento"
+	}
+	"039c9a36a954eaee3d997773d448ff9e"
+	{
+		"en"		"Keep rising to the top of the building"
+		"es"		"Continúa subiendo por el edificio"
+	}
+	"4f936aa36159f18829ef6cf6c6ff6d7b"
+	{
+		"en"		"Use an extinguisher to clear your path"
+		"es"		"Usa un extintor para abrir camino"
+	}
+	"a83703a898aa7be6e742b7c011e8744a"
+	{
+		"en"		"Find an alternative way to climb the building"
+		"es"		"Encuentra una manera alternativa de subir por el edificio"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Pide ayuda"
+	}
+	"394d3b2c422b958cd03380023ebe3ba2"
+	{
+		"en"		"Find the key to unlock the control room"
+		"es"		"Encuentra las llaves para desbloquear la sala de control"
+	}
+	"0b12b005d026c0297f07d6962af780b8"
+	{
+		"en"		"Use a propane tank to destroy the fence in order to gain access to the alternative elevator"
+		"es"		"Destruye la reja con una garrafa para acceder al elevador secundario"
+	}
+	"dfc0462dc24a09ff06c7548b9c0aee95"
+	{
+		"en"		"Take the main stairs and follow your path"
+		"es"		"Continúa por las escaleras principales"
+	}
+	"578a34d9ce8731c535c8664925aa1887"
+	{
+		"en"		"Use the elevator to reach the next floor"
+		"es"		"Usa el elevador para llegar al próximo piso"
+	}
+	"e839a9504624bd7f6fc7f6487e58f755"
+	{
+		"en"		"Find and repair the main power box, then turn on the elevator"
+		"es"		"Encuentra y arregla la caja de fusibles, luego usa el elevador"
+	}
+	"3522ffbdb3880a75954c830e5f352e27"
+	{
+		"en"		"Access code 0789"
+		"es"		"Access code 0789"
+	}
+	"2b9b9d666410765395abb2f8bdd2bd98"
+	{
+		"en"		"Access code 6893"
+		"es"		"Access code 6893"
+	}
+	"e4d7612c68ef0d3ba604c6dccb3c4dc5"
+	{
+		"en"		"Access code 9046"
+		"es"		"Access code 9046"
+	}
+	"7227e304ffe8c1c7da1586179c76e925"
+	{
+		"en"		"Access code 5269"
+		"es"		"Access code 5269"
+	}
+	"c997e46047d409c4fc8582082e1daf52"
+	{
+		"en"		"Access code 2970"
+		"es"		"Access code 2970"
+	}
+	"47e61e23ac9d19e76b2c44f9d6fc60df"
+	{
+		"en"		"Access code 1346"
+		"es"		"Access code 1346"
+	}
+	"ebd235eacd69fa74851863dc0949dd76"
+	{
+		"en"		"Access code 0612"
+		"es"		"Access code 0612"
+	}
+	"0307ae96ced2cee143671f1705cc886f"
+	{
+		"en"		"Access code 9538"
+		"es"		"Access code 9538"
+	}
+	"71ab2d8ec5eb2e8fea1986a3382307d7"
+	{
+		"en"		"Access code 6124"
+		"es"		"Access code 6124"
+	}
+	"d4fbbf340bfa2acec67b153de6f54767"
+	{
+		"en"		"Access code 5872"
+		"es"		"Access code 5872"
+	}
+	"fb54cb6b673a0d4aaadc9f3c8d63f744"
+	{
+		"en"		"Access code 4210"
+		"es"		"Access code 4210"
+	}
+	"210a6b607a7e9e9498a9bc138a895765"
+	{
+		"en"		"Access code 3907"
+		"es"		"Access code 3907"
+	}
+	"f674bcd645e9aa84b26cfb2f972c55e5"
+	{
+		"en"		"Access code 8365"
+		"es"		"Access code 8365"
+	}
+	"ce43a7365058949ab83292ba3c63564a"
+	{
+		"en"		"Access code 1099"
+		"es"		"Access code 1099"
+	}
+	"920bb99a493a38ecf21516caf48e82eb"
+	{
+		"en"		"Access code 7743"
+		"es"		"Access code 7743"
+	}
+	"ec2839d763218a4e83697d503a70b5dc"
+	{
+		"en"		"Access code 2501"
+		"es"		"Access code 2501"
+	}
+}

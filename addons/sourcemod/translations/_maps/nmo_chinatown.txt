@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"11fc8e343e0bf9cca5186d795cb5842b"
+	{
+		"en"		"Rescue is coming in 60 seconds. Hang tight!"
+		"es"		"Rescue is coming in 60 seconds. Hang tight!"
+	}
+	"6c35c5361db236363ae686101690d361"
+	{
+		"en"		"Power up the radio and call for rescue!"
+		"es"		"Power up the radio and call for rescue!"
+	}
+	"99f82b126891922a03a06d051aa7ee15"
+	{
+		"en"		"Use welder on the gate's lock to open it!"
+		"es"		"Use welder on the gate's lock to open it!"
+	}
+	"8e872efef7941fc409f3a1582a9cb81e"
+	{
+		"en"		"Find your way through the sewers!"
+		"es"		"Find your way through the sewers!"
+	}
+	"ba0d175adbd0a4f5309e9f80fafb8e20"
+	{
+		"en"		"Release the ladder on the roadblock!"
+		"es"		"Release the ladder on the roadblock!"
+	}
+	"5664d06e2dc13af792abc520dbe3f9af"
+	{
+		"en"		"Find fuel for generator to open the gate!"
+		"es"		"Find fuel for generator to open the gate!"
+	}
+	"e893fe07ad8d167573913900e4714e92"
+	{
+		"en"		"Escape the subway!"
+		"es"		"Escape the subway!"
+	}
+	"171cb832e1cb0872d1c5c823121fc6d1"
+	{
+		"en"		"#nmo_chinatown_docks_finale"
+		"es"		"#nmo_chinatown_docks_finale"
+	}
+	"f67b1cf4fc1c90aec13b4cb2c7f0b1e8"
+	{
+		"en"		"#nmo_chinatown_welder"
+		"es"		"#nmo_chinatown_welder"
+	}
+	"f0599410cf57f7df4303c3bde694689c"
+	{
+		"en"		"#nmo_chinatown_sewer_way"
+		"es"		"#nmo_chinatown_sewer_way"
+	}
+	"64de659bb450f51a73c6762732d32d18"
+	{
+		"en"		"#nmo_chinatown_ladder_dismount"
+		"es"		"#nmo_chinatown_ladder_dismount"
+	}
+	"bf615684607a7a0145a92c5b47441b03"
+	{
+		"en"		"#nmo_chinatown_gate_fix"
+		"es"		"#nmo_chinatown_gate_fix"
+	}
+	"8c2cb30f1e0e9302d3666029b75a3d41"
+	{
+		"en"		"#nmo_chinatown_subway_escape"
+		"es"		"#nmo_chinatown_subway_escape"
+	}
+	"1804cd467103b31f05d8000ad95e7fe7"
+	{
+		"en"		"#nmo_chinatown_radio"
+		"es"		"#nmo_chinatown_radio"
+	}
+}

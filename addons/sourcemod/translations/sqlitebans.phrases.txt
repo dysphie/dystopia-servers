@@ -1,0 +1,50 @@
+"Phrases"
+{
+	"Days"
+	{
+		"#format"	"{1:d}"
+		"en"	"{1} days"
+		"es"	"{1} días"
+	}
+
+	"Minutes"
+	{
+		"#format"	"{1:d}"
+		"en"	"{1} minutes"
+		
+	}
+
+	"Never"
+	{
+		"en"	"Never"
+		"es"	"Nunca"
+	}
+
+	"You Are Game Banned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en" 	"You are banned\n\nReason: {1}\nExpires: {2}\nAppeals: discord.me/runners"
+		"es"	"Tienes un ban.\n\nMotivo: {1}\nExpira: {2}\nApelaciones: discord.me/runners"
+	}
+
+	"You Are Chat Banned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{gold}You are chat banned. Reason: {1}. Expires: {2}"
+		"es"	"{gold}Tienes un ban de chat. Motivo: {1}. Expira: {2}"
+	}
+
+	"You Are Voice Banned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{gold}You are voice banned. Reason: {1}. Expires: {2}"
+		"es"	"{gold}Tienes un ban de voz. Motivo: {1}. Expira: {2}"	
+	}
+
+	"You Are Voice Cmd Banned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{gold}You are banned from using voice commands. Reason: {1}. Expires: {2}"
+		"es"	"{gold}Tienes un ban de comandos de voz. Motivo: {1}. Expira: {2}"	
+	}
+}

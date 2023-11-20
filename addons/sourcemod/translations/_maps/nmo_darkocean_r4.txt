@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"7b0b8c5d41ceba6d63f9df568a9ea31e"
+	{
+		"en"		"Map by Rogue GarlicBread|Thijs."
+		"es"		"Mapa por Rogue GarlicBread|Thijs."
+	}
+	"b16df505894371ec68f1576a28172e7b"
+	{
+		"en"		"you fucked up, extraction be gone now lol"
+		"es"		"La cagaste, la extracción es imposible ahora"
+	}
+	"33663ddd28c97f63bcc6d7bcabff16c9"
+	{
+		"en"		"Weld open the lock."
+		"es"		"Quita el candado con un soldador."
+	}
+	"a5268dfaff87e6b11ab5487fd6a02fb4"
+	{
+		"en"		"Based on oceantown, by 33.66 Million Snails"
+		"es"		"Basado en oceantown, por 33.66 Million Snails"
+	}
+	"620d779928b77474966f927323cf0ad4"
+	{
+		"en"		"i hope you fall"
+		"es"		"ojalá te caigas"
+	}
+	"3065a188de00697f894df6c97ce2c8c2"
+	{
+		"en"		"The passage is blocked. Find a different route."
+		"es"		"El paso esta bloqueado. Encuentra otra ruta"
+	}
+	"8f6481cc3ef62e5e46c3ba70ef7d3272"
+	{
+		"en"		"This doesn't look good... We had better rush to the airfield basement."
+		"es"		"Esto no se ve bien... Será mejor que nos apresuremos al sótano del aeródromo.."
+	}
+	"a03b150afa7f6deb9b493d92d4c94d75"
+	{
+		"en"		"You have run out of time.. The facility is about to explode!!"
+		"es"		"Te has quedado sin tiempo.. El lugar está a punto de explotar!!"
+	}
+	"2e46e1939f6cacdc6b91b38c8810356b"
+	{
+		"en"		"Activate the generator"
+		"es"		"Activa el generador"
+	}
+	"e42a0ce6ee3f7e1e531d30a51f703b5d"
+	{
+		"en"		"Get out! Get to the choppa"
+		"es"		"Escapa! Sube al helicóptero"
+	}
+	"fd79e5b28a0d20acddb97f8f7fb5cc1e"
+	{
+		"en"		"Use the radio"
+		"es"		"Usa la radio"
+	}
+	"bc287396d47f8800796b7cca7ac9f1b3"
+	{
+		"en"		"The bridge is unpowered. Investigate the generator."
+		"es"		"El puente está apagado. Inspecciona el generador"
+	}
+	"e42118eeaa75db2bcd198b7f8d98495a"
+	{
+		"en"		"Lower the bridge."
+		"es"		"Haz que baje el puente."
+	}
+	"f92e4c9e741a8aba1694934f5f184d6b"
+	{
+		"en"		"Replace the plugs and restore the generator."
+		"es"		"Remplaza los enchufes y enciende el generador."
+	}
+	"910dbe2f0ec9fb5af8e2487ffbb17f3d"
+	{
+		"en"		"Go forward, lower the bridge"
+		"es"		"Avanza y baja el puente"
+	}
+	"3cda5bbc9ad95090d60deb164ccaa41c"
+	{
+		"en"		"Reach the supply shop"
+		"es"		"Ve al almacén"
+	}
+	"c997fc278c1979899cac9b9076fa9dc7"
+	{
+		"en"		"Destroy flight control tower to overload systems and destroy the facility"
+		"es"		"Destruye la torre de control para sobrecargar los sistemas y destruir la instalación"
+	}
+	"856c76a5fd04c493551a54b89f70d904"
+	{
+		"en"		"It's locked. Find the key"
+		"es"		"El almacén está cerrado. Encuentra la llave"
+	}
+	"062c7d83860bb42095a9aded4eeb0289"
+	{
+		"en"		"We've reached the shop! Open it up"
+		"es"		"Abre el almacén"
+	}
+	"15c59d3005ea512f4fcac574a8e97bfc"
+	{
+		"en"		"The way is blocked: break the gate"
+		"es"		"Este camino esta bloqueado: destruye la reja"
+	}
+	"1e4f7c73c6972a83c9d1a8de1c4f103e"
+	{
+		"en"		"Explore the compound"
+		"es"		"Explora el recinto"
+	}
+	"56fe45a75e2fddd9137426b7bd09937b"
+	{
+		"en"		"Turn on flight system power upstairs and get out!"
+		"es"		"¡Sube las escaleras, enciende el sistema de vuelo y escapa!"
+	}
+	"d022e9cd12c4d6986ab6054ec0039b52"
+	{
+		"en"		"Flip the switch and open the hangar doors."
+		"es"		"Activa el interruptor y abre las puertas del hangar."
+	}
+	"e90794c1e7d933287087d8d45c82c9a8"
+	{
+		"en"		"Turn on the main power generator of the flight systems"
+		"es"		"Enciende el generador de energía principal de los sistemas de vuelo."
+	}
+	"662ef98d842141b6037dedaf0ccc340a"
+	{
+		"en"		"You smell like elderberries"
+		"es"		"You smell like elderberries"
+	}
+}

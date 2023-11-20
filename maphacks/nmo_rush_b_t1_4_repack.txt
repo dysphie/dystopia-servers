@@ -1,0 +1,77 @@
+"Maphack"
+{	
+	"entities"
+	{
+		$remove { "targetname" "sound_war" }
+		$remove { "targetname" "sound_last_hold" }
+		$remove { "targetname" "sound_winroom" }
+		$remove { "targetname" "sound_matrix_boss" }
+		$remove { "targetname" "sound_matrix_intro" }
+		$remove { "targetname" "sound_matrix_spybreak" }
+		$remove { "targetname" "sound_matrix_elevator" }
+		$remove { "targetname" "sound_retro_boss" }
+		$remove { "targetname" "sound_retro_end" }
+		$remove { "targetname" "sound_retro_intro" }
+		$remove { "targetname" "ball_out" }
+		$remove { "targetname" "pouritup_intro" }
+		$remove { "targetname" "desert_combat" }
+		$remove { "targetname" "laser_fields" }
+		$remove { "targetname" "money_soud" }
+	
+
+		"logic_ruleset"
+		{
+			"targetname"	"ruleset"
+		}
+
+		$modify
+		{
+			"match"
+			{
+				"hammerid" "20057793"
+			}
+			"insert"
+			{
+				"OnNewGame"	"ruleset,ApplyCvars,sv_airaccelerate 150,0,-1"		
+			}
+		}
+
+		$remove_all { "targetname" "players_compare_matrixboss1" }
+
+		"logic_compare"
+		{
+			"origin" "4240 -4600 -2216"
+			"targetname" "players_compare_matrixboss1"
+			"InitialValue" "0"
+			"CompareValue" "1"
+			"classname" "logic_compare"
+
+			"OnEqualTo" "tele_matrixboss_jailzone,Enable,,8,-1"
+			"OnEqualTo" "fade_green,Fade,,0,-1"
+			"OnEqualTo" "brush_matrixboss,Enable,,13,-1"
+			"OnEqualTo" "fade_white,Fade,,45,-1"
+			"OnEqualTo" "tele_winroom,Enable,,46,-1"
+			"OnEqualTo" "sound_last_hold,PlaySound,,13,-1"
+			"OnEqualTo" "sound_matrix_boss,FadeOut,2,8.5,-1"
+			"OnEqualTo" "brush_matrixboss,Disable,,45,-1"
+			"OnLessThan" "fade_red,Fade,,0,-1"
+			"OnLessThan" "scr_overlay_neo,StartOverlays,,1,-1"
+			"OnLessThan" "scr_overlay_neo,StopOverlays,,6,-1"
+			"OnEqualTo" "timer_matrixboss_circle,Enable,,8,-1"
+			"OnEqualTo" "timer_matrixboss_circle,Disable,,46,-1"
+			"OnLessThan" "game,EndRound,,9,1"
+			"OnEqualTo" "script,RunScriptCode,text22(),0,1"
+			"OnLessThan" "script,RunScriptCode,textgamefail2(),0,1"
+			"OnEqualTo" "fade_white,Fade,,12,-1"
+			"OnEqualTo" "zombie20,Kill,,44,-1"
+			"OnEqualTo" "zombie20_info,Kill,,44,-1"
+			"OnEqualTo" "trigger_matrixboss_f_bull,Wake,,15,1"
+			"OnEqualTo" "trigger_matrixboss_f_bull,Kill,,44,1"
+			"OnEqualTo" "tp1,AddOutput,origin 7984 8806 1420,45,-1"
+			"OnEqualTo" "tp1,AddOutput,angels 0 0 0,45.02,-1"
+			"OnEqualTo" "skybox_matrix,Kill,,46,1"
+			"OnEqualTo" "end_temp,ForceSpawn,,45,1"
+			"OnEqualTo" "zombie20,Enable,,13.5,1"
+		}
+	}
+}

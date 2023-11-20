@@ -1,0 +1,23 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove_all { "targetname" "spawn3" }
+	}
+	"entities"
+	{
+		$remove_all { "targetname" "spawn3" }
+
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"spawn3"
+			}
+			"replace"
+			{
+				"default_spawn" "0"
+			}
+		}
+	}
+}

@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"ru"		"Говорит"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"ru"		"Нужны патроны"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"ru"		"Следуй за мной"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"ru"		"На помощь!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"ru"		"Стой здесь"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"ru"		"Нет"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"ru"		"Да"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"ru"		"Спасибо"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"ru"		"Наступают"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"ru"		"Ранен"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"ru"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"ru"		"Граната!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"ru"		"Молотов!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"ru"		"Взрывчатка!"
+	}
+}

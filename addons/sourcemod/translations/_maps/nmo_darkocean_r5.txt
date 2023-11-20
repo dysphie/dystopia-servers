@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"fd79e5b28a0d20acddb97f8f7fb5cc1e"
+	{
+		"en"		"Use the radio"
+		"es"		"Use the radio"
+	}
+	"bc287396d47f8800796b7cca7ac9f1b3"
+	{
+		"en"		"The bridge is unpowered. Investigate the generator."
+		"es"		"The bridge is unpowered. Investigate the generator."
+	}
+	"e42118eeaa75db2bcd198b7f8d98495a"
+	{
+		"en"		"Lower the bridge."
+		"es"		"Lower the bridge."
+	}
+	"f92e4c9e741a8aba1694934f5f184d6b"
+	{
+		"en"		"Replace the plugs and restore the generator."
+		"es"		"Replace the plugs and restore the generator."
+	}
+	"910dbe2f0ec9fb5af8e2487ffbb17f3d"
+	{
+		"en"		"Go forward, lower the bridge"
+		"es"		"Go forward, lower the bridge"
+	}
+	"3cda5bbc9ad95090d60deb164ccaa41c"
+	{
+		"en"		"Reach the supply shop"
+		"es"		"Reach the supply shop"
+	}
+	"c997fc278c1979899cac9b9076fa9dc7"
+	{
+		"en"		"Destroy flight control tower to overload systems and destroy the facility"
+		"es"		"Destroy flight control tower to overload systems and destroy the facility"
+	}
+	"856c76a5fd04c493551a54b89f70d904"
+	{
+		"en"		"It's locked. Find the key"
+		"es"		"It's locked. Find the key"
+	}
+	"062c7d83860bb42095a9aded4eeb0289"
+	{
+		"en"		"We've reached the shop! Open it up"
+		"es"		"We've reached the shop! Open it up"
+	}
+	"15c59d3005ea512f4fcac574a8e97bfc"
+	{
+		"en"		"The way is blocked: break the gate"
+		"es"		"The way is blocked: break the gate"
+	}
+	"1e4f7c73c6972a83c9d1a8de1c4f103e"
+	{
+		"en"		"Explore the compound"
+		"es"		"Explore the compound"
+	}
+	"56fe45a75e2fddd9137426b7bd09937b"
+	{
+		"en"		"Turn on flight system power upstairs and get out!"
+		"es"		"Turn on flight system power upstairs and get out!"
+	}
+	"d022e9cd12c4d6986ab6054ec0039b52"
+	{
+		"en"		"Flip the switch and open the hangar doors."
+		"es"		"Flip the switch and open the hangar doors."
+	}
+	"e90794c1e7d933287087d8d45c82c9a8"
+	{
+		"en"		"Turn on the main power generator of the flight systems"
+		"es"		"Turn on the main power generator of the flight systems"
+	}
+	"3065a188de00697f894df6c97ce2c8c2"
+	{
+		"en"		"The passage is blocked. Find a different route."
+		"es"		"The passage is blocked. Find a different route."
+	}
+	"1df126b937e9e2de932c3a70fee28d34"
+	{
+		"en"		"Get out! Get to the extraction!"
+		"es"		"Get out! Get to the extraction!"
+	}
+	"b16df505894371ec68f1576a28172e7b"
+	{
+		"en"		"you fucked up, extraction be gone now lol"
+		"es"		"you fucked up, extraction be gone now lol"
+	}
+	"33663ddd28c97f63bcc6d7bcabff16c9"
+	{
+		"en"		"Weld open the lock."
+		"es"		"Weld open the lock."
+	}
+	"a5268dfaff87e6b11ab5487fd6a02fb4"
+	{
+		"en"		"Based on oceantown, by 33.66 Million Snails"
+		"es"		"Based on oceantown, by 33.66 Million Snails"
+	}
+	"2e46e1939f6cacdc6b91b38c8810356b"
+	{
+		"en"		"Activate the generator"
+		"es"		"Activate the generator"
+	}
+	"620d779928b77474966f927323cf0ad4"
+	{
+		"en"		"i hope you fall"
+		"es"		"i hope you fall"
+	}
+	"662ef98d842141b6037dedaf0ccc340a"
+	{
+		"en"		"You smell like elderberries"
+		"es"		"You smell like elderberries"
+	}
+	"a03b150afa7f6deb9b493d92d4c94d75"
+	{
+		"en"		"You have run out of time.. The facility is about to explode!!"
+		"es"		"You have run out of time.. The facility is about to explode!!"
+	}
+	"7b0b8c5d41ceba6d63f9df568a9ea31e"
+	{
+		"en"		"Map by Rogue GarlicBread|Thijs."
+		"es"		"Map by Rogue GarlicBread|Thijs."
+	}
+	"8f6481cc3ef62e5e46c3ba70ef7d3272"
+	{
+		"en"		"This doesn't look good... We had better rush to the airfield basement."
+		"es"		"This doesn't look good... We had better rush to the airfield basement."
+	}
+}

@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"Usage"
+	{
+		"en"	"{lightpink}Usage: {hotpink}/dist{lightpink} <{hotpink}200{lightpink} to {hotpink}9999{lightpink}>"
+		"es"	"{lightpink}Uso: {hotpink}/dist{lightpink} <{hotpink}200{lightpink} a {hotpink}9999{lightpink}>"
+	}
+
+	"Removed"
+	{
+		"#format" "{1:s}"
+		"en"	"{lightpink}Reset render distance in {hotpink}{1}"
+		"es"	"{lightpink}Distancia de renderizado reiniciada en {hotpink}{1}"	
+	}
+
+	"Saved"
+	{
+		"#format" "{1:.f},{2:s}"
+		"en"	"{lightpink}Clamped render distance to {hotpink}{1}{lightpink} in {hotpink}{2}{lightpink}. Type {hotpink}/dist -1{lightpink} to revert it"
+		"es"	"{lightpink}Distancia de renderizado limitada a {hotpink}{1}{lightpink} en {hotpink}{2}{lightpink}. Usa {hotpink}/dist -1{lightpink} para revertirlo"	
+	}
+}

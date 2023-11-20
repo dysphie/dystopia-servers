@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"a822d66eb36ee4ca0d04fd1f1bdd102c"
+	{
+		"en"		"Go to the room and wait for something to happen"
+		"es"		"Ve a la habitación y espera a que suceda algo"
+	}
+	"d635a745d4cb55e762b678d2268ddd71"
+	{
+		"en"		"Turn off the gas"
+		"es"		"Cierra el flujo de gas"
+	}
+	"5c2c073de1ca1635813cc37e3555121e"
+	{
+		"en"		"get out of the sewers"
+		"es"		"Sal de las alcantarillas"
+	}
+	"47d9f2efc45250495d8b25ed7af29891"
+	{
+		"en"		"Survive your way out"
+		"es"		"Encuentra la salida"
+	}
+	"dc4cc8ba9439d7d7748b8cadeac94804"
+	{
+		"en"		"Find a welder to make your way down."
+		"es"		"Encuentra un soldador para bajar a las alcantarillas"
+	}
+	"e10078f0a1684e944ca405810a868d06"
+	{
+		"en"		"Go to the underground and escape the prison"
+		"es"		"Ve al subsuelo y escapa la prisión"
+	}
+	"4b41e6a00a04cd1452eb5820e0eee60d"
+	{
+		"en"		"Navigate your way out of the vents"
+		"es"		"Avanza por los ductos de ventilación"
+	}
+	"2f0e40468cdf3714c1a8697704349453"
+	{
+		"en"		"Go to the elevator and wait for what comes ahead"
+		"es"		"Ve al ascensor y prepárate para lo que viene"
+	}
+	"fba6a800a8312ef755589ccf098db439"
+	{
+		"en"		"All players need to be in room to proceed!"
+		"es"		"¡Todos los jugadores tienen que estar en la habitación para continuar!"
+	}
+	"810361cf54bd0a83877f5b62716a6dbe"
+	{
+		"en"		"All players need to be together to proceed!"
+		"es"		"¡Todos los jugadores deben estar juntos para continuar!"
+	}
+	"55f5b773038b42ec2d1c13a007cbde86"
+	{
+		"en"		"by Tabajara77"
+		"es"		"por Tabajara77"
+	}
+	"8c0e2967a6b2e9c6492a7baa240e6303"
+	{
+		"en"		"MUTUAL PLACE"
+		"es"		"MUTUAL PLACE"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"395be171b862461a9dabb0dbcf371675"
+	{
+		"en"		"Map by Tabajara"
+		"es"		"Mapa por Tabajara"
+	}
+}

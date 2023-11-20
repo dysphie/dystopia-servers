@@ -1,0 +1,183 @@
+"Phrases"
+{
+	"86bb34bc362ec2fa8149d3435500273d"
+	{
+		"en"		"Press E on shovel until door opens."
+		"es"		"Presiona E repetidamente en la pala hasta que se abra la puerta."
+	}
+	"4dd879fb3f3db86b517b6e0ab2cc518d"
+	{
+		"en"		"Ported by Miza"
+		"es"		"Adaptado por Miza"
+	}
+	"3c64d730d749e424e2c26c767a5815ee"
+	{
+		"en"		"Map by Citizen_001"
+		"es"		"Mapa por Citizen_001"
+	}
+	"97b449d74fa9402114f68703aa77901c"
+	{
+		"en"		"To be continued in, Exodus Ruse..."
+		"es"		"Continuará en Exodus Ruse..."
+	}
+	"0ea973e9e83497122c4630660d76d550"
+	{
+		"en"		"So close... you might just have a chance..."
+		"es"		"Tan cerca... Quizás tengas una chance..."
+	}
+	"649d56c8c49d07a4ec5bbc1f454801cb"
+	{
+		"en"		"Shoot the rockets or hold E to ignite the rockets."
+		"es"		"Dispárale a los misiles o mantén E en ellos para prenderlos fuego."
+	}
+	"f7251dd443f6a8f4a984966db744ea14"
+	{
+		"en"		"Just one more rocket"
+		"es"		"Solo falta un misil"
+	}
+	"c396a3a25f0ffe50d97586cef1410ef5"
+	{
+		"en"		"Two more rockets should work"
+		"es"		"Dos misiles mas deberían ser suficientes"
+	}
+	"8d69fc740d2903f6a2e4d2b1ea338973"
+	{
+		"en"		"This door is locked from the inside. Some explosives might be able to take care of it."
+		"es"		"Esta puerta esta bloqueada desde adentro. Quizás unos explosivos puedan arreglarlo"
+	}
+	"dceea55e3c6cbf3ba1c5b880f8ad8600"
+	{
+		"en"		"Move up now, most of the soldiers should be gone."
+		"es"		"Sube ahora, no deberían quedar muchos soldados."
+	}
+	"67878a23711ee406fa639652767dad08"
+	{
+		"en"		"It looks like there is some militant activity up ahead, wait for them to move on."
+		"es"		"Al parecer aún hay un poco de actividad militar adelante, espera a que se vayan."
+	}
+	"7ee5bd77d0d7e670d9c43170ce088588"
+	{
+		"en"		"These appear to be lockbusters, useful for any padlock."
+		"es"		"Estos parecen ser abre cerraduras, útiles para cualquier cerradura."
+	}
+	"5fbd84961affd4e7868ed261779e23f3"
+	{
+		"en"		"This controls the flow of electricity through the fence."
+		"es"		"Esto controla la electricidad de las rejas"
+	}
+	"e6df3cbe1d242326e0621e840d797126"
+	{
+		"en"		"Now you can climb the ladder up to the surface."
+		"es"		"Ahora puedes subir la escalera hasta la superficie."
+	}
+	"9206a0d59b1e71ed16c51c8137aab316"
+	{
+		"en"		"This seems to be the missing crank for the control box."
+		"es"		"A la caja de control parece faltarle una manivela."
+	}
+	"f558ba043526b2dfe3b05e8148f5b4dc"
+	{
+		"en"		"This control box opens the surface hatch."
+		"es"		"Esta caja de control abre la escotilla de la superficie."
+	}
+	"845a1ab2f50f1d44d6b0825a053cf5fe"
+	{
+		"en"		"This control box opens the surface hatch, it is missing its crank."
+		"es"		"Esta caja de control abre la escotilla de la superficie. Le falta una manivela"
+	}
+	"2329927e41215b403c7f9d94ef403581"
+	{
+		"en"		"This valve controls the flow of steam in this area"
+		"es"		"Esta válvula controla el flujo de vapor en este área"
+	}
+	"3d2554a4e2ef1ca2719954e1c9082438"
+	{
+		"en"		"The valve is temporarily jammed."
+		"es"		"La válvula está temporalmente obstruida."
+	}
+	"a9fc9911c471ae76c0b1ea5c8b84a8db"
+	{
+		"en"		"Okay it should be ready, switch the power back on."
+		"es"		"Bien, debería estar listo. Restablece la electricidad"
+	}
+	"151f6541e392ac7c75cbddf1f6004498"
+	{
+		"en"		"Now wait one minute before turning the power back on."
+		"es"		"Ahora espera un minuto antes de restablecer la electricidad."
+	}
+	"05dc66ca938372aeddfdf3ea8711a337"
+	{
+		"en"		"This door opens from the inside. Resetting section 2 power should automatically open it."
+		"es"		"Esta puerta se abre desde adentro. Reiniciar la electricidad del sector 2 debería abrirla"
+	}
+	"f1980e59b832b16da30f8de4babd206f"
+	{
+		"en"		"Section 1 power control panel."
+		"es"		"Panel de control de energía de la sección 1."
+	}
+	"6683e4690d38d84bf156c334c6ab5658"
+	{
+		"en"		"Section 2 power control panel."
+		"es"		"Panel de control de energía de la sección 2."
+	}
+	"995e3b90dd4355474dd6c4fe2ab8032a"
+	{
+		"en"		"Section 2 power control panel (1 lever is missing)."
+		"es"		"Panel de control de energía de la sección 2 (falta una palanca)."
+	}
+	"e65c7e5933caed8727e208bad3946bd5"
+	{
+		"en"		"Section 2 power control panel (2 levers are missing)."
+		"es"		"Panel de control de energía de la sección 2 (faltan 2 palancas)."
+	}
+	"3834a0ba5a015b181ebe40519dcdd5ca"
+	{
+		"en"		"This door's frame is rotted, you may be able to pry it open with something."
+		"es"		"El marco de esta puerta esta podrido, quizás puedas abrirla a la fuerza con algo."
+	}
+	"8b30ac2e6c99928069d39eb8499bf210"
+	{
+		"en"		"Run to elevator and escape."
+		"es"		"Corre hacia el elevador y escapa."
+	}
+	"5b2541db720ded73bd06754a1e830b3f"
+	{
+		"en"		"Destroy door with rockets."
+		"es"		"Destruye la puerta con misiles."
+	}
+	"53a8f20ab6c8c84bf91c695b7ad4d05f"
+	{
+		"en"		"Find another way across the bridge."
+		"es"		"Encuentra otra manera de cruzar el puente."
+	}
+	"d4ab527592f033460f1c9497a38fda48"
+	{
+		"en"		"Regroup at bridge"
+		"es"		"Reúnete con tus compañeros en el puente"
+	}
+	"065116819d9855933a6a977e8b9e666c"
+	{
+		"en"		"Turn off power from gates."
+		"es"		"Turn off power from gates."
+	}
+	"56b285ba2a0d05ec221a246dee408eb2"
+	{
+		"en"		"Find crank to open hatchet and head to surface."
+		"es"		"Encuentra una manivela para abrir la escotilla e ir a la superficie."
+	}
+	"922811d9baad1967026f1fc556076eaf"
+	{
+		"en"		"Find missing levers and power the door."
+		"es"		"Encuentra las palancas que faltan y enciende la puerta."
+	}
+	"0b361fa4ac3353cc400af104288c4ff4"
+	{
+		"en"		"Reach underground."
+		"es"		"Ve al subsuelo."
+	}
+	"f7c95650e4ae044f6579d8e7c1183d97"
+	{
+		"en"		"Find something to open door and head into sewer."
+		"es"		"Encuentra algo para abrir la puerta y procede por las alcantarillas."
+	}
+}

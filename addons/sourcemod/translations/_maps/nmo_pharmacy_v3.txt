@@ -1,0 +1,138 @@
+"Phrases"
+{
+	"89ab3e6b6404419333f773380c785aab"
+	{
+		"en"		"Sounds like the window got smashed"
+		"es"		"Al parecer la ventana se rompió"
+	}
+	"cdf1a95c399c23ecb3a7265731b469cd"
+	{
+		"en"		"Continue to Enervation"
+		"es"		"Continúa en Enervation"
+	}
+	"582a5233ed2cbfc771334dc9f76aad15"
+	{
+		"en"		"This should get the door unlock"
+		"es"		"Esto debería desbloquear la puerta"
+	}
+	"cffb393e0c1e60e5c90aa46f590a0850"
+	{
+		"en"		"Lever will unlock itself in 20 seconds"
+		"es"		"La palanca se desbloqueará en 20 segundos"
+	}
+	"19a735c9e05dda1af0abc08da2d8183b"
+	{
+		"en"		"Rescue will come in 3 minutes!!"
+		"es"		"¡El rescate llegará en 3 minutos!"
+	}
+	"b331600a7941d02068f004d18b566e5d"
+	{
+		"en"		"All players need to be here to proceed"
+		"es"		"Todos los jugadores deben estar presentes para continuar"
+	}
+	"5f8905a5a0cb37a164abfa3ff8c9483e"
+	{
+		"en"		"Ported by Y#shieon"
+		"es"		"Adaptado por Y#shieon"
+	}
+	"84b2cfe993d1b879b7b5b53e90b13632"
+	{
+		"en"		"Map made by Hughlikepoo"
+		"es"		"Mapa creado por Hughlikepoo"
+	}
+	"02ff49b4f0c6fa732b2ae4188eee3ac7"
+	{
+		"en"		"Damn radio is out. wonder if its not connected.."
+		"es"		"La maldita radio no funciona, me pregunto si estará desconectada.."
+	}
+	"bb3bd18d76fd92fa0ddfb0c1e483b83b"
+	{
+		"en"		"Break the boards to get the secondary ladder"
+		"es"		"Destruye las maderas para bajar la escalera secundaria"
+	}
+	"cb82e7614403866618bec0f3064aaec0"
+	{
+		"en"		"Watch your step!"
+		"es"		"¡Cuidado dónde pisas!"
+	}
+	"5e0604f45f1c7a3380b60ba71bff76d6"
+	{
+		"en"		"Defend the diner for the impending attacks!"
+		"es"		"¡Defiende el restaurante del ataque inminente!"
+	}
+	"0dd442edb423904fa4c8ea60f144bb32"
+	{
+		"en"		"Find a way to call for help."
+		"es"		"Encuentra una manera de pedir ayuda."
+	}
+	"078a54da0128a38128ed4e48a90db91a"
+	{
+		"en"		"Find an escape route"
+		"es"		"Encuentra una ruta de escape"
+	}
+	"57b08e15b4aeaada464752bfcd353067"
+	{
+		"en"		"Use the 2nd interface to power up the door."
+		"es"		"Usa la segunda interfaz para encender la puerta."
+	}
+	"0a7c1285fa958927f484129e52a0fcce"
+	{
+		"en"		"Keep going into the city"
+		"es"		"Continua avanzando por la ciudad"
+	}
+	"ae4c58403ffab1cfcaa0c21102058d2c"
+	{
+		"en"		"Use the interface to power up the door."
+		"es"		"Usa la interfaz para para encender la puerta."
+	}
+	"f07eb180797fedd8307301e41d09feef"
+	{
+		"en"		"Make your way out of the complex"
+		"es"		"Sal del edificio"
+	}
+	"e5fde8d88744357e8f75afe630cb679f"
+	{
+		"en"		"Find a way to get inside the building."
+		"es"		"Encuentra una manera de entrar al edificio."
+	}
+	"c8c5498ecd87f128c54ec3b29964c97d"
+	{
+		"en"		"Hold out until the zeds have been defeated."
+		"es"		"Sobrevive hasta que los zombis hayan sido derrotados."
+	}
+	"e4466322c06026b8a0ad687f5565221d"
+	{
+		"en"		"Proceed into the city."
+		"es"		"Entra a la ciudad"
+	}
+	"47448debf7a08b56092f1b1b11e64261"
+	{
+		"en"		"Go to the underground and use the generator to break to door open"
+		"es"		"Ábrete camino bajo tierra y usa el generador para abrir la puerta"
+	}
+	"78e3a39908fd5cb23586e024dc8aeb9d"
+	{
+		"en"		"Find a way into the streets."
+		"es"		"Encuentra un camino hacia las calles."
+	}
+	"57599e3c235fdcf63607dd9c8985e676"
+	{
+		"en"		"Find a battery to power up the generator."
+		"es"		"Encuentra una batería para encender el generador."
+	}
+	"30d1d463c68e8ba2f788b8c766daebb5"
+	{
+		"en"		"Use the extinguisher to put out the fire."
+		"es"		"Usa el extintor para apagar el fuego."
+	}
+	"15b110a3bfbe317c58e9c6f7089259a3"
+	{
+		"en"		"Turn on the electricity."
+		"es"		"Enciende la electricidad."
+	}
+	"59eb555fdc061d0b99f47b3ba4006798"
+	{
+		"en"		"Find welder to cut the backdoor."
+		"es"		"Encuentra un soldador para usar en la puerta trasera."
+	}
+}

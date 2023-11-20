@@ -1,0 +1,14 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+        $remove_all { "classname" "ambient_fmod" }
+
+		$remove { "id" "288501" } // Remove tiny speaker
+		$remove { "id" "288552" } // Remove tiny spotlight
+		$remove { "id" "288542" } // Remove tiny spotlight
+		$remove { "id" "288548" } // Remove tiny spotlight
+		$remove { "id" "288368" } // Remove tiny corpse lid
+		$remove { "id" "288348" } // Remove tiny corpse tray
+	}
+}

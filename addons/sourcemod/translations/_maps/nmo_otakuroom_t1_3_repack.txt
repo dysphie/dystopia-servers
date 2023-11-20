@@ -1,0 +1,413 @@
+"Phrases"
+{
+	"3e4c27c1ec87c6e9d35482e0e41bc013"
+	{
+		"en"		"Dodge the lasers and defeat the Tenshi"
+		"es"		"Esquiva los láseres y derrota a Tenshi"
+	}
+	"ad1d0f3fd762905e72a56988fd548e70"
+	{
+		"en"		"Defeat Tenshi"
+		"es"		"Derrota a Tenshi"
+	}
+	"4518195b7487d05d1c38c22673d0cba1"
+	{
+		"en"		"Climb onto the computer desk and start the computer to enter it"
+		"es"		"Sube al escritorio y enciende la computadora para entrar en ella"
+	}
+	"29d033bf5a52fbbcdbb184f616722706"
+	{
+		"en"		"Start and ride the roomba"
+		"es"		"Enciende y monta el robot barredor"
+	}
+	"a636ccaf0220198696526e75720e38b4"
+	{
+		"en"		"Go through the drawer"
+		"es"		"Ve a través del cajón"
+	}
+	"fe51af367b80b27df0700bcc21d3d5d8"
+	{
+		"en"		"Go through the trash can"
+		"es"		"Pasa por el cubo de basura"
+	}
+	"d79a865ec9392d0548b189e33da32e54"
+	{
+		"en"		"Ride the emoji platform"
+		"es"		"Viaja en el emoji"
+	}
+	"aff73a925172e57f1b5a42adf2cd6688"
+	{
+		"en"		"Reach the top of the cabinet"
+		"es"		"Llega a la cima del armario"
+	}
+	"3256028afda8c7295ba28788a5cc848d"
+	{
+		"en"		"Enter the cabinet"
+		"es"		"Entra en el armario"
+	}
+	"df483402b9bfeb234717a32c6e86280e"
+	{
+		"en"		"wwwww"
+		"es"		"wwwww"
+	}
+	"97738205b5f9fd29bdb3b4f4dac1f305"
+	{
+		"en"		"BGM
+Usage: Look up and press E to open the menu and select the music you want to play
+A and D control the menu up and down options
+Left mouse button to confirm playback"
+		"es"		"Música
+Uso: Mira hacia arriba y presiona E para abrir el menú y seleccionar la música que deseas reproducir
+A y D controlan las opciones de menú hacia arriba y hacia abajo
+Botón izquierdo del ratón para confirmar la reproducción"
+	}
+	"993d93423e110d529055d4cc0f6659be"
+	{
+		"en"		"Map author: Tenshi
+Port: Fong
+Scripting: HT
+Models: dewobedil, pacagma
+Batagorman, 拉我请出示健康码
+VNILLA, kokkorylien, imelman"
+		"es"		"Autor del mapa: Tenshi
+Adaptado por: Fong
+Scripts: HT
+Modelos: dewobedil, pacagma
+Batagorman, 拉我请出示健康码
+VNILLA, kokkorylien, imelman"
+	}
+	"d949dd2d3c82c17872d6e00893c3a439"
+	{
+		"en"		"！！！!"
+		"es"		"！！！!"
+	}
+	"1fe2bca669b948ec955b28cfa4510aeb"
+	{
+		"en"		"Explore the room at will"
+		"es"		"Explora la habitación a voluntad"
+	}
+	"610c5bceec15d4c30aea533514dae4cc"
+	{
+		"en"		"Defensive area
+Open the teleportation channel at the keyboard position"
+		"es"		"Área defensiva
+Abre el canal de teletransporte en la posición del teclado"
+	}
+	"f4c52b23c41eae1dbc0eb0b568d1f2f5"
+	{
+		"en"		"Climb onto the roomba"
+		"es"		"Sube al robot barredor"
+	}
+	"9622ab4cd502b270e69fc8bb1d80d6fb"
+	{
+		"en"		"It's Tenshi!!!!"
+		"es"		"¡¡¡¡Es Tenshi!!!!"
+	}
+	"5412d8e34974eeed7826e22a3c0fd2c5"
+	{
+		"en"		"We can leave here through the window"
+		"es"		"Podemos salir de aquí por la ventana"
+	}
+	"1ef892146de20fc71fcbdf388a5553bf"
+	{
+		"en"		"Quickly get on the elevator!!"
+		"es"		"¡¡Sube rápido al ascensor!!"
+	}
+	"e627221961c3909108f7e68667a575c4"
+	{
+		"en"		"Quickly sit on the emoji"
+		"es"		"Subete rápido al emoji"
+	}
+	"00aae9923a89452f71d63fc4aa315f70"
+	{
+		"en"		"Tenshi has escaped!!!"
+		"es"		"¡¡¡Tenshi ha escapado!!!"
+	}
+	"88910c269312ed6b22667213489d931f"
+	{
+		"en"		"Tenshi has been defeated
+Quickly get on the paper airplane!!"
+		"es"		"Tenshi ha sido derrotada
+¡¡Sube rápido al avión de papel!!"
+	}
+	"6601210c2e5a4d90073d55f297d88824"
+	{
+		"en"		"Tenshi is up there
+Quickly catch up with her"
+		"es"		"Tenshi está allí arriba
+Alcánzala rápidamente"
+	}
+	"d7d365957e85fc60c1d5dac63a051d32"
+	{
+		"en"		"Start the roomba"
+		"es"		"Enciende el robot barredor"
+	}
+	"f2ccc5de41e302dcf5af68bb7b8eca40"
+	{
+		"en"		"Protect the roomba"
+		"es"		"Protege al robot barredor"
+	}
+	"7826e50aac86cfecedef16c02d0ec610"
+	{
+		"en"		"Protect the emoji, don't let it be destroyed"
+		"es"		"Protege el emoji, no dejes que sea destruido"
+	}
+	"2b953b5fed7d9dd6b912e56ecec80c66"
+	{
+		"en"		"Use a powerful attack to destroy the weak parts of the cabinet"
+		"es"		"Usa un ataque poderoso para destruir las partes débiles del armario"
+	}
+	"f71f76d8dc3578700e60dc0ce9cf605c"
+	{
+		"en"		"The teleportation has been opened, bring weapons and enter
+Unlimited ammo has been activated"
+		"es"		"Teletransportación activada, lleva armas y entra
+La munición infinita ha sido activada"
+	}
+	"e3e23834682784621e6e0313e33d194e"
+	{
+		"en"		"-- The realm of no thoughts and no desires --"
+		"es"		"-- El reino sin pensamientos y sin deseos --"
+	}
+	"26478e8dc05a65840e6f5619052871b8"
+	{
+		"en"		"-- The Guardian's Keystone --"
+		"es"		"-- La piedra angular del guardián --"
+	}
+	"6819ad8b339ca2f2556401b31f33d9e2"
+	{
+		"en"		"-- The Sword of Apocalypse Weather --"
+		"es"		"-- La Espada del Clima Apocalíptico --"
+	}
+	"288e47567bebf0dfa9f6f92435aa9d13"
+	{
+		"en"		"-- The Scarlet Sky of All Mankind --"
+		"es"		"-- El Cielo Escarlata de Toda la Humanidad --"
+	}
+	"7215ee9c7d9dc229d2921a40e899ec5f"
+	{
+		"en"		" "
+		"es"		" "
+	}
+	"aa78b75126468e772d62e76f3e184826"
+	{
+		"en"		"			A/Z
+			ebb and flow
+>>	 lull ~そして僕らは~ 	<<
+			Secret base~君がくれたもの
+			光芒"
+		"es"		"			A/Z
+			ebb and flow
+>>	 lull ~そして僕らは~ 	<<
+			Secret base~君がくれたもの
+			光芒"
+	}
+	"62fd036c090ade2891a9ad17ab36fbcc"
+	{
+		"en"		"			随机歌曲
+			A/Z
+>>	 ebb and flow 	<<
+			lull ~そして僕らは~
+			Secret base~君がくれたもの"
+		"es"		"			随机歌曲
+			A/Z
+>>	 ebb and flow 	<<
+			lull ~そして僕らは~
+			Secret base~君がくれたもの"
+	}
+	"87fe6cec65f0f7887904444d7fa52e59"
+	{
+		"en"		"			ぼなぺてぃーと♡Ｓ
+			随机歌曲
+>>	 A/Z 	<<
+			ebb and flow
+			lull ~そして僕らは~"
+		"es"		"			ぼなぺてぃーと♡Ｓ
+			随机歌曲
+>>	 A/Z 	<<
+			ebb and flow
+			lull ~そして僕らは~"
+	}
+	"08ebf9d2a905609e1fc7f280c0152665"
+	{
+		"en"		"			天空カフェリア
+			ぼなぺてぃーと♡Ｓ
+>>	 随机歌曲 	<<
+			A/Z
+			ebb and flow"
+		"es"		"			天空カフェリア
+			ぼなぺてぃーと♡Ｓ
+>>	 随机歌曲 	<<
+			A/Z
+			ebb and flow"
+	}
+	"f0f87d6427a0434c0f33577279f43d32"
+	{
+		"en"		"			START:DASH!!
+			ときめきポポロン
+>>	 天空カフェリア 	<<
+			ぼなぺてぃーと♡Ｓ
+			随机歌曲"
+		"es"		"			START:DASH!!
+			ときめきポポロン
+>>	 天空カフェリア 	<<
+			ぼなぺてぃーと♡Ｓ
+			随机歌曲"
+	}
+	"9aea3e2ae178b05bf57a387f914b0427"
+	{
+		"en"		"			ときめきポポロン
+			天空カフェリア
+>>	 ぼなぺてぃーと♡Ｓ 	<<
+			随机歌曲
+			A/Z"
+		"es"		"			ときめきポポロン
+			天空カフェリア
+>>	 ぼなぺてぃーと♡Ｓ 	<<
+			随机歌曲
+			A/Z"
+	}
+	"4fa1fbc279bf7219eced71927687135c"
+	{
+		"en"		"			Secret base~君がくれたもの
+			光芒
+>>	 绯色の空 	<<
+			My Soul,Your Beats! 
+			一番の宝物"
+		"es"		"			Secret base~君がくれたもの
+			光芒
+>>	 绯色の空 	<<
+			My Soul,Your Beats! 
+			一番の宝物"
+	}
+	"6d2908c33ae68e2dc34b084467f229ac"
+	{
+		"en"		"			lull ~そして僕らは~
+			Secret base~君がくれたもの
+>>	 光芒 	<<
+			绯色の空
+			My Soul,Your Beats! "
+		"es"		"			lull ~そして僕らは~
+			Secret base~君がくれたもの
+>>	 光芒 	<<
+			绯色の空
+			My Soul,Your Beats! "
+	}
+	"95caa16749bfec352d96d947cc2b171e"
+	{
+		"en"		"			ebb and flow
+			lull ~そして僕らは~
+>>	 Secret base~君がくれたもの 	<<
+			光芒
+			绯色の空"
+		"es"		"			ebb and flow
+			lull ~そして僕らは~
+>>	 Secret base~君がくれたもの 	<<
+			光芒
+			绯色の空"
+	}
+	"e0f9a10030fff1a8a1d032266e583501"
+	{
+		"en"		"			Overfly
+			Crossing Field
+>>	 永遠に咲く花 	<<
+			楽園PROJECT
+			ふわふわ♪(湊あくあ)"
+		"es"		"			Overfly
+			Crossing Field
+>>	 永遠に咲く花 	<<
+			楽園PROJECT
+			ふわふわ♪(湊あくあ)"
+	}
+	"5077e54ee8c7d866a1c1a256233527cc"
+	{
+		"en"		"			Bravely You
+			Overfly
+>>	 Crossing Field 	<<
+			永遠に咲く花
+			楽園PROJECT"
+		"es"		"			Bravely You
+			Overfly
+>>	 Crossing Field 	<<
+			永遠に咲く花
+			楽園PROJECT"
+	}
+	"158823f38e4f1d09a7424cf83e096ee4"
+	{
+		"en"		"			灼け落ちない翼
+			Bravely You
+>>	 Overfly 	<<
+			Crossing Field
+			永遠に咲く花"
+		"es"		"			灼け落ちない翼
+			Bravely You
+>>	 Overfly 	<<
+			Crossing Field
+			永遠に咲く花"
+	}
+	"08061b2179c8cbeb8ed56d7f9162a3b4"
+	{
+		"en"		"			Brave Song
+			灼け落ちない翼
+>>	 Bravely You 	<<
+			Overfly
+			Crossing Field"
+		"es"		"			Brave Song
+			灼け落ちない翼
+>>	 Bravely You 	<<
+			Overfly
+			Crossing Field"
+	}
+	"9d440cf2d697c2926ada3550c679d8dd"
+	{
+		"en"		"			一番の宝物
+			Brave Song
+>>	 灼け落ちない翼 	<<
+			Bravely You
+			Overfly"
+		"es"		"			一番の宝物
+			Brave Song
+>>	 灼け落ちない翼 	<<
+			Bravely You
+			Overfly"
+	}
+	"a453f19c006ee9cf82093e299f97d060"
+	{
+		"en"		"			My Soul,Your Beats! 
+			一番の宝物
+>>	 Brave Song 	<<
+			灼け落ちない翼
+			Bravely You"
+		"es"		"			My Soul,Your Beats! 
+			一番の宝物
+>>	 Brave Song 	<<
+			灼け落ちない翼
+			Bravely You"
+	}
+	"060c85ea60d57869c8c01c410a3bf7c2"
+	{
+		"en"		"			绯色の空
+			My Soul,Your Beats! 
+>>	 一番の宝物 	<<
+			Brave Song
+			灼け落ちない翼"
+		"es"		"			绯色の空
+			My Soul,Your Beats! 
+>>	 一番の宝物 	<<
+			Brave Song
+			灼け落ちない翼"
+	}
+	"27e5eaf57a690a0cd32f77282664ac72"
+	{
+		"en"		"			光芒
+			绯色の空
+>>	 My Soul,Your Beats!  	<<
+			一番の宝物
+			Brave Song"
+		"es"		"			光芒
+			绯色の空
+>>	 My Soul,Your Beats!  	<<
+			一番の宝物
+			Brave Song"
+	}
+}

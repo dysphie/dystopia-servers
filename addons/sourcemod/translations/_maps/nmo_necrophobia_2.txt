@@ -1,0 +1,148 @@
+"Phrases"
+{
+	"7f199ee9e76373a6b7cecdfc71ef1897"
+	{
+		"en"		"Collect 3 keys"
+		"es"		"Recoge 3 llaves"
+	}
+	"db642471c6f37aac73470cf665fde5b9"
+	{
+		"en"		"Obtain the keycard"
+		"es"		"Obtén la tarjeta de acceso"
+	}
+	"93bdee1d643086381235320965759cd7"
+	{
+		"en"		"Collect the key"
+		"es"		"Recoge la llave"
+	}
+	"1db6d3678a47abe990f498a00f40dd13"
+	{
+		"en"		"Find the keycard"
+		"es"		"Encontrar la tarjeta de acceso"
+	}
+	"65611a31b2276dd8b603be879394b790"
+	{
+		"en"		"Necrophobia 2: A horror story by ethosaur. Thanks for playing!"
+		"es"		"Necrophobia 2: Una historia de terror por ethosaur. ¡Gracias por jugar!"
+	}
+	"3fa0da37efc06355b93d3a9388af64af"
+	{
+		"en"		"Our van! And it's running, we can get out of here."
+		"es"		"¡Nuestra furgoneta! Y está funcionando, podemos salir de aquí."
+	}
+	"ea3d4d6ff1291d5205e811481c71b831"
+	{
+		"en"		"Key taken"
+		"es"		"Llave tomada"
+	}
+	"f34c66c43b51b610089467bf1224534b"
+	{
+		"en"		"It needs a key to be unlocked"
+		"es"		"Necesita una llave para ser desbloqueada"
+	}
+	"54f4a834f4ae129b3cba558d65d1e774"
+	{
+		"en"		"Key taken."
+		"es"		"Llave tomada."
+	}
+	"41d4657c84b0da6441dcfbd5732769e5"
+	{
+		"en"		"The gate seems to need more keys to be unlocked"
+		"es"		"La puerta parece necesitar más llaves para ser desbloqueada"
+	}
+	"abfe4aca8c6f28dc962c66a461af1b1d"
+	{
+		"en"		"Checkpoint 2 unlocked"
+		"es"		"Checkpoint 2 desbloqueado"
+	}
+	"e00bf2967492e9144122baa410b1861a"
+	{
+		"en"		"Checkpoint 1 unlocked"
+		"es"		"Checkpoint 1 desbloqueado"
+	}
+	"96db885f8829af03aedceaab7a13524c"
+	{
+		"en"		"Maybe I should take that keycard on the shelf before leaving."
+		"es"		"Tal vez debería tomar esa tarjeta de acceso en el estante antes de irme."
+	}
+	"3ca67488402a8310fb513eada4e662b6"
+	{
+		"en"		"357 Magnum unlocked."
+		"es"		"357 Magnum desbloqueada."
+	}
+	"a38420d7dba512688e4e054150881482"
+	{
+		"en"		"It's locked from behind, maybe there is a way around?"
+		"es"		"Está cerrado por detrás, ¿tal vez hay una forma de rodearlo?"
+	}
+	"86739fe9af7ba8edf02b9bbfe0e82f31"
+	{
+		"en"		"It won't budge"
+		"es"		"No se mueve"
+	}
+	"75c1476f031793e9e4e710929f18bb1c"
+	{
+		"en"		"Keycard taken."
+		"es"		"Tarjeta de acceso tomada."
+	}
+	"e191a8775cc9c10216fea0cb60740bdc"
+	{
+		"en"		"It's locked from behind."
+		"es"		"Está cerrado por detrás."
+	}
+	"154f088837d71e873764e2d874f25c6c"
+	{
+		"en"		"It won't open."
+		"es"		"No se abrirá."
+	}
+	"29b434a187d582d0c595a3283fb39df7"
+	{
+		"en"		"The door requires a keycard to be opened."
+		"es"		"La puerta requiere una tarjeta de acceso para ser abierta."
+	}
+	"092f37d9dc73d386c04e04a1e2217774"
+	{
+		"en"		"The pipes seem to be clogged."
+		"es"		"Parece que las tuberías están obstruidas."
+	}
+	"51e7a7e0a1b48f2f4d8ea4f635d166ec"
+	{
+		"en"		"Shotgun unlocked."
+		"es"		"Escopeta desbloqueada."
+	}
+	"0618f3abcc32c1acdd0bdca31050154b"
+	{
+		"en"		"It's locked"
+		"es"		"Está cerrado con llave"
+	}
+	"259b889e9c9bfafd9a10972981aff80d"
+	{
+		"en"		"Don't let it get you.. take the keycard by the sink and run.."
+		"es"		"No dejes que te atrape... toma la tarjeta de acceso junto al lavabo y corre..."
+	}
+	"380dbfdb2002914edaeca8b8f1d00242"
+	{
+		"en"		"The door requires a keycard."
+		"es"		"La puerta requiere una tarjeta de acceso."
+	}
+	"b3096f1da7c1c739718eb0369abf9c91"
+	{
+		"en"		"I don't think the hotel owner will like that."
+		"es"		"No creo que al dueño del hotel le guste eso."
+	}
+	"3ad271e17007a036d045f39764e14b67"
+	{
+		"en"		"It got me.."
+		"es"		"Me atrapó..."
+	}
+	"cdccbe5c6bb6aedd719c9ad2e75376cf"
+	{
+		"en"		"The elevator is broken."
+		"es"		"El ascensor está averiado."
+	}
+	"b5dd803a27901bea8aa3dbb2274487a5"
+	{
+		"en"		"Pistol unlocked."
+		"es"		"Pistola desbloqueada."
+	}
+}

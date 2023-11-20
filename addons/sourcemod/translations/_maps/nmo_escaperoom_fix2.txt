@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"addf56becd5485b4c7311355171a370b"
+	{
+		"en"		"Find the key and go to the next room and escape from this place."
+		"es"		"Find the key and go to the next room and escape from this place."
+	}
+	"282dcb4463d73363abe8dce29c41e307"
+	{
+		"en"		"Find the key and go to the next room."
+		"es"		"Find the key and go to the next room."
+	}
+	"493300110e289204c725ee86d1bf174f"
+	{
+		"en"		"Find a passage in the next room."
+		"es"		"Find a passage in the next room."
+	}
+	"6dec4c2405f6ce9ef83d98485b7c8ced"
+	{
+		"en"		"Find the secret passage."
+		"es"		"Find the secret passage."
+	}
+	"b54b70701cdcecd9690cb9d4975329e5"
+	{
+		"en"		"Find dynamite and blow up this barricade."
+		"es"		"Find dynamite and blow up this barricade."
+	}
+	"d9f7ed36a93e23d5d2212ecd70b0b5a4"
+	{
+		"en"		"Go into the next room."
+		"es"		"Go into the next room."
+	}
+	"e29ea151059f6884decdd59cd8721839"
+	{
+		"en"		"Find the code and enter the code."
+		"es"		"Find the code and enter the code."
+	}
+	"e95aa679a491558f6853bb49e5b5ace3"
+	{
+		"en"		"Find the key and open the door."
+		"es"		"Find the key and open the door."
+	}
+	"bef90062d6de2492793a84c3f07170f1"
+	{
+		"en"		"Find the code in this room."
+		"es"		"Find the code in this room."
+	}
+	"48eb19c88fe6d4c563fc93d1e9406666"
+	{
+		"en"		"Agradecimientos a: Lobo, Ulreth y Comunidad NMRIH Espanita"
+		"es"		"Agradecimientos a: Lobo, Ulreth y Comunidad NMRIH Espanita"
+	}
+	"c1e277f510d667c87c4fd0a9e0f6a0a4"
+	{
+		"en"		"Mapa realizado por: Crypt Keeper"
+		"es"		"Mapa realizado por: Crypt Keeper"
+	}
+}

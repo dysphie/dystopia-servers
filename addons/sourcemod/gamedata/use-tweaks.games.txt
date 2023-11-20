@@ -1,0 +1,48 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CBasePlayer::FindUseEntity"
+			{
+				"library"	"server"
+				"windows"	"\x53\x8B\xDC\x83\xEC\x08\x83\xE4\xF0\x83\xC4\x04\x55\x8B\x6B\x04\x89\x6C\x24\x04\x8B\xEC\x81\xEC\x48\x09\x00\x00\x56\x57\x8B\xF9"
+				"linux"		"@_ZN11CBasePlayer13FindUseEntityEv"
+			}
+			"CBasePlayer::IsUseableEntity"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x8B\x4D\x08\x85\xC9\x74\x2A\x8B\x01\xFF\x90\x94\x00\x00\x00"
+				"linux"			"@_ZN11CBasePlayer15IsUseableEntityEP11CBaseEntityj"
+			}
+			"CCollisionProperty::CalcNearestPoint"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x18\x8D\x45\xF4\x56\x50\xFF\x75\x08\x8B\xF1\xE8"
+				"linux"		"@_ZNK18CCollisionProperty16CalcNearestPointERK6VectorPS0_"
+			}
+		}
+		"Offsets"
+		{
+			"CBaseEntity::m_Collision"
+			{
+				"windows"	"336"
+				"linux"		"356"
+			}
+		}
+		"Functions"
+		{
+			"CBasePlayer::FindUseEntity"
+			{
+				"signature"  "CBasePlayer::FindUseEntity"
+				"callconv"  "thiscall"
+				"return"  "cbaseentity"
+				"this"  "entity"
+				"arguments"
+				{
+				}
+			}
+		}
+	}
+}

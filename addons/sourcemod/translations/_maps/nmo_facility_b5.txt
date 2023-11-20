@@ -1,0 +1,153 @@
+"Phrases"
+{
+	"92af6bb41c15756ba04b2f0fd08e9615"
+	{
+		"en"		"Light the Fire"
+		"es"		"Light the Fire"
+	}
+	"366219692da08872b79e05b7aef82f4d"
+	{
+		"en"		"Pour fuel in the pit"
+		"es"		"Pour fuel in the pit"
+	}
+	"c0ebe3865c193d21c01657b574e21cef"
+	{
+		"en"		"Find Fuel"
+		"es"		"Find Fuel"
+	}
+	"c63c42f52e46a3742f59a1dfb266ddcb"
+	{
+		"en"		"Collect wood and make a firepit to alert the rescue helicopter"
+		"es"		"Collect wood and make a firepit to alert the rescue helicopter"
+	}
+	"62fdf19c634221b7613c6f7aae239693"
+	{
+		"en"		"Goto the cabin and prepare for extraction"
+		"es"		"Goto the cabin and prepare for extraction"
+	}
+	"2c82cae35d83780a7064ad7d03dc9242"
+	{
+		"en"		"Head west across the road"
+		"es"		"Head west across the road"
+	}
+	"2ea1ccbb4dee008bde462aa3ff5c4269"
+	{
+		"en"		"Access the PC again."
+		"es"		"Access the PC again."
+	}
+	"b44561266aaffdeef37cf7a3787e846c"
+	{
+		"en"		"Enter the code to unlock gate"
+		"es"		"Enter the code to unlock gate"
+	}
+	"652192da5ccc0fb379cd1ea6d7e9f51e"
+	{
+		"en"		"Head towards the comms tower, and access the managers office"
+		"es"		"Head towards the comms tower, and access the managers office"
+	}
+	"41dc21137031436cec24b1ff05bb983b"
+	{
+		"en"		"Breaker tripped due to an arc-fault, restore power."
+		"es"		"Breaker tripped due to an arc-fault, restore power."
+	}
+	"c1e91f873bb7d7406958c4640d341f0e"
+	{
+		"en"		"Make your way through the warehouse"
+		"es"		"Make your way through the warehouse"
+	}
+	"82b73e1651c537fa1cc543a76337a8e5"
+	{
+		"en"		"Power up the truck"
+		"es"		"Power up the truck"
+	}
+	"31cbf53904a1851f038e0ddfad55b148"
+	{
+		"en"		"Find fuel to power up the firetruck."
+		"es"		"Find fuel to power up the firetruck."
+	}
+	"22a91ec0300f0a84d079b1c779223192"
+	{
+		"en"		"The Signal is too weak! Find a way to boost the signal."
+		"es"		"The Signal is too weak! Find a way to boost the signal."
+	}
+	"9fd2d5dc4e10be59125308d43106cb8d"
+	{
+		"en"		"Access the facility office for help."
+		"es"		"Access the facility office for help."
+	}
+	"b9672ee822e2c1d01476284c398facec"
+	{
+		"en"		"Find a way into Overflow drain."
+		"es"		"Find a way into Overflow drain."
+	}
+	"7c1b0b29263218e2a7ff953b017457cd"
+	{
+		"en"		"Shut off the main valve and then close the leak."
+		"es"		"Shut off the main valve and then close the leak."
+	}
+	"b77be9f73586ffee4cd87bbda3964492"
+	{
+		"en"		"A Leak in the drain has locked the tunnel access, override the system."
+		"es"		"A Leak in the drain has locked the tunnel access, override the system."
+	}
+	"eda7f54c56d3f2c331d091435b2d73d8"
+	{
+		"en"		"Fire will attract nearby runners!"
+		"es"		"Fire will attract nearby runners!"
+	}
+	"4e1c812348bf8cb48886a282cb22bbe8"
+	{
+		"en"		"All Hula Dolls Collected, Cabin Secret unlocked!"
+		"es"		"All Hula Dolls Collected, Cabin Secret unlocked!"
+	}
+	"17bb92c4a5edd32b02b0eab6212cd05a"
+	{
+		"en"		"9 Hula Dolls Remaining"
+		"es"		"9 Hula Dolls Remaining"
+	}
+	"f930ddfcf1c8f913e41fb66b2e41b3d4"
+	{
+		"en"		"1 Hula Doll Remaining"
+		"es"		"1 Hula Doll Remaining"
+	}
+	"cf112693ec4da60d09d8ca79f42f5691"
+	{
+		"en"		"2 Hula Dolls Remaining"
+		"es"		"2 Hula Dolls Remaining"
+	}
+	"4e59d5e20d27fcd47b0eca8818ad1b9d"
+	{
+		"en"		"3 Hula Dolls Remaining"
+		"es"		"3 Hula Dolls Remaining"
+	}
+	"b3f1e79f609ab4655f65c0182231520b"
+	{
+		"en"		"4 Hula Dolls Remaining"
+		"es"		"4 Hula Dolls Remaining"
+	}
+	"b6661f69b3b67d779980b708ba03ed8b"
+	{
+		"en"		"5 Hula Dolls Remaining"
+		"es"		"5 Hula Dolls Remaining"
+	}
+	"e89f19c66acc50dbbbf0cc36e3c6a9fe"
+	{
+		"en"		"6 Hula Dolls Remaining"
+		"es"		"6 Hula Dolls Remaining"
+	}
+	"45471eb1d13865f5468a91145a03b26e"
+	{
+		"en"		"7 Hula Dolls Remaining"
+		"es"		"7 Hula Dolls Remaining"
+	}
+	"fd66f9d2eac557739047f4545d5c32d6"
+	{
+		"en"		"8 Hula Dolls Remaining"
+		"es"		"8 Hula Dolls Remaining"
+	}
+	"dc394b7d1d54638f76c8060dc7841bab"
+	{
+		"en"		"Head West For Extraction"
+		"es"		"Head West For Extraction"
+	}
+}

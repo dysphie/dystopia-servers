@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"2445bfeeb5b41ca72623a9721006b672"
+	{
+		"en"		"Board the helicopter to escape"
+		"es"		"Sube al helicóptero para escapar"
+	}
+	"a307dfdef19faf1e7ffbfcc963c9c5b7"
+	{
+		"en"		"Find the stairwell door key"
+		"es"		"Encuentra la llave a las escaleras de la azotea"
+	}
+	"25e2959ac9fd44c7e4f88ac18b718dd1"
+	{
+		"en"		"Enter the hospital"
+		"es"		"Entra al hospital"
+	}
+	"cf3321db6e45b70b5825f55bb6c2194a"
+	{
+		"en"		"Use explosives to clear the road"
+		"es"		"Usa explosivos para despejar la calle"
+	}
+	"52f8d0d4ff29e7ade2ced928db758e39"
+	{
+		"en"		"Loot the gun store"
+		"es"		"Saquea la tienda de armas"
+	}
+	"26e54fe03d8a23591d593c94306c7e76"
+	{
+		"en"		"Find the barricade key"
+		"es"		"Encuentra la llave de la barricada"
+	}
+	"4c0bce464c3aa013f8a0e7d7a8c59103"
+	{
+		"en"		"Exit the centre rear entrance"
+		"es"		"Sal del centro comercial por la entrada trasera."
+	}
+	"90612e600870a9560fde39d7dee2d5bf"
+	{
+		"en"		"Search for IED components "
+		"es"		"Encuentra componentes para armar una bomba"
+	}
+	"21747591d14ab8dbc7b537f6d4c600e6"
+	{
+		"en"		"Cut through the shopping centre"
+		"es"		"Avanza a través del centro comercial"
+	}
+	"89af8f99c988a1e0c1ec76ec68ee58e7"
+	{
+		"en"		"Pry open the elevator"
+		"es"		"Abre el ascensor a la fuerza"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+}

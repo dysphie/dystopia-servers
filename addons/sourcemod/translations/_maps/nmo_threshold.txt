@@ -1,0 +1,116 @@
+"Phrases"
+{
+	"826bb30e6bbe54f97d8799cdf4142e4c"
+	{
+		"en"		"Move forward"
+		"es"		"Avanza"
+	}
+	"36539524af241f72cac472c557c4e00d"
+	{
+		"en"		"Find the pelican for extraction"
+		"es"		"Encuentra el pelícano para extraerte"
+	}
+	"592973a0fbfaffdccace9e868180074e"
+	{
+		"en"		"Withold the Flood wave!"
+		"es"		"Sobrevive la oleada de Floods!"
+	}
+	"4a81f738066516065607eb2d693b96e7"
+	{
+		"en"		"Find a way to disable the forcefield"
+		"es"		"Desactiva el campo de fuerza."
+	}
+	"82e1cf7aa11a8112ae5744adef23230d"
+	{
+		"en"		"Activate the bomb."
+		"es"		"Activa la bomba."
+	}
+	"bbb9ac06b4e72c4f4151816f72fee202"
+	{
+		"en"		"Find a way to bypass the energy shield"
+		"es"		"Evade el campo de fuerza"
+	}
+	"51f7f154132665a78d705fe4940b33bb"
+	{
+		"en"		"Find your way further into the gas mine."
+		"es"		"Adéntrate a la mina de gas."
+	}
+	"28083f4a71701d5beef32facdc3cd538"
+	{
+		"en"		"Explore your surroundings."
+		"es"		"Explora tus alrededores."
+	}
+	"fb83518b7f2638507138ce315cc7e5dc"
+	{
+		"en"		"Main Author:
+zeThijs|RogueGarlicBread
+
+---Map Sources---:
+Fringe: Kaleidoscoop
+ttt_lockout: PolyShark
+Pillars: Laser Antlers
+
+---Assets---
+Flood: Cpt. Hazama"
+		"es"		"Autor:
+zeThijs|RogueGarlicBread
+
+---Fuentes del mapa---:
+Fringe: Kaleidoscoop
+ttt_lockout: PolyShark
+Pillars: Laser Antlers
+
+---Recursos---
+Flood: Cpt. Hazama"
+	}
+	"b6266c9f4f45f57bafdba027b3d4d03d"
+	{
+		"en"		"Mdls: GrandLobsterKing
+Cov. Door: Burnfingers
+Cov.mdls: Valkyries733
+Assets src: Bungie
+
+Music: Martin O' Donnel
+
+zeThijs|RGB
+logic, scripting, 
+porting, mapping, etc"
+		"es"		"Mdls: GrandLobsterKing
+Cov. Door: Burnfingers
+Cov.mdls: Valkyries733
+Assets src: Bungie
+
+Music: Martin O' Donnel
+
+zeThijs|RGB
+lógica, código, 
+adaptación, mapping, etc"
+	}
+	"77e4b3379f48c8021c46ff5e91ce583c"
+	{
+		"en"		"Mdls: GrandLobsterKing
+Cov. Door: Burnfingers
+Cov.mdls: Valkyries733
+Assets src: Bungie
+
+Music: Martin O' Donnel
+
+Flares: Kevin
+
+zeThijs|RGB
+logic, scripting, 
+porting, mapping, etc"
+		"es"		"Mdls: GrandLobsterKing
+Cov. Door: Burnfingers
+Cov.mdls: Valkyries733
+Assets src: Bungie
+
+Music: Martin O' Donnel
+
+Flares: Kevin
+
+zeThijs|RGB
+logic, scripting, 
+porting, mapping, etc"
+	}
+}

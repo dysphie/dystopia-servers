@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Enabled Violence"
+	{
+		"#format"	"{1:N},{2:N},{3:d}"
+		"en"	"{hotpink}{1}{lightpink} enabled {hotpink}/violence{lightpink} on {hotpink}{2}{lightpink} for {hotpink}{3}{lightpink} seconds"
+		"es"	"{hotpink}{1}{lightpink} activó {hotpink}/violencia{lightpink} contra {hotpink}{2}{lightpink} por {hotpink}{3}{lightpink} segundos"
+	}
+	"No Violence"
+	{
+		"en"	"{lightpink}You may not parttake in violence right now"
+		"es"	"{lightpink}No puedes participar en violencia grupal ahora"
+	}
+	"Slapped"
+	{
+		"#format" "{1:N},{2:N}"
+		"en" "{hotpink}{1}{lightpink} abofeteó a {hotpink}{2}"
+	}
+}

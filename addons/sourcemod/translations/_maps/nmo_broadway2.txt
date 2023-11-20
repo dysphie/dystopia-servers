@@ -1,0 +1,353 @@
+"Phrases"
+{
+	"23941a80c7a4217e6021f8e620433f43"
+	{
+		"en"		"Get out of there!"
+		"es"		"Get out of there!"
+	}
+	"982d6d1be3fcafcf7054ada55681014b"
+	{
+		"en"		"30 seconds remaining until detonation."
+		"es"		"30 seconds remaining until detonation."
+	}
+	"5945dba404e2d5a7ddacb220e675c400"
+	{
+		"en"		"1 minute remaining until detonation."
+		"es"		"1 minute remaining until detonation."
+	}
+	"9b3229284587db3216e31a9534d7d40a"
+	{
+		"en"		"2 minutes remaining until detonation."
+		"es"		"2 minutes remaining until detonation."
+	}
+	"2613862c9b4fd7fc24a856b92cd58f74"
+	{
+		"en"		"3 minutes remaining until detonation."
+		"es"		"3 minutes remaining until detonation."
+	}
+	"b29e06457b371ddea5488a983a62575e"
+	{
+		"en"		"4 minutes remaining until detonation."
+		"es"		"4 minutes remaining until detonation."
+	}
+	"c613c34686c24a8d5a597d7f79e7c97b"
+	{
+		"en"		"5 minutes remaining until detonation."
+		"es"		"5 minutes remaining until detonation."
+	}
+	"8a221538da7ee3bf1a03356c90d0d2b1"
+	{
+		"en"		"Get back to the basketball court for extraction"
+		"es"		"Get back to the basketball court for extraction"
+	}
+	"de375e05fa3bec5469e503fb5afc355e"
+	{
+		"en"		"Go down the fire escape to extract via the train"
+		"es"		"Go down the fire escape to extract via the train"
+	}
+	"835c8409ef330739d25f12eaa3a4009f"
+	{
+		"en"		"Weld gate and get to the roof top for extraction"
+		"es"		"Weld gate and get to the roof top for extraction"
+	}
+	"0db44deec936c7559d640c08b3a8eefe"
+	{
+		"en"		"Use Tank to blast into store."
+		"es"		"Use Tank to blast into store."
+	}
+	"69a633d3e0fc24cd2496130228a24f84"
+	{
+		"en"		"Go to basketball court"
+		"es"		"Go to basketball court"
+	}
+	"0439a7781c0f3739f01575a271757923"
+	{
+		"en"		"Navigate the sewers"
+		"es"		"Navigate the sewers"
+	}
+	"40f95bb950a4de6e545637f6e18249ee"
+	{
+		"en"		"Go down hole to the sewers"
+		"es"		"Go down hole to the sewers"
+	}
+	"c8afbd027ad86683cb29a6b8e2cab297"
+	{
+		"en"		"Make your way back to the streets"
+		"es"		"Make your way back to the streets"
+	}
+	"e91d4aa0c413f23d6b208adc24c20e7b"
+	{
+		"en"		"Find Radio to call for help"
+		"es"		"Find Radio to call for help"
+	}
+	"d86186bcd5c3695f593e3a8a467421b4"
+	{
+		"en"		"Take a gascan to store rear entrance"
+		"es"		"Take a gascan to store rear entrance"
+	}
+	"0cd8dcedf137dd3e5eaac75c36ac2a62"
+	{
+		"en"		"Weld open alley gate"
+		"es"		"Weld open alley gate"
+	}
+	"87f9bb53184957b98f56020bcab1ddf4"
+	{
+		"en"		"Find battery for the FastEx van in the garage"
+		"es"		"Find battery for the FastEx van in the garage"
+	}
+	"02ecfaf2a6236b82b27e345d612485d9"
+	{
+		"en"		"Survive for 2 minutes"
+		"es"		"Survive for 2 minutes"
+	}
+	"cf2965123621d449c1970fab487ca870"
+	{
+		"en"		"Go to the basketball court through hole in fence"
+		"es"		"Go to the basketball court through hole in fence"
+	}
+	"c2fb16b8a55f07f3e935b72a55de302d"
+	{
+		"en"		"Exit the cinema to the alleyway"
+		"es"		"Exit the cinema to the alleyway"
+	}
+	"1a523dc70e231a4dc63a678ce9e8a960"
+	{
+		"en"		"Go down hole to progress"
+		"es"		"Go down hole to progress"
+	}
+	"ae200261394cbd7b2a48fbd8a643f81b"
+	{
+		"en"		"Find lever and go to the boiler room"
+		"es"		"Find lever and go to the boiler room"
+	}
+	"74e619a3f6b45d2ec6c554b0de0285e7"
+	{
+		"en"		"Find a ladder, use it to climb through ceiling hole"
+		"es"		"Find a ladder, use it to climb through ceiling hole"
+	}
+	"876e408a2f7f28a2ad12f03ce1872bea"
+	{
+		"en"		"Go through basement door"
+		"es"		"Go through basement door"
+	}
+	"a675189f6231eaa3c784ad4b60bfd654"
+	{
+		"en"		"Climb through vents"
+		"es"		"Climb through vents"
+	}
+	"82af6ec6834604dd635186a6ad9f919e"
+	{
+		"en"		"Carry on through hotel"
+		"es"		"Carry on through hotel"
+	}
+	"0570d3303e899b8211e6b959c2a89815"
+	{
+		"en"		"Use welder on stairs gate"
+		"es"		"Use welder on stairs gate"
+	}
+	"557eb2f1f9c39bba0fc6890232f8e3f9"
+	{
+		"en"		"Climb through toilet vents"
+		"es"		"Climb through toilet vents"
+	}
+	"813c3a301707813134153fc1c28b7bea"
+	{
+		"en"		"Find keys to open theater doors"
+		"es"		"Find keys to open theater doors"
+	}
+	"d96bee177648b74b26fc5c2eb6ef8dae"
+	{
+		"en"		"Go to the Hotel"
+		"es"		"Go to the Hotel"
+	}
+	"acd0e17cdf6eecbb0d25aff32ab0d400"
+	{
+		"en"		"Gain entry to the cinema"
+		"es"		"Gain entry to the cinema"
+	}
+	"303d0e8ea4b987e42aa2169811aaa1f4"
+	{
+		"en"		"Break boards to get in cinema side entrance"
+		"es"		"Break boards to get in cinema side entrance"
+	}
+	"48d6c7052b57421a7184742bcd146ef9"
+	{
+		"en"		"Find welder to exit the apartments"
+		"es"		"Find welder to exit the apartments"
+	}
+	"f6ab1b96fa1ef11b937c7505c8b3e74a"
+	{
+		"en"		"#nmo_broadway2_ObjT"
+		"es"		"#nmo_broadway2_ObjT"
+	}
+	"feb07f08f39602ee794f97fc6fac7831"
+	{
+		"en"		"#nmo_broadway2_ObJS"
+		"es"		"#nmo_broadway2_ObJS"
+	}
+	"6e687dcc093c57f4d4089bec4d9030fd"
+	{
+		"en"		"#nmo_broadway2_ObjR"
+		"es"		"#nmo_broadway2_ObjR"
+	}
+	"15816af47c692c0b955d265d9f6d54ad"
+	{
+		"en"		"#nmo_broadway2_ObjP"
+		"es"		"#nmo_broadway2_ObjP"
+	}
+	"d37e5ba3b19e8cf590c24a675603dc57"
+	{
+		"en"		"#nmo_broadway2_ObjQ"
+		"es"		"#nmo_broadway2_ObjQ"
+	}
+	"4d7e869e84ff4d515253444417e6e6bf"
+	{
+		"en"		"#nmo_broadway2_ObjO"
+		"es"		"#nmo_broadway2_ObjO"
+	}
+	"a1071b921d8af8541dd8881a00793a88"
+	{
+		"en"		"#nmo_broadway2_ObjE_1"
+		"es"		"#nmo_broadway2_ObjE_1"
+	}
+	"96425e4c32ae208ad7eb469232b3a24e"
+	{
+		"en"		"#nmo_broadway2_ObjM_2"
+		"es"		"#nmo_broadway2_ObjM_2"
+	}
+	"34e8a79f3fd1b37b0fed423ae29f2658"
+	{
+		"en"		"#nmo_broadway2_ObjM_1"
+		"es"		"#nmo_broadway2_ObjM_1"
+	}
+	"90d8e4176ba530bedb9862e41ca22bc1"
+	{
+		"en"		"#nmo_broadway2_ObjI_1"
+		"es"		"#nmo_broadway2_ObjI_1"
+	}
+	"8a98f7de36936c15e274ed08c61f325a"
+	{
+		"en"		"#nmo_broadway2_ObjG_2"
+		"es"		"#nmo_broadway2_ObjG_2"
+	}
+	"51b735229531b99dfc974ef77f358f6d"
+	{
+		"en"		"#nmo_broadway2_ObjJ_1"
+		"es"		"#nmo_broadway2_ObjJ_1"
+	}
+	"5ab11174a55f104c23967bbae3ba68b2"
+	{
+		"en"		"#nmo_broadway2_ObjH_1"
+		"es"		"#nmo_broadway2_ObjH_1"
+	}
+	"d2bcd5831f09ade8061f915ea703a0e8"
+	{
+		"en"		"#nmo_broadway2_ObjG_1"
+		"es"		"#nmo_broadway2_ObjG_1"
+	}
+	"9c29356a66c49b85735c9ca924093401"
+	{
+		"en"		"#nmo_broadway2_ObjF_1"
+		"es"		"#nmo_broadway2_ObjF_1"
+	}
+	"1e94580811091ce7d0e5858bbb9cd933"
+	{
+		"en"		"#nmo_broadway2_ObjE_4"
+		"es"		"#nmo_broadway2_ObjE_4"
+	}
+	"11dc6c3b1b13a12c9d0a63cbdd977890"
+	{
+		"en"		"#nmo_broadway2_ObjE_3"
+		"es"		"#nmo_broadway2_ObjE_3"
+	}
+	"9ab8362ee0881dab874bdce144e53867"
+	{
+		"en"		"#nmo_broadway2_ObjE_2"
+		"es"		"#nmo_broadway2_ObjE_2"
+	}
+	"77edd47087706693e66b30cb2d1ae2e3"
+	{
+		"en"		"#nmo_broadway2_ObjD_1"
+		"es"		"#nmo_broadway2_ObjD_1"
+	}
+	"9b7c79905f83c76d68de864281e9707a"
+	{
+		"en"		"#nmo_broadway2_ObjD_2"
+		"es"		"#nmo_broadway2_ObjD_2"
+	}
+	"a14b42198ef92fd7c8fd3a12fe0ad517"
+	{
+		"en"		"#nmo_broadway2_ObjC_4"
+		"es"		"#nmo_broadway2_ObjC_4"
+	}
+	"1e4adf8469896d7059300fc582a370d8"
+	{
+		"en"		"#nmo_broadway2_ObjC_3"
+		"es"		"#nmo_broadway2_ObjC_3"
+	}
+	"e22e625eaf13a04d77d74983586a7328"
+	{
+		"en"		"#nmo_broadway2_ObjC_2"
+		"es"		"#nmo_broadway2_ObjC_2"
+	}
+	"789a8924bde7cbd6cdf3066346ab6533"
+	{
+		"en"		"#nmo_broadway2_ObjC_1"
+		"es"		"#nmo_broadway2_ObjC_1"
+	}
+	"52864784b46712eb687dac65783830c4"
+	{
+		"en"		"#nmo_broadway2_ObjB_3"
+		"es"		"#nmo_broadway2_ObjB_3"
+	}
+	"ba025de3ec55102895dfafcf3ea8452f"
+	{
+		"en"		"#nmo_broadway2_ObjB_2"
+		"es"		"#nmo_broadway2_ObjB_2"
+	}
+	"4509d8da1e67c01d9c1aedd97fb19149"
+	{
+		"en"		"#nmo_broadway2_ObjB_1"
+		"es"		"#nmo_broadway2_ObjB_1"
+	}
+	"bfba318def8dea6cb88a5addb1727ff9"
+	{
+		"en"		"#nmo_broadway2_ObjA"
+		"es"		"#nmo_broadway2_ObjA"
+	}
+	"e97235c229b635c1e9048011699905f6"
+	{
+		"en"		"#nmo_broadway2_5min"
+		"es"		"#nmo_broadway2_5min"
+	}
+	"daf6ad494777956cfa1abe796929620a"
+	{
+		"en"		"#nmo_broadway2_4min"
+		"es"		"#nmo_broadway2_4min"
+	}
+	"fa99ba346dcdab1255ac12d86adf720a"
+	{
+		"en"		"#nmo_broadway2_3min"
+		"es"		"#nmo_broadway2_3min"
+	}
+	"f13ba137b76fa7294a8d390a7d4cddd4"
+	{
+		"en"		"#nmo_broadway2_2min"
+		"es"		"#nmo_broadway2_2min"
+	}
+	"eee41db521c7f172817fe1ffa3948dc9"
+	{
+		"en"		"#nmo_broadway2_1min"
+		"es"		"#nmo_broadway2_1min"
+	}
+	"461689fbada573831e619d72d3a02965"
+	{
+		"en"		"#nmo_broadway2_30sec"
+		"es"		"#nmo_broadway2_30sec"
+	}
+	"bb0b84242ffe94ebc8cb49dc8c87e6e9"
+	{
+		"en"		"#nmo_broadway2_getout"
+		"es"		"#nmo_broadway2_getout"
+	}
+}

@@ -1,0 +1,19 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"radiocaller1"
+			}
+			"insert"
+			{
+				"OnPressed" "call_extract_boundry,ObjectiveCompleteTriggerExtraction,,10,-1"				
+				"OnPressed" "thefinaldoor,SetSpeed,30,0,-1"
+				"OnPressed" "thefinaldoor,Open,,0.1,-1"	
+			}
+		}
+	}
+}

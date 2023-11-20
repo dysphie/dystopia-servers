@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"199bedda11ac16a4276372225031d5b8"
+	{
+		"en"		"Get to the surface"
+		"es"		"Get to the surface"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Call for help"
+	}
+	"4e3305fffc6ae2073c38d7d4215be17d"
+	{
+		"en"		"Put General Bogsack out of his misery"
+		"es"		"Put General Bogsack out of his misery"
+	}
+	"15a0942f95bfa7916d5761aa280c2d33"
+	{
+		"en"		"Find General Bongsack"
+		"es"		"Find General Bongsack"
+	}
+	"162ca6adfa7f4d008661b59220012f13"
+	{
+		"en"		"Get to the Bunker!"
+		"es"		"Get to the Bunker!"
+	}
+	"7642773ea750afa1744d5d10ecbfc798"
+	{
+		"en"		"The truck has crashed into the gate!"
+		"es"		"The truck has crashed into the gate!"
+	}
+	"dfba89a600b608b2b724efe1f06f599a"
+	{
+		"en"		"Story"
+		"es"		"Story"
+	}
+	"41573afc0549a1b6bbacb9b90652aa4a"
+	{
+		"en"		"Soldiers are dying, explosions and crazyness everywhere!"
+		"es"		"Soldiers are dying, explosions and crazyness everywhere!"
+	}
+	"7afb56e8f76093742932311d60abd54c"
+	{
+		"en"		"You have alot of runners after you and your objective is to find the general and get out of there!"
+		"es"		"You have alot of runners after you and your objective is to find the general and get out of there!"
+	}
+	"9f123e8b6648e67c6de44a92ed412135"
+	{
+		"en"		"A truck has just rammed into the main gate /nand the zombies are gathering up to find the source of the sound."
+		"es"		"A truck has just rammed into the main gate /nand the zombies are gathering up to find the source of the sound."
+	}
+	"7fc7c89d4be23186651b308b20ec2f9c"
+	{
+		"en"		"nmo_area_51_y9v3 by yomox9. Original is nmo_area_51 by SWEGTA"
+		"es"		"nmo_area_51_y9v3 by yomox9. Original is nmo_area_51 by SWEGTA"
+	}
+	"3e13f0d8727dda8816a915d91c280862"
+	{
+		"en"		"Congraturation!"
+		"es"		"Congraturation!"
+	}
+}

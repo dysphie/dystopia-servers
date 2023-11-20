@@ -1,0 +1,34 @@
+"Phrases"
+{
+	"Menu Title"
+	{
+		"en"	"Top 10 (Best Nade)"
+		"es"	"Top 10 (Mejor Granada)"
+	}
+
+	"Beat Record"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{gold}{1} {khaki}got {gold}#1{khaki} for {gold}Best Nade"
+		"es"	"{gold}{1} {khaki}obtuvo {gold}#1{khaki} en {gold}Mejor Granada"
+	}
+	
+	"Nade Stats"
+	{
+		"#format" "{1:s},{2:d},{3:t}"
+    	"en"    "{hotpink}{1}{lightpink} killed {hotpink}{2}{lightpink} zombies with {hotpink}{3}"
+    	"es"    "{hotpink}{1}{lightpink} mató {hotpink}{2}{lightpink} zombis con {hotpink}{3}"
+	}
+
+	"grenade_projectile"
+	{
+    	"en"    "grenade"
+    	"es"    "granada"
+	}
+
+	"tnt_projectile"
+	{
+    	"en"    "TNT"
+    	"es"    "TNT"
+	}
+}

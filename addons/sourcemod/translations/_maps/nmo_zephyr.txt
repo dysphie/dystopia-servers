@@ -1,0 +1,163 @@
+"Phrases"
+{
+	"c8b47aba7e66bb32edb423d303c244bb"
+	{
+		"en"		"Radio the engineer when ready"
+		"es"		"Radio the engineer when ready"
+	}
+	"524a840c9d1475da3a0783a4aae32cb4"
+	{
+		"en"		"Release hand brakes"
+		"es"		"Release hand brakes"
+	}
+	"3b0fa6f41712a986a50175edd021570c"
+	{
+		"en"		"Throw the other switch"
+		"es"		"Throw the other switch"
+	}
+	"9209f57c52c22c926d34f0a23a584828"
+	{
+		"en"		"Throw the switch behind the locomotive"
+		"es"		"Throw the switch behind the locomotive"
+	}
+	"2ede66e4057524d5d99fe5372c8c3278"
+	{
+		"en"		"Unclog the turntable mechanism"
+		"es"		"Unclog the turntable mechanism"
+	}
+	"c4442cd0d077b341bd9cde14d38274af"
+	{
+		"en"		"Activate the turntable"
+		"es"		"Activate the turntable"
+	}
+	"d4dc29bb54ae57909d0d07e5cce4575c"
+	{
+		"en"		"Code to the door is 1901"
+		"es"		"Code to the door is 1901"
+	}
+	"191fce4874680ad0906e2cf1b1cf9de8"
+	{
+		"en"		"Code to the door is 2606"
+		"es"		"Code to the door is 2606"
+	}
+	"b11981b269d8027fd71f4f1c33768107"
+	{
+		"en"		"Find fuel to power up generator"
+		"es"		"Find fuel to power up generator"
+	}
+	"508e1396c048761c4ecca8a586a68c1b"
+	{
+		"en"		"Code to the door is 2710"
+		"es"		"Code to the door is 2710"
+	}
+	"ffeeccfb2951f7196e90c6d3101aba92"
+	{
+		"en"		"Pickup walkie talkie"
+		"es"		"Pickup walkie talkie"
+	}
+	"90d28724357ce83302e352592cd15059"
+	{
+		"en"		"Activate elevator and ascend to the upper level"
+		"es"		"Activate elevator and ascend to the upper level"
+	}
+	"b7fa519de1f20a806a3687d8c41742f2"
+	{
+		"en"		"Melt the grate using a welder"
+		"es"		"Melt the grate using a welder"
+	}
+	"10b5e075642918083c47036c9f5e4da8"
+	{
+		"en"		"Find a tool to pry open the manhole"
+		"es"		"Find a tool to pry open the manhole"
+	}
+	"64f294234c06b0f2e9164f3ab2620e02"
+	{
+		"en"		"Find a way to access the warehouse"
+		"es"		"Find a way to access the warehouse"
+	}
+	"16a25031a64fe5d482644e73ddadc187"
+	{
+		"en"		"Find the code and escape the office building"
+		"es"		"Find the code and escape the office building"
+	}
+	"8ffd57a94366698f4958feaf4980338d"
+	{
+		"en"		"#nmo_zephyr_objective10_allaboard"
+		"es"		"#nmo_zephyr_objective10_allaboard"
+	}
+	"24e25cc38c29bc9b99d82e15cb637a0e"
+	{
+		"en"		"#nmo_zephyr_objective9_brakes"
+		"es"		"#nmo_zephyr_objective9_brakes"
+	}
+	"0f1307d7ff91b9d6064c18f82a236b55"
+	{
+		"en"		"#nmo_zephyr_objective8_switchdasequel"
+		"es"		"#nmo_zephyr_objective8_switchdasequel"
+	}
+	"78e17990a4a7a529d8ed7b6f89f3e951"
+	{
+		"en"		"#nmo_zephyr_objective7_switch1"
+		"es"		"#nmo_zephyr_objective7_switch1"
+	}
+	"8a09c8660acdfab700c05ae7c67e5c84"
+	{
+		"en"		"#nmo_zephyr_objective6a_unclog"
+		"es"		"#nmo_zephyr_objective6a_unclog"
+	}
+	"704c51a6599f975873f31a93a4003933"
+	{
+		"en"		"#nmo_zephyr_objective6_activate"
+		"es"		"#nmo_zephyr_objective6_activate"
+	}
+	"bd1565277d87e6905642357625c61635"
+	{
+		"en"		"#nmo_zephyr_Objective5c_1901"
+		"es"		"#nmo_zephyr_Objective5c_1901"
+	}
+	"1ae6128caa7986d1829d5bc758ee9114"
+	{
+		"en"		"#nmo_zephyr_Objective5b_2606"
+		"es"		"#nmo_zephyr_Objective5b_2606"
+	}
+	"17ffb38fd1331325bb9feeb3495e59fb"
+	{
+		"en"		"#nmo_zephyr_objective5d_powerup"
+		"es"		"#nmo_zephyr_objective5d_powerup"
+	}
+	"e14715dc6c0bff103173bd5d52e44b9e"
+	{
+		"en"		"#nmo_zephyr_objective5a_2710"
+		"es"		"#nmo_zephyr_objective5a_2710"
+	}
+	"283b7fe6dab9ee6c145b6f31bdb914e9"
+	{
+		"en"		"#nmo_zephyr_objective4_pickupwalkie"
+		"es"		"#nmo_zephyr_objective4_pickupwalkie"
+	}
+	"d432cf24d39fee57fb12b328721ca2ad"
+	{
+		"en"		"#nmo_zephyr_objective3_warehouseelevator"
+		"es"		"#nmo_zephyr_objective3_warehouseelevator"
+	}
+	"a17ec5981e443fe9b885d12972256178"
+	{
+		"en"		"#nmo_zephyr_objective2b_blowtorchsewer"
+		"es"		"#nmo_zephyr_objective2b_blowtorchsewer"
+	}
+	"fe6fe5f198ec565d11438825d942ad00"
+	{
+		"en"		"#nmo_zephyr_objective2a_sewertime"
+		"es"		"#nmo_zephyr_objective2a_sewertime"
+	}
+	"e26a92ad5d4e61e733de4f0cfbed1772"
+	{
+		"en"		"#nmo_zephyr_objective2_blowwarehouse"
+		"es"		"#nmo_zephyr_objective2_blowwarehouse"
+	}
+	"70e56bad62e6551996d28bee328b7060"
+	{
+		"en"		"#nmo_zephyr_objective1_leavebuilding"
+		"es"		"#nmo_zephyr_objective1_leavebuilding"
+	}
+}

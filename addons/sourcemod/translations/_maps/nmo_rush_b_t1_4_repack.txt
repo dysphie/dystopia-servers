@@ -1,0 +1,264 @@
+"Phrases"
+{
+	"fcc34ea9a9f700d9c7bc2c414c4a61ee"
+	{
+		"en"		"Complete the matrix test"
+		"es"		"Completa el test de la matrix"
+	}
+	"71d31f17be4ca5e4053e65dfcb15d752"
+	{
+		"en"		"Find a way out and listen to the phone again"
+		"es"		"Encuentra una salida y escucha al teléfono de nuevo"
+	}
+	"4a94d8f94753551f48416e850ad7c2f4"
+	{
+		"en"		"Go to the opposite building to answer the phone"
+		"es"		"Ve al edificio opuesto para contestar el teléfono"
+	}
+	"da298ebe24b0aa53a9f0f596e56e6bc1"
+	{
+		"en"		"Take the elevator to the roof"
+		"es"		"Toma el ascensor hasta el techo"
+	}
+	"8204316951f975e2b91a368be0d1cb01"
+	{
+		"en"		"Finish surf and defend"
+		"es"		"Ve por las rampas y defiende"
+	}
+	"12826d16ed550d929773e57adba7828d"
+	{
+		"en"		"Make it through all of the games"
+		"es"		"Sobrevive los juegos"
+	}
+	"704af096d9e80ff507d0796b599f18e5"
+	{
+		"en"		"Enter the building"
+		"es"		"Entra al edificio"
+	}
+	"179e5f99a5bb2f51e4c80f4fc5927817"
+	{
+		"en"		"Dodge the laser and get rewards"
+		"es"		"Esquiva los láseres y toma el botín"
+	}
+	"05929f7c6496114ab4a72a8b58decadf"
+	{
+		"en"		"Make a hole in the sewers to take the safe"
+		"es"		"Crea un agujero en las alcantarillas para tomar la caja fuerte"
+	}
+	"5158887e299e8c114036a20534d5edd1"
+	{
+		"en"		"Plan B"
+		"es"		"Plan B"
+	}
+	"adfe287c6da1fccc0652107a43490d1d"
+	{
+		"en"		"Shut down the security system"
+		"es"		"Desactiva el sistema de seguridad"
+	}
+	"a52e028cc89a53c8c214432117f6cd5a"
+	{
+		"en"		"Destroy the wooden door"
+		"es"		"Destruye las puertas de madera"
+	}
+	"761a763fd21ee6375730fc23b113e424"
+	{
+		"en"		"Kill all the zombies here"
+		"es"		"Mata a todos los zombis en el área"
+	}
+	"af322c7e651a81eef216c60dcb386225"
+	{
+		"en"		"Author：Eastern Swiss Power
+Ported by: Fong"
+		"es"		"Autor: Eastern Swiss Power
+Adaptado por: Fong"
+	}
+	"5982ad64190461ccf7e3858d4a02cc12"
+	{
+		"en"		"We don't have the right equipment to open the safe
+Execute plan B!!"
+		"es"		"No tenemos el equipo adecuado para abrir la caja fuerte
+¡Hora del plan B!"
+	}
+	"e9484779724afd3053bc36e9fdd7517c"
+	{
+		"en"		"Security system is shutting down---"
+		"es"		"El sistema de seguridad se está apagando---"
+	}
+	"70cf37ba84b129b17ee999ff1162bf7b"
+	{
+		"en"		"We failed, the bomb was destroyed"
+		"es"		"Fallamos, la bomba fue destruída"
+	}
+	"cf92a80c63d6620a8caabd10bcc53b36"
+	{
+		"en"		"The bomb has been planted
+2 minuts until detonation
+Defend it at all costs"
+		"es"		"La bomba ha sido plantada
+Tardará 2 minutos en detonar.
+Tenemos que protegerla"
+	}
+	"7384feff60da2a0c767c9f2598e1bda6"
+	{
+		"en"		"Time is limited,
+more zombies are gathering"
+		"es"		"El tiempo es limitado,
+siguen llegando zombis"
+	}
+	"ac23092826d18d55581c2b12ffcb3307"
+	{
+		"en"		"The bomb is about to explode
+Stay away from it"
+		"es"		"La bomba está a punto de explotar
+Aléjate"
+	}
+	"6f72ae98e3b6e82239fa3fbc30a5b3ae"
+	{
+		"en"		"Dodge the incoming lasers
+Requires at least one survivor
+Else you lose!!"
+		"es"		"Esquiva las cuchillas láser
+Requiere al menos 1 sobreviviente
+O pierden!!"
+	}
+	"4249d7524ae0e70e8dcb70096455d4f9"
+	{
+		"en"		"We should leave,
+All aboard"
+		"es"		"Deberíamos irnos,
+Todos a bordo"
+	}
+	"ef5e27f28b6449bef6175735096f74f2"
+	{
+		"en"		"We failed
+No survivors left"
+		"es"		"Fallamos
+No quedaron sobrevivientes"
+	}
+	"ee67a1a93aa3d2ca01ec8fd47dafed78"
+	{
+		"en"		"钱
+使用方法：抬头按E
+效果：撒币制造跟随范围燃烧和回血
+冷却：120秒，共2次"
+		"es"		"钱
+Cómo usar: mira hacia arriba y presiona E
+Efecto: Quema zombis y cura jugadores en el área.
+Enfriamiento: 120 segundos, 2 veces máximo"
+	}
+	"c6c31cc45f3f9a36403d95e8fc7273a5"
+	{
+		"en"		"成功通过，拿取我们奖励"
+		"es"		"Superado con éxito, obtén nuestra recompensa"
+	}
+	"b887d077fc88c0c6949846025a01c564"
+	{
+		"en"		"躲避障碍
+触碰或者跌落将会传送回起点"
+		"es"		"Esquiva los obstáculos
+Tocar uno o caer te teletransportará al comienzo."
+	}
+	"d8786860959ab9453dcbfaa3143332b2"
+	{
+		"en"		"快捷传送已打开
+激光触发已解锁"
+		"es"		"快捷传送已打开
+激光触发已解锁"
+	}
+	"01dd52f53b2ed6047a3e9225bc061781"
+	{
+		"en"		"清除掉僵尸解锁激光触发"
+		"es"		"清除掉僵尸解锁激光触发"
+	}
+	"7aecd70cc83dff369a670bef42733265"
+	{
+		"en"		"触发成功等待传送"
+		"es"		"Activación exitosa, esperando teletransportación"
+	}
+	"fce3ca1ab658e15db02dbd1c1626373e"
+	{
+		"en"		"防守僵尸并跳跃至中间触发传送
+快捷传送已打开"
+		"es"		"防守僵尸并跳跃至中间触发传送
+快捷传送已打开"
+	}
+	"70f63030f873ce4826433a68ec5c658e"
+	{
+		"en"		"激光墙
+How to use: Look up and press E
+Effect: Places a wall of lasers in front of you that damages zombies
+Cooldown: 120 seconds, 2 times max"
+		"es"		"激光墙
+Cómo usar: mira hacia arriba y presiona E
+Efecto: coloca una pared de láseres frente a ti que daña a los zombis
+Enfriamiento: 120 segundos, 2 veces máximo"
+	}
+	"763ec5a266aa4fec8e67ccac91fa1728"
+	{
+		"en"		"躲避移动激光墙
+需要至少1名幸存者
+否则失败！！"
+		"es"		"Esquiva las paredes láser
+Requiere al menos 1 sobreviviente
+O pierden!!"
+	}
+	"5a735143a8f2583ae164890421a3c31d"
+	{
+		"en"		"我们失败了
+没有任何一名幸存者
+我们将永远的被困在矩阵之中"
+		"es"		"Fallamos
+No quedaron sobrevivientes
+Estaremos atrapados en la matrix para siempre"
+	}
+	"e2ffa1be08c5e88fde79db92b5f381e5"
+	{
+		"en"		"准备好了吗？
+抬头避开所有的矩阵代码"
+		"es"		"¿Preparados?
+Presta atención para evadir los códigos matrix"
+	}
+	"c7e8a664ab7edc37f30b0c79169c2120"
+	{
+		"en"		"连接已建立"
+		"es"		"Conexión establecida"
+	}
+	"f02fb06af44512ae84fd441be861b04c"
+	{
+		"en"		"电话拨号----------------"
+		"es"		"Discando el teléfono..."
+	}
+	"20150d04605ca8039f727909fb4ee3f9"
+	{
+		"en"		"收听电话"
+		"es"		"Atiende el teléfono"
+	}
+	"89b10f223f9d0d911f8eca9fb077d716"
+	{
+		"en"		"等待电话的到来"
+		"es"		"Espera la llamada"
+	}
+	"f0677e84099bb882db8deb26fef760e8"
+	{
+		"en"		"全部人上电梯
+我们该走了"
+		"es"		"Todos suban al ascensor
+Deberíamos irnos"
+	}
+	"5225241866dc424d0cd0dbdc35bf36ba"
+	{
+		"en"		"等待电梯到达"
+		"es"		"Espera a que llegue el ascensor"
+	}
+	"3ed91474767d4bb1c255d772f28b7612"
+	{
+		"en"		"我们做到了！！！
+现在使出全力准备防守
+不要放僵尸进入中间
+否则失败！！"
+		"es"		"我们做到了！！！
+现在使出全力准备防守
+不要放僵尸进入中间
+否则失败！！"
+	}
+}

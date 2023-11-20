@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"ca6a464dca46657d032236397006655e"
+	{
+		"en"		"Find the crank"
+		"es"		"Encuentra una manivela"
+	}
+	"bee7da95c3816ceb3378bc6c031a6f62"
+	{
+		"en"		"In the train"
+		"es"		"Sube al tren"
+	}
+	"3d93907f02eb45d197cbf3a9e1144286"
+	{
+		"en"		"In the elevator"
+		"es"		"Entra al ascensor"
+	}
+	"afd2ebb677018d7ba2f4f995dd36bd97"
+	{
+		"en"		"Wait for loading"
+		"es"		"Esperando a cargar"
+	}
+	"8eabfc63286cb0f16dfa62f26f97092c"
+	{
+		"en"		"open the door"
+		"es"		"Abre la puerta"
+	}
+	"5e0771f48fef0e85f70bd3d62e40e2fa"
+	{
+		"en"		"Following freight platform"
+		"es"		"Sigue la plataforma de carga"
+	}
+	"d26b5c95b0e365fd23e89ad0e07ebf2e"
+	{
+		"en"		"Start the elevator"
+		"es"		"Enciende el ascensor"
+	}
+	"e0202e87928ac3a3e0db82d5c5c2664e"
+	{
+		"en"		"Exit the labs. Find four connectors to start the moving platform"
+		"es"		"Sal de los laboratorios. Encuentra cuatro conectores y colócalos en la plataforma móvil para encenderla"
+	}
+	"08dc73f9a1d894f40afd64231ec08fb4"
+	{
+		"en"		"Take limb to the server room and scan it"
+		"es"		"Ve a la sala de servidores y usa el brazo en el escáner"
+	}
+	"f3fd53032c53e12183158d53816d95e6"
+	{
+		"en"		"Takeover control center"
+		"es"		"Usa las consolas en la sala de servidores para desbloquear la cámara de decontaminación"
+	}
+	"694a9902ac676c46b4b8255a260ec11a"
+	{
+		"en"		"Use a computer"
+		"es"		"Interactúa con la computadora"
+	}
+	"fcc97245d834582a0c4bd27cda9ef671"
+	{
+		"en"		"Find a card to access the labs"
+		"es"		"Encuentra una tarjeta para desbloquear el portón de entrada a los laboratorios"
+	}
+	"a544c12dc43408e7da0970f96b2ac996"
+	{
+		"en"		"Find a fire extinguisher to put out the fire at the end of a tunnel"
+		"es"		"Encuentra un extintor para apagar el fuego al final de un túnel"
+	}
+	"85e12531bf88b66d8f9afb4e83752ccf"
+	{
+		"en"		"Find a welder and open the gate at the end of a tunnel"
+		"es"		"Encuentra un soldador y abre la reja al final dl túnel vehicular"
+	}
+	"251d90b90f336124853edc6b3f82337d"
+	{
+		"en"		"Go through the ventilation system"
+		"es"		"Continúa por los ductos de ventilación"
+	}
+	"c17416ed4152b3f8923cd86efc4fde98"
+	{
+		"en"		"Enter the ventilation system"
+		"es"		"Entra a los ductos de ventilación"
+	}
+	"0024262c58e7758c5f37ada36b88791b"
+	{
+		"en"		"Map made by PENGUIN S and WUXIN"
+		"es"		"Mapa hecho por PENGUIN S y WUXIN"
+	}
+}

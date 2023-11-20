@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"24c58754b32e1ea95821c0d1c448026e"
+	{
+		"en"		"Palingenesis"
+		"es"		"Palingenesis"
+	}
+}

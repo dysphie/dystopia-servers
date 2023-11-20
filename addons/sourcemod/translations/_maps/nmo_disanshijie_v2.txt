@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"f97ef48a0e10b89f1a4589d06302ae87"
+	{
+		"en"		"Charge!!!"
+		"es"		"¡¡¡Carga!!!"
+	}
+	"794d0a812533f0afc15c3f75a0294f12"
+	{
+		"en"		"Keep going!!!"
+		"es"		"¡¡¡Sigue adelante!!!"
+	}
+	"ad9667f8cf38079887fab1a52d8b04e1"
+	{
+		"en"		"Jump down"
+		"es"		"Salta abajo"
+	}
+	"10ef72d9f8aade1cb7d8bd4cd9486e3a"
+	{
+		"en"		"Break the glass"
+		"es"		"Rompe el vidrio"
+	}
+	"06fd16300dbf206a0749911b1fac08b8"
+	{
+		"en"		"There are so many traps below, let's go all the way down!"
+		"es"		"¡Hay tantas trampas abajo, vamos hasta el fondo!"
+	}
+	"e070f946ff238808aed3946191b1df62"
+	{
+		"en"		"Is there a trap here? It seems that I need an item?"
+		"es"		"¿Hay una trampa aquí? ¿Parece que necesito un artículo?"
+	}
+	"290f1e9b71d8382dc8f4b02a64a17da4"
+	{
+		"en"		"It seems that there is a way below, think of a way to go down"
+		"es"		"Parece que hay un camino abajo, piensa en una forma de bajar"
+	}
+	"0ca9214c1e84f7542ea8706a19999e72"
+	{
+		"en"		"Open the door"
+		"es"		"Abrir la puerta"
+	}
+	"2fcd89a032b2f2f74b7bb4c620b37cb1"
+	{
+		"en"		"Map author: Wusdyit550"
+		"es"		"Autor del mapa: Wusdyit550"
+	}
+	"d7f22646e337798d9d52d788fc1cd205"
+	{
+		"en"		"B station: Mei Yan Yu Tang Xian"
+		"es"		"Estación B: Mei Yan Yu Tang Xian"
+	}
+	"3bafb7bf7db43e49671cf224ffd7e6e2"
+	{
+		"en"		"This is the map I made: nmo_disanshijie"
+		"es"		"Este es el mapa que hice: nmo_disanshijie"
+	}
+	"925c78ae492ea477127f29f3864cd4d5"
+	{
+		"en"		"Q group: 330426230"
+		"es"		"Grupo Q: 330426230"
+	}
+	"93bdd82b53aa3357816db22a4c5ab432"
+	{
+		"en"		"What is this place? We have to get out of here!!!"
+		"es"		"¿Qué es este lugar? ¡¡¡Tenemos que salir de aquí!!!"
+	}
+	"ae412ddf37fc884ef700c7a3176e2a3d"
+	{
+		"en"		"What is the purple block below? Can it be hit?"
+		"es"		"¿Qué es el bloque morado de abajo? ¿Se puede golpear?"
+	}
+	"d5fff4126b735da4a612d2c3efc847cd"
+	{
+		"en"		"What is this place?"
+		"es"		"¿Qué lugar es este?"
+	}
+}

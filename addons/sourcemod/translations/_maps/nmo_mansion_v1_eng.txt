@@ -1,0 +1,153 @@
+"Phrases"
+{
+	"0de4643280a50211aef3433deae5f0e3"
+	{
+		"en"		"Killing them was a bad idea..."
+		"es"		"Matarlos fue una mala idea..."
+	}
+	"fe1f4c2f7f925a1583e8b82e846974bc"
+	{
+		"en"		"Picked up elevator key!"
+		"es"		"¡Recogiste la llave del ascensor!"
+	}
+	"9a9f2f576ea38ad03b3f0aa7a286918a"
+	{
+		"en"		"Find a key to unlock the elevator!"
+		"es"		"¡Encuentra una llave para desbloquear el ascensor!"
+	}
+	"7349bbcb73431f5e8af36eba3028c48a"
+	{
+		"en"		"The source of the plague had been exterminated. You gave humanity a chance for survival!"
+		"es"		"¡La fuente de la plaga ha sido exterminada. Le diste a la humanidad una oportunidad de supervivencia!"
+	}
+	"710c2c5b66a04b4522e3b449cc300746"
+	{
+		"en"		"The gates are closed, you have to find something to open the lock. Perhaps you missed that thing in the sewage."
+		"es"		"Las puertas están cerradas, tienes que encontrar algo para abrir el candado. Tal vez lo dejaste pasar en las alcantarillas."
+	}
+	"7c380ec897fcbd5cf8531b0b8c099bb1"
+	{
+		"en"		"Advance down the hallway."
+		"es"		"Avanza por el pasillo."
+	}
+	"d6498e16e1e4d26ec4ae4015e636cb77"
+	{
+		"en"		"Find somethung useful."
+		"es"		"Encuentra algo útil."
+	}
+	"3955580b8f3b5fe200afdc09471dfea5"
+	{
+		"en"		"Great news, you've reached the sewage! Now find the exit..."
+		"es"		"¡Buenas noticias, has llegado al alcantarillado! Ahora encuentra la salida..."
+	}
+	"b828cc6bd9a1f63d755771cbefda744c"
+	{
+		"en"		"You've arrived at the Alcazar's mansion to rid the world from Hell itself! Your objective is a small laboratory beneath the mansion. But how to get there?"
+		"es"		"¡Has llegado a la mansión de Alcázar para liberar al mundo del propio infierno! Tu objetivo es un pequeño laboratorio debajo de la mansión. ¿Pero cómo llegar allí?"
+	}
+	"063c000677fa68f961cf36aa1bb17896"
+	{
+		"en"		"Search for explosives and demolish the virus. Get it over with!"
+		"es"		"¡Busca explosivos y destruye el virus. Acaba con esto!"
+	}
+	"1170fa505d9cd609ab26dd4a571d01a9"
+	{
+		"en"		"Find the way to enter the lab."
+		"es"		"Encuentra el camino para entrar en el laboratorio."
+	}
+	"8d925c4bd63b7d656c98663d2a6d32b3"
+	{
+		"en"		"Something is wrong. Check the generator."
+		"es"		"Algo anda mal. Revisa el generador."
+	}
+	"54601a9b8da58aeb5b3a54e22113946b"
+	{
+		"en"		"Locate the main computer to turn off the security seal."
+		"es"		"Localiza la computadora principal para desactivar el sello de seguridad."
+	}
+	"b1ef00ee59f5ca896bc1a128fa3ff815"
+	{
+		"en"		"Everything should be working now. Go down to the lab."
+		"es"		"Todo debería estar funcionando ahora. Baja al laboratorio."
+	}
+	"c744738e74802a8802750c4f99f597b3"
+	{
+		"en"		"Refuel and run the generator."
+		"es"		"Reabastece y pon en marcha el generador."
+	}
+	"c4aacf953df4676547b76102fb9a314b"
+	{
+		"en"		"Open the door with a combination lock."
+		"es"		"Abre la puerta con una cerradura de combinación."
+	}
+	"2dbcb79557751fb5d80c5742c8a72993"
+	{
+		"en"		"It requires some fuel. Find it somethere around."
+		"es"		"Requiere algo de combustible. Encuéntralo por aquí."
+	}
+	"6cb58e633bfbd1c061b71e8d42cc77af"
+	{
+		"en"		"The dead are coming. Fight them back at long last!"
+		"es"		"Los muertos están llegando. ¡Enfréntalos de una vez por todas!"
+	}
+	"437c98c0128c43add003b7935d7d3d6f"
+	{
+		"en"		"Open the elevator using the key and go down the laboratory already."
+		"es"		"Abre el ascensor usando la llave y baja al laboratorio de una vez."
+	}
+	"d4369f647b7270cf92506320a1154946"
+	{
+		"en"		"Well done. Now fight through the undead and get outside."
+		"es"		"Bien hecho. Ahora lucha contra los no muertos y sal afuera."
+	}
+	"ad762cad7467f6c921c4e5da69b2b3fc"
+	{
+		"en"		"Find the key for the door."
+		"es"		"Encuentra la llave para la puerta."
+	}
+	"b220ced91bcbc43ecd5b60d932287a93"
+	{
+		"en"		"The worst part is over. A green key lies over a corpse, it is meant for the elevator. Take it and get outside. Look around."
+		"es"		"Lo peor ha pasado. Una llave verde yace sobre un cadáver, está destinada para el ascensor. Tómala y sal afuera. Mira a tu alrededor."
+	}
+	"1cc6f6f5a3fcb4f20272e9e425b4bf40"
+	{
+		"en"		"The generator had exploded affecting the power shutdown. In order to get to the other side of the sewage, you have to find a valve. You might've missed it earlier. And keep your eyes peeled in the darkness."
+		"es"		"El generador ha explotado afectando el suministro de energía. Para llegar al otro lado del alcantarillado, tienes que encontrar una válvula. Quizás la pasaste por alto anteriormente. Y mantén los ojos bien abiertos en la oscuridad."
+	}
+	"436d3a293d04296d05707a805093d70a"
+	{
+		"en"		"There is an entrance to the sewers right next to you, find the way to open it. This is your only option."
+		"es"		"Hay una entrada a las alcantarillas justo al lado tuyo, encuentra la forma de abrirla. Esta es tu única opción."
+	}
+	"d0f4264e5f63ddf530a6a9a2219f1004"
+	{
+		"en"		"This key won't open the elevator, but perhaps it shall open something different."
+		"es"		"Esta llave no abrirá el ascensor, pero tal vez abra algo diferente."
+	}
+	"77005db9a50a5c4b6b1bb25fea082ca6"
+	{
+		"en"		"Once you extinguished the fire - you've found a key-card. There should be a relevant door on the first floor."
+		"es"		"Una vez que hayas apagado el fuego - encontrarás una tarjeta de acceso. Debe haber una puerta relevante en el primer piso."
+	}
+	"91e52ad9c1a38946a9b49831d0f72228"
+	{
+		"en"		"The room is on fire! It has to be extinguished before the fire spreads further!"
+		"es"		"¡La habitación está en llamas! ¡Debe ser apagada antes de que el fuego se propague más!"
+	}
+	"1c56975b671f09e1ab0b40e6ee01dee7"
+	{
+		"en"		"This elevator is locked. It seems that you need a particular key to open it. A strange noise started upstairs, gotta figure out what that was!"
+		"es"		"Este ascensor está bloqueado. Parece que necesitas una llave especial para abrirlo. Un ruido extraño comenzó arriba, ¡hay que averiguar qué fue eso!"
+	}
+	"6e8cc7f44121f43c08f8fb6c04e598c3"
+	{
+		"en"		"Have to find a key for this door!"
+		"es"		"¡Tienes que encontrar una llave para esta puerta!"
+	}
+	"d93591bdf7860e1e4ee2fca799911215"
+	{
+		"en"		"4321"
+		"es"		"4321"
+	}
+}

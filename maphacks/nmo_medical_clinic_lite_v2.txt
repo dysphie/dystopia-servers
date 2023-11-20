@@ -1,0 +1,7 @@
+"Maphack"
+{
+	"entities"
+	{
+		$remove_all { "targetname" "normal_box" }
+	}
+}

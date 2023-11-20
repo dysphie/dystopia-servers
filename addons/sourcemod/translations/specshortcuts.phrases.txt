@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Usage"
+	{
+		"en"	"{lightpink}Usage: /spec <partial name>"
+		"es"	"{lightpink}Uso: /spec <nombre parcial>"
+	}
+
+	"Must be dead"
+	{
+		"en"	"{lightpink}You must be dead to spectate other users"
+		"es"	"{lightpink}Debes estar muerto/a para usar este comando"
+	}
+}

@@ -1,0 +1,208 @@
+"Phrases"
+{
+	"92c29e7f825fff804471efd9acd031e8"
+	{
+		"en"		"Rescue is now looking for you! Be ready."
+		"es"		"Rescue is now looking for you! Be ready."
+	}
+	"c08c82f506ff031d67857766b351cdef"
+	{
+		"en"		"You have 2 minutes to enter the van before you will get overwhelmed."
+		"es"		"You have 2 minutes to enter the van before you will get overwhelmed."
+	}
+	"e05a0db61d5319cd34215a8e2e443d8b"
+	{
+		"en"		"Activate a siren to signal your position"
+		"es"		"Activate a siren to signal your position"
+	}
+	"d4c8626d662df6c81ba1b19be52a00ac"
+	{
+		"en"		"Make your way towards the gate"
+		"es"		"Make your way towards the gate"
+	}
+	"803b224f99e32deea109ece1a43e0ea9"
+	{
+		"en"		"Restore power to the elevator"
+		"es"		"Restore power to the elevator"
+	}
+	"e0d9a1a63a97ffd36801a82bc30e5eb2"
+	{
+		"en"		"Find an alternative way into the maintenance tunnels"
+		"es"		"Find an alternative way into the maintenance tunnels"
+	}
+	"e82eeecae4002b48dff425380f86b8f7"
+	{
+		"en"		"Use a gas can to destroy the barricade"
+		"es"		"Use a gas can to destroy the barricade"
+	}
+	"bd53b6d2cb29840a560ac8ef4f661a68"
+	{
+		"en"		"Find 3 planks to bridge the electrified puddle"
+		"es"		"Find 3 planks to bridge the electrified puddle"
+	}
+	"d73426641b319bfc83584b9363c9de93"
+	{
+		"en"		"Find an extinguisher and put out the fire"
+		"es"		"Find an extinguisher and put out the fire"
+	}
+	"6cf86234c4fc5845850249b6580771a1"
+	{
+		"en"		"Use battery to open the entrance gate, get ready for an escape"
+		"es"		"Use battery to open the entrance gate, get ready for an escape"
+	}
+	"7a4306b0d1ec846b9507b3fbdae642ea"
+	{
+		"en"		"Call for help, use the radio upstairs"
+		"es"		"Call for help, use the radio upstairs"
+	}
+	"a17e348b537a2c1497130c5a3b44dfed"
+	{
+		"en"		"Escape to the surface!"
+		"es"		"Escape to the surface!"
+	}
+	"2a6887e64158c0cecd50f6527da6f6de"
+	{
+		"en"		"Use the panel in the control room, open the gate B"
+		"es"		"Use the panel in the control room, open the gate B"
+	}
+	"e7c65abf4b9bc126bad427203d4c27f8"
+	{
+		"en"		"Weld open the gate"
+		"es"		"Weld open the gate"
+	}
+	"8fdc8da81581cc62310abf5e1ff071df"
+	{
+		"en"		"Get extracted by the helicopter!"
+		"es"		"Get extracted by the helicopter!"
+	}
+	"1ee0ec88476d4846fd8046c09dc6ccce"
+	{
+		"en"		"Survive!"
+		"es"		"Survive!"
+	}
+	"4186facb0a2c826b6e8be11ec2ee1af7"
+	{
+		"en"		"Get into the FastEx van and escape!"
+		"es"		"Get into the FastEx van and escape!"
+	}
+	"15da87c6a2736043bdb083fc096840a9"
+	{
+		"en"		"Find a key to enter the shed"
+		"es"		"Find a key to enter the shed"
+	}
+	"2d51dc3dd64e4c674892c4813eb04009"
+	{
+		"en"		"Pry open the elevator doors"
+		"es"		"Pry open the elevator doors"
+	}
+	"404ff74e075b4a1daed3671e91b2fc52"
+	{
+		"en"		"Attach a spare lever to the elevator"
+		"es"		"Attach a spare lever to the elevator"
+	}
+	"d24d5b72dd51af91c340a5c13642b8c7"
+	{
+		"en"		"#nmo_rockpit_obj_siren"
+		"es"		"#nmo_rockpit_obj_siren"
+	}
+	"2ae568eec396dce912ba25d0023519c6"
+	{
+		"en"		"#nmo_rockpit_obj_moving"
+		"es"		"#nmo_rockpit_obj_moving"
+	}
+	"747bc7769375751a7a80ca43b185d400"
+	{
+		"en"		"#nmo_rockpit_obj_gen_underground"
+		"es"		"#nmo_rockpit_obj_gen_underground"
+	}
+	"44ccfa9746cd23a9fc7b804626090826"
+	{
+		"en"		"#nmo_rockpit_obj_tunnel"
+		"es"		"#nmo_rockpit_obj_tunnel"
+	}
+	"f68eb05c1c29b36d9c43984dd8a5204e"
+	{
+		"en"		"#nmo_rockpit_obj_barrier"
+		"es"		"#nmo_rockpit_obj_barrier"
+	}
+	"d87e4aff6c6b1850d15fcf7ebe0ad958"
+	{
+		"en"		"#nmo_rockpit_obj_elec"
+		"es"		"#nmo_rockpit_obj_elec"
+	}
+	"84cbc39fb8ef0ef2953a63e5629b0491"
+	{
+		"en"		"#nmo_rockpit_obj_fire"
+		"es"		"#nmo_rockpit_obj_fire"
+	}
+	"51499da947fd1fd462fef66a1b1694d1"
+	{
+		"en"		"#nmo_rockpit_obj_carbattery"
+		"es"		"#nmo_rockpit_obj_carbattery"
+	}
+	"349802372d2a2bab91c4b89ffbb07eba"
+	{
+		"en"		"#nmo_rockpit_obj_radio"
+		"es"		"#nmo_rockpit_obj_radio"
+	}
+	"d3f1c78d419603103710696dbb6d8070"
+	{
+		"en"		"#nmo_rockpit_obj_gen_normal"
+		"es"		"#nmo_rockpit_obj_gen_normal"
+	}
+	"a14ef807e798797310b5c77bbd50645b"
+	{
+		"en"		"#nmo_rockpit_obj_esc"
+		"es"		"#nmo_rockpit_obj_esc"
+	}
+	"bb528a753e74c2c916f0fafb9348fee2"
+	{
+		"en"		"#nmo_rockpit_obj_panel"
+		"es"		"#nmo_rockpit_obj_panel"
+	}
+	"66d92f329062e30cd38badbed8a656e7"
+	{
+		"en"		"#nmo_rockpit_obj_start"
+		"es"		"#nmo_rockpit_obj_start"
+	}
+	"a1668a01cc9f7818ad16b6e6d2dd4288"
+	{
+		"en"		"#nmo_rockpit_obj_heli"
+		"es"		"#nmo_rockpit_obj_heli"
+	}
+	"72a2c91c5cd7dc1afcd72604bcdcbc60"
+	{
+		"en"		"#nmo_rockpit_obj_survive"
+		"es"		"#nmo_rockpit_obj_survive"
+	}
+	"852a0807748130ba21da7f12de673cb7"
+	{
+		"en"		"#nmo_rockpit_obj_van"
+		"es"		"#nmo_rockpit_obj_van"
+	}
+	"aa3f7f35260b7375355b45af781f8931"
+	{
+		"en"		"#nmo_rockpit_obj_shed"
+		"es"		"#nmo_rockpit_obj_shed"
+	}
+	"624046265aeb94e9f934496ba30f2a24"
+	{
+		"en"		"#nmo_rockpit_obj_fubar"
+		"es"		"#nmo_rockpit_obj_fubar"
+	}
+	"e500bfe11522e3f2bc65851a20bd3bac"
+	{
+		"en"		"#nmo_rockpit_obj_lever"
+		"es"		"#nmo_rockpit_obj_lever"
+	}
+	"c4f820fff65a3103a16d1edbda545cc8"
+	{
+		"en"		"#nmo_rockpit_entervan"
+		"es"		"#nmo_rockpit_entervan"
+	}
+	"8f55f1ff50f93470ee421c8ab9ec0a75"
+	{
+		"en"		"#nmo_rockpit_rescue"
+		"es"		"#nmo_rockpit_rescue"
+	}
+}

@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"679cb4c82704ef490fe7012d2d1fec2d"
+	{
+		"en"		"Take the Survivor to Safety"
+		"es"		"Escolta as sobreviviente"
+	}
+	"4f0542e6006eed7666acbe437c6e7dfd"
+	{
+		"en"		"Find the Survivor! Rescue the Survivor!"
+		"es"		"Encuentra al sobreviviente y rescátalo"
+	}
+	"2cd94a0286bcd98a1b8f0a3ba70a6bf4"
+	{
+		"en"		"You have died... You have failed this survivor..."
+		"es"		"Has muerto... Le has fallado a este sobreviviente..."
+	}
+	"8a2d4ffae3a7f8fa79382ca384c9656c"
+	{
+		"en"		"The Survivor has been Killed... You have Failed..."
+		"es"		"El sobreviviente murió, has fallado"
+	}
+	"8132982e1693a313c62ec31501522dd6"
+	{
+		"en"		"Survivor Rescued!"
+		"es"		"Sobreviviente rescatado"
+	}
+	"c1e3088d50c770b49b9a15423b1a2f9b"
+	{
+		"en"		"Rescue the Survivor!"
+		"es"		"Rescata al sobreviviente"
+	}
+}

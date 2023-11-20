@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"91772487f83a468dad772d7e3a56e9a6"
+	{
+		"en"		"Get in the truck."
+		"es"		"Sube al camión"
+	}
+	"3102571dbda6b3c9ccec1030a3a67c78"
+	{
+		"en"		"Someone inside. Survive 3 minutes."
+		"es"		"Hay alguien adentro, sobrevive por 3 minutos"
+	}
+	"908e104e7b4be2fa95b5772afc2f6423"
+	{
+		"en"		"Try open garage."
+		"es"		"Intenta abrir el garage"
+	}
+	"2e832d5779d013e0f61912939de8bdec"
+	{
+		"en"		"There are only zombies around, find survivors."
+		"es"		"Solo hay zombis aquí, encuentra sobrevivientes"
+	}
+	"04adf49aaaa02f0fff862ca72ec7c5ff"
+	{
+		"en"		"Need find a ladder to climb over the fence."
+		"es"		"Necesitas una escalera para trepar la reja"
+	}
+	"667a7259a29f66ed05872ecaf4d6f138"
+	{
+		"en"		"Way is blocked, need find extinguisher!"
+		"es"		"El camino está bloqueado, necesitas un extintor"
+	}
+	"4979b58938b010a33c9a6a5d9cadd4e8"
+	{
+		"en"		"ZOMBIES COMING! RUN OUTSIDE!"
+		"es"		"¡Vienen los zombis! ¡Corre afuera!"
+	}
+	"de70a12c42e4fd303e1ec99c6902e0d8"
+	{
+		"en"		"Radio broken. Pick up the walkie-talkie!"
+		"es"		"Radio broken. Pick up the walkie-talkie!"
+	}
+	"173e8d7278b642b12021db17bee37b48"
+	{
+		"en"		"System down. Check military radio on basketball court."
+		"es"		"System down. Check military radio on basketball court."
+	}
+	"596a281627a19442f319c9da0f787169"
+	{
+		"en"		"System down. Check military radio on basketball court!"
+		"es"		"El sistema esta caído. Inspecciona la radio militar en la cancha de básquet"
+	}
+	"76a8d2031b269628831929863ab21ebb"
+	{
+		"en"		"Find information about visitors."
+		"es"		"Investiga a los visitantes"
+	}
+	"30df0f9b91c592ef4b8861ffa0954870"
+	{
+		"en"		"Find keys to open door."
+		"es"		"Encuentra llaves para abrir la puerta"
+	}
+	"d7fd7db055844254fd5a880e7e66e8e9"
+	{
+		"en"		"Break down the barricade."
+		"es"		"Destruye la barricada"
+	}
+}

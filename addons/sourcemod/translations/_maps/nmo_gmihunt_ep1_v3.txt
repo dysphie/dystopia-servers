@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"b61834aa7fffe32e136f4ef1c22987f3"
+	{
+		"en"		"Find a bomb to blow up the door"
+		"es"		"Encuentra una bomba para volar la puerta"
+	}
+	"44b12509c5330063030301006486583d"
+	{
+		"en"		"Find a key to open the door to go to the generator room"
+		"es"		"Encuentra una llave para abrir la puerta y llegar a la sala del generador"
+	}
+	"0709a86a788b28aa9eb15ce0d4641e80"
+	{
+		"en"		"Go outside and get inside the house"
+		"es"		"Sal afuera y entra en la casa"
+	}
+	"58e26feaf61809154172c7c6c8840335"
+	{
+		"en"		"Map by Wolvindra-Vinzuerio, ported by dewobedil"
+		"es"		"Mapa por Wolvindra-Vinzuerio, portado por dewobedil"
+	}
+	"3d6f2b00654288770f98db24f1637e78"
+	{
+		"en"		"This place was a kind of haunted small town, and we need to find out what made this place so haunted"
+		"es"		"Este lugar era una especie de pequeño pueblo embrujado, y necesitamos averiguar qué hizo que este lugar fuera tan embrujado"
+	}
+	"ac24cbefc779210cbd7df7290cd4902a"
+	{
+		"en"		"GMI Hunt Episode 1"
+		"es"		"GMI Hunt Episodio 1"
+	}
+	"415dcc034cab0a7759a93678952b6a3c"
+	{
+		"en"		"The next level door has been unlocked"
+		"es"		"La puerta del siguiente nivel ha sido desbloqueada"
+	}
+	"9ac432b396ac8c2dab9b453c4417062c"
+	{
+		"en"		"Episode 1 Complete, Escape..."
+		"es"		"Episodio 1 Completo, Escapa..."
+	}
+	"805ea32fabe1fca947fa12bb6f4ca220"
+	{
+		"en"		"You need to pick up an explosive to proceed to the next door."
+		"es"		"Necesitas recoger un explosivo para avanzar a la siguiente puerta."
+	}
+	"bd989aac8d88b6183d1582fb3051caf3"
+	{
+		"en"		"Someone has picked up an explosive."
+		"es"		"Alguien ha recogido un explosivo."
+	}
+	"dba11aabf0b27b6b15820054b7b955aa"
+	{
+		"en"		"You need a wrench to open the blast door."
+		"es"		"Necesitas una llave inglesa para abrir la puerta de explosión."
+	}
+	"323ba4588ce9563c16179d546ebbdd31"
+	{
+		"en"		"Someone got the wrench!"
+		"es"		"¡Alguien consiguió la llave!"
+	}
+	"ecd951a904abf36bd3fd90a97a769fb3"
+	{
+		"en"		"The door is locked by a generator"
+		"es"		"La puerta está bloqueada por un generador"
+	}
+	"829cbfdcd010478e228cecd6a869c4a3"
+	{
+		"en"		"You need a black crystal to operate this button."
+		"es"		"Necesitas un cristal negro para operar este botón."
+	}
+	"7012178e19179709b06d1d8635bff2ed"
+	{
+		"en"		"Someone acquired a Black Crystal. Now get back to the generator!"
+		"es"		"Alguien adquirió un Cristal Negro. ¡Ahora regresa al generador!"
+	}
+	"1872c53301d233f98b5c52dfb43e2dfb"
+	{
+		"en"		"Someone got a key to unlock the door!"
+		"es"		"¡Alguien consiguió una llave para desbloquear la puerta!"
+	}
+	"d447768acd57fb2347a1fdb845f94b20"
+	{
+		"en"		"The door is locked. It needs a key to open"
+		"es"		"La puerta está cerrada. Necesita una llave para abrir"
+	}
+	"11f1b2a2fef94a7cc254c45a2e0c531b"
+	{
+		"en"		"Find a wrench to hack powerbox blastdoor"
+		"es"		"Find a wrench to hack powerbox blastdoor"
+	}
+	"1e9e33447e1ba3a401e94ebfc966eb27"
+	{
+		"en"		"Find a crystal to powerup the generator"
+		"es"		"Find a crystal to powerup the generator"
+	}
+}

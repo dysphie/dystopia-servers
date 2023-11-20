@@ -1,0 +1,189 @@
+"Phrases"
+{
+	"fc08005b637646b592da04168d4f3edc"
+	{
+		"en"		"Push the button"
+		"es"		"Pulsa el botón"
+	}
+	"e65a208718486ab8f104a8f4e7423a45"
+	{
+		"en"		"Build a bridge"
+		"es"		"Construye un puente"
+	}
+	"bafa05ce572622b6924a3dbbe205b114"
+	{
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+	"47dcbd834e669233d7eb8a51456ed217"
+	{
+		"en"		"Music"
+		"es"		"Música"
+	}
+	"c81e728d9d4c2f636f067f89cc14862c"
+	{
+		"en"		"2"
+		"es"		"2"
+	}
+	"c4ca4238a0b923820dcc509a6f75849b"
+	{
+		"en"		"1"
+		"es"		"1"
+	}
+	"527ae3ce7f894f1031770ae2ebfeaddc"
+	{
+		"en"		"text_spawn_glass"
+		"es"		"text_spawn_glass"
+	}
+	"c86f03308c206c6c988237468da5a2d5"
+	{
+		"en"		"text_case_default(Alive player)"
+		"es"		"text_case_default(Alive player)"
+	}
+	"0d0dd377b78ddb3eba39d846c118a69e"
+	{
+		"en"		"text_case16(No Alive player)"
+		"es"		"text_case16(No Alive player)"
+	}
+	"cfd9cc9303b0f63f051d088929e6b0de"
+	{
+		"en"		"Steam ID: jogumok2
+Modified by yomox9
+Welcome to MacheteCraft!!
+Sound: soundeffect-lab http://soundeffect-lab.info/"
+		"es"		"Steam ID: jogumok2
+Modificado por yomox9
+¡Bienvenido a MacheteCraft!
+Sonido: soundeffect-lab http://soundeffect-lab.info/"
+	}
+	"ff331308044266e92afad58f47c6ad29"
+	{
+		"en"		"SCORE +35"
+		"es"		"PUNTAJE +35"
+	}
+	"222b6db159152528d8d62d4cb0b5bce5"
+	{
+		"en"		"SCORE +10"
+		"es"		"PUNTAJE +10"
+	}
+	"5d9ba1af03bff7c55c75968511fb306a"
+	{
+		"en"		"SCORE +40"
+		"es"		"PUNTAJE +40"
+	}
+	"a19595afb82b7bfb57d645bb2419bc10"
+	{
+		"en"		"10 Sec."
+		"es"		"10 Seg."
+	}
+	"c7ec0972b9156eaf3ea007705e37efa4"
+	{
+		"en"		"60 Sec."
+		"es"		"60 Seg."
+	}
+	"903d46eb2f36a4bb97d2864cd2cced86"
+	{
+		"en"		"Difficulty: Suicide"
+		"es"		"Dificultad: Suicidio"
+	}
+	"fc1cb0794c4d4085d0b937522bd3da48"
+	{
+		"en"		"Difficulty: Very Hard"
+		"es"		"Dificultad: Muy Difícil"
+	}
+	"24929fa66666c2053d43259b6a2d6939"
+	{
+		"en"		"Difficulty: Hard"
+		"es"		"Dificultad: Difícil"
+	}
+	"54ff39e55f23660a74ee5b3a74ff151e"
+	{
+		"en"		"Difficulty: Normal"
+		"es"		"Dificultad: Normal"
+	}
+	"6f2ca6347ba89134d030cebb3d3909f0"
+	{
+		"en"		"Difficulty: Easy"
+		"es"		"Dificultad: Fácil"
+	}
+	"c0c7c76d30bd3dcaefc96f40275bdc0a"
+	{
+		"en"		"50"
+		"es"		"50"
+	}
+	"f457c545a9ded88f18ecee47145a72c0"
+	{
+		"en"		"49"
+		"es"		"49"
+	}
+	"642e92efb79421734881b53e1e1b18b6"
+	{
+		"en"		"48"
+		"es"		"48"
+	}
+	"67c6a1e7ce56d3d6fa748ab6d9af3fd7"
+	{
+		"en"		"47"
+		"es"		"47"
+	}
+	"d9d4f495e875a2e075a1a4a6e1b9770f"
+	{
+		"en"		"46"
+		"es"		"46"
+	}
+	"6c8349cc7260ae62e3b1396831a8398f"
+	{
+		"en"		"45"
+		"es"		"45"
+	}
+	"f7177163c833dff4b38fc8d2872f1ec6"
+	{
+		"en"		"44"
+		"es"		"44"
+	}
+	"17e62166fc8586dfa4d1bc0e1742c08b"
+	{
+		"en"		"43"
+		"es"		"43"
+	}
+	"a1d0c6e83f027327d8461063f4ac58a6"
+	{
+		"en"		"42"
+		"es"		"42"
+	}
+	"3416a75f4cea9109507cacd8e2f2aefc"
+	{
+		"en"		"41"
+		"es"		"41"
+	}
+	"d645920e395fedad7bbbed0eca3fe2e0"
+	{
+		"en"		"40"
+		"es"		"40"
+	}
+	"d67d8ab4f4c10bf22aa353e27879133c"
+	{
+		"en"		"39"
+		"es"		"39"
+	}
+	"a5771bce93e200c36f7cd9dfd0e5deaa"
+	{
+		"en"		"38"
+		"es"		"38"
+	}
+	"1b9758e0f1aa274d8a275ca22c2d6b51"
+	{
+		"en"		"-10 sec"
+		"es"		"-10 seg"
+	}
+	"cac69f173cc3ff34032f6c1542de5ee4"
+	{
+		"en"		"Welcome to MacheteCraft!!"
+		"es"		"Bienvenido/a a MacheteCraft!!"
+	}
+	"0ed565eab81bbef02b7f92d37ff45383"
+	{
+		"en"		"Screenshots : C:/Program Files (x86)/Steam/SteamApps/common/nmrih/nmrih/screenshots/"
+		"es"		"Screenshots : C:/Program Files (x86)/Steam/SteamApps/common/nmrih/nmrih/screenshots/"
+	}
+}

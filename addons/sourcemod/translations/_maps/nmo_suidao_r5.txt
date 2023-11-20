@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"c4b53b2884c77eb248cb46cd46c9b1e9"
+	{
+		"en"		"Look for an extinguisher!"
+		"es"		"Encuentra un extintor"
+	}
+	"6d94f5a2e47280bab4539dadbafda452"
+	{
+		"en"		"Author Qun:1057157630 // 2021.03.27"
+		"es"		"Autor Qun:1057157630 // 2021.03.27"
+	}
+	"dea4317ad1a32d5d775865acb68bc9e9"
+	{
+		"en"		"Extinguish the last remaining fire before escaping"
+		"es"		"Apaga rápidamente el último incendio para escapar"
+	}
+	"f8c973f2a21333d135bc4e819f414294"
+	{
+		"en"		"Open the containment gate to the city"
+		"es"		"Abre la puerta de aislamiento del túnel a la ciudad."
+	}
+	"dbb9e8e38ab361465bc8bd4866e6ed2d"
+	{
+		"en"		"Search for the guard's head to open the security door"
+		"es"		"Busque la cabeza del guardia para abrir la puerta de seguridad."
+	}
+	"669aebf474a19625c12fb2499c8a9c66"
+	{
+		"en"		"You have 15 minutes to extinguish the fires by the tankers"
+		"es"		"Tienes 15 minutos para apagar los incendios en los camiones cisterna"
+	}
+	"05b10e4e537c8c519f521051ea823437"
+	{
+		"en"		"Keep moving forward, extinguish the fire and escape from the tunnel"
+		"es"		"Sigue avanzando, apaga el fuego, escapa del túnel"
+	}
+	"8778456c1f78933b7a890414a9adb874"
+	{
+		"en"		"Use C4 to blow up the obstruction, activation code is 7355608"
+		"es"		"Use C4 para quitar los obstáculos, el código de activación es 7355608"
+	}
+	"404f2a80ded492ed531261dc290dbfba"
+	{
+		"en"		"Push the van out of the way"
+		"es"		"Empuja la furgoneta fuera del camino"
+	}
+	"af5f3c5bf7ba498f8c3c63b6bd3ea3c5"
+	{
+		"en"		"Destroy the wooden barricades"
+		"es"		"Destruye la barricadas de madera."
+	}
+	"6c8e4ee1f4a8bb9f1c5e4126e165a4cc"
+	{
+		"en"		"Destroy the barricades with explosives"
+		"es"		"Destruye las barricadas con explosivos."
+	}
+}

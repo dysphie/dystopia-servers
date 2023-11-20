@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"fc415c678d54ad7d519c40c965aefa89"
+	{
+		"en"		"#nmo_lakeside_weld_main_house"
+		"es"		"#nmo_lakeside_weld_main_house"
+	}
+	"03a64b918bea2b44a32243ae36735010"
+	{
+		"en"		"#nmo_lakeside_power_up"
+		"es"		"#nmo_lakeside_power_up"
+	}
+	"7b616d3f550b7faa2a2f6c68e60bdb8e"
+	{
+		"en"		"#nmo_lakeside_use_crank"
+		"es"		"#nmo_lakeside_use_crank"
+	}
+	"5080d52d67d6a35d7515e9b40a5b0259"
+	{
+		"en"		"#nmo_lakeside_find_way_through_tunnel"
+		"es"		"#nmo_lakeside_find_way_through_tunnel"
+	}
+	"225ebbd9db9f0b5e17af0095a08a903e"
+	{
+		"en"		"#nmo_lakeside_turn_dish"
+		"es"		"#nmo_lakeside_turn_dish"
+	}
+	"3022d88327ffc0fc24cb54957966ddbe"
+	{
+		"en"		"#nmo_lakeside_work_out_code"
+		"es"		"#nmo_lakeside_work_out_code"
+	}
+	"e27dd9bf1d9c5e3fe145febe8d918658"
+	{
+		"en"		"#nmo_lakeside_reset_trips_fuel_way"
+		"es"		"#nmo_lakeside_reset_trips_fuel_way"
+	}
+	"2162051736ab778a56975fc4201b246b"
+	{
+		"en"		"#nmo_lakeside_enter_back_short"
+		"es"		"#nmo_lakeside_enter_back_short"
+	}
+	"7f35622b41855d9f11c9987740754bb2"
+	{
+		"en"		"#nmo_lakeside_find_back_door"
+		"es"		"#nmo_lakeside_find_back_door"
+	}
+	"4c36ea02c42528515672a0afc4d1eba5"
+	{
+		"en"		"#nmo_lakeside_fast_way_key"
+		"es"		"#nmo_lakeside_fast_way_key"
+	}
+	"a91d052968cabb09d40cdf93d9a18f60"
+	{
+		"en"		"#nmo_lakeside_weld_computer_room"
+		"es"		"#nmo_lakeside_weld_computer_room"
+	}
+	"98b6e06e2890a6b88ec73087e5f6c090"
+	{
+		"en"		"#nmo_lakeside_fast_way_through"
+		"es"		"#nmo_lakeside_fast_way_through"
+	}
+	"305e9e642b1b839754db22f6930ec9e1"
+	{
+		"en"		"#nmo_lakeside_blow_open_celler"
+		"es"		"#nmo_lakeside_blow_open_celler"
+	}
+	"f26f4ad6755134ed47fdb4d27780fddb"
+	{
+		"en"		"#nmo_lakeside_use_laptop"
+		"es"		"#nmo_lakeside_use_laptop"
+	}
+	"316d1095084caa7abef36b0adc77743f"
+	{
+		"en"		"#nmo_lakeside_fuel_gen"
+		"es"		"#nmo_lakeside_fuel_gen"
+	}
+	"07c9ea1d48ee629c7d398655bd295ffc"
+	{
+		"en"		"#nmo_lakeside_restore_power2"
+		"es"		"#nmo_lakeside_restore_power2"
+	}
+	"18ecb235be51fc88a5e266adb15352aa"
+	{
+		"en"		"#nmo_lakeside_call_help"
+		"es"		"#nmo_lakeside_call_help"
+	}
+	"7c3b48bf69573bee6123fb421ee8597a"
+	{
+		"en"		"#nmo_lakeside_reset_trips"
+		"es"		"#nmo_lakeside_reset_trips"
+	}
+	"1a201ffb7ea45c2d51f9bfe49c251e9c"
+	{
+		"en"		"#nmo_lakeside_find_basement_key"
+		"es"		"#nmo_lakeside_find_basement_key"
+	}
+	"345bf55ceef42dda59d251bb1f96914d"
+	{
+		"en"		"#nmo_lakeside_find_way_back"
+		"es"		"#nmo_lakeside_find_way_back"
+	}
+	"f8ae4c41b2393f52225549f9e778e34a"
+	{
+		"en"		"#nmo_lakeside_restore_power"
+		"es"		"#nmo_lakeside_restore_power"
+	}
+	"4b0907164ed68bb732647a0465c234f8"
+	{
+		"en"		"#nmo_lakeside_test_radio"
+		"es"		"#nmo_lakeside_test_radio"
+	}
+	"db48d2c266c80d067c85c7bfcd90978f"
+	{
+		"en"		"#nmo_lakeside_GarageKey"
+		"es"		"#nmo_lakeside_GarageKey"
+	}
+	"6856f97d4dad99f6cc76400682c50897"
+	{
+		"en"		"#nmo_lakeside_ob_1"
+		"es"		"#nmo_lakeside_ob_1"
+	}
+	"e85eb4f33b68db7bbe7817adfac62a4c"
+	{
+		"en"		"#nmo_lakeside_end"
+		"es"		"#nmo_lakeside_end"
+	}
+}

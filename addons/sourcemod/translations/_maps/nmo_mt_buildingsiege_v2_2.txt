@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"7ddb1f3faed7a14bdb09c4fc4032eaab"
+	{
+		"en"		"Survive for 4 minutes"
+		"es"		"Survive for 4 minutes"
+	}
+	"4771927afd19b553f0a101537b9fd839"
+	{
+		"en"		"Refuel the generator"
+		"es"		"Refuel the generator"
+	}
+	"d10b9d58c0ef0058bb749a169c05df0f"
+	{
+		"en"		"Use hammer to break the board"
+		"es"		"Use hammer to break the board"
+	}
+	"c414d64de36485af33086a17e42315bd"
+	{
+		"en"		"Break the wardrobe"
+		"es"		"Break the wardrobe"
+	}
+	"4abab071183b6456dbb6834c55145bd2"
+	{
+		"en"		"Zombies now will spawn outside the prison"
+		"es"		"Zombies now will spawn outside the prison"
+	}
+	"25d421e31b645959cf13f533da42aa09"
+	{
+		"en"		"No More Roaming Zombie"
+		"es"		"No More Roaming Zombie"
+	}
+	"62d1d0dc8ca4598733c46be6d737e5fc"
+	{
+		"en"		"Press E at The Zombie Spawn Point To Disable It"
+		"es"		"Press E at The Zombie Spawn Point To Disable It"
+	}
+	"e5c28a0177c9cf4198234eb60cf9d674"
+	{
+		"en"		"Map By MasterTrump"
+		"es"		"Map By MasterTrump"
+	}
+	"703b35f4681fa27c1ed13a6f9994cc50"
+	{
+		"en"		"Chainsaw Available"
+		"es"		"Chainsaw Available"
+	}
+	"0d8dca8020a006d3082bea0ed2b6b9c5"
+	{
+		"en"		"Power Cut Off"
+		"es"		"Power Cut Off"
+	}
+	"14142d52e5ebf864f66d590de92390a3"
+	{
+		"en"		"Change Turret's Target"
+		"es"		"Change Turret's Target"
+	}
+	"05a81194feb307e8a7c5f5e035764daf"
+	{
+		"en"		"Key For Console Room"
+		"es"		"Key For Console Room"
+	}
+	"230178b269c750879707b1e34322b8b7"
+	{
+		"en"		"Call The Airdrop"
+		"es"		"Call The Airdrop"
+	}
+	"8e86bada0f7d329dc8e31750fb67b8bc"
+	{
+		"en"		"Key For The Gunlocker"
+		"es"		"Key For The Gunlocker"
+	}
+}

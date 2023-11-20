@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"3d000f1ac2ab5d6f6074b987fb4f1cb5"
+	{
+		"en"		"Wait for the train to arrive"
+		"es"		"Espera a que llegue el tren"
+	}
+	"a95bb481ebc8358a844b68ec58610f4a"
+	{
+		"en"		"replace the battery"
+		"es"		"Cambia la batería"
+	}
+	"8dd7929ae1b8e3146e5ac5189518da12"
+	{
+		"en"		"Restore door power"
+		"es"		"Restablece la energía de la puerta"
+	}
+	"8e825393591b2554ee4b2b7129859f86"
+	{
+		"en"		"Enable door access"
+		"es"		"Activa acceso a la puerta"
+	}
+	"bbd0197602a7f34b8b3854e1f970b5b8"
+	{
+		"en"		"Turn the lights on"
+		"es"		"Prende las luces"
+	}
+	"0075886202f011a120bad818969db871"
+	{
+		"en"		"Created by: AL'sMoonL.Night"
+		"es"		"Creado por: AL'sMoonL.Night"
+	}
+	"0d14c8844bd1dcfb9eab7698ed352748"
+	{
+		"en"		"Thanks for playing!"
+		"es"		"Gracias por jugar!"
+	}
+	"2ef2919befc175e9c3e1d2a01cf6371f"
+	{
+		"en"		"Parody of legendary maps from Shamgrimgrvy"
+		"es"		"Una parodia de mapas legendarios de Shamgrimgrvy"
+	}
+	"22c025ed27dce8b1128637ea275ec019"
+	{
+		"en"		"The end Abstract - Map Hylophobia"
+		"es"		"El final Abstracto - Mapa Hylophobia"
+	}
+	"d930ebfbd875b518ff3f944a54a99821"
+	{
+		"en"		"To be continued in Mnemophobia..."
+		"es"		"Continuará en Mnemophobia..."
+	}
+	"c67e926df645538cdbbe405e50eeea4c"
+	{
+		"en"		"H y l o p h o b i a"
+		"es"		"H y l o p h o b i a"
+	}
+}

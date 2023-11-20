@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"261a456bf1ca0be523508ffc6a64871b"
+	{
+		"en"		"Go to the Radio Station"
+		"es"		"Ve a la Estación de Radio"
+	}
+	"e5d1658f2314f99983d1e43213859abc"
+	{
+		"en"		"Place the explosives on the barrier"
+		"es"		"Coloca los explosivos en la barrera"
+	}
+	"9d7f5cae1d89ff70740a990d6afde9a3"
+	{
+		"en"		"Use the radio to call for help"
+		"es"		"Usa la radio para pedir ayuda"
+	}
+	"26137d49da0abdb1eb605d7f431446c9"
+	{
+		"en"		"Find the key to the transmission room"
+		"es"		"Encuentra la llave para la sala de transmisión"
+	}
+	"1c28307a96e6ef0d793d6dff522fc747"
+	{
+		"en"		"Deactivate the alarm"
+		"es"		"Desactiva la alarma"
+	}
+	"b60083b9b607a2e226ebc88afba182da"
+	{
+		"en"		"Reset the breaker box"
+		"es"		"Reinicia la caja de interruptores"
+	}
+	"a3db3293ad7086a7769d9a6739c158b9"
+	{
+		"en"		"Leave the Warehouse"
+		"es"		"Sal del Almacén"
+	}
+	"19a6decad90272f0558fe296daae4a72"
+	{
+		"en"		"Make your way through the sewers"
+		"es"		"Abre camino a través de las alcantarillas"
+	}
+	"e4249d29271647eb66a52da61875e2b8"
+	{
+		"en"		"Find a ladder to climb over the fence"
+		"es"		"Encuentra una escalera para trepar sobre la cerca"
+	}
+	"a20114afe28ad3f579b7206ecc067801"
+	{
+		"en"		"Get out of the clinic"
+		"es"		"Sal del consultorio"
+	}
+	"8dd996594c5d19f5f1bac6bf135e2cc6"
+	{
+		"en"		"It's broken"
+		"es"		"Está roto"
+	}
+	"398b6b8053b3f77d2a6b58df7da7142c"
+	{
+		"en"		"Something is blocking the door"
+		"es"		"Algo está bloqueando la puerta"
+	}
+	"0a8bc75bebbb992de777d14be907c09e"
+	{
+		"en"		"It's locked from the other side"
+		"es"		"Está cerrado desde el otro lado"
+	}
+	"dd5893e98d033de3ca4ae5a410c977fb"
+	{
+		"en"		"It's missing a valve"
+		"es"		"Le falta una válvula"
+	}
+	"12b71f5b56b190adbed99f3e114c61ec"
+	{
+		"en"		"I need a welder to open this"
+		"es"		"Necesito un soldador para abrir esto"
+	}
+	"cf19aebc1388a250d93c4d715b56eef5"
+	{
+		"en"		"There's no power"
+		"es"		"No hay electricidad"
+	}
+	"79b6c1c8ee351b8aae3ed8233fa5fedd"
+	{
+		"en"		"I must deactivate the alarm first"
+		"es"		"Debo desactivar la alarma primero"
+	}
+	"9f1a3bb47cfe4499329c0303b1e9a8c4"
+	{
+		"en"		"The truck will arrive in one minute. Do your best to stay alive!"
+		"es"		"¡El camión llegará en un minuto. Haz lo posible para mantenerte con vida!"
+	}
+	"310c84044d1c24f08b18c80be1274a45"
+	{
+		"en"		"If you can find any explosives, we'll arrive shortly after it's cleared out."
+		"es"		"Si puedes encontrar explosivos, llegaremos poco después de que se haya despejado."
+	}
+	"5872258dbfe4e0223edf2433c5796958"
+	{
+		"en"		"We can provide you with a rescue truck, but you'll need to do something about that barrier."
+		"es"		"Podemos proporcionarte un camión de rescate, pero tendrás que hacer algo con esa barrera."
+	}
+}

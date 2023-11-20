@@ -1,0 +1,1243 @@
+"Phrases"
+{
+	"edf566344eb9f2cb892e073e70c70181"
+	{
+		"en"		"Destroy the puppet"
+		"es"		"Destruye el maniquí"
+	}
+	"48c1004627195470659d7d2853168cd9"
+	{
+		"en"		"End of the line"
+		"es"		"Final del camino"
+	}
+	"fea064c63b5148e107d90a32e51eb606"
+	{
+		"en"		"The runner has fallen behind"
+		"es"		"El corredor ha quedado atrás"
+	}
+	"efa41966aec070a1afe8e927fd53cee3"
+	{
+		"en"		"To outrun the runner, the train must restore full health, defend until then"
+		"es"		"Para dejar atrás al corredor, el tren debe reponerse completamente. Defiéndelo"
+	}
+	"671ec07c0cd472cbff69936fcc7b5c09"
+	{
+		"en"		"Sit tight for the journey"
+		"es"		"Crúzate de brazos y prepárate para el viaje"
+	}
+	"d157402b1a4e4531457a4f53e1afcd54"
+	{
+		"en"		"Defend the train and fight off the runner, aim for the head"
+		"es"		"Defiende el tren y espanta al corredor, apunta a la cabeza"
+	}
+	"76a4aca34c8a7e327582a79b7706f4ce"
+	{
+		"en"		"Clockwork is now spinning, board the train"
+		"es"		"El reloj está funcionando, aborda el tren"
+	}
+	"1cac974ff19ec8a7d30a1cccd89ba2be"
+	{
+		"en"		"Auto clockwork is ready, activate the engine on the day marked"
+		"es"		"El reloj está preparado, enciende el motor en el día marcado"
+	}
+	"ac91cfb88a44395a40d270cb929c9cb7"
+	{
+		"en"		"Deploy ladder, engine holder, engine and battery in order"
+		"es"		"Instala la escalera, soporte del motor, motor y batería en dicho orden"
+	}
+	"6c460c83fb752fc909528e618e6b864c"
+	{
+		"en"		"Unlock the metal gate"
+		"es"		"Desbloquea la reja"
+	}
+	"667d571d9d39a1dbdadd0d16670fb3d9"
+	{
+		"en"		"Obtain key to the metal gate on the day marked"
+		"es"		"Obtén la llave de la reja en el día marcado"
+	}
+	"ec74d69349ac1068bf89a12e68ec3a63"
+	{
+		"en"		"Obtain janitor key at the security room"
+		"es"		"Obtén la llave del conserje en la cabina de seguridad"
+	}
+	"b9446486fedc8d87828c9d98ee6032fd"
+	{
+		"en"		"Time jump to different day and unlock locked security room"
+		"es"		"Viaja a otro día y desbloquea la cabina de seguridad"
+	}
+	"e0b9bbe49264753f4a7d069f878e165e"
+	{
+		"en"		"Obtain security key on the day marked"
+		"es"		"Obtén la llave de seguridad en el día marcado"
+	}
+	"e0772a9c683333ee22cb61308b697f37"
+	{
+		"en"		"Use the clockwork to travel through time"
+		"es"		"Usa el reloj para viajar en el tiempo"
+	}
+	"6e685481d555f95306cfcf079686223b"
+	{
+		"en"		"Go on further"
+		"es"		"Continúa avanzando"
+	}
+	"d07629976ab41d3dad45b6a6586a97b1"
+	{
+		"en"		"Elevator underloaded, gather 10 mannequins inside elevator then press elevator key"
+		"es"		"Al elevador le falta peso, pon 10 maniquíes dentro de él antes de activarlo"
+	}
+	"73274551508968c530e41b8357aa04fc"
+	{
+		"en"		"Use the elevator"
+		"es"		"Usa el elevador"
+	}
+	"f20430853fe246760fd859ddefab3a0a"
+	{
+		"en"		"Elevator needs a reboot, try using the key in the safe"
+		"es"		"El elevador necesita reiniciarse. Intenta usar la llave en la caja fuerte"
+	}
+	"ad5e036219da8d2533ff165778a6b659"
+	{
+		"en"		"Insert key to reboot the elevator"
+		"es"		"Inserta la llave para reiniciar el ascensor"
+	}
+	"dca7bcbe61bae19727930106f57b96a5"
+	{
+		"en"		"Find a way across upper floor"
+		"es"		"Encuentra un camino a través del piso superior"
+	}
+	"b252ee626e8d2948ba117580c3033a9c"
+	{
+		"en"		"Destroy the watcher"
+		"es"		"Destruye el observador"
+	}
+	"1031381132cb612c064563f884821ab8"
+	{
+		"en"		"Find and kill the watching"
+		"es"		"Encuentra y destruye a los observadores"
+	}
+	"aeda0cf567efee986c3b45c73339042b"
+	{
+		"en"		"Go on"
+		"es"		"Continúa avanzando"
+	}
+	"edcd2d7a36b0dae6886e8aa1ef513805"
+	{
+		"en"		"Go on and find out who else are watching"
+		"es"		"Continúa avanzando e investiga quién mas está observando"
+	}
+	"b48626f8c5eb950c7a36407555846906"
+	{
+		"en"		"You are being watched, find out who"
+		"es"		"Estás siendo observado, descubre por quién"
+	}
+	"84005304846c415381a149bd735cd5d7"
+	{
+		"en"		"Find a way out"
+		"es"		"Encuentra una salida"
+	}
+	"b968e41ced0f461f0dae9174f8df9870"
+	{
+		"en"		"Defeat the guardian"
+		"es"		"Vence al guardián"
+	}
+	"85fd1cb49602494667c07671bc66061a"
+	{
+		"en"		"Destroy 4 children"
+		"es"		"Mata 4 niños"
+	}
+	"58bfd2dec3505fcee079d9f969373ec3"
+	{
+		"en"		"Down the stairwell and through the lower level"
+		"es"		"Baja por la escalera y atraviesa el nivel inferior"
+	}
+	"c8ed55015ae6e5c139466162438839db"
+	{
+		"en"		"Through the sewer"
+		"es"		"Navega las alcantarillas"
+	}
+	"09a9ce127b3ba2e0424cee4d050d7183"
+	{
+		"en"		"Find the code for the codepad"
+		"es"		"Encuentra el código del teclado numérico"
+	}
+	"1c1c52e5868ec8778caab540246532c1"
+	{
+		"en"		"Restore the light fixtures"
+		"es"		"Repara el tablero eléctrico"
+	}
+	"0ed566b6dd392568dabca7366207d735"
+	{
+		"en"		"Find a key to open photo store door"
+		"es"		"Encuentra una llave para abrir la puerta del estudio fotográfico"
+	}
+	"cb9d26759bf98ae3d6e6c1b8cb2523d2"
+	{
+		"en"		"Kill the necrosis"
+		"es"		"Mata a la necrosis"
+	}
+	"aba1d413a74abbcf67cb1e3bdf00293c"
+	{
+		"en"		"Take the elevator up"
+		"es"		"Toma el elevador hacia arriba"
+	}
+	"98ef4aa87f771ae8e637cf9ebbd85438"
+	{
+		"en"		"Light fixture lost power, restore power by plugging battery into powerbox"
+		"es"		"La energía se perdió. Repara el tablero eléctrico"
+	}
+	"b718c06638a6a32f2f274a0adf761951"
+	{
+		"en"		"The scanner needs a keycard, find one"
+		"es"		"El escáner necesita una tarjeta, encuéntrala"
+	}
+	"7d7829a1208829f3068d418c65f566f9"
+	{
+		"en"		"Nothing to see here, go on further"
+		"es"		"Aquí no hay nada, continúa avanzando"
+	}
+	"88e93e467e4f0f0de0309341d222fa83"
+	{
+		"en"		"Restore light fixture"
+		"es"		"Repara el tablero eléctrico"
+	}
+	"86bd4f83afc52da14a6f86ff196148ac"
+	{
+		"en"		"Door locked, need a key"
+		"es"		"La puerta está cerrada, necesita una llave"
+	}
+	"c73a919ff38a1f7d60f78560fe16bfdc"
+	{
+		"en"		"Use a key to switch on powerbox for the rolling gate"
+		"es"		"Usa la llave para encender el tablero eléctrico del portón"
+	}
+	"2e6f6760a72f3f49d4d6c25b7cf00d76"
+	{
+		"en"		"Dimension Collapsed"
+		"es"		"La dimensión colapsó"
+	}
+	"8e5b66ed5e929934bad35b313cd96d6b"
+	{
+		"en"		"Dimension Synchronized"
+		"es"		"La dimensión fue sincronizada"
+	}
+	"bb389bf4febf648b1a5e978171430ae7"
+	{
+		"en"		"Special thanks to: Sebython, Heres Negan, ParkourDeath"
+		"es"		"Gracias a: Sebython, Heres Negan, ParkourDeath"
+	}
+	"4b0bf544f1a7ed7ee3026425cfb40271"
+	{
+		"en"		"Player registration failed! Please report this bug!"
+		"es"		"Registro de jugador fallida! Reportá este error!"
+	}
+	"7a35265b69c3e1bedf4142fa990e3a01"
+	{
+		"en"		"Special thanks to: Y#oshieon, melo3o, WuXin, Ulreth"
+		"es"		"Gracias a: Y#oshieon, melo3o, WuXin, Ulreth"
+	}
+	"f487d793aeaf69b63db0985087399d17"
+	{
+		"en"		"Special thanks to: Chomps, @-Molotov-@, tGA MarijuanaMan"
+		"es"		"Gracias a: Chomps, @-Molotov-@, tGA MarijuanaMan"
+	}
+	"ac31407cd9c6507af2c37fac69edac31"
+	{
+		"en"		"Special thanks to: xkarma123x, PorkChops4Lunch, Kevin,"
+		"es"		"Gracias a: xkarma123x, PorkChops4Lunch, Kevin,"
+	}
+	"812b0032b95f51b64938dfeebbc1f43f"
+	{
+		"en"		"Presented by RhymeOfRime"
+		"es"		"Presentado por RhymeOfRime"
+	}
+	"282f289b4b7cfe32262cff7b775504e9"
+	{
+		"en"		"Chapter Five: End of the line"
+		"es"		"Capítulo 5: Final del camino"
+	}
+	"c1f2d5250928ec8d339ed1ba36166027"
+	{
+		"en"		"Your max health was reset to 100"
+		"es"		"Tu vida máxima fue reiniciada a 100"
+	}
+	"c568c07daad3144b9fa6486dbfd64d04"
+	{
+		"en"		"Spitter +3 point"
+		"es"		"Escupidor +3 puntos"
+	}
+	"9942dc5c3b84c04b047b4e7612399b52"
+	{
+		"en"		"You have lost the chainsaw runner"
+		"es"		"El corredor con la sierra fue dejado atrás"
+	}
+	"12be3413e8b57d39a23c9efe7ed42c05"
+	{
+		"en"		"Let train restore to 100 health"
+		"es"		"Deja que el tren se recupere a 100 de vida"
+	}
+	"3a705c9b9f40b14377143dfcefa18527"
+	{
+		"en"		"Chapter Two: Hostile"
+		"es"		"Capítulo 2: Hostil"
+	}
+	"df39e30c2a6b1ccc47e7f0678d8c4509"
+	{
+		"en"		"Keep out."
+		"es"		"No entrar."
+	}
+	"deb7cf149e57c96e047518db83472b90"
+	{
+		"en"		"Requires a security key."
+		"es"		"Necesita una llave de seguridad."
+	}
+	"a2bf4b5b1c1ec766948e92fa738e4a7a"
+	{
+		"en"		"Suicide Baby +2 point"
+		"es"		"Bebé Suicida +2 puntos"
+	}
+	"d1dff681e9b18e38892cdb0d6ae5453a"
+	{
+		"en"		"Human Flower +5 point"
+		"es"		"Flor Humana +5 puntos"
+	}
+	"3e3a963c6515c9e80a221a4b8e5669b3"
+	{
+		"en"		"Sledge Hammer [15 points]"
+		"es"		"Mazo [15 puntos]"
+	}
+	"13ac03c78a87744a986875fc6619ff76"
+	{
+		"en"		"Pick Axe [15 points]"
+		"es"		"Hacha de Bombero [15 puntos]"
+	}
+	"15b6314f133ec3820d46c59e77044ed5"
+	{
+		"en"		"Grenade [5 points]"
+		"es"		"Granada [5 puntos]"
+	}
+	"8274319615c18ae7378aa1662b0ffcd2"
+	{
+		"en"		"Remington 500 [12 points]"
+		"es"		"Remington 500 [12 puntos]"
+	}
+	"d594fc07c9551251694b5f8dd7b64522"
+	{
+		"en"		"Faceless +3 point"
+		"es"		"Sin Cara +3 puntos"
+	}
+	"f52ac79dd58857073526bae29dc459f3"
+	{
+		"en"		"SKS [15 points]"
+		"es"		"SKS [15 puntos]"
+	}
+	"12cf0b8f59ee105ba7b74022de711a41"
+	{
+		"en"		"Remington 870 [15 points]"
+		"es"		"Remington 870 [15 puntos]"
+	}
+	"caf01fb57d55b8f7e028862d6e689889"
+	{
+		"en"		"Counter-damaged by purple for non-lethal attack"
+		"es"		"Contraatacado por zombi púrpura no hacer daño letal"
+	}
+	"a14418c7d965483a9f6ca46d66ff649e"
+	{
+		"en"		"Purple zombie +1 point"
+		"es"		"Zombi púrpura +1 point"
+	}
+	"dd6ec415d1be503e6f423df403253817"
+	{
+		"en"		"Yellow zombie +0 point"
+		"es"		"Zombi amarillo +0 point"
+	}
+	"dc56a5c8f7d94f7f7375f28d125ba3c2"
+	{
+		"en"		"Red zombie +3 points"
+		"es"		"Zombi rojo +3 puntos"
+	}
+	"a6fecb9e1a7649f6050fe6d1c2ba9640"
+	{
+		"en"		"Half-red zombie +2 points"
+		"es"		"Zombi rojo claro +2 puntos"
+	}
+	"df42394a68c0f60df02309f099056487"
+	{
+		"en"		"Normal zombie +1 point"
+		"es"		"Zombi normal +1 punto"
+	}
+	"e1b40346be9cedef2246b8c644b9ed5d"
+	{
+		"en"		"Need more players at level transition!"
+		"es"		"Se necesitan mas jugadores para cambiar de nivel!"
+	}
+	"128d93fd9d45188f0f7a1e06e111aee0"
+	{
+		"en"		"Ruger [8 points]"
+		"es"		"Ruger [8 puntos]"
+	}
+	"ca616953ac75b44dc1f0339708df62b3"
+	{
+		"en"		"Rugar 25mag [18 points]"
+		"es"		"Ruger Extendida [18 puntos]"
+	}
+	"6e4489b868fa86afd52fa862a73615cd"
+	{
+		"en"		"Increase 5 point cap [15 points]"
+		"es"		"+5 límite de puntos [15 puntos]"
+	}
+	"a31732d603ea7fe06c7638b24c22fb45"
+	{
+		"en"		"You can now earn up to 20 points"
+		"es"		"Ahora puedes ganar hasta 20 puntos"
+	}
+	"e4c4ec6649988f4818e7bcd0f86447ea"
+	{
+		"en"		"You can now earn up to 25 points"
+		"es"		"Ahora puedes ganar hasta 25 puntos"
+	}
+	"2ca8ca5292d32e88e48ca7120409c751"
+	{
+		"en"		"You can now earn up to 30 points (maxed upgrade)"
+		"es"		"Ahora puedes ganar hasta 30 puntos (mejora maximizada)"
+	}
+	"bcc0be745746dafb3f8e755cda9c8e26"
+	{
+		"en"		"Your max health is now 190 (maxed upgrade)"
+		"es"		"Ahora tu vida máxima es 190 (mejora maximizada)"
+	}
+	"cd41ba27d6b35ccabab8a8de8519a6d7"
+	{
+		"en"		"Your max health is now 160"
+		"es"		"Ahora tu vida máxima es 160"
+	}
+	"464abb837f9b34c1e1eabf27b5822de6"
+	{
+		"en"		"Increase 30 max health (reset to base 100 on death) [15 points]"
+		"es"		"+30 de vida máxima (vuelve a 100 si mueres) [15 puntos]"
+	}
+	"78b14dd655ea857e5241651d21fb2f1f"
+	{
+		"en"		"Your max health is now 130"
+		"es"		"Ahora tu vida máxima es 130"
+	}
+	"db9b6efc110a945091dcf6354d7c31cf"
+	{
+		"en"		"Maglite [2 points]"
+		"es"		"Maglite [2 puntos]"
+	}
+	"068a3faeef86691d3b4673a88d257b0b"
+	{
+		"en"		"Ammo 357 10shots [3 points]"
+		"es"		"Ammo 357 10shots [3 puntos]"
+	}
+	"8ee6d52f65c57071fe1b084c28e9d046"
+	{
+		"en"		"Magnum [9 points]"
+		"es"		"Magnum [9 puntos]"
+	}
+	"743872994cb928673fad24c842cc83e9"
+	{
+		"en"		"Winchester [13 points]"
+		"es"		"Winchester [13 puntos]"
+	}
+	"bc263af4383bca778d6a0358a6aba9fe"
+	{
+		"en"		"Purchase successful"
+		"es"		"Compra exitosa"
+	}
+	"0c12e039682881bb8b584b08f2faf01c"
+	{
+		"en"		"You need more points"
+		"es"		"Necesitas mas puntos"
+	}
+	"7a92d787802e567cbf3c40bbf02cc3f9"
+	{
+		"en"		"You have earned point by killing zombie, earn more to buy items on wall"
+		"es"		"Has ganado puntos por matar zombis, gana más para comprar ítems en las paredes"
+	}
+	"1022b4f34c4e672565a2900ad6ef4227"
+	{
+		"en"		"Machete [10 points]"
+		"es"		"Machete [10 puntos]"
+	}
+	"08c084d4cf864bb4c2918993fd877295"
+	{
+		"en"		"Ammo 12gauge 10shells [4 points]"
+		"es"		"Ammo 12gauge 10shells [4 puntos]"
+	}
+	"ead2999f56c6894a155fda8f33529d9f"
+	{
+		"en"		"SV10 [7 points]"
+		"es"		"SV10 [7 puntos]"
+	}
+	"3a3f385bfb6051cbe69d758ae8e0ea66"
+	{
+		"en"		"Ammo 22lr 10shots [2 points]"
+		"es"		"Ammo 22lr 10shots [2 puntos]"
+	}
+	"65df2bd5ae70a1fb49bf79902fa3d54a"
+	{
+		"en"		"Mk III [12 points]"
+		"es"		"Mk III [12 puntos]"
+	}
+	"54ded79f7f3653651864e8845301a25a"
+	{
+		"en"		"Wrench [1 point]"
+		"es"		"Wrench [1 punto]"
+	}
+	"29dbccef1e1f45589ab435fb4e66856b"
+	{
+		"en"		"Hatchet [4 points]"
+		"es"		"Hacha [4 puntos]"
+	}
+	"e0a442c172bd10cf832cbfb6183ef42a"
+	{
+		"en"		"Ammo 762 10shots [5 points]"
+		"es"		"Ammo 762 10shots [5 puntos]"
+	}
+	"945e2fee20fb0d2ba72b327f33b89544"
+	{
+		"en"		"CZ [22 points]"
+		"es"		"CZ [22 puntos]"
+	}
+	"2745a4fc24bb906b58479f659217c8ac"
+	{
+		"en"		"Traincar Health 96"
+		"es"		"Vida del Tren: 96"
+	}
+	"299b21b1ad0fc04850e7ca1510df4e92"
+	{
+		"en"		"Traincar Health 97"
+		"es"		"Vida del Tren: 97"
+	}
+	"cc4f7544c1835a0e394717f5fa0ac494"
+	{
+		"en"		"Traincar Health 98"
+		"es"		"Vida del Tren: 98"
+	}
+	"d57a9ad3fe4a9681d17aad221e0ba390"
+	{
+		"en"		"Traincar Health 99"
+		"es"		"Vida del Tren: 99"
+	}
+	"d53f4e7cf8e155623ffac092e648d9b6"
+	{
+		"en"		"Traincar Health 100"
+		"es"		"Vida del Tren: 100"
+	}
+	"8d6eb65e5baf49a9bb5689bece500520"
+	{
+		"en"		"Traincar Health 80"
+		"es"		"Vida del Tren: 80"
+	}
+	"673b8a253db5a4fc46ee9f177e582cab"
+	{
+		"en"		"Traincar Health 81"
+		"es"		"Vida del Tren: 81"
+	}
+	"548f16d3ee71c5c8eb7a47a60e752f33"
+	{
+		"en"		"Traincar Health 82"
+		"es"		"Vida del Tren: 82"
+	}
+	"9807cc354eb287585f16e86be84fad2f"
+	{
+		"en"		"Traincar Health 83"
+		"es"		"Vida del Tren: 83"
+	}
+	"8ffdb56d1751a820ac3281fc21ea0ade"
+	{
+		"en"		"Traincar Health 84"
+		"es"		"Vida del Tren: 84"
+	}
+	"d68441056dc80a1509c3fb21ff1130a7"
+	{
+		"en"		"Traincar Health 85"
+		"es"		"Vida del Tren: 85"
+	}
+	"25207e737442620aa8eb2f02222021c6"
+	{
+		"en"		"Traincar Health 86"
+		"es"		"Vida del Tren: 86"
+	}
+	"410b92340b5aa8e3562077bd6f4cc6e1"
+	{
+		"en"		"Traincar Health 87"
+		"es"		"Vida del Tren: 87"
+	}
+	"bfa670cc41cd757297bdd34027e525ea"
+	{
+		"en"		"Traincar Health 88"
+		"es"		"Vida del Tren: 88"
+	}
+	"b8d6ddbcf1784e2dad03c5cf9dbfcaba"
+	{
+		"en"		"Traincar Health 89"
+		"es"		"Vida del Tren: 89"
+	}
+	"9bc6762cbf571b547b04ca2319c0888a"
+	{
+		"en"		"Traincar Health 90"
+		"es"		"Vida del Tren: 90"
+	}
+	"2dbbc4fbfe05ac0c9096d70713d27ce2"
+	{
+		"en"		"Traincar Health 91"
+		"es"		"Vida del Tren: 91"
+	}
+	"de2725f3c3d029ebe28796f95e4a9ad6"
+	{
+		"en"		"Traincar Health 92"
+		"es"		"Vida del Tren: 92"
+	}
+	"75cdc594feabd81bb869c2147a29de94"
+	{
+		"en"		"Traincar Health 93"
+		"es"		"Vida del Tren: 93"
+	}
+	"8dc673928f18e55486711fd487434156"
+	{
+		"en"		"Traincar Health 94"
+		"es"		"Vida del Tren: 94"
+	}
+	"0ebce0bd728369eb17291b78a0c95a9c"
+	{
+		"en"		"Traincar Health 95"
+		"es"		"Vida del Tren: 95"
+	}
+	"99585c1c780358027ee544795f56e0f6"
+	{
+		"en"		"Traincar Health 64"
+		"es"		"Vida del Tren: 64"
+	}
+	"96243d698ef7a3984137a2066b92c65c"
+	{
+		"en"		"Traincar Health 65"
+		"es"		"Vida del Tren: 65"
+	}
+	"84656f2bd8404c952281dc25fbf067e1"
+	{
+		"en"		"Traincar Health 66"
+		"es"		"Vida del Tren: 66"
+	}
+	"f6e90e5cd47ed1affcecf10740db56ed"
+	{
+		"en"		"Traincar Health 67"
+		"es"		"Vida del Tren: 67"
+	}
+	"32a0644709fae66eaec6d7491c72e3ce"
+	{
+		"en"		"Traincar Health 68"
+		"es"		"Vida del Tren: 68"
+	}
+	"1d3ca0f70fe538b341a823bc9cd2f61b"
+	{
+		"en"		"Traincar Health 69"
+		"es"		"Vida del Tren: 69"
+	}
+	"81a7a5197af53a6a3c3f7aa81f6f466b"
+	{
+		"en"		"Traincar Health 70"
+		"es"		"Vida del Tren: 70"
+	}
+	"1addd09236b4fce64739428d89bb5b3d"
+	{
+		"en"		"Traincar Health 71"
+		"es"		"Vida del Tren: 71"
+	}
+	"93540d43b3e91b920b9438e47febf88b"
+	{
+		"en"		"Traincar Health 72"
+		"es"		"Vida del Tren: 72"
+	}
+	"d9eb05c7c5be7f57b0035ff566c36db7"
+	{
+		"en"		"Traincar Health 73"
+		"es"		"Vida del Tren: 73"
+	}
+	"7294b23c20e6426566b2564bbe525bc9"
+	{
+		"en"		"Traincar Health 74"
+		"es"		"Vida del Tren: 74"
+	}
+	"4bcadcdaada8d43103863f6ba095f195"
+	{
+		"en"		"Traincar Health 75"
+		"es"		"Vida del Tren: 75"
+	}
+	"60335b6a2e8304bfd7763136511cc439"
+	{
+		"en"		"Traincar Health 76"
+		"es"		"Vida del Tren: 76"
+	}
+	"95ad1b00d4ce18fcc3ce33cd1d222c4f"
+	{
+		"en"		"Traincar Health 77"
+		"es"		"Vida del Tren: 77"
+	}
+	"66ebc75951f9150814be1aa2e4f2d9e7"
+	{
+		"en"		"Traincar Health 78"
+		"es"		"Vida del Tren: 78"
+	}
+	"ce9edf28cbfa2a92a465ffd995a7a058"
+	{
+		"en"		"Traincar Health 79"
+		"es"		"Vida del Tren: 79"
+	}
+	"514ca88ff96ef2be8491885e2c9ce993"
+	{
+		"en"		"Traincar Health 48"
+		"es"		"Vida del Tren: 48"
+	}
+	"b74310f005c0296157357ab1e03b662a"
+	{
+		"en"		"Traincar Health 49"
+		"es"		"Vida del Tren: 49"
+	}
+	"3aa72be84f0fd0d1678254b6a9484842"
+	{
+		"en"		"Traincar Health 50"
+		"es"		"Vida del Tren: 50"
+	}
+	"82a944c09d0bdd2401d0f3581415db5a"
+	{
+		"en"		"Traincar Health 51"
+		"es"		"Vida del Tren: 51"
+	}
+	"fa2f705b687af39cefd6e91fe824117d"
+	{
+		"en"		"Traincar Health 52"
+		"es"		"Vida del Tren: 52"
+	}
+	"a5ec700b722855845fbbd1207fea175f"
+	{
+		"en"		"Traincar Health 53"
+		"es"		"Vida del Tren: 53"
+	}
+	"e8a94a731e2cdc418cf2710960ec3921"
+	{
+		"en"		"Traincar Health 54"
+		"es"		"Vida del Tren: 54"
+	}
+	"6d2c5c0c9fdc078e644147a852fcfda5"
+	{
+		"en"		"Traincar Health 55"
+		"es"		"Vida del Tren: 55"
+	}
+	"a5c9410d13545140dba4d99b3f554722"
+	{
+		"en"		"Traincar Health 56"
+		"es"		"Vida del Tren: 56"
+	}
+	"b024cac1b3883ab6a96f91dab2c94930"
+	{
+		"en"		"Traincar Health 57"
+		"es"		"Vida del Tren: 57"
+	}
+	"e170e413e2ef74278e4049b362a17774"
+	{
+		"en"		"Traincar Health 58"
+		"es"		"Vida del Tren: 58"
+	}
+	"8b902f2994c4f6aab9d0cde44cf8f8a0"
+	{
+		"en"		"Traincar Health 59"
+		"es"		"Vida del Tren: 59"
+	}
+	"4c2e5fa109a75e42a85027d8b7ed97b0"
+	{
+		"en"		"Traincar Health 60"
+		"es"		"Vida del Tren: 60"
+	}
+	"4bbdca0ffe5a106fb252a8c5ca03caa5"
+	{
+		"en"		"Traincar Health 61"
+		"es"		"Vida del Tren: 61"
+	}
+	"fece2bc9bc14a5f15ef881a09189629c"
+	{
+		"en"		"Traincar Health 62"
+		"es"		"Vida del Tren: 62"
+	}
+	"9433d6e4f916a83ccd3312bc13e790ed"
+	{
+		"en"		"Traincar Health 63"
+		"es"		"Vida del Tren: 63"
+	}
+	"ab150978dc2518a23bd73abefd420a0d"
+	{
+		"en"		"Traincar Health 32"
+		"es"		"Vida del Tren: 32"
+	}
+	"51235b05c597a4de7463d8434c60d0f3"
+	{
+		"en"		"Traincar Health 33"
+		"es"		"Vida del Tren: 33"
+	}
+	"87b152be62ca3148038fe8dd6e8d4b9f"
+	{
+		"en"		"Traincar Health 34"
+		"es"		"Vida del Tren: 34"
+	}
+	"afbcb0fda55964a14d9d4090d47dbe2a"
+	{
+		"en"		"Traincar Health 35"
+		"es"		"Vida del Tren: 35"
+	}
+	"ca83ff01f73383925617f2e3ab34aa6f"
+	{
+		"en"		"Traincar Health 36"
+		"es"		"Vida del Tren: 36"
+	}
+	"d1ac52b6820d5911179725d65602a409"
+	{
+		"en"		"Traincar Health 37"
+		"es"		"Vida del Tren: 37"
+	}
+	"0b040f79aabcb93547ce7dd2f5e6a6a5"
+	{
+		"en"		"Traincar Health 38"
+		"es"		"Vida del Tren: 38"
+	}
+	"64f47d21ba524860a04080dad01fc274"
+	{
+		"en"		"Traincar Health 39"
+		"es"		"Vida del Tren: 39"
+	}
+	"d9b40295aabb5f80716503caa5bbd618"
+	{
+		"en"		"Traincar Health 40"
+		"es"		"Vida del Tren: 40"
+	}
+	"84313beaf9949292f7833dad12f84237"
+	{
+		"en"		"Traincar Health 41"
+		"es"		"Vida del Tren: 41"
+	}
+	"347e023838c3c20a94e76010179b0fa8"
+	{
+		"en"		"Traincar Health 42"
+		"es"		"Vida del Tren: 42"
+	}
+	"a17538c177e42aa00e316067d2cfa894"
+	{
+		"en"		"Traincar Health 43"
+		"es"		"Vida del Tren: 43"
+	}
+	"327aa2adc73f9c4b482e4b685aaff3c1"
+	{
+		"en"		"Traincar Health 44"
+		"es"		"Vida del Tren: 44"
+	}
+	"3ea9d2c94c6cf501ec660ac21623fd27"
+	{
+		"en"		"Traincar Health 45"
+		"es"		"Vida del Tren: 45"
+	}
+	"2d46d6b7f558f53e2a0f942f295743ed"
+	{
+		"en"		"Traincar Health 46"
+		"es"		"Vida del Tren: 46"
+	}
+	"06112307c67c58127a01072fa9b951eb"
+	{
+		"en"		"Traincar Health 47"
+		"es"		"Vida del Tren: 47"
+	}
+	"b945a7d8cf84ac17c8ac3ea56fd9ce4a"
+	{
+		"en"		"Traincar Health 16"
+		"es"		"Vida del Tren: 16"
+	}
+	"f66d55e0e0957ff584ddb59a5db91d2b"
+	{
+		"en"		"Traincar Health 17"
+		"es"		"Vida del Tren: 17"
+	}
+	"975ac0f7af72f30b9f5e65b765a4ea84"
+	{
+		"en"		"Traincar Health 18"
+		"es"		"Vida del Tren: 18"
+	}
+	"d6578ecff72701c86ab5d8b7129e6f50"
+	{
+		"en"		"Traincar Health 19"
+		"es"		"Vida del Tren: 19"
+	}
+	"0f5206322d56de663b48b32f406be9b0"
+	{
+		"en"		"Traincar Health 20"
+		"es"		"Vida del Tren: 20"
+	}
+	"3dd083f3d9386ddb22f52a3e9cf39e59"
+	{
+		"en"		"Traincar Health 21"
+		"es"		"Vida del Tren: 21"
+	}
+	"ea57ee87eea8a4b420b35a5a2dabc98e"
+	{
+		"en"		"Traincar Health 22"
+		"es"		"Vida del Tren: 22"
+	}
+	"9b30693a104981f7511388322e08f86a"
+	{
+		"en"		"Traincar Health 23"
+		"es"		"Vida del Tren: 23"
+	}
+	"7eb70b977b2546820ab0cccfdd9880ed"
+	{
+		"en"		"Traincar Health 24"
+		"es"		"Vida del Tren: 24"
+	}
+	"f2411437f8069ea87889d3a1243bd5a8"
+	{
+		"en"		"Traincar Health 25"
+		"es"		"Vida del Tren: 25"
+	}
+	"c2fa295c1faf5bb5169342f71e35b0af"
+	{
+		"en"		"Traincar Health 26"
+		"es"		"Vida del Tren: 26"
+	}
+	"7b67aeea12b55c455831cdac2564c834"
+	{
+		"en"		"Traincar Health 27"
+		"es"		"Vida del Tren: 27"
+	}
+	"62134ddd95eeb880d1f983267b2e26ae"
+	{
+		"en"		"Traincar Health 28"
+		"es"		"Vida del Tren: 28"
+	}
+	"f4c24af124d23b3bb07d7964dc46aea6"
+	{
+		"en"		"Traincar Health 29"
+		"es"		"Vida del Tren: 29"
+	}
+	"94fb058388cf963752f19f4ef4f5418e"
+	{
+		"en"		"Traincar Health 30"
+		"es"		"Vida del Tren: 30"
+	}
+	"1913b9804a7270136f5a992ce14e76a5"
+	{
+		"en"		"Traincar Health 31"
+		"es"		"Vida del Tren: 31"
+	}
+	"4dcfa8084fdbe4bc24c7a787b557a510"
+	{
+		"en"		"Traincar Health 15"
+		"es"		"Vida del Tren: 15"
+	}
+	"52bbab0954e7a24ebcdecf5acec50ae3"
+	{
+		"en"		"Traincar Health 14"
+		"es"		"Vida del Tren: 14"
+	}
+	"ba2604db419cbbe2932bd6515745e971"
+	{
+		"en"		"Traincar Health 13"
+		"es"		"Vida del Tren: 13"
+	}
+	"11edd80bbfe514a0b2148fb235bc9cc1"
+	{
+		"en"		"Traincar Health 12"
+		"es"		"Vida del Tren: 12"
+	}
+	"144d117d3f0d3045abeeb8763256d036"
+	{
+		"en"		"Traincar Health 11"
+		"es"		"Vida del Tren: 11"
+	}
+	"7b4f21e9b63409b3406e076b37b4a257"
+	{
+		"en"		"Traincar Health 10"
+		"es"		"Vida del Tren: 10"
+	}
+	"b9ff40c8efea1a2b34f606e408f1638f"
+	{
+		"en"		"Traincar Health 9"
+		"es"		"Vida del Tren: 9"
+	}
+	"4a16ce44ec6c20be5c81570a7db5f9fc"
+	{
+		"en"		"Traincar Health 8"
+		"es"		"Vida del Tren: 8"
+	}
+	"32c05da4468a54924e81660e77ec162f"
+	{
+		"en"		"Traincar Health 7"
+		"es"		"Vida del Tren: 7"
+	}
+	"54e0b4ed5826b68328fcc708f5592081"
+	{
+		"en"		"Traincar Health 6"
+		"es"		"Vida del Tren: 6"
+	}
+	"63d04336cd5f9b0c2432cfe3fb57cdf0"
+	{
+		"en"		"Traincar Health 5"
+		"es"		"Vida del Tren: 5"
+	}
+	"ec55a41a262679fc1316c6a5cf6c8d19"
+	{
+		"en"		"Traincar Health 4"
+		"es"		"Vida del Tren: 4"
+	}
+	"bf643f906b93cf06d7c9f5fe7e8e23cc"
+	{
+		"en"		"Traincar Health 3"
+		"es"		"Vida del Tren: 3"
+	}
+	"72696135eecff2a886d89d68da71a0c9"
+	{
+		"en"		"Traincar Health 2"
+		"es"		"Vida del Tren: 2"
+	}
+	"f913d87bd61c778ca4429a7783196894"
+	{
+		"en"		"Traincar Health 1"
+		"es"		"Vida del Tren: 1"
+	}
+	"d1aad8dc9a81482c4e3c720af7bd3193"
+	{
+		"en"		"Traincar Health 0"
+		"es"		"Vida del Tren: 0"
+	}
+	"1ab0e1b79821322478ad8cc6c6056e91"
+	{
+		"en"		"Obtained janitor key, you can now open janitor room."
+		"es"		"Llave del conserje obtenida, ahora puedes abrir el cuarto del conserje"
+	}
+	"c6686f19e852fbc76c0d75539207cbac"
+	{
+		"en"		"Obtained security key, you can now open security gates."
+		"es"		"Llave de seguridad obtenida, ahora puedes abrir la reja de seguridad."
+	}
+	"faf7005157efe69fe73714e9f34e1e58"
+	{
+		"en"		"Chapter Four: The Train of Time"
+		"es"		"Capítulo 4: El tren del tiempo"
+	}
+	"6154ead6c2d877a16a857f29935cfd4b"
+	{
+		"en"		"Requires a janitor key."
+		"es"		"Requiere la llave del conserje"
+	}
+	"a51afa8454fa429cead968327b9f3863"
+	{
+		"en"		"Oct 22 2025"
+		"es"		"Oct 22 2025"
+	}
+	"e3ec0f0b1c46c0b868697f31f0318bb9"
+	{
+		"en"		"Oct 21 2025"
+		"es"		"Oct 21 2025"
+	}
+	"70df0bad2bb54cd784c5393b77ec7168"
+	{
+		"en"		"Oct 20 2025"
+		"es"		"Oct 20 2025"
+	}
+	"299f5b1eaa4f86297e1579a10d3b0ca5"
+	{
+		"en"		"Oct 19 2025"
+		"es"		"Oct 19 2025"
+	}
+	"d25db838ab0246081e970505cf31d092"
+	{
+		"en"		"Oct 18 2025"
+		"es"		"Oct 18 2025"
+	}
+	"3908ba142c746662dd74d56ac0457df4"
+	{
+		"en"		"Chapter Three: Time"
+		"es"		"Capítulo 3: Tiempo"
+	}
+	"9c55cc9cdba430c38afdb3a271e9af33"
+	{
+		"en"		"Snap photo [Left click], Zoom adjust [Right click]"
+		"es"		"Tomar foto [Click izquierdo], Ajustar zoom [Click derecho]"
+	}
+	"13bd5b4189ef09e9231f63b2c09a613e"
+	{
+		"en"		"Chapter One: Oblivion"
+		"es"		"Capítulo 1: Olvido"
+	}
+	"25b73921d9a50bad8e78bc964c7e8c48"
+	{
+		"en"		"15 points"
+		"es"		"15 puntos"
+	}
+	"0e0ca76f27b15884c78ad759f30050cc"
+	{
+		"en"		"14 points"
+		"es"		"14 puntos"
+	}
+	"78785d7f0696424c28bcaf774735cbbc"
+	{
+		"en"		"13 points"
+		"es"		"13 puntos"
+	}
+	"eb098e4cc083f10f6af593447d171adc"
+	{
+		"en"		"12 points"
+		"es"		"12 puntos"
+	}
+	"9b0ae70c1fd23db1264f2b6c1459e076"
+	{
+		"en"		"11 points"
+		"es"		"11 puntos"
+	}
+	"2cb7337674721850c04cd46d735dc74c"
+	{
+		"en"		"10 points"
+		"es"		"10 puntos"
+	}
+	"37c69892fd0c5357f87b73b137cd72b0"
+	{
+		"en"		"9 points"
+		"es"		"9 puntos"
+	}
+	"0cfa6b2c407fb4916dc62fa855574bb5"
+	{
+		"en"		"8 points"
+		"es"		"8 puntos"
+	}
+	"dd776ddb5358598e8ba4c2046b41dd5d"
+	{
+		"en"		"7 points"
+		"es"		"7 puntos"
+	}
+	"f50236980a0d411d13858c875e0b597f"
+	{
+		"en"		"6 points"
+		"es"		"6 puntos"
+	}
+	"c2eff488bea7db076d4b37904eec99a8"
+	{
+		"en"		"5 points"
+		"es"		"5 puntos"
+	}
+	"c51f0cc52ed4a172ae9aa82dd86874e4"
+	{
+		"en"		"4 points"
+		"es"		"4 puntos"
+	}
+	"463f5d7e78cde2d4dcae10f3a41d1753"
+	{
+		"en"		"3 points"
+		"es"		"3 puntos"
+	}
+	"ce1d78202555478c862cbe8ee00c4cc3"
+	{
+		"en"		"2 points"
+		"es"		"2 puntos"
+	}
+	"3599fd1768689596291edfc8acd53602"
+	{
+		"en"		"1 point"
+		"es"		"1 punto"
+	}
+	"cff202bd0481cbe0943c37600e16a28e"
+	{
+		"en"		"0 point"
+		"es"		"0 puntos"
+	}
+	"7ec47c89c45a624cb19216a1aa677bdf"
+	{
+		"en"		"30 points"
+		"es"		"30 puntos"
+	}
+	"1c95797d2a137222f771e259381c0d87"
+	{
+		"en"		"29 points"
+		"es"		"29 puntos"
+	}
+	"209ec73c461f5dd4c49d820508529eb8"
+	{
+		"en"		"28 points"
+		"es"		"28 puntos"
+	}
+	"2eb0fc5adb068a1f0091587f87043cf0"
+	{
+		"en"		"27 points"
+		"es"		"27 puntos"
+	}
+	"65b1ce468edc676af1c5033e50d58211"
+	{
+		"en"		"26 points"
+		"es"		"26 puntos"
+	}
+	"00063f6f4e877b667a2508310f19bbfd"
+	{
+		"en"		"25 points"
+		"es"		"25 puntos"
+	}
+	"d3143fab6a505b0621dc4c1f659cb9a2"
+	{
+		"en"		"24 points"
+		"es"		"24 puntos"
+	}
+	"975902031beee98c2201f4c3c5331a9f"
+	{
+		"en"		"23 points"
+		"es"		"23 puntos"
+	}
+	"bfdde05729617c7e19af0fc811ff5c25"
+	{
+		"en"		"22 points"
+		"es"		"22 puntos"
+	}
+	"cd5ba6e50c197f2ce3ad21deaf8258c9"
+	{
+		"en"		"21 points"
+		"es"		"21 puntos"
+	}
+	"24e70a6334e53fad850c356bef3c86c8"
+	{
+		"en"		"20 points"
+		"es"		"20 puntos"
+	}
+	"5c991d4f2db708fd1a7662db7206f5d8"
+	{
+		"en"		"19 points"
+		"es"		"19 puntos"
+	}
+	"3a413f2d2f11f4b23541a26811de3a70"
+	{
+		"en"		"18 points"
+		"es"		"18 puntos"
+	}
+	"7adf22b0f236ea4a9f189e6f8cc5d3a1"
+	{
+		"en"		"17 points"
+		"es"		"17 puntos"
+	}
+	"40e31befaabcd0cc24667fea686b7912"
+	{
+		"en"		"16 points"
+		"es"		"16 puntos"
+	}
+	"e88e29f829b233d29d5e75ad055b88ff"
+	{
+		"en"		"Superx [21 points]"
+		"es"		"Superx [21 puntos]"
+	}
+	"ffd29b6c378e5eee8074cc37d4af8206"
+	{
+		"en"		"Pill [2 points]"
+		"es"		"Pastillas [2 puntos]"
+	}
+	"0c9e1aaa62249967bc4f67291b0c8004"
+	{
+		"en"		"Bandage [3 points]"
+		"es"		"Vendas [3 puntos]"
+	}
+	"10b01105336e0eca4d91481d8ae29b0f"
+	{
+		"en"		"Medic kit [5 points]"
+		"es"		"Botiquín [5 puntos]"
+	}
+}

@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"5a08deb7028ad5faf4a96fb00ff3eaf1"
+	{
+		"en"		"Port by Rogue GarlicBread. Original map by SloppyTrainyard"
+		"es"		"Adaptado por Rogue GarlicBread. Mapa original por SloppyTrainyard"
+	}
+	"7f7fa218901805992903e06e12b51e6e"
+	{
+		"en"		"CHECKPOINT REACHED"
+		"es"		"PUNTO DE CONTROL ALCANZADO"
+	}
+	"199bedda11ac16a4276372225031d5b8"
+	{
+		"en"		"Get to the surface"
+		"es"		"Ve a la superficie"
+	}
+	"826bb30e6bbe54f97d8799cdf4142e4c"
+	{
+		"en"		"Move forward"
+		"es"		"Sigue avanzando"
+	}
+	"96af8ab7f11fb88bf22ff5cb2a03ce03"
+	{
+		"en"		"Survive god's wrath or whatever"
+		"es"		"Sobrevive la ira de dios, o lo que sea"
+	}
+	"e8ebc7da8f6c1dbd5220c902ccbfb971"
+	{
+		"en"		"Time to get some fresh air"
+		"es"		"Hora de tomar aire fresco"
+	}
+	"54aedf2ea89fa0efdbd9854b6af6bbf8"
+	{
+		"en"		"Survive until backup arrives"
+		"es"		"Sobrevive hasta que lleguen los refuerzos"
+	}
+	"dbe83506ecdf566e1e2d24857d336b18"
+	{
+		"en"		"The garage shutters are unpowered, restart the generator"
+		"es"		"El portón no tiene electricidad, reinicia el generador"
+	}
+	"dcef6a174940510b8680c1d065e3ae8f"
+	{
+		"en"		"Open the parking garage's shutters"
+		"es"		"Abre el portón del estacionamiento"
+	}
+	"d565f70419d247bf29511f58b9d2a8a7"
+	{
+		"en"		"A cave! Find a way out."
+		"es"		"Una cueva! Encuentra una salida."
+	}
+}

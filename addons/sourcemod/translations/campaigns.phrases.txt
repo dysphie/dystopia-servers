@@ -1,0 +1,186 @@
+
+"Phrases"
+{
+	"Current Map Continues"
+	{
+		"en"	"The current map continues"
+		"es"	"El mapa actual continúa"
+	}
+
+	"Dead cant rtv"
+	{
+		"en"	"{lightpink}Dead people can't RTV"
+		"es"	"{lightpink}Las personas muertas no pueden hacer RTV"
+	}
+
+
+	"Changing Level To"
+	{
+		"#format" "{1:s}"
+		"en"	"Changing level to {1}"
+		"es"	"Cambiando mapa a {1}"
+	}
+
+	"RTV is already ongoing"
+	{
+		"en"	"{lightpink}A map vote is already in progress"
+		"en"	"{lightpink}Ya hay un voto de mapas activo"
+	}
+
+	"You already rtved"
+	{
+		"en"	"{lightpink}You already voted to change maps, type {hotpink}/nortv{lightpink} to undo it"
+		"es"	"{lightpink}Ya has emitido tu voto, escribe {hotpink}/nocambiar{lightpink} para deshacerlo"
+		"pt"	"{lightpink}Você já votou para mudar de mapa, digite {hotpink}/nortv{lightpink} para desfazer"
+	}
+
+	"Vetoed"
+	{
+		"en"	"(vetoed)"
+		"es"	"(vetado)"
+		"pt"	"(vetado)"
+	}
+
+	"Can't Nominate"
+	{
+		"en"	"{lightpink}Failed to nominate map: "
+		"es"	"{lightpink}Fallo al nominar mapa: "
+		"pt"	"{lightpink}Não foi possível sugerir o mapa: "
+	}
+
+	"RTV is about to start"
+	{
+		"en"	"{lightpink}Vote is about to start"
+		"es"	"{lightpink}Voto de mapas ya está a punto de comenzar"
+		"pt"	"{lightpink}A votação para troca de mapa está prestes a começar"
+	}
+
+	"RTV is currently disabled"
+	{
+		"en"	"{lightpink}RTV is disabled until the next round"
+		"es"	"{lightpink}El voto de mapas está desactivado hasta la próxima ronda"
+		"pt"	"{lightpink}A votação para troca de mapa está desabilitada até a próxima rodada"
+	}
+
+	"Current map"
+	{
+		"en"	"Current map"
+		"es"	"Mapa actual"
+		"pt"	"Mapa atual"
+
+	}
+
+	"Doesn't exist"
+	{
+		"en"	"Doesn't exist"
+		"es"	"No existe"
+		"pt"	"Não existe"
+	}
+
+	"Played recently"
+	{
+		"en"	"Played recently"
+		"es"	"Jugado recientemente"
+	}
+
+	"Already nominated"
+	{
+		"en"	"Already nominated"
+		"es"	"Ya nominado"
+	}
+	"Can't Undo RTV"
+	{
+		"en"	"{lightpink}You haven't voted to change the map"
+		"es"	"{lightpink}No has votado para cambiar el mapa"
+		"pt"	"{lightpink}Você não votou para mudar de mapa"
+	}
+
+	"Veto Only Available During Vote"
+	{
+		"en"	"{lightpink}Veto only available during map votes"
+		"es"	"{lightpink}Veto solo disponible durante votos de mapas"
+	}
+
+	"Admin Enabled RTV"
+	{
+		"#format"	"{1:N}"
+		"en"	"{hotpink}{1}{lightpink} enabled map votes"
+		"es"	"{hotpink}{1}{lightpink} activó votos de mapas"
+		"pt"	"{hotpink}{1}{lightpink} habilitou as votações de mapa"
+	}
+
+	"Admin Disabled RTV"
+	{
+		"#format"	"{1:N}"
+		"en"	"{hotpink}{1}{lightpink} disabled map votes"
+		"es"	"{hotpink}{1}{lightpink} desactivó votos de mapas"
+		"pt"	"{hotpink}{1}{lightpink} desabilitou as votações de mapa"
+	}
+	"Reached Veto Limit"
+	{
+		"#format"	"{1:d}"
+		"en"	"{lightpink}You may only veto maps {hotpink}{1}{lightpink} times per day"
+		"es"	"{lightpink}Solo puedes vetar mapas {hotpink}{1}{lightpink} veces por día"
+		"pt"	"{lightpink}Você só pode vetar mapas {hotpink}{1}{lightpink} vezes por dia"
+	}
+
+	"Player Vetoed Map"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"{lightpink}Someone vetoed {hotpink}{2}"
+		"es"	"{lightpink}Alguien vetó {hotpink}{2}"
+	}
+
+	"RTV Disabled Until Next Round"
+	{
+		"en"	"{hotpink}RTV{lightpink} and {hotpink}restart{lightpink} disabled until next round"
+		"es"	"{hotpink}RTV{lightpink} y {hotpink}restart{lightpink} desactivados hasta la próxima ronda"
+	}
+
+	"Client Nominated"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"{hotpink}{1}{lightpink} nominated {hotpink}{2}"
+		"es"	"{hotpink}{1}{lightpink} nominó {hotpink}{2}"
+	}
+
+	"Client Switched Nomination"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"{hotpink}{1}{lightpink} changed nomination to {hotpink}{2}"
+		"es"	"{hotpink}{1}{lightpink} cambió nominación a {hotpink}{2}"
+	}
+
+	"Nominate Panel Title"
+	{
+		"en"	"Nominate a map"
+		"es"	"Nominar un mapa"		
+	}
+
+	"RTV Starting Soon"
+	{
+		"#format" "{1:d}"
+		"en"	"{hotpink}RTV{lightpink} starts in {hotpink}{1}{lightpink} seconds"
+		"es"	"{hotpink}RTV{lightpink} empieza en {hotpink}{1}{lightpink} segundos"
+	}
+
+	"RTV Panel Title"
+	{
+		"en"	"Pick the next map"
+		"es"	"Vota por el próximo mapa"
+	}
+
+	"Client Did RTV"
+	{
+		"#format"	"{1:N},{2:d},{3:d}"
+		"en"	"{hotpink}{1}{lightpink} wants to change maps ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+		"es"	"{hotpink}{1}{lightpink} quiere cambiar de mapa ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+	}
+
+	"Client retracted RTV"
+	{
+		"#format"	"{1:N},{2:d},{3:d}"
+		"en"	"{hotpink}{1}{lightpink} no longer wants to change maps ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+		"es"	"{hotpink}{1}{lightpink} ya no quiere cambiar de mapa ({hotpink}{2}{lightpink}/{hotpink}{3}{lightpink})"
+	}
+}

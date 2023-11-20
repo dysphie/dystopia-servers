@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"Must Be Alive"
+	{
+		"en"	"You must be alive to use this"
+		"es"	"No disponible para espectadores"
+	}
+
+	"No Points"
+	{
+		"en"	"No points"
+		"es"	"No tienes puntos"
+	}
+
+	"No Upgrades"
+	{
+		"en"	"No upgrades"
+		"es"	"No tienes mejoras"
+	}
+
+	"Wrong Map"
+	{
+		"en"	"This command is only available in nmo_dimension_time"
+		"es"	"Este comando solo está disponible en nmo_dimension_time"
+	}
+
+	"Upgrade No Longer Owned"
+	{
+		"en"	"You no longer own this perk"
+		"es"	"Ya no posees esta mejora"
+	}
+
+	"Points No Longer Owned"
+	{
+		"en"	"You no longer own these points"
+		"es"	"Ya no posees estos puntos"
+	}
+
+	"sm_dim_dropall Usage"
+	{
+		"en"	"Usage: sm_dim_dropall <#userid|name>"
+		"es"	"Uso: sm_dim_dropall <#userid|nombre>"
+	}
+
+	"Drop Points"
+	{
+		"en"	"Drop points"
+		"es"	"Arrojar puntos al piso"
+	}
+
+	"Drop Upgrade"
+	{
+		"en"	"Drop upgrade"
+		"es"	"Arrojar mejora al piso"
+	}
+
+	"Police Vest"
+	{
+		"en"	"Police vest"
+		"es"	"Chaleco blindado"
+	}
+
+	"Speed Boots"
+	{
+		"en"	"Speed boots"
+		"es"	"Botas de velocidad"
+	}
+
+	"Increased Health"
+	{
+		"#format" "{1:d}"
+		"en"	"30+ Max HP ({1}X)"
+		"es"	"+30 de vida ({1}X)"
+	}
+
+	"Increased Points"
+	{
+		"#format" "{1:d}"
+		"en"	"5+ Point cap ({1}X)"
+		"es"	"+5 Puntos máximos ({1}X)"
+	}
+
+	"Inventory Actions"
+	{
+		"en"	"Inventory actions"
+		"es"	"Acciones de inventario"
+	}
+}

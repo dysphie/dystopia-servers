@@ -1,0 +1,213 @@
+"Phrases"
+{
+	"76e8654f7175a9875a9db8af75276700"
+	{
+		"en"		"Push the car out of the way, clear the path"
+		"es"		"Push the car out of the way, clear the path"
+	}
+	"5ebfb7e45b4bcbf82765f6dd4debf4e0"
+	{
+		"en"		"Find the outpost and override the lockdown"
+		"es"		"Find the outpost and override the lockdown"
+	}
+	"cb432f346eb8db35c7b6d7b5e89b9c40"
+	{
+		"en"		"Load up the van"
+		"es"		"Load up the van"
+	}
+	"88c3c880e5789ee4c645a26c649c0e06"
+	{
+		"en"		"Reconnect the power cable for the quarantine gate"
+		"es"		"Reconnect the power cable for the quarantine gate"
+	}
+	"cd6e2eded74087a7752543b1c40c21c6"
+	{
+		"en"		"Find the extinguisher and put out the street fire"
+		"es"		"Find the extinguisher and put out the street fire"
+	}
+	"de5253dd411e0f95c56eec942538a0c0"
+	{
+		"en"		"Push the cart"
+		"es"		"Push the cart"
+	}
+	"efdfc4095b503c0c24d995ed6ee8f369"
+	{
+		"en"		"Attach the hook so Mickey can pull down the fence"
+		"es"		"Attach the hook so Mickey can pull down the fence"
+	}
+	"4777144085da8f80cfc21ebd1811eb16"
+	{
+		"en"		"Use the key to unlock the cell door"
+		"es"		"Use the key to unlock the cell door"
+	}
+	"901c3b7a406756f7f27573016f0ee8a4"
+	{
+		"en"		"Disengage sally port lock"
+		"es"		"Disengage sally port lock"
+	}
+	"ad2c79e99a38c7b431946707a3098654"
+	{
+		"en"		"Locate the keycode for holding area gate"
+		"es"		"Locate the keycode for holding area gate"
+	}
+	"fc4bca1bf875f0f95b4decc374393912"
+	{
+		"en"		"Find the fuse and restore power to the elevator"
+		"es"		"Find the fuse and restore power to the elevator"
+	}
+	"7bf466c2bf79c04fcbe4cdfcbe42a0e9"
+	{
+		"en"		"Use the I.E.D to blow out the precinct window"
+		"es"		"Use the I.E.D to blow out the precinct window"
+	}
+	"ca49a4ca0a3b255d7b03901bc60d40c4"
+	{
+		"en"		"Find the welder to access garage door release"
+		"es"		"Find the welder to access garage door release"
+	}
+	"66629a93830276a162c61bd75956bc63"
+	{
+		"en"		"Break off the lock "
+		"es"		"Break off the lock "
+	}
+	"b33247f2bfc8b359d81910e40fdcd40c"
+	{
+		"en"		"Break out of the apartment block"
+		"es"		"Break out of the apartment block"
+	}
+	"0009467bef4c1cfcf26fd647fb989b31"
+	{
+		"en"		"Loot the Food"
+		"es"		"Loot the Food"
+	}
+	"abfa5e7b32071fa9c8d8813ca64dc3ea"
+	{
+		"en"		"Loot the water"
+		"es"		"Loot the water"
+	}
+	"5c829c0f282ce353d678a430eb516a08"
+	{
+		"en"		"Loot the fuel"
+		"es"		"Loot the fuel"
+	}
+	"896b26c328d33e70196e7267baa26d79"
+	{
+		"en"		"Push the cart to meet Mickey"
+		"es"		"Push the cart to meet Mickey"
+	}
+	"0e90fe19de903aecc60553c94a819d3f"
+	{
+		"en"		"Find the padlock and help Mickey lock the door"
+		"es"		"Find the padlock and help Mickey lock the door"
+	}
+	"48248397cad9fc48d36923b817ed5e52"
+	{
+		"en"		"#nmo_brooklyn_objective27"
+		"es"		"#nmo_brooklyn_objective27"
+	}
+	"3ee479e5ce4e5809f111da0b1c10cdf3"
+	{
+		"en"		"#nmo_brooklyn_objective25"
+		"es"		"#nmo_brooklyn_objective25"
+	}
+	"3899ec7fdeb00e72554b04bd0e643a59"
+	{
+		"en"		"#nmo_brooklyn_objective24"
+		"es"		"#nmo_brooklyn_objective24"
+	}
+	"77de8cea4434e3f765b7c443e4ed8ccd"
+	{
+		"en"		"#nmo_brooklyn_objective26"
+		"es"		"#nmo_brooklyn_objective26"
+	}
+	"622840c44d567649d6c084462b6351f7"
+	{
+		"en"		"#nmo_brooklyn_objective23"
+		"es"		"#nmo_brooklyn_objective23"
+	}
+	"983687b4ba6ca5c09a0de8b5ba4a6992"
+	{
+		"en"		"#nmo_brooklyn_objective19"
+		"es"		"#nmo_brooklyn_objective19"
+	}
+	"096411382a27b10028a230228420b04e"
+	{
+		"en"		"#nmo_brooklyn_objective9"
+		"es"		"#nmo_brooklyn_objective9"
+	}
+	"21c7dd8a1895686f962f97720a1e2694"
+	{
+		"en"		"#nmo_brooklyn_objective18"
+		"es"		"#nmo_brooklyn_objective18"
+	}
+	"eb0fb15dfdb45bf0a7a1df22a31bac2e"
+	{
+		"en"		"#nmo_brooklyn_Objective1"
+		"es"		"#nmo_brooklyn_Objective1"
+	}
+	"130219f6a9a120c9afde9082966bd51f"
+	{
+		"en"		"#nmo_brooklyn_Objective2"
+		"es"		"#nmo_brooklyn_Objective2"
+	}
+	"4a23dc636f8a9d99075e4b5d691b0aba"
+	{
+		"en"		"#nmo_brooklyn_Objective3"
+		"es"		"#nmo_brooklyn_Objective3"
+	}
+	"c8ab157cf2e8a0c3dd6081e6a0b19fa2"
+	{
+		"en"		"#nmo_brooklyn_Objective4"
+		"es"		"#nmo_brooklyn_Objective4"
+	}
+	"edbc6df92d4c6b6359c195954d1de43a"
+	{
+		"en"		"#nmo_brooklyn_Objective5"
+		"es"		"#nmo_brooklyn_Objective5"
+	}
+	"059a699625a9eef88ec4288d9b7d2bab"
+	{
+		"en"		"#nmo_brooklyn_Objective6"
+		"es"		"#nmo_brooklyn_Objective6"
+	}
+	"fa9cdbfe3b88c0fd6c9b1a247953b179"
+	{
+		"en"		"#nmo_brooklyn_Objective8"
+		"es"		"#nmo_brooklyn_Objective8"
+	}
+	"73697f78b4962b3304bbc38362bbff77"
+	{
+		"en"		"#nmo_brooklyn_Objective13"
+		"es"		"#nmo_brooklyn_Objective13"
+	}
+	"6cd443fdf98726a19a8c4e3434813e3a"
+	{
+		"en"		"#nmo_brooklyn_Objective14"
+		"es"		"#nmo_brooklyn_Objective14"
+	}
+	"d9cf55a638973aaeee850113d1714975"
+	{
+		"en"		"#nmo_brooklyn_Objective16"
+		"es"		"#nmo_brooklyn_Objective16"
+	}
+	"3f4df1daf0d6d5599aea21b0949cfbfb"
+	{
+		"en"		"#nmo_brooklyn_Objective17"
+		"es"		"#nmo_brooklyn_Objective17"
+	}
+	"d900279b92d6f0839150dce0ad0db4a9"
+	{
+		"en"		"#nmo_brooklyn_Objective20"
+		"es"		"#nmo_brooklyn_Objective20"
+	}
+	"7b834b0b9ce84dadf61f6d3e34d191a0"
+	{
+		"en"		"#nmo_brooklyn_Objective21"
+		"es"		"#nmo_brooklyn_Objective21"
+	}
+	"6785e78c1cd7654579afc8c974537ca5"
+	{
+		"en"		"#nmo_brooklyn_objective22"
+		"es"		"#nmo_brooklyn_objective22"
+	}
+}

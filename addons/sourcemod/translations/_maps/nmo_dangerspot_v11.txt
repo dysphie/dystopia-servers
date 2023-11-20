@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"a6b913e168eac87f1dd06bcc96e5eae6"
+	{
+		"en"		"Made by Six In Six."
+		"es"		"Hecho por Six In Six."
+	}
+	"0564e12e41094d8cc935624ec933cd28"
+	{
+		"en"		"Escape."
+		"es"		"Escapa."
+	}
+	"6b513a9b17c02bb57903446d69a7ff8d"
+	{
+		"en"		"Turn the valve."
+		"es"		"Gira la manivela."
+	}
+	"34acd6a552013c1b58544be1ffc59be1"
+	{
+		"en"		"Get to the other side."
+		"es"		"Llega hasta el otro lado y apreta el botón"
+	}
+	"501754e230e960f99b1dd0a97a592531"
+	{
+		"en"		"Find a way down."
+		"es"		"Encuentra un camino hacia abajo."
+	}
+	"6c50fef47359683ab585301b7ac897cb"
+	{
+		"en"		"Open the gate."
+		"es"		"Suelda la reja."
+	}
+}

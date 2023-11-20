@@ -1,0 +1,16 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove { "targetname" "sound_st1_1" }
+		$remove { "targetname" "sound_end0_0" }
+		$remove { "targetname" "sound_st2_boss0" }
+		$remove { "targetname" "sound_st2_boss1" }
+		$remove { "targetname" "sound_end0_1" }
+		$remove { "targetname" "sound_st1_2" }
+		$remove { "targetname" "sound_end1_0" }
+		$remove { "targetname" "sound_st1_1" }
+		$remove { "targetname" "sound_st1_0" }
+		$remove { "targetname" "sound_st2_1" }
+	}
+}

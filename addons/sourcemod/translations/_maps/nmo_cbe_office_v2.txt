@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"c2d14c5ab5c889fddaffd6d39ceb9888"
+	{
+		"en"		"You ate the fish, gave you 100 hp."
+		"es"		"Comiste un pez y recuperaste toda tu vida."
+	}
+	"7c1151611215eb60483428f406d3c347"
+	{
+		"en"		"Escape this office."
+		"es"		"Escapa de las oficinas."
+	}
+}

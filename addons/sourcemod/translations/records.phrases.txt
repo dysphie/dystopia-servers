@@ -1,0 +1,70 @@
+"Phrases"
+{
+	"Exit"
+	{
+		"en"	"Exit"
+		"es"	"Salir"
+	}
+	"No Records"
+	{
+		"es"	"No existen récords"
+		"en"	"No records"
+	}
+
+	"Records Title"
+	{
+		"#format" "{1:s},{2:T}"
+		"es"	"Extracciones en {1} ({2})"
+		"en"	"Extractions in {1} ({2})"
+	}
+
+	"Record Entry"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"{1} - {2}"
+		"en"	"{1} - {2}"	
+	}
+
+	"Extracted Message"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:.f}"
+		"es"	"{lightpink}ꕤ {hotpink}{1}{lightpink} se extrajo en {gold}{2}{lightpink} (presencia: {tomato}{4}{lightpink}%%, daño: {tomato}{3}{lightpink})"
+		"en"	"{lightpink}ꕤ {hotpink}{1}{lightpink} extracted in {gold}{2}{lightpink} (presence: {tomato}{4}{lightpink}%%, damage: {tomato}{3}{lightpink})"
+	}
+
+	"time"
+	{
+		"es"	"Menor tiempo"
+		"en"	"Fastest"
+	}
+
+	"damage"
+	{
+		"es"	"Menos daño recibido"
+		"en"	"Least damage taken"
+	}
+
+	"Filter"
+	{
+		"es"	"Filtro"
+		"en"	"Filter"
+	}
+
+	"Full Presence"
+	{
+		"es"	"Presencia total"
+		"en"	"Full presence"
+	}
+
+	"No Presence"
+	{
+		"es"	"Ninguno"
+		"en"	"None"
+	}
+
+	"Sort by"
+	{
+		"es"	"Orden"
+		"en"	"Sort by"
+	}
+}

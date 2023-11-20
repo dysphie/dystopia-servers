@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"14b3fa86bfba3b6f5c792e05247c0f42"
+	{
+		"en"		"select a gate"
+		"es"		"select a gate"
+	}
+	"85ef8953921d3f4cb95b7e085c49f0e9"
+	{
+		"en"		"Blue Gate"
+		"es"		"Blue Gate"
+	}
+	"1100beeb4ca2b39783bd2e769c22b939"
+	{
+		"en"		"Grey gate"
+		"es"		"Grey gate"
+	}
+	"62027664ae0640cba5ad6aae1378fd0f"
+	{
+		"en"		"Rainbow gate"
+		"es"		"Rainbow gate"
+	}
+	"220665f07a5a28d1dfbcea2e3c91fa1d"
+	{
+		"en"		"Purple gate"
+		"es"		"Purple gate"
+	}
+}

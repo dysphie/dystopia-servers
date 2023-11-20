@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"1217750d828c8d92b715cb3c48e8c25f"
+	{
+		"en"		"Fueling up, Leaving in 30 seconds!"
+		"es"		"Fueling up, Leaving in 30 seconds!"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Map by Porkchops4lunch"
+	}
+	"ed9d4a76116dfbc56309e03a1fe7117d"
+	{
+		"en"		"Refuel the RV"
+		"es"		"Refuel the RV"
+	}
+	"79af02d502ffc828b1b51aa0dda60824"
+	{
+		"en"		"Collect Fuel 3/3"
+		"es"		"Collect Fuel 3/3"
+	}
+	"f5830bc356dae6c32dae9ead0e7f490a"
+	{
+		"en"		"Collect Fuel 2/3"
+		"es"		"Collect Fuel 2/3"
+	}
+	"de7196c1ef6a2add7d04dde56bd4c6d1"
+	{
+		"en"		"Collect Fuel 1/3"
+		"es"		"Collect Fuel 1/3"
+	}
+}

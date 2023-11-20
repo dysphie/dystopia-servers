@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"fd0338c18d266f0f3110d5f5d695e3ed"
+	{
+		"en"		"Escape through the sewers"
+		"es"		"Escapa por las alcantarillas"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"b1bf2d1a9b11a567b34691cc09f711ef"
+	{
+		"en"		"Survive until rescue arrives"
+		"es"		"Sobrevive hasta que llegue el rescate"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Pide ayuda"
+	}
+	"dfd3de5eed76c18ebc6c0caf16fd6d68"
+	{
+		"en"		"Look for something useful"
+		"es"		"Encuentra algo útil"
+	}
+	"0439a7781c0f3739f01575a271757923"
+	{
+		"en"		"Navigate the sewers"
+		"es"		"Avanza por las alcantarillas"
+	}
+	"7fc273bb340237471a251939242788c0"
+	{
+		"en"		"Escape the lab"
+		"es"		"Escapa del laboratorio"
+	}
+	"0729b4faa53c2345b68f32ae02141634"
+	{
+		"en"		"Unlock the door with the eye"
+		"es"		"Usa el ojo para abrir la puerta"
+	}
+	"b87e213cc75332036744ae73a1ba3a73"
+	{
+		"en"		"Kill the zombie holding the keycard"
+		"es"		"Mata al zombi con la tarjeta de acceso"
+	}
+	"fdf90d91009e15e54033795f9dc172f0"
+	{
+		"en"		"Unlock the doors with the keycard"
+		"es"		"Abre las puertas con la tarjeta"
+	}
+	"66a24a8ef85feb10a51b9e9df5e90d7d"
+	{
+		"en"		"Clear out the gas"
+		"es"		"Dispersa el gas"
+	}
+}

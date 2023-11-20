@@ -1,0 +1,60 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Keys"
+		{
+			// Thanks: asherkin for helping me understand the Linux inlining!
+
+			// Offsets into Ray_t::m_isRay and Ray_t::m_Extents in CNMRiH_BaseZombie::CanAttackEntity
+			// Function has string "player_pickup"
+			"linux_CanAttackEntity_isRay"    "1672"
+			"linux_CanAttackEntity_ExtentsX" "1682"
+			"linux_CanAttackEntity_ExtentsY" "1696"
+			"linux_CanAttackEntity_ExtentsZ" "1718"
+
+			// Offsets into ray mins/maxs in CNMRiH_BaseZombie::CanAttackEntity
+			// Function has string "player_pickup" and relevant tracehull uses mask 0x400Bu
+			"windows_CanAttackEntity_MinsX" "791"
+			"windows_CanAttackEntity_MinsY" "810"
+			"windows_CanAttackEntity_MinsZ" "821"
+			"windows_CanAttackEntity_MaxsX" "833"
+			"windows_CanAttackEntity_MaxsY" "840"
+			"windows_CanAttackEntity_MaxsZ" "847"
+		}
+
+
+		"Offsets"
+		{
+			"Operating System"
+			{
+				"windows" "0"
+				"linux"	"1"
+			}
+		}
+		"Addresses"
+		{
+			"CNMRiH_BaseZombie::CanAttackEntity"
+			{
+				"windows"
+				{
+					"signature"	"CNMRiH_BaseZombie::CanAttackEntity"
+				}
+				"linux"
+				{
+					"signature"	"CNMRiH_BaseZombie::CanAttackEntity"
+				}
+			}
+		}
+
+		"Signatures"
+		{
+			"CNMRiH_BaseZombie::CanAttackEntity"
+			{
+				"library"	"server"
+				"windows"	"\x53\x8B\xDC\x83\xEC\x08\x83\xE4\xF0\x83\xC4\x04\x55\x8B\x6B\x04\x89\x6C\x24\x04\x8B\xEC\x81\xEC\x28\x01\x00\x00\x56\x57\x8B\x7B\x08"
+				"linux"		"@_ZN17CNMRiH_BaseZombie15CanAttackEntityEP11CBaseEntityP10CGameTrace"
+			}
+		}
+	}
+}

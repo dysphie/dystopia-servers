@@ -1,0 +1,751 @@
+"Phrases"
+{
+	"Requirements - Title"
+	{
+		"#format" "{1:N}"
+		"en"	"Ranking Eligibility for {1}"
+		"es"	"Elegibilidad de Clasificación para {1}"
+	}
+	
+    "Requirement Section - Casual"
+    {
+        "en"    "Casual"
+        "es"    "Casual"
+    }
+    "Requirement - Steam"
+    {
+        "en"    "Steam connection"
+        "es"    "Conexión a Steam"
+    }
+    "Requirement - Ranked Map"
+    {
+        "en"    "Ranked map"
+        "es"    "Mapa registrado"
+    }
+    "Requirement Section - Pro"
+    {
+        "en"    "Pro"
+        "es"    "Pro"
+    }
+    "Requirement - Qualify for Casual"
+    {
+        "en"    "Qualify for Casual"
+        "es"    "Calificar para Casual"
+    }
+    "Requirement - No Deaths"
+    {
+        "en"    "No deaths"
+        "es"    "No morir"
+    }
+    "Requirement - Presence"
+    {
+        "#format" "{1:.f}{2:.2f}"
+        "en"    ">{1}%% presence (current: {2}%%)"
+        "es"    ">{1}%% de presencia (actual: {2}%%)"
+    }
+    "Requirement Section - No Hit"
+    {
+        "en"    "No Damage"
+        "es"    "Sin Daño"
+    }
+    "Requirement - Qualify for Pro"
+    {
+        "en"    "Qualify for Pro"
+        "es"    "Calificar para Pro"
+    }
+	"Requirement - No Damage"
+	{
+    	"en"		"No damage"
+    	"es"		"No sufrir daño"
+	}
+
+	"No Steam"
+	{
+		"en"	"No Steam connection"
+		"es"	"Sin conexión a Steam"
+	}
+
+	"Disabled by admin"
+	{
+		"en"	"Disabled by console"
+		"es"	"Desactivado por consola"
+	}
+
+	"Died This Round"
+	{
+		"en"	"Died this round"
+		"es"	"Muerte esta ronda"
+	}
+
+	"Extraction"
+	{
+		"#format"	"{1:s},{2:s},{3:t},{4:d}"
+		"en"	"{1} finished in {2} ({3} - +{4} pp)"
+	}
+
+	"Mode Info Casual"
+	{
+		"#format"	"{1:d},{2:t}"
+		"en"	"{lightpink}Mode: {lightgreen}Casual ({2}){lightpink} - Points: {lightgreen}{1}"
+		"es"	"{lightpink}Modo: {lightgreen}Casual ({2}){lightpink} - Puntos: {lightgreen}{1}"
+	}
+
+	"Mode Info Ranked"
+	{
+		"#format"	"{1:d}"
+		"en"	"{lightpink}Mode: {gold}Pro{lightpink} - Points: {gold}{1}"
+		"es"	"{lightpink}Modo: {gold}Pro{lightpink} - Puntos: {gold}{1}"
+	}
+
+	"History - Title"
+	{
+		"en"	"Extraction History"
+		"es"	"Historial de Extracciones"
+	}
+
+	"History - Row"
+	{
+		"#format" "{1:s},{2:s},{3:03d}"
+		"en"	"[+{3} pp] {1}, {2}"
+		"es"	"[+{3} pp] {1}, {2}"
+	}
+
+	"History - No Entries"
+	{
+		"en"	"No entries"
+		"es"	"Sin resultados"
+	}
+
+	"Most Completed Campaigns - Title"
+	{
+		"en"	"Most Completed Campaigns"
+		"es"	"Más Mapas Completados"
+	}
+
+	"Most Completed Campaigns - Row"
+	{
+		"#format" "{1:02d},{2:s},{3:d}"
+		"en"	"{1} │ {3} │ {2}"
+		"es"	"{1} │ {3} │ {2}"
+	}
+
+	"Most Completed Campaigns - No Entries"
+	{
+		"en"	"No entries"
+		"es"	"Sin resultados"
+	}
+
+	"Points Info With Reason"
+	{
+		"#format" "{1:d},{2:s},{3:t},{4:t}"
+		"en"	"{lightpink}Points: {2}{1} ({3} · {4})"
+		"es"	"{lightpink}Puntos: {2}{1} ({3} · {4})"
+	}
+
+	"Map Info - Points"
+	{
+		"#format" "{1:d}"
+		"en"	"{lightpink}Points: {green}{1}"
+		"es"	"{lightpink}Puntos: {green}{1}"
+	}
+	
+	"Points Info"
+	{
+		"#format" "{1:d},{2:s},{3:t}"
+		"en"	"{lightpink}Points: {2}{1} ({3})"
+		"es"	"{lightpink}Puntos: {2}{1} ({3})"
+	}
+
+	"Most Time Records - Title"
+	{
+		"en"	"Most Time Records"
+		"es"	"Más Récords de Tiempo"
+	}
+
+	"Most Time Records - Row"
+	{
+		"#format" "{1:02d},{2:s},{3:d}"
+		"en"	"{1} │ {3} │ {2}"
+		"es"	"{1} │ {3} │ {2}"
+	}
+
+	"Most Time Records - No Entries"
+	{
+		"en"	"No entries"
+		"es"	"Sin resultados"
+	}
+
+	"Profile - Title"
+	{
+		"#format"	"{1:s}"
+		"en"	"Profile of {1}"
+		"es"	"Perfil de {1}"
+	}
+
+	"Profile - Unranked"
+	{
+		"en"	"Points rank: Unranked"
+		"es"	"Rango de puntos: Ninguno"
+	}
+
+	"Profile - Rank"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"	"Points rank: {1} of {2}"
+		"es"	"Rango de puntos: {1} de {2}"
+	}
+
+	"Time Records - Row"
+	{
+		"#format" "{1:02d},{2:s},{3:s}"
+		"en"	"{1} │ {3} │ {2}"
+		"es"	"{1} │ {3} │ {2}"
+	}
+
+	"Profile - Rank Points"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"	"Points: {1} ({2} to rank up)"
+		"es"	"Puntos: {1} ({2} para subir)"
+	}
+
+	"Profile - Completion Rate"
+	{
+		"#format"	"{1:d},{2:d},{3:.2f}"
+		"en"	"Completed maps: {1} of {2} ({3}%%)"
+		"es"	"Mapas completados: {1} de {2} ({3}%%)"
+	}
+
+	"Profile - Join Date"
+	{
+		"#format"	"{1:s}"
+		"en"	"Joined: {1}"
+		"es"	"Se unió: {1}"
+	}
+
+	"Profile - Last Seen"
+	{
+		"#format"	"{1:s}"
+		"en"	"Last Seen: {1}"
+		"es"	"Ultima entrada: {1}"
+	}
+
+	"Profile - View Campaigns"
+	{
+		"en"	"View extractions"
+		"es"	"Ver extracciones"
+	}
+
+	"Division - Pro"
+	{
+		"en"	"Pro"
+	}
+
+	"Division - Casual"
+	{
+		"en"	"Casual"
+	}
+
+	"Division - No Dmg"
+	{
+		"en"	"No Damage"
+		"es"	"Sin Daño"
+	}
+
+	"Best Nade - Title"
+	{
+		"en"	"Deadliest Nade"
+		"es"	"Mejor Granada"
+	}
+
+	"Nade Stats"
+	{
+		"#format" "{1:N},{2:d}"
+    	"en"    "{hotpink}{1}{lightpink} killed {hotpink}{2}{lightpink} zombies with an explosive"
+    	"es"    "{hotpink}{1}{lightpink} mató {hotpink}{2}{lightpink} zombis con explosivo"
+	}
+
+	"Time Records - Title"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"Fastest Times for {1}, {2}"
+		"es"	"Tiempos más rápidos en {1}, {2}"
+	}
+
+	"Best Nade - Row"
+	{
+		"#format" "{1:02d},{2:s},{3:d}"
+		"en"	"{1} │ {3} │ {2}"
+		"es"	"{1} │ {3} │ {2}"
+	}
+
+	"Leaderboards - Title"
+	{
+		"en"	"Leaderboards"
+		"es"	"Rankings"
+	}
+
+	"Division Selector"
+	{
+		"#format"	"{1:t}"
+		"en"	"Mode: {1}"
+		"es"	"Modo: {1}"
+	}
+
+	"Most Points - Title"
+	{
+		"en"	"Most Points"
+	}
+
+	"Most Points - Row"
+	{
+		"#format" "{1:02d},{2:s},{3:d}"
+		"en"	"{1} │ {3} │ {2}"
+		"es"	"{1} │ {3} │ {2}"
+	}
+
+	"Top - Most Points"
+	{
+		"en"	"Most Points"
+		"es"	"Más Puntos"
+	}
+
+	"Top - Most Time Records"
+	{
+		"en"	 "Most Time Records"
+		"es"	 "Más Récords de Tiempo"
+	}
+
+	"Top - Best Nade"
+	{
+		"en"	 "Deadliest Nade"
+		"es"	 "Mejor Granada"
+	}
+
+	"Top - Most Completed Campaigns"
+	{
+		"en"	"Most Completed Maps"
+		"es"	"Más Mapas Completados"
+	}
+
+	 "Top - Most Collectibles"
+	 {
+	 	"en"	"Most Collectibles"
+	 	"es"	"Más Coleccionables"
+	 }
+
+	"Best Nade"
+	{
+		"en"	"Best Nade"
+		"es"	"Mejor Granada"
+	}
+
+	"Mode Info With Reason"
+	{
+		"#format"	"{1:s},{2:t},{3:t}"
+		"en"	"{lightpink}Mode: {1}{2} ({3})"
+		"es"	"{lightpink}Modo: {1}{2} ({3})"
+	}	
+
+	"Mode Info"
+	{
+		"#format"	"{1:s}{2:t}"
+		"en"	"{lightpink}Mode: {1}{2}"
+		"es"	"{lightpink}Modo: {1}{2}"
+	}	
+
+	"Not Enough Presence"
+	{
+		"en"	"Not enough presence"
+		"es"	"Insuficiente participación"
+	}
+
+	"Elapsed Time"
+	{
+	 	"#format"	"{1:s}"
+	 	"en"	"{lightpink}Elapsed:{hotpink} {1} "
+	 	"es"	"{lightpink}Transcurrido:{hotpink} {1} "
+	}
+
+	"Record Difference"
+	{
+		"#format"	"{1:t},{2:s},{3:s},{4:s},{5:s}"
+		"en"	"{lightpink}Fastest {2}{1}{lightpink}: {hotpink}{3} {4}({5})"
+		"es"	"{lightpink}Mejor {2}{1}{lightpink}: {hotpink}{3} {4}({5})"
+	}
+
+	"Beat Record"
+	{
+		"#format" "{1:N},{2:d}"
+		"en"	"{gold}{1} {khaki}got {gold}#1{khaki} for {gold}Deadliest Nade"
+		"es"	"{gold}{1} {khaki}obtuvo {gold}#1{khaki} en {gold}Mejor Granada"
+	}
+
+	"Must Be Connected To Steam"
+	{
+		"en"	"You must be connected to Steam to use this command"
+		"es"	"No estás conectado a Steam para usar este comando"
+	}
+
+	"Multiple Names Match"
+	{
+		"en"	"Multiple players match your query"
+		"es"	"Varios resultados"
+	}
+
+	"Campaigns - Row"
+	{
+	 	"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"	"{1}, {2} ({3} × {4})"
+	}
+
+	"View finished maps"
+	{
+		"en"	"View finished maps"
+		"es"	"Ver mapas completados"
+	}
+
+	"Current Campaign"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{lightpink}Map: {hotpink}{1} ({2})"
+		"es"	"{lightpink}Mapa: {hotpink}{1} ({2})"
+	}
+	"Average Time"
+	{
+		"#format"	"{1:s}"
+		"en"	"{lightpink}Avg time: {hotpink}{1}"
+		"es"	"{lightpink}Tiempo promedio: {hotpink}{1}"
+	}
+
+	"No Active Round"
+	{
+		"en"	"No active round"
+		"es"	"Ronda no activa"
+	}
+
+	"Invalid Mode"
+	{
+		"en"	"Invalid map or mode"
+		"es"	"Mapa o modo inválido"
+	}
+
+	"Died"
+	{
+		"en"	"You died"
+		"es"	"Has muerto"
+	}
+	"Spawned Late"
+	{
+		"en"	"Spawned late"
+		"es"	"Unión tardía"
+	}
+	"Player Extracted"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:t},{5:d}"
+		"en"	"{hotpink}{1} {lightpink}finished in {hotpink}{2}{lightpink} {3}({4} · {5} pp)"
+		"es"	"{hotpink}{1} {lightpink}terminó en {hotpink}{2}{lightpink} {3}({4} · {5} pp)"
+	}
+
+	"New Map WR - Casual"
+	{
+		"#format" "{1:s}"
+		"en"	"{gray}{1} {lightgray}beat the {gray}time record (Casual)"
+		"es"	"{gray}{1} {lightgray}batió el {gray}récord de tiempo (Casual)"
+	}
+
+	"New Map WR - Pro"
+	{
+		"#format" "{1:s}"
+		"en"	"{gold}{1} {khaki}beat the {gold}time record (Pro)"
+		"es"	"{gold}{1} {khaki}batió el {gold}récord de tiempo (Pro)"
+	}
+
+	"New Map WR - No Dmg"
+	{
+		"#format" "{1:s}"
+		"en"	"{fuchsia}{1} {orchid}beat the {fuchsia}time record (No Dmg)"
+		"es"	"{fuchsia}{1} {orchid}batió el {fuchsia}récord de tiempo (Sin Daño)"
+	}
+
+	"Info - Unregistered Map"
+	{
+		"en"	"{lightpink}No information available for this map. It's either too new or it sucks ass."
+		"es" 	"{lightpink}No hay información disponible para este mapa. O es muy nuevo o es horrible."
+	}
+
+	"Unauthenticated"
+	{
+		"en"	"No Steam connection"
+	}
+
+	"Unregistered Map"
+	{
+		"en"	"Unregistered map"
+	}
+
+	"Multiple players match this filter"
+	{
+		"en"	"Multiple players match this filter"
+		"es"	"Múltiples jugadores coinciden"
+	}
+	"No Suffix"
+	{
+		"en"	""
+		"es"	""
+	}
+	"WR"
+	{
+		"en"	"{gold}[WR]"
+		"es"	"{gold}[WR]"
+	}
+	"PB"
+	{
+		"en"	"{chocolate}[PB]"
+		"es"	"{chocolate}[PB]"
+	}
+	"Sorting by Damage"
+	{
+		"en"	"Sorted by: Damage taken"
+		"es"	"Ordenados por: Daño recibido"
+	}
+	"Sorting by Time"
+	{
+		"en"	"Sorted by: Quickest"
+		"es"	"Ordenados por: Tiempo"
+	}
+	"Need Steam"
+	{
+		"en"	"{lightpink}Failed to retrieve your Steam ID (Steam is probably under maintenance)"
+		"es"	"{lightpink}Fallo al obtener tu Steam ID (Steam posiblemente esté en mantenimiento)"
+	}
+	"No Records Cuz No MM"
+	{
+		"en"	"No records because this map or mode isn't registered"
+		"es"	"No récords porque este mapa o modo no está registrado"
+	}
+	"Exit"
+	{
+		"en"	"Exit"
+		"es"	"Salir"
+	}
+
+	"Back"
+	{
+		"en"	"Back"
+	}
+
+	"No Records"
+	{
+		"es"	"No existen récords"
+		"en"	"No records"
+	}
+
+	"Top10 Title"
+	{
+		"en"	"Top 10 (Most Points)"
+		"es"	"Top 10 (Most Points)"
+	}
+
+	"Ranked Player Not Found"
+	{
+		"en"	"{lightpink}No results. The player either does not exist or hasn't earned any points"
+		"es"	"{lightpink}No hay resultados. El perfil no existe o no ha ganado puntos"
+	}
+
+	"Most Points Row"
+	{
+		"#format" "{1:d},{2:s},{3:d}"
+		"en"	"#{1}. {2} ({3} pp)"
+		"es"	"#{1}. {2} ({3} pp)"
+	}
+
+	"Campaigns - Title"
+	{
+		"#format" "{1:s},{2:d},{3:d},{4:.f},{5:t}"
+		"en"	"Wins for {1} ({5})\nMaps beaten: {2}/{3} ({4}%%)\n \nMap - Mode (Times x Reward)"
+		"es"	"Victorias de {1} ({5})\nMapas ganados: {2}/{3} ({4}%%)\n \nMapa - Modo (Veces x Puntos)"
+	}
+
+	"Campaign History Title"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"en"	"Wins for {1} on {2} ({3})"
+		"es"	"Victorias de {1} en {2} ({3})"
+	}
+
+	"Campaign History Entry"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en"	"[{1}] {2} ({4} kills, {3} dmg)"
+		"es"	"[{1}] {2} ({4} bajas, {3} daño)"
+	}
+
+	"Personal Records Entry"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en"	"{1} - {2} ({3}x {4})"
+		"es"	"{1} - {2} ({3}x {4})"
+	}
+
+	"Announce Points Rank"
+	{
+		"#format" "{1:s},{2:d},{3:d},{4:s},{5:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}#{2}{lightpink} in {4}Points ({5}){lightpink} with {hotpink}{3}{lightpink} points"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}#{2}{lightpink} en {4}Puntos ({5}){lightpink} con {hotpink}{3}{lightpink} puntos"
+	}
+
+	"Announce Points Unranked"
+	{
+		"#format" "{1:s}{2:s},{3:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}unranked{lightpink} in {2}Points ({3})"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}sin rango{lightpink} en {2}Puntos ({3})"
+	}
+
+	"Ranks - Title"
+	{
+		"#format"	"{1:s}"
+		"en"	"Ranks for {1}"
+		"es"	"Rangos de {1}"
+	}
+
+	"Sharing On Cooldown"
+	{
+		"en"	"{lightpink}Sharing is on cooldown"
+		"es"	"{lightpink}Compartir está en enfriamiento"
+	}
+
+	"Announce Completions Rank"
+	{
+		"#format" "{1:s},{2:d},{3:.1f},{4:s},{5:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}#{2}{lightpink} in {4}Completionist ({5}){lightpink} with {hotpink}{3}%%{lightpink} of all maps completed"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}#{2}{lightpink} en {4}Completista ({5}){lightpink} con el {hotpink}{3}%%{lightpink} de los mapas completados"
+	}
+
+	"Announce Completions Unranked"
+	{
+		"#format" "{1:s}{2:s},{3:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}unranked{lightpink} in {2}Completionist ({3})"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}sin rango{lightpink} en {2}Completista ({3})"
+	}
+
+	"Announce Time Records Rank"
+	{		
+		"#format" "{1:s},{2:d},{3:d},{4:s},{5:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}#{2}{lightpink} in {4}Speedrunner ({5}){lightpink} with {hotpink}{3}{lightpink} active time records"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}#{2}{lightpink} en {4}Speedrunner ({5}){lightpink} con {hotpink}{3}{lightpink} récords de tiempo activos"
+	}
+	
+	"Announce Time Records Unranked"
+	{
+		"#format" "{1:s}{2:s},{3:t}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}unranked{lightpink} in {2}Speedrunner ({3})"
+		"es" "{hotpink}{1}{lightpink} está {hotpink}sin rango{lightpink} en {2}Speedrunner ({3})"
+	}
+
+	"Wins Title"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"Extracciones en {1} ({2})"
+		"en"	"Extractions in {1} ({2})"
+	}
+
+	"Record Entry"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"{1} - {2}"
+		"en"	"{1} - {2}"
+	}
+
+	"Campaign Entry"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"{1} ({2})"
+		"en"	"{1} ({2})"
+	}
+
+	"Player Won"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"es"	"{hotpink}{1}{lightpink} ganó en {hotpink}{2}{3}"
+		"en"	"{hotpink}{1}{lightpink} won in {hotpink}{2}{3}"
+	}
+
+	"time"
+	{
+		"es"	"Menor tiempo"
+		"en"	"Fastest"
+	}
+
+	"damage"
+	{
+		"es"	"Menos daño recibido"
+		"en"	"Least damage taken"
+	}
+
+	"Filter"
+	{
+		"es"	"Filtro"
+		"en"	"Filter"
+	}
+
+	"Full Presence"
+	{
+		"es"	"Presencia total"
+		"en"	"Full presence"
+	}
+
+	"No Presence"
+	{
+		"es"	"Ninguno"
+		"en"	"None"
+	}
+
+	"Sort by"
+	{
+		"es"	"Orden"
+		"en"	"Sort by"
+	}
+
+	"Just now"
+	{
+		"en"	"Just now"
+		"es"	"Ahora"
+	}
+
+	"Minutes Ago"
+	{
+		"#format" "{1:d}"
+		"en"	"{1} minutes ago"
+		"es"	"hace {1} minutos"
+	}
+
+	"Hours Ago"
+	{
+		"#format" "{1:d}"
+		"en"	"{1} hours ago"
+		"es"	"hace {1} horas"
+	}
+
+	"Months Ago"
+	{
+		"#format" "{1:d}"
+		"en"	"{1} months ago"
+		"es"	"hace {1} meses"
+	}
+
+	"Days Ago"
+	{
+		"#format" "{1:d}"
+		"en"	"{1} days ago"
+		"es"	"hace {1} días"
+	}
+
+	"Years Ago"
+	{
+		"#format" "{1:d}"
+		"en"	"{1} years ago"
+		"es"	"hace {1} años"
+	}
+
+}

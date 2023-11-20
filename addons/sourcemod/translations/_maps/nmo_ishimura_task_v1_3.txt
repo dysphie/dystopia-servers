@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"c3c7e492b51b499205b4eb3d323b11ee"
+	{
+		"en"		"Use the control panel"
+		"es"		"Usa el panel de control"
+	}
+	"a5699a11b5bc0de2e571b94ddb7b3942"
+	{
+		"en"		"Go to the tram maintenance facility"
+		"es"		"Ve al área de mantenimiento del monorriel"
+	}
+	"0092062d3e4b5f68312458a90a3a0181"
+	{
+		"en"		"Leave the warehouse"
+		"es"		"Sal del depósito"
+	}
+	"bfca6f6acd0af614b82aabfd3ce0d36e"
+	{
+		"en"		"Move the Red Marker to the freight platform"
+		"es"		"Mueve la Efigie Roja hasta su plataforma de carga"
+	}
+	"e7247313a8f6a19da20693189847bb8b"
+	{
+		"en"		"Use the crane to move containers to the cargo platforms until you find the Red Marker"
+		"es"		"Utiliza la grúa para mover contenedores a las plataformas de carga hasta encontrar la Efigie Roja"
+	}
+	"9d3a3dc0dbbe983f0e69725ef659f6eb"
+	{
+		"en"		"Take the elevator"
+		"es"		"Toma el ascensor"
+	}
+	"bb22acb573e44e74eea116b86bc71eaf"
+	{
+		"en"		"Go to the warehouse"
+		"es"		"Ve al depósito"
+	}
+	"5fc53a71496a6245826d6e41fb57de61"
+	{
+		"en"		"Go to the tram tunnel and bypass the door lock"
+		"es"		"Ve al túnel del monorriel y evade el bloqueo de la puerta"
+	}
+	"273e93830e6ec1fc506cce85234df0e1"
+	{
+		"en"		"Install replacement parts"
+		"es"		"Coloca los repuestos"
+	}
+	"adc2c1bae5335bc739741daf5f6d9574"
+	{
+		"en"		"Leave the tram tunnel"
+		"es"		"Sal del túnel del monorriel"
+	}
+	"f11e4a39ba02725ae285424f95326d43"
+	{
+		"en"		"Keep moving"
+		"es"		"Sigue avanzando"
+	}
+	"fcc409451b1425fd9cb60eb7dfc72953"
+	{
+		"en"		"Get to the tram tunnel"
+		"es"		"Ve al túnel del monorriel"
+	}
+	"a8a02b00be8da00f042332aacba50933"
+	{
+		"en"		"Leave corridor 1"
+		"es"		"Sal del pasillo 1"
+	}
+	"bd70135e544a618db14dec8d47631f3b"
+	{
+		"en"		"Go to corridor 1"
+		"es"		"Entra al pasillo 1"
+	}
+	"7781529e59af8ea54bfd3e3dfd2c7b11"
+	{
+		"en"		"Pick up control panel replacement parts"
+		"es"		"Toma los repuestos para el panel de control"
+	}
+	"054e14bd1c93252a9de3768f76ffcce3"
+	{
+		"en"		"Collect 3 ID cards to unlock the office"
+		"es"		"Recoge 3 tarjetas de identificación para desbloquear la oficina"
+	}
+	"8f35bee64dc3c5286412ac55ebafc946"
+	{
+		"en"		"Check if the office is locked"
+		"es"		"Comprueba si la oficina está cerrada"
+	}
+	"8c573dc734ceda0a4115b320a7372ca8"
+	{
+		"en"		"Use the elevator"
+		"es"		"Opera el ascensor"
+	}
+	"4aad13d14fe25e4e94c8ed1cd28a431f"
+	{
+		"en"		"Take the elevator to the maintenance facility"
+		"es"		"Toma el ascensor para ir al área de mantenimiento"
+	}
+	"1da89a6db8b1d19c09ad3d9eeff17018"
+	{
+		"en"		"Leave the tram control room"
+		"es"		"Sal de la sala de control del monorriel"
+	}
+	"e2669d8ed369c530bb50242a9a6b1bd2"
+	{
+		"en"		"Check the control panel"
+		"es"		"Revisa el panel de control"
+	}
+	"87e19685daebb2f702a35ab8eaf72a67"
+	{
+		"en"		"Go to the tram control room"
+		"es"		"Ve a la sala de control del monorriel"
+	}
+	"19835e26b29b193b18e7d9a760edcf82"
+	{
+		"en"		"Use the elevator"
+		"es"		"Usa el ascensor"
+	}
+	"8e468394c01b7245a0597e04c2f64213"
+	{
+		"en"		"Access maintenance tunnel"
+		"es"		"Accede al túnel de mantenimiento "
+	}
+	"adf863af62514fc4d1c52f401aae1450"
+	{
+		"en"		"Use the control panel and wait until the security lockdown is over"
+		"es"		"Usa el panel de control y espera a que se apague el bloqueo"
+	}
+	"30524b1f0429a48cd11ecb8932b1f9c9"
+	{
+		"en"		"Go to the flight lounge"
+		"es"		"Accede al área de embarque"
+	}
+	"5f0feb3246ae9a3718f758aec40dae68"
+	{
+		"en"		"Operate the spaceship controller"
+		"es"		"Usa los controles de la nave espacial"
+	}
+	"a7d0c8285596b3ab8de90d29ab0ed6ef"
+	{
+		"en"		"Leave the spaceship loading and unloading area"
+		"es"		"Sal del área de carga y descarga de la nave espacial"
+	}
+	"56a67c713badefa3a8960ab675c48ff9"
+	{
+		"en"		"Use the control panel"
+		"es"		"Usa el panel de control"
+	}
+	"69d66d08bcefad6ffc5e49964d1dcb6d"
+	{
+		"en"		"Go to the control room"
+		"es"		"Ve a la sala de control"
+	}
+	"38bdc3875a3da6c38e0fea60db1448a2"
+	{
+		"en"		"Open the maintenance door"
+		"es"		"Abre la puerta de mantenimiento"
+	}
+	"155fa66d49ce3747ae6564e04e1883d3"
+	{
+		"en"		"Press the button"
+		"es"		"Pulsa el botón"
+	}
+	"0024262c58e7758c5f37ada36b88791b"
+	{
+		"en"		"Map made by PENGUIN S and WUXIN"
+		"es"		"Mapa hecho por PENGUIN S y WUXIN"
+	}
+}

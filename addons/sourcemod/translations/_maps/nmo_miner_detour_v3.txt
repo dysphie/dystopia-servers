@@ -1,0 +1,143 @@
+"Phrases"
+{
+	"9d7199eec4d936d8bf54e1cbd8c2298a"
+	{
+		"en"		"The chopper will be here in 5 minutes! Survive!"
+		"es"		"¡El helicóptero estará aquí en 5 minutos! ¡Sobrevive!"
+	}
+	"f4fc8899c2ed07a55ec804952f1de471"
+	{
+		"en"		"Launch a firework to signal your position"
+		"es"		"Lanza un fuego artificial para señalar tu posición."
+	}
+	"735f100a6572a0be44a906667abed99c"
+	{
+		"en"		"Find a radio to call for help"
+		"es"		"Encuentra una radio para pedir ayuda."
+	}
+	"7f4141068a9044f8eec0ec89923bf3c8"
+	{
+		"en"		"Make your way to the other side of the mine"
+		"es"		"Avanza hacia el otro lado de la mina."
+	}
+	"2140b2e87455d76886dccf227350940c"
+	{
+		"en"		"The brakes are working again, wait for the train to stop."
+		"es"		"Los frenos están funcionando de nuevo. Espera a que el tren se detenga."
+	}
+	"7edbcd5f76a5ca805c5dda0650dcaa97"
+	{
+		"en"		"The brakes have broken, repair them."
+		"es"		"Los frenos se han roto. Repáralos."
+	}
+	"d229e779cc4913334ebd607f426e94cd"
+	{
+		"en"		"Use the brakes to stop the train."
+		"es"		"Usa los frenos para detener el tren."
+	}
+	"0d184aa93b4196ec042395f25511adab"
+	{
+		"en"		"Reach the locomotive to stop the train."
+		"es"		"Alcanza la locomotora para detener el tren."
+	}
+	"dbf56a2bd8f9c385141a25cae7e6f2ca"
+	{
+		"en"		"The fire is blocking the way, find a way around."
+		"es"		"El fuego está bloqueando el camino. Busca una manera de rodearlo."
+	}
+	"2691e68a61a4c06dc4d3544cf77840cd"
+	{
+		"en"		"The tesla gun have been recharged and got 50 charges."
+		"es"		"El arma tesla ha sido recargada y ahora tiene 50 cargas."
+	}
+	"1c9c23a84e0057fc7d65ed1fa54d1903"
+	{
+		"en"		"This cog seems to be welded, i need to find a way to break it."
+		"es"		"Este engranaje parece estar soldado. Necesito encontrar una manera de romperlo."
+	}
+	"ac2eb81d893a1fafc8bc00dd3169ca32"
+	{
+		"en"		"The tesla gun got 10 charges."
+		"es"		"El arma tesla tiene 10 cargas"
+	}
+	"88fc3918af310bde6460a4f14d75007e"
+	{
+		"en"		"The tesla gun got 20 charges."
+		"es"		"El arma tesla tiene 20 cargas"
+	}
+	"f56ae9761592ddb01181a0f8cba8f5fd"
+	{
+		"en"		"The tesla gun got 30 charges."
+		"es"		"El arma tesla tiene 30 cargas"
+	}
+	"db45f8f9bf53d27b62bfe8a5129e0565"
+	{
+		"en"		"The tesla gun got 40 charges."
+		"es"		"El arma tesla tiene 40 cargas"
+	}
+	"017207444b2f785788533e6c3a744335"
+	{
+		"en"		"You got 50 charges. Wield a pistol to have the best view."
+		"es"		"Tienes 50 cargas. Equipa una pistola para tener la mejor vista"
+	}
+	"51e2ea8e12835beafe1e22f4cdce1eda"
+	{
+		"en"		"Kill all the zombies before moving to the next coach!"
+		"es"		"Mata a todos los zombis antes de avanzar al otro vagón"
+	}
+	"658c7b12814ab5030bbf34f4f274062b"
+	{
+		"en"		"Maybe if i get the minecart to hit this door i can break it open."
+		"es"		"Quizás si hago que el vagón de la mina golpee esta puerta, pueda abrirla."
+	}
+	"e7cff04ec1a61b01f2160deda13d191a"
+	{
+		"en"		"Keep the use key (E) pressed on the wheels to make them rotate."
+		"es"		"Presiona E en los engranajes para rotarlos."
+	}
+	"6c1b7bf887f604b9dd605c53c6edb93c"
+	{
+		"en"		"You got 30 more seconds of fuel."
+		"es"		"Te quedan 30 segundos de gasolina."
+	}
+	"26b462e8e039d89e35f8fbb033a01290"
+	{
+		"en"		"You got 1 more minute of fuel."
+		"es"		"Te queda 1 minuto de gasolina."
+	}
+	"b41e52d995dd4bdab4fe1c644027a1d4"
+	{
+		"en"		"Lets burn some zombies! The fuel will last 2 minutes. Wield a pistol of some kind to have the best view."
+		"es"		"¡Vamos a quemar zombis! La gasolina durará 2 minutos. Equipa una pistola para ver mejor."
+	}
+	"c973b3649f53422959dca7b8b8ae204a"
+	{
+		"en"		"Eating bread did give you full HP!"
+		"es"		"Comer pan te dio vida completa"
+	}
+	"87054d816bcf3d34b8d35bf351581bba"
+	{
+		"en"		"Radio: Allright, i've seen the firework, we will be there in 5 minutes!"
+		"es"		"Radio: Vimos los fuegos artificiales ¡Estaremos allí en 5 minutos!"
+	}
+	"60ffa3bd0b55cf8ac9a3be60cbe0616d"
+	{
+		"en"		"Radio: Some survivors? Nice! Signal your position and we will pick you up!"
+		"es"		"Radio: ¿Hay supervivientes? ¡Genial! Señalen su posición y los recogeremos."
+	}
+	"f2d7a3313e7f4fd839efd49f44713862"
+	{
+		"en"		"This trapdoor is too high."
+		"es"		"Esta trampilla está demasiado alta."
+	}
+	"5d6c032339dd6b91ea5c4d42fa37634b"
+	{
+		"en"		"This door seems locked from the other side."
+		"es"		"Esta puerta parece estar cerrada desde el otro lado."
+	}
+	"807b3996e4172a564c7e0364cc2a9148"
+	{
+		"en"		"This chest is too heavy to be moved."
+		"es"		"Este cofre es demasiado pesado para ser movido."
+	}
+}

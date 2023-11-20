@@ -1,0 +1,44 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CSpatialPartition::EnumerateElementsAlongRay"
+			{
+				"library"	"engine"
+				"linux"	"@_ZN17CSpatialPartition25EnumerateElementsAlongRayEiRK5Ray_tbP20IPartitionEnumerator"
+			}
+		}
+
+		"Functions"
+        {
+            "CSpatialPartition::EnumerateElementsAlongRay"
+            {
+                "signature"  "CSpatialPartition::EnumerateElementsAlongRay"
+                "callconv"  "thiscall"
+                "return"  "void"
+                "this"  "ignore"
+                "arguments"
+                {
+                    "param1"
+                    {
+                        "type"  "int"
+                    }
+                    "param2"
+                    {
+                        "type"  "int"
+                    }
+                    "param3"
+                    {
+                        "type"  "bool"
+                    }
+                    "param4"
+                    {
+                        "type"  "objectptr"
+                    }
+                }
+            }
+        }		
+	}
+}

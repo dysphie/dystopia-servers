@@ -1,0 +1,105 @@
+"Phrases"
+{
+	"Are You Sure Ban Style"
+	{
+		"en"	"Are you SURE you want to enable Ban mode?\nIf you die or fail to get extracted, you will be banned\nProceed?"
+		"es"	"Estas SEGURO/A que quieres activar el modo ban?\nSi mueres o no te extraes, recibirás un BAN por la duración de la partida\nContinuar?"
+	}
+	"Confirm Ban Style No"
+	{
+		"en"	"No, I'm scared."
+		"es"	"No, tengo miedo."
+	}
+	"Confirm Ban Style Yes"
+	{
+		"en"	"Yes."
+		"es"	"Si."
+	}
+	"Can't Toggle Outside of Circle"
+	{
+		"en"	"You can't toggle modes after leaving your spawn circle"
+		"es"	"No puedes cambiar modos luego de salir del spawn"
+	}
+
+	"Already Have Style"
+	{
+		"en"	"You already have this mode assigned"
+		"es"	"Ya tienes este modo asignado"
+	}
+
+	"Explain Circle"
+	{
+		"en"	"Limited to 3 ft from your initial spawn\nIt cannot be modified once you leave that radius"
+		"es"	"Limitada a un metro del spawn inicial\nNo se puede cambiar una vez que sales de ese radio"
+	}
+
+	"Style Menu Title"
+	{
+		"en"	"Mode Selection"
+		"es"	"Selección de modos"
+	}
+
+	"Client Enabled Manual Style"
+	{
+		"#format" "{1:N},{2:t}"
+		"en"	"{hotpink}{1}{lightpink} enabled {2} {lightpink}mode on themselves"
+		"es"	"{hotpink}{1}{lightpink} activó modo {2} {lightpink}en su personaje"
+	}
+	
+	"Client Removed Manual Style"
+	{
+		"#format" "{1:N},{2:t}"
+		"en"	"{hotpink}{1}{lightpink} disabled {2} {lightpink}mode on themselves"
+		"es"	"{hotpink}{1}{lightpink} desactivó modo {2} {lightpink}en su personaje"
+	}
+
+	"Failed Ban Mode Kick Message"
+	{
+		"#format" "{1:s}"
+		"en"	"You failed Ban mode"
+		"es"	"Fallaste el modo Ban"
+	}
+
+	"Failed Ban Mode"
+	{
+		"#format" "{1:N},{2:t},{3:s}"
+		"en"	"{hotpink}{1}{lightpink} failed {2}{lightpink} mode and received a temporary ban that expires in {hotpink}{3}"
+		"es"	"{hotpink}{1}{lightpink} falló el modo {2}{lightpink} y recibió un ban temporal que expira en {hotpink}{3}"
+	}
+
+	"Moved Too Much"
+	{
+		"en"	"Manual modes only available at start of match, within 50 units of spawn."
+		"es"	"Solo puedes activar modos al comienzo de la partida sin moverte"
+	}
+
+	"STYLE_NOSHOVE"
+	{
+		"en"	"{haunted}No Shove"
+		"es"	"{haunted}No Empuje"
+	}
+	"STYLE_BAN"
+	{
+		"en"	"{fullred}Ban"
+	}
+
+	"STYLE_LOWSTAM"
+	{
+		"en"	"{coral}Low Stamina"
+		"es"	"{coral}Baja Estamina"
+	}
+
+	"STYLE_NODMG"
+	{
+		"en"	"{fuchsia}No Hit"
+	}
+	"STYLE_RANKED"
+	{
+		"en" "{green}Normal"
+	}
+	"STYLE_CASUAL"
+	{
+		"en"	"{plum}Casual"
+	}
+
+}

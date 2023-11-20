@@ -1,0 +1,161 @@
+"Phrases"
+{
+	"fd0f202cd265fba7e878061290b20fc6"
+	{
+		"en"		"Hold out until help arrives"
+		"es"		"Sobrevive hasta que llegue el rescate"
+		"pt"		"Sobreviva até que o resgate chegue"
+	}
+	"ddf6517afeaf948a0fc4593d1279717a"
+	{
+		"en"		"Find a computer at the police station to call for help"
+		"es"		"Encuentra una computadora en la comisaría para pedir ayuda"
+		"pt"		"Encontre um computador na delegacia para pedir ajuda"
+	}
+	"a0aac80608bc71a67d0b6a435ff650da"
+	{
+		"en"		"Wait until the gate is open and pick up the keys"
+		"es"		"Espera a que se abra el portón y toma las llaves"
+		"pt"		"Espere até que o portão esteja aberto e pegue as chaves"
+	}
+	"2fc79f7d11b25efddcd713bcb182af7d"
+	{
+		"en"		"Explore the subway in search of something useful"
+		"es"		"Encuentra algo útil en el subte"
+		"pt"		"Explore o metrô em busca de algo útil"
+	}
+	"f0908b1a432850e2003c03ea326d68b9"
+	{
+		"en"		"The radio is not working, go down through the subway"
+		"es"		"La radio no funciona, baja por el subte"
+		"pt"		"O rádio não está funcionando, desça pelo metrô"
+	}
+	"1b921c185d7a2e8116dc84c6c5840c13"
+	{
+		"en"		"Find a radio and call for help"
+		"es"		"Encuentra una radio y pide ayuda"
+		"pt"		"Encontre um rádio e peça ajuda"
+	}
+	"e8667f6001952016a90735daed9dc441"
+	{
+		"en"		"The hospital's side doors have unlocked, go back"
+		"es"		"Las puertas laterales del hospital se han abierto, regresa"
+		"pt"		"As portas laterais do hospital foram abertas, volte"
+	}
+	"f73b274a447b836ff5e39f143cb4d6ca"
+	{
+		"en"		"Find a way to unlock the hospital's side doors"
+		"es"		"Encuentra una forma de desbloquear las puertas laterales del hospital"
+		"pt"		"Encontre uma forma de desbloquear as portas laterais do hospital"
+	}
+	"b6c22f909d96ee37dfa33e7510a0a514"
+	{
+		"en"		"You hear that the way forward is through the hospital building"
+		"es"		"Escuchas a través del walkie-talkie que el camino es a través del hospital"
+		"pt"		"Você escuta que o caminho é passando pelo prédio do hospital"
+	}
+	"901000ec534f21bf8af4f9527f224ae3"
+	{
+		"en"		"The subway gate is closed. A walkie-talkie can be heard nearby"
+		"es"		"El portón del subte está cerrado. Se escucha un walkie-talkie cerca"
+		"pt"		"O portão do metrô está fechado. Dá para ouvir um walkie-talkie por perto"
+	}
+	"0649db0861840e199bb845889e2ca0d2"
+	{
+		"en"		"Keep moving forward through the alleys"
+		"es"		"Continúa avanzando por los callejones"
+		"pt"		"Continue avançando pelos becos"
+	}
+	"7a5699123104a26418ad71e4c622ec7a"
+	{
+		"en"		"The keys were lost in the sewers, find a new path"
+		"es"		"Las llaves se perdieron en las alcantarillas, encuentra otra camino"
+		"pt"		"As chaves se perderam nos esgotos, encontre outro caminho"
+	}
+	"ba18c5d346946fcec3e315e9d78c72b5"
+	{
+		"en"		"Climb up to the city"
+		"es"		"Sube hacia la ciudad"
+		"pt"		"Suba até a cidade"
+	}
+	"a27de550aae937854ed00561b02abe8b"
+	{
+		"en"		"Keep going down through the catacombs"
+		"es"		"Continúa bajando por las catacumbas"
+		"pt"		"Continue descendo pelas catacumbas"
+	}
+	"7479b1dc1ea3e6560de449614ea21fb1"
+	{
+		"en"		"Go through the sewers"
+		"es"		"Ve por las alcantarillas"
+		"pt"		"Passe pelas redes de esgoto"
+	}
+	"95b246ccdaaab82213b29d2a4dc58f58"
+	{
+		"en"		"Go through the parking lot"
+		"es"		"Ve por el estacionamiento"
+		"pt"		"Passe pelo estacionamento"
+	}
+	"cbf6753026e24a28b3bf5627af55d870"
+	{
+		"en"		"Find an alternative path"
+		"es"		"Encuentra un camino alternativo"
+		"pt"		"Encontre um caminho alternativo"
+	}
+	"d2145bfbc1755ccc4622052f0ecc8a87"
+	{
+		"en"		"Take the key from the van"
+		"es"		"Toma la llave del camión"
+		"pt"		"Pegue a chave da van"
+	}
+	"46b78796a89f81b6e81287ff57ec0a1c"
+	{
+		"en"		"Refuel the forklift"
+		"es"		"Encuentra una lata de combustible para el montacargas"
+		"pt"		"Encontre uma lata de combustível para o monta-cargas"
+	}
+	"9b3ef2616a5a8e9c56581266eab3c889"
+	{
+		"en"		"Explore the warehouse"
+		"es"		"Explora el depósito"
+		"pt"		"Explore o depósito"
+	}
+	"f623e75af30e62bbd73d6df5b50bb7b5"
+	{
+		"en"		"D"
+		"es"		"D"
+	}
+	"7fc56270e7a70fa81a5935b72eacbe29"
+	{
+		"en"		"A"
+		"es"		"A"
+	}
+	"9d5ed678fe57bcca610140957afab571"
+	{
+		"en"		"B"
+		"es"		"B"
+	}
+	"0d61f8370cad1d412f80b84d143e1257"
+	{
+		"en"		"C"
+		"es"		"C"
+	}
+	"d4f277299dd446f1ecf0326d53fef346"
+	{
+		"en"		"All players required"
+		"es"		"Todo el equipo debe estar presente"
+		"pt"		"Todos os jogadores são necessários"
+	}
+	"d2538d5fd28e48d3eb45bed23271f74c"
+	{
+		"en"		"A player has unlocked CJ's skin"
+		"es"		"Uno de los jugadores debloqueó el skin de CJ"
+		"pt"		"Um dos jogadores desbloqueou a skin do CJ"
+	}
+	"5cd9e7995555540777b67372c7d98910"
+	{
+		"en"		"Go down into the sewers."
+		"es"		"Baja a las alcantarillas."
+		"ru"		"Спускайтесь в сточные воды."
+	}
+}

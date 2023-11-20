@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"5d507c700c63e4c4b9390c66afdd2aa4"
+	{
+		"en"		"Find the battery and pliers, and repair the generator"
+		"es"		"Encuentra una pinzas y batería para arreglar el generador"
+	}
+	"b8a45310769a2dd153959ac823c60fbe"
+	{
+		"en"		"Rescue is on the way, hold on for 5 minutes"
+		"es"		"Se aproxima el rescate, aguanta por 5 minutos"
+	}
+	"fcd1f150e0ababe69d9aadab5e3a79d8"
+	{
+		"en"		"Call for help"
+		"es"		"Pide ayuda"
+	}
+	"84c4e241c07b09b9b70a61f92a8170da"
+	{
+		"en"		"Place a smoke bomb to indicate the position"
+		"es"		"Coloca una bomba de humo para señalizar tu posición"
+	}
+	"976e3c58da02b26636cca4f1afc49b60"
+	{
+		"en"		"Seek help"
+		"es"		"Busca ayuda"
+	}
+	"bf43721b79369ebe88d0548b7a706a5f"
+	{
+		"en"		"Explode the warehouse door with a gas can, take away the ladder"
+		"es"		"Explota la entrada del depósito con una garrafa y toma la escalera"
+	}
+	"2ef29e55a6eb0d6d531f65f36a9052f3"
+	{
+		"en"		"Explore the area"
+		"es"		"Explora el área"
+	}
+	"030f0a03e50687a70ff6db80beb04e11"
+	{
+		"en"		"Keep moving to the evacuation area"
+		"es"		"Continúa hacia el punto de evacuación"
+	}
+	"5c5e5159849bdb72b21b853614deca3c"
+	{
+		"en"		"Restore power"
+		"es"		"Restablece la energía"
+	}
+	"6af8653448f90395ea810be9e599607b"
+	{
+		"en"		"Enter the supermarket electric room"
+		"es"		"Entra a la sala de electricidad del supermercado"
+	}
+	"78645ef85d32e3dffe28819ee3759db2"
+	{
+		"en"		"Find the explosives, blow up the supermarket warehouse"
+		"es"		"Usa explosivos para entrar al depósito del supermercado"
+	}
+	"2e2acd1f410a3a274e6e0e9040d3bb7e"
+	{
+		"en"		"Open the rear door of the repair shop"
+		"es"		"Abre el portón trasero del taller"
+	}
+	"7729341a522230451d2cc68332c7ce80"
+	{
+		"en"		"Go through the alley"
+		"es"		"Ve por callejón hasta el taller"
+	}
+	"6113ea97f56fa102d7750b6b171491c0"
+	{
+		"en"		"Find the welding gun, open the shop door"
+		"es"		"Encuentra un soldador y abre la puerta de la tienda"
+	}
+	"80a97272b8d0ae0b461f59149dd67e4d"
+	{
+		"en"		"Go to the community center for rescue"
+		"es"		"Ve al centro comunitario para pedir ayuda"
+	}
+	"9635680e06f0c6743f8fc946910727b1"
+	{
+		"en"		"Go downstairs"
+		"es"		"Baja las escaleras"
+	}
+	"6062ddbd103a5d24e749d9bd68331222"
+	{
+		"en"		"We are on the way, hold on 2 minutes"
+		"es"		"Estamos en camino, sobrevive por 2 minutos"
+	}
+}

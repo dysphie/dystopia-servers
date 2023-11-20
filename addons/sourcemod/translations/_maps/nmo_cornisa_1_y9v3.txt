@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"5833026045e549e29dc24b59b820a67c"
+	{
+		"en"		"Press the button that activates the extraction"
+		"es"		"Pulsa el botón que activa la extracción"
+	}
+	"4f2e76679ca8fce7a0734924b799c47f"
+	{
+		"en"		"Press the correct button in the third test chamber"
+		"es"		"Pulsa el botón correcto en la tercer cámara de prueba"
+	}
+	"480a6775fd1690df9d11508b5e0ebd7b"
+	{
+		"en"		"Overcome the second test chamber"
+		"es"		"Supera la segunda cámara de prueba"
+	}
+	"36d3340d4f2dd7046aef19b0b66716ab"
+	{
+		"en"		"Find the first test chamber and overcome it"
+		"es"		"Encuentra la primer sala de prueba y supérala"
+	}
+	"70726c57383271dc5f05ad3ec9add1d5"
+	{
+		"en"		"Find a battery to power the first test chamber"
+		"es"		"Encuentra una batería para darle energía a la primer cámara de prueba"
+	}
+	"4e66190aaebedce8cabdf03e2ac98014"
+	{
+		"en"		"Open the door and take the tool"
+		"es"		"Abre la puerta y toma una herramienta"
+	}
+	"9debceb88e54ed8caa0c644b12761231"
+	{
+		"en"		"Press the button to provide power to the facility"
+		"es"		"Pulsa el botón para darle energía a la instalación"
+	}
+	"11ed50445da8db64a9d547364734e772"
+	{
+		"en"		"Map made by Khalecsy. Modified by yomox9."
+		"es"		"Mapa hecho por Khalecsy. Modificado por yomox9."
+	}
+}

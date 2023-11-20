@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"e3097f502ab789c7ff48b2614cfb39bb"
+	{
+		"en"		"Fuel the helicopter"
+		"es"		"Carga el helicóptero con combustible"
+	}
+	"8ecf16a98251b7ac2167f3226c069a0f"
+	{
+		"en"		"Walk into the restaurant"
+		"es"		"Entra al restaurante"
+	}
+	"3d433d2db74067e1f6ea3cb0c673ea8f"
+	{
+		"en"		"Walk into the building"
+		"es"		"Entra al edificio"
+	}
+	"77554a59b6482958a6d263b8e6d8733a"
+	{
+		"en"		"Walk into the supermarket"
+		"es"		"Entra al supermercado"
+	}
+	"09ab7a0c518d91da7dd05620998acfed"
+	{
+		"en"		"Find the key to open the door"
+		"es"		"Encuentra la llave para abrir la puerta"
+	}
+	"11c4d0600bfc8cf0aecb1dcf5bd2366f"
+	{
+		"en"		"Go to the street"
+		"es"		"Ve a la calle"
+	}
+}

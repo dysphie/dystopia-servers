@@ -1,0 +1,14 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"CNMRiH_BaseZombie::m_bIsCrawler"
+			{
+				"windows" "3816"
+				"linux"	"3836"
+			}
+		}
+	}
+}

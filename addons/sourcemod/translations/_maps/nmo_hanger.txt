@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"013ec032d3460d4be4431c6ab1f8f224"
+	{
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+}

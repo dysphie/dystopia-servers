@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"748056676ae486eff57e007be1ae42c8"
+	{
+		"en"		"You're late to the party!"
+		"es"		"You're late to the party!"
+	}
+	"5f9f0580dcad9d4eb9bf302245106b87"
+	{
+		"en"		"They've built a box-fort too!? Burn it down. All of it."
+		"es"		"They've built a box-fort too!? Burn it down. All of it."
+	}
+	"62ac9b96a01a8be86e5db45d1a06c146"
+	{
+		"en"		"Somone's gone and barricaded the boardwalk. Fix that."
+		"es"		"Somone's gone and barricaded the boardwalk. Fix that."
+	}
+	"f019caf1f64a926df48861206efe07b3"
+	{
+		"en"		"This party's dead, and all these guests bite! Sit tight, I know a guy."
+		"es"		"This party's dead, and all these guests bite! Sit tight, I know a guy."
+	}
+	"ea98d18cee1d8507598db464e569b548"
+	{
+		"en"		"Party."
+		"es"		"Party."
+	}
+	"9f9794196a428afe2a6f9910b01bf15c"
+	{
+		"en"		"Where'd I put the spare key again?"
+		"es"		"Where'd I put the spare key again?"
+	}
+	"2bf6603e98a54dc5498834d753ca5ccf"
+	{
+		"en"		"Alright, let's crank up some tunes!"
+		"es"		"Alright, let's crank up some tunes!"
+	}
+}

@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"b8218f8c7dfa7251cb179cec0c2290d1"
+	{
+		"en"		"The shelter is overrun call for extraction"
+		"es"		"The shelter is overrun call for extraction"
+	}
+	"7252c88ec5b088c034438f28edee1400"
+	{
+		"en"		"Get in the van hurry..."
+		"es"		"Get in the van hurry..."
+	}
+}

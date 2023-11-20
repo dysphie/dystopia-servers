@@ -1,0 +1,297 @@
+"Phrases"
+{
+	"7a90f9007e376388c768f07907295297"
+	{
+		"en"		"Photo:
+Bengt Nyman"
+		"es"		"Foto:
+Bengt Nyman"
+	}
+	"43630dbe657c2713f885aaa6ba12fe8d"
+	{
+		"en"		"Credits
+
+Music:
+??? - Helan Gar
+Lok - Bedragaren i Murmansk
+
+Custom props:
+Shrubs/cliffs - Norpo
+Trees - Moroes
+Curtains - Pedroleum
+Boat - Redistributed by Tonight
+Bed - WaterPyro
+Latus - RadioRob
+Fence - Espilon"
+		"es"		"Créditos
+
+Musica:
+??? - Helan Gar
+Lok - Bedragaren i Murmansk
+
+Custom props:
+Shrubs/cliffs - Norpo
+Trees - Moroes
+Curtains - Pedroleum
+Boat - Redistributed by Tonight
+Bed - WaterPyro
+Latus - RadioRob
+Fence - Espilon"
+	}
+	"9575416aa642c15b79abc3aaaa585103"
+	{
+		"en"		"A big thank you to thegregster101 for posting the VMF file for Hershel's Farm.
+Without it this map would never have been made."
+		"es"		"Muchas gracias a thegregster101 for compartir el archivo VMF de Hershel's Farm.
+Sin eso este mapa no sería posible."
+	}
+	"200edf3374e61c9a6184555ed7984c16"
+	{
+		"en"		"And thank you to Abilities, billionlioe, CalebMichal, Dr Hammer and grasn
+for answering my questions in the forum."
+		"es"		"Y gracias a Abilities, billionlioe, CalebMichal, Dr Hammer y grasn
+por contestar mis preguntas en el foro."
+	}
+	"8ff0de8891503f21847f58a4a6de9e0d"
+	{
+		"en"		"We can use my boat to escape."
+		"es"		"Podemos usar mi lancha para escapar"
+	}
+	"822bd674d6be88ba277815288ad4fdea"
+	{
+		"en"		"You can always trust norrbaggarna and their oil money!"
+		"es"		"Siempre puedes confiar en norrbaggarna y su dinero del petróleo"
+	}
+	"f800dc7fd14706c7356825c3b36fb2ca"
+	{
+		"en"		"Björn says:"
+		"es"		"Björn dice:"
+	}
+	"ee1b185c511f1a262f6bf98030ccbfaf"
+	{
+		"en"		"but can not extract you due to EU regulations."
+		"es"		"pero no puedo extraerte debido a regulaciones de Europa"
+	}
+	"7a5fb7f6b16db627d2185c49afb223eb"
+	{
+		"en"		"so I had to disconnect the satellite dish."
+		"es"		"entonces tuve que desconectar la antena satelital."
+	}
+	"8e36903e43d2e4b006012c5bfc0b8aef"
+	{
+		"en"		"Let's run to the garden shed."
+		"es"		"Let's run to the garden shed."
+	}
+	"5903012dd16a7501a04764aaf0af57cc"
+	{
+		"en"		"There are a lot of good weapons there!"
+		"es"		"Hay muchas armas buenas aquí!"
+	}
+	"3d0649540855c6638db37f1b3fa2cb6a"
+	{
+		"en"		"But I can't remember where I put the key."
+		"es"		"Pero no me acuerdo donde puse la llave."
+	}
+	"0153c0767a976c69ea586d2fa480db74"
+	{
+		"sv"		"We need propane from inside the härbre."
+		"en"		"We need propane from inside the cabin."
+		"es"		"Necesitamos el propano que está dentro de la cabaña."
+	}
+	"6d55f23653011abd54838bf1e9a243cd"
+	{
+		"en"		"If you are not going to eat it,"
+		"es"		"Si no lo vas a comer,"
+	}
+	"77e659c4673fbbbb9c90e057d078c812"
+	{
+		"en"		"then this is what we have to do."
+		"es"		"entonces esto es lo que debemos hacer."
+	}
+	"cde1d4bb1d20287a8bfcac27544f9363"
+	{
+		"en"		"Made by Socialstyrelsen"
+		"es"		"Hecho por Socialstyrelsen"
+	}
+	"bedf21a4addd28a0f52b0b6f21fc2fbd"
+	{
+		"en"		"Make it to the boat house!"
+		"es"		"Ve al cobertizo de botes!"
+	}
+	"caf3ff012e773a43bbc48568f6a678b0"
+	{
+		"en"		"Help Björn fix the car!"
+		"es"		"Ayuda a Björn a arreglar el coche!"
+	}
+	"c7eee8ae4b62d762c782205006a3945a"
+	{
+		"en"		"Reconnect the satellite dish and call for help!"
+		"es"		"Reconecta la antena satelital y llama por ayuda!"
+	}
+	"4755b106ecfb8cb3cf7fc81251063370"
+	{
+		"en"		"Find the key to the härbre!"
+		"es"		"Encuentra la llave del härbre!"
+	}
+	"e6fd31d50d3817212ac7ff9b89b5894f"
+	{
+		"en"		"Run to the garden shed!"
+		"es"		"Corre a la caseta del jardín!"
+	}
+	"e61183f11095a4ac88c330fe24eb55bc"
+	{
+		"en"		"Gain access to the gun room!"
+		"es"		"Obtén acceso a sala de armas!"
+	}
+	"47eb6cb1ff52aa3d63ccc66f5c31727a"
+	{
+		"en"		"Find the key to the bathroom!"
+		"es"		"Encuentra la llave del baño!"
+	}
+	"8273b517d78398995b37ae4cfed9a290"
+	{
+		"en"		"Start the generator!"
+		"es"		"Enciende el generador!"
+	}
+	"835368a21210a02668c9016afc543327"
+	{
+		"en"		"Find a way to open the balcony door!"
+		"es"		"Encuentra una forma de abrir la puerta del balcón!"
+	}
+	"6862018effbf2b9bff7a11ca02578a38"
+	{
+		"sv"		"Dispose of the surströmming!"
+		"en"		"Dispose of the sour herring!"
+		"es"		"Deshácete del arenque fermentado!"
+	}
+	"df933f20ac03bad4aa1a4b28faf1a75e"
+	{
+		"en"		"The forest looks safe."
+		"es"		"El bosque parece seguro."
+	}
+	"7439ec8abc89753762409ce8e8a5c6b5"
+	{
+		"en"		"The little javel kukade ur!"
+		"es"		"Este javel kukade ur!"
+	}
+	"4510b41b308d6382baade1b054938b52"
+	{
+		"en"		"Wait! Do you hear something?"
+		"es"		"Espera! Escuchas algo?"
+	}
+	"f82056dbbe3376b10ac622b0bdaae914"
+	{
+		"en"		"8/8"
+		"es"		"8/8"
+	}
+	"0efa76cd29585aa1d733d872fadb52e4"
+	{
+		"en"		"7/8"
+		"es"		"7/8"
+	}
+	"17b3673d5c28fb72e7cc48549f489dd4"
+	{
+		"en"		"6/8"
+		"es"		"6/8"
+	}
+	"55e13911b029af22125d9eb6e811b87c"
+	{
+		"en"		"5/8"
+		"es"		"5/8"
+	}
+	"ecdb9acc2db02134680a9c49abe3e991"
+	{
+		"en"		"4/8"
+		"es"		"4/8"
+	}
+	"a5f3d6667d5b40c951430041bd515c8e"
+	{
+		"en"		"3/8"
+		"es"		"3/8"
+	}
+	"ef8a3378ff6fba27ad41c519291bad34"
+	{
+		"en"		"2/8"
+		"es"		"2/8"
+	}
+	"d1ddeea9fa9e23f6c07078cbee37fd1f"
+	{
+		"en"		"1/8"
+		"es"		"1/8"
+	}
+	"1f0189591d8d7dc1d3db367398fb49c5"
+	{
+		"en"		"0/8"
+		"es"		"0/8"
+	}
+	"593947d7b6b2391158d83e4626dbce84"
+	{
+		"en"		"And it looks like the neighbours trashed your cars."
+		"es"		"Al parecer los vecinos destruyeron sus coches."
+	}
+	"15e78c2469acf2e628435aad439d2adc"
+	{
+		"en"		"But don't worry! I can fix it!"
+		"es"		"Pero no te preocupes! Puedo arreglarlo!"
+	}
+	"4bd392595f9884ca6805bfa64d1bd8ba"
+	{
+		"en"		"The Norwegian military promised to send you supplies"
+		"es"		"El ejército noruego prometió enviar suministros"
+	}
+	"01f4ba431b2ed02f760bfe670393ea6f"
+	{
+		"en"		"The Swedish military can not help you due to budget cuts."
+		"es"		"El ejército sueco no puede ayudarte debido a recortes presupuestarios."
+	}
+	"e75bca14c3478399adb6bff27902becf"
+	{
+		"en"		"We should call for help."
+		"es"		"Deberíamos llamar a ayuda."
+	}
+	"6b910f7c7d47bd534bd0991b6b374b8d"
+	{
+		"en"		"But the computer was downloading too much porn,"
+		"es"		"Pero la computadora estaba descargando demasiado porno,"
+	}
+	"6b6c3324a3c4b9f077cd414979d0a907"
+	{
+		"en"		"I keep my hunting rifles in the basement."
+		"es"		"Yo guardo mis rifles de caza en el sótano."
+	}
+	"ede7c38b332169c2d3e341c3485990d7"
+	{
+		"en"		"You don't like your shovel?"
+		"es"		"¿No te gusta tu pala?"
+	}
+	"e4e9f1502ac66e94d00f33ab22a1e7b1"
+	{
+		"en"		"Oh? You are sick?"
+		"es"		"¿Eh? ¿Estás enfermo?"
+	}
+	"080754c3d6added011749844691f6ae1"
+	{
+		"en"		"There are medical supplies in the bathroom."
+		"es"		"Hay suministros médicos en el baño."
+	}
+	"b85638c19208fe4d21be2bd178a34aa2"
+	{
+		"en"		"It's very dark in here."
+		"es"		"Está muy oscuro aquí."
+	}
+	"2d923a13b87e384d9a1c528737e0ec9e"
+	{
+		"en"		"Can someone turn the power on?"
+		"es"		"¿Podría alguien encender la corriente?"
+	}
+	"3f7d62b57117cf2aafa189604160316f"
+	{
+		"en"		"Yeah, it locked behind me. I don't know."
+		"es"		"Sí, se ha cerrado detrás mio. No tengo idea."
+	}
+	"84fd596bb6ad57d89defde9c350d222f"
+	{
+		"en"		"The door to the balcony?"
+		"es"		"¿La puerta que da al balcón?"
+	}
+}

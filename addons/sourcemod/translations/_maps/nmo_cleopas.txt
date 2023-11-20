@@ -1,0 +1,133 @@
+"Phrases"
+{
+	"642bc66d960a8175eadd572bc14bff17"
+	{
+		"en"		"Find welder to get back alley gate open."
+		"es"		"Find welder to get back alley gate open."
+	}
+	"335cba8d6ce162831eea6cab29889852"
+	{
+		"en"		"Find some pliers to cut the lock, you have 3 minutes to get extracted!"
+		"es"		"Find some pliers to cut the lock, you have 3 minutes to get extracted!"
+	}
+	"a441a52adb6411977c41f4acde1998b6"
+	{
+		"en"		"Get to the next alley."
+		"es"		"Get to the next alley."
+	}
+	"eaeed8131f6e119b46276d099dbc9eba"
+	{
+		"en"		"Go through the house and break through the front."
+		"es"		"Go through the house and break through the front."
+	}
+	"5f4565626afe93865dda3aaf2ce549ef"
+	{
+		"en"		"Blast through alley wall."
+		"es"		"Blast through alley wall."
+	}
+	"55b0fb10856ef300cdd32619694e5304"
+	{
+		"en"		"Find a ladder to get over the alley gate."
+		"es"		"Find a ladder to get over the alley gate."
+	}
+	"12f2f1c5d8e0d14559dae2aaaeb08c1d"
+	{
+		"en"		"Use welder to break into the store."
+		"es"		"Use welder to break into the store."
+	}
+	"a6dfde956c4de9cccdfe2e0cd00ceb54"
+	{
+		"en"		"Use ladder to get into Samco store."
+		"es"		"Use ladder to get into Samco store."
+	}
+	"048ce9ef82e833f22db04c7882afba38"
+	{
+		"en"		"Find lever to turn power off."
+		"es"		"Find lever to turn power off."
+	}
+	"b0f314e9566d02f8c8bfe650645d1201"
+	{
+		"en"		"Find 4 boards to get across the electrified water."
+		"es"		"Find 4 boards to get across the electrified water."
+	}
+	"790d6972d1009694d43544a7bcbf0d34"
+	{
+		"en"		"Follow the whiteboard objective."
+		"es"		"Follow the whiteboard objective."
+	}
+	"06e7ffd6d56b3ec0d74548cc077789b7"
+	{
+		"en"		"Find some tnt to get through the alley gate."
+		"es"		"Find some tnt to get through the alley gate."
+	}
+	"9c052e94304740ef0d9e6d450601b3e0"
+	{
+		"en"		"#nmo_cleopas_ObjL"
+		"es"		"#nmo_cleopas_ObjL"
+	}
+	"01563f8adbc0dd0eb2dea261771510ea"
+	{
+		"en"		"#nmo_cleopas_ObjR"
+		"es"		"#nmo_cleopas_ObjR"
+	}
+	"87543d15e97137e94b094fc4499ee9bb"
+	{
+		"en"		"#nmo_cleopas_ObjK"
+		"es"		"#nmo_cleopas_ObjK"
+	}
+	"f627befda5ba9b31482984cd9dc84967"
+	{
+		"en"		"#nmo_cleopas_OBjD"
+		"es"		"#nmo_cleopas_OBjD"
+	}
+	"d63c8f50b227f995d44bad502210e2d6"
+	{
+		"en"		"#nmo_cleopas_ObjG"
+		"es"		"#nmo_cleopas_ObjG"
+	}
+	"3d04e876d8212efef51eee4ae4ff401e"
+	{
+		"en"		"#nmo_cleopas_ObjJ"
+		"es"		"#nmo_cleopas_ObjJ"
+	}
+	"6f49c7d4f7b0399ac73ab1c8982dd1b5"
+	{
+		"en"		"#nmo_cleopas_ObjI"
+		"es"		"#nmo_cleopas_ObjI"
+	}
+	"af8eb3783672caeb1cfe239812b6aa16"
+	{
+		"en"		"#nmo_cleopas_ObjH"
+		"es"		"#nmo_cleopas_ObjH"
+	}
+	"efd52b4db6feec25c3f0f92217e7d81e"
+	{
+		"en"		"#nmo_cleopas_ObjF"
+		"es"		"#nmo_cleopas_ObjF"
+	}
+	"e9f6435ee3794531b6d0827d349b91ca"
+	{
+		"en"		"#nmo_cleopas_ObjE"
+		"es"		"#nmo_cleopas_ObjE"
+	}
+	"b51711c721ff68901a51a5ad448feced"
+	{
+		"en"		"#nmo_cleopas_ObjZ"
+		"es"		"#nmo_cleopas_ObjZ"
+	}
+	"764006772155157f03768f4c722809cd"
+	{
+		"en"		"#nmo_cleopas_ObjC"
+		"es"		"#nmo_cleopas_ObjC"
+	}
+	"78c73af0a54f47f932700bbb40df3f70"
+	{
+		"en"		"#nmo_cleopas_ObjB"
+		"es"		"#nmo_cleopas_ObjB"
+	}
+	"855d6103aaad6befc26504ef0ac82b0c"
+	{
+		"en"		"#nmo_cleopas_ObjA"
+		"es"		"#nmo_cleopas_ObjA"
+	}
+}

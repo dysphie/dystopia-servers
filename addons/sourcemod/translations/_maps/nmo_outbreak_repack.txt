@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"012defc524237c32c73ff6406e2a2545"
+	{
+		"en"		"Call for extraction."
+		"es"		"Pide la extracción."
+	}
+	"79dd2f7a6a100099b6ec8f0ce3460a34"
+	{
+		"en"		"Replace the fuse"
+		"es"		"Reemplaza el fusible"
+	}
+	"30785c60534d0c32d4dfb192ebc36a43"
+	{
+		"en"		"Free the data dog."
+		"es"		"Libera al perro."
+	}
+	"7127fe24664413687021712c895b4a8d"
+	{
+		"en"		"Replace the crank."
+		"es"		"Cambia la manivela."
+	}
+	"0ed2c1b3b6b24b95bbfe6b4cf5ca6777"
+	{
+		"en"		"Collect 4 hidden plugs"
+		"es"		"Colecciona 4 enchufes ocultos"
+	}
+	"801b7da43f393783626a5ce81d6cf3ef"
+	{
+		"en"		"Breach the courtyard"
+		"es"		"Irrumpe en el patio"
+	}
+	"3c4eb0ef42259f7602eefc4f8d497f8e"
+	{
+		"en"		"Seek refuge inside the mansion"
+		"es"		"Busca refugio dentro de la mansión"
+	}
+	"bd1f86709c03c7d52315a2af302476e8"
+	{
+		"en"		"3 aviary sacrifices will be rewarded."
+		"es"		"3 sacrificios de aves serán recompensados."
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"e6fbe54ca7727f4b185385cf89ac4de5"
+	{
+		"en"		"Locked. A heart is etched above the keyhole."
+		"es"		"Cerrado. Un corazón está grabado sobre la cerradura."
+	}
+	"d99cdb13005eac63041bfb47f033a892"
+	{
+		"en"		"Locked. A diamond is etched above the keyhole."
+		"es"		"Cerrado. Un diamante está grabado sobre la cerradura."
+	}
+	"c433545cd9c7843f11f6693da31d2d75"
+	{
+		"en"		"Locked. A clover is etched above the keyhole."
+		"es"		"Cerrado. Un trébol está grabado sobre la cerradura."
+	}
+}

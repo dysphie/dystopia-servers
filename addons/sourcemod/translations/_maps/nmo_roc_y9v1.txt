@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"013ec032d3460d4be4431c6ab1f8f224"
+	{
+		"en"		"Escape"
+		"es"		"Escape"
+	}
+	"83701292c69316809137c8d3fc3d6ad8"
+	{
+		"en"		"Find the exit"
+		"es"		"Find the exit"
+	}
+	"b0a3ac2ab0495d0b5d598b67b3676c5d"
+	{
+		"en"		"Press the button to open the door"
+		"es"		"Press the button to open the door"
+	}
+	"a6cf83878ee26f59956f8b77955d6e8a"
+	{
+		"en"		"Enter the portal"
+		"es"		"Enter the portal"
+	}
+	"ddabb53dade44ded33bc3feadaafe20f"
+	{
+		"en"		"Exploit the exit door"
+		"es"		"Exploit the exit door"
+	}
+	"3c5853b0b37737f656ff4f7c191ae7f9"
+	{
+		"en"		"Made by Khalesii. Modified by yomox9."
+		"es"		"Made by Khalesii. Modified by yomox9."
+	}
+}

@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"a49f1029c0bf300817bd2b5d5ed37067"
+	{
+		"en"		"Hold out for arrival of rescuers."
+		"es"		"Sobrevive hasta la llegada de los rescatistas."
+	}
+	"3335117ff4dbb3dbb80626827c2913cd"
+	{
+		"en"		"Escape from the dungeon."
+		"es"		"Escapa del templo."
+	}
+	"4ce4778022ddbcccf22a2663c3ee4d07"
+	{
+		"en"		"Avoid traps and grab idol."
+		"es"		"Evade las trampas y toma la reliquia."
+	}
+	"d89593ee4bd71f12e286683fe80b85eb"
+	{
+		"en"		"Hold on until the door opens."
+		"es"		"Sobrevive hasta que se abra la puerta."
+	}
+	"4f432908fc45de8c532299cf5c9be46c"
+	{
+		"en"		"There is no turning back, only forward."
+		"es"		"No hay vuelta atrás, continúa."
+	}
+	"203612c35d926758a53188878be322c8"
+	{
+		"en"		"Find out whats ahead."
+		"es"		"Descubre lo que hay por delante."
+	}
+	"7eaefabfe9a44a64d43a8b5de4632ef2"
+	{
+		"en"		"Find another aztec skull."
+		"es"		"Encuentra otra calavera."
+	}
+	"65a0ad0c44f27d00c22600288bc7a63a"
+	{
+		"en"		"Find an aztec skull."
+		"es"		"Encuentra una calavera."
+	}
+	"66ba3ea8d678448e16ed0eb993f9fd04"
+	{
+		"en"		"Enter the dungeon."
+		"es"		"Entra al templo."
+	}
+	"d4228c0087ec8d625ab9140474918c9a"
+	{
+		"en"		"You need to get out of the dungeon as soon as possible.."
+		"es"		"Debes escapar del templo lo antes posible.."
+	}
+	"d4f277299dd446f1ecf0326d53fef346"
+	{
+		"en"		"NEED ALL PLAYERS"
+		"es"		"NECESITA A TODO EL EQUIPO"
+	}
+}

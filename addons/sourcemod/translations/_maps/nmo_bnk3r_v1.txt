@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"0d6906202c4cad32d7d807ad9c10938b"
+	{
+		"en"		"Destroy BNK-3R"
+		"es"		"Destruye a BNK-3R"
+	}
+	"09f1c7169322789299dc7a2d34d1b433"
+	{
+		"en"		"Press button"
+		"es"		"Presiona el botón"
+	}
+}

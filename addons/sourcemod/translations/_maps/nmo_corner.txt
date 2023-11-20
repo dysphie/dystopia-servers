@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"21b630c3ae0d1936fd29749b0acb876e"
+	{
+		"en"		"Pick up a crate to get on the truck"
+		"es"		"Coloca una caja para subir al camión"
+	}
+	"8c6bedf3c308182c49902f679483dd9d"
+	{
+		"en"		"Get out of the gun store"
+		"es"		"Escapa de la tienda de armas"
+	}
+	"98313342ef0a2fcb3d44c6423eb66561"
+	{
+		"en"		"Put supplies on the truck"
+		"es"		"Pon suministros en el camión"
+	}
+	"513013e08d33bfec0714bce90403e8df"
+	{
+		"en"		"Put gas on the truck"
+		"es"		"Pon gas en el camión"
+	}
+	"f35a1028099a7522da0ce37de18adbf4"
+	{
+		"en"		"Get in the truck"
+		"es"		"Sube al camión"
+	}
+}

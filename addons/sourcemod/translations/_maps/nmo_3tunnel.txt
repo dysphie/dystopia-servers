@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"7faabd8884b524b1013d289afa371856"
+	{
+		"en"		"把油瓶放到指定位置"
+		"es"		"把油瓶放到指定位置"
+	}
+	"3c732acce98df5e065d2f29eb8fa3d4e"
+	{
+		"en"		"按下按钮（原地按e）"
+		"es"		"按下按钮（原地按e）"
+	}
+	"766cee1719e5c3ed63c914ea88f018d6"
+	{
+		"en"		"map by tah and penguin S"
+		"es"		"map by tah and penguin S"
+	}
+}

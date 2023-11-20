@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"fbdd10fec6bb2e36ea0b787c1984e8fa"
+	{
+		"en"		"Tram is leaving in 30 seconds!"
+		"es"		"El tranvía se va en 30 segundos!"
+	}
+	"585a1b204e9e4f84f28b04282387b993"
+	{
+		"en"		"Map by xkarma123x"
+		"es"		"Mapa por xkarma123x"
+	}
+	"b430dd8233fe377921efb7a321962f84"
+	{
+		"en"		"Get inside the tram and leave!"
+		"es"		"Entra al tranvía y vete!"
+	}
+	"f9586f60c72ca7177af7be4f90c20132"
+	{
+		"en"		"Use the pc in security room to open tram door."
+		"es"		"Usa la PC en la sala de seguridad para abrir la puerta del tranvía."
+	}
+	"f9f7f6bae9474e530ec8e002d321ec5a"
+	{
+		"en"		"Find a fuse to restore power for tram"
+		"es"		"Encuentra un fusible para poder encender el tranvía"
+	}
+	"c959aca8ee81f34720a9c75dcc6879e1"
+	{
+		"en"		"Find a keycard to access subway station."
+		"es"		"Encuentra una tarjeta de acceso a la estación del tranvía."
+	}
+	"5ec6df3ab6d058b3bce0fdf875a45eed"
+	{
+		"en"		"Reach the office complex"
+		"es"		"Continúa hasta las oficinas"
+	}
+	"d635a745d4cb55e762b678d2268ddd71"
+	{
+		"en"		"Turn off the gas"
+		"es"		"Apaga el gas"
+	}
+	"43e1f7f2d023261c01a21ce360d97cc9"
+	{
+		"en"		"Find a way out of the underground facility."
+		"es"		"Encuentra una manera de escapar las instalaciones subterráneas."
+	}
+	"920e964fec9bcbcf50872c46d4354240"
+	{
+		"en"		"Weld the latch."
+		"es"		"Suelda el pestillo."
+	}
+}

@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"Title"
+	{
+		"en"	"Rules:"
+		"es"	"Reglas:"
+		"pt"	"Regras:"
+	}
+	
+	"0"
+	{
+		"en"	"Respect others and refrain from engaging in any form of harassment or intolerance."
+		"es"	"Trata a las personas con respeto y evita cualquier forma de acoso o intolerancia."
+		"pt"	"Trate as pessoas com respeito e evite qualquer forma de assédio ou intolerância."
+	}
+
+	"1"
+	{
+		"en"	"Avoid broadcasting soundboards, loud noises, or a poorly set up microphone."
+		"es"	"Abstente de transmitir sonidos pregrabados, ruidos fuertes o un micrófono mal configurado."
+		"pt"	"Abstenha-se de transmitir sons pré-gravados, ruídos altos ou microfone mal configurado."
+	}
+
+	"2"
+	{
+		"en"	"Do not harm or kill infected players without their explicit consent."
+		"es"	"No lastimes ni mates a personas infectadas sin su expresa autorización."
+		"pt"	"Não ferir as pessoas infectadas sem sua permissão explícita."
+	}
+
+	"3"
+	{
+		"en"	"Do not hinder your teammates' ability to progress or be extracted."
+		"es" 	"No impidas el progreso o la extracción del resto del equipo."
+		"pt"	"Não impeça a capacidade de progresso ou extração de seus companheiros de equipe."
+	}
+
+	"4"
+	{
+		"en" 	"Glitches are allowed if performed responsibly without breaking other rules"
+		"es" 	"El uso de bugs está permitido siempre y cuando se haga sin infringir otras reglas"
+		"pt"	"Os glitches são permitidos se forem realizados de forma responsável sem infringir outras regras."
+	}
+}

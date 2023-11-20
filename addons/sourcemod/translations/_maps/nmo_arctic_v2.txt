@@ -1,0 +1,55 @@
+"Phrases"
+{
+	"4f9908679b1a259046ea83201fbaf2bb"
+	{
+		"en"		"Map by Ethosaur, port and modified to nmrih by MAGISTER"
+		"es"		"Mapa por Ethosaur, adaptado y modificado para NMRiH por MAGISTER"
+	}
+	"d26e5e11aa9045835c1163dbf0a1cbb5"
+	{
+		"en"		"STAY THERE"
+		"es"		"QUÉDATE AQUI"
+	}
+	"668dd42702f6493ecb7105b152b2fa66"
+	{
+		"ru"		"Ворота открыты можете сбежать"
+		"en"		"The gate is open. Escape"
+		"es"		"La puerta está abierta. Escapa"
+	}
+	"9ecd0a4d62a90db809b6b9c99dedbbe8"
+	{
+		"ru"		"Продержитесь 240 секунд до прибытия техника со стороны цитадели"
+		"en"		"Hold for 4 minutes until a citadel technician arrives to the gate"
+		"es"		"Aguanta por 4 minutos hasta que un técnico de la ciudadela llegue a la puerta"
+	}
+	"11deaa995c1a0a894878cc1e66f323bc"
+	{
+		"ru"		"Отлично, перейдите через мост, встаньте на метку и готовьтесь"
+		"en"		"Cross the bridge, stand on the mark and get ready"
+		"es"		"Cruza el puente, ponte en la marca y prepárate"
+	}
+	"aae406c5678a4aa0c7ff8dfc39567cad"
+	{
+		"ru"		"Вам поступило сообщение на пейджер, но часть сообщения потеряна, найдите выход"
+		"en"		"You received a message on a pager, but part of the message was lost, find a way out"
+		"es"		"Recibiste un mensaje por radio, pero parte del mensaje se perdió, encuentra una salida"
+	}
+	"cfbfaa00bc206342372cf5e927950e6a"
+	{
+		"ru"		"Используйте панель"
+		"en"		"Use the control panel"
+		"es"		"Usa el panel de control"
+	}
+	"342c23c07789425a763225bf5d6726f6"
+	{
+		"ru"		"Вам нужно починить панель управления, используйте сварку"
+		"en"		"Fix the control panel with a welder"
+		"es"		"Arregla el panel de control con un soldador"
+	}
+	"98ae59835521a39fad32679a1d927801"
+	{
+		"ru"		"Выйдите с пещеры"
+		"en"		"Exit the cave"
+		"es"		"Sal de la cueva"
+	}
+}

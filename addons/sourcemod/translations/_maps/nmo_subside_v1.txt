@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"0f52b66537b941e5f3439cbb5bbb9581"
+	{
+		"en"		"Get the hell out of there"
+		"es"		"Get the hell out of there"
+	}
+	"e189900c79bc8a72c73b6ed2492238a5"
+	{
+		"en"		"Retrieve three breakers"
+		"es"		"Retrieve three breakers"
+	}
+	"f2690bdf1f70f152b10a5c61d680f436"
+	{
+		"en"		"Reactivate the ventilation before you suffocate"
+		"es"		"Reactivate the ventilation before you suffocate"
+	}
+	"35939af66bbfde3a8fea1b882830ab25"
+	{
+		"en"		"Regroup and resupply"
+		"es"		"Regroup and resupply"
+	}
+	"bd70f9c48a3a5f2cac6bb769f5317743"
+	{
+		"en"		"Make your way underground"
+		"es"		"Make your way underground"
+	}
+	"392c85aa522fe3494131fffa6b52975c"
+	{
+		"en"		"Pry open the fire door with the jack"
+		"es"		"Pry open the fire door with the jack"
+	}
+	"4f0cea436b9f9ce5394f987c4f58e5c2"
+	{
+		"en"		"Weld open lockers to retrieve the crank"
+		"es"		"Weld open lockers to retrieve the crank"
+	}
+	"81fe6c6aecc7b74af4adccfcffee255e"
+	{
+		"en"		"Find the key to the generator and perform a restart"
+		"es"		"Find the key to the generator and perform a restart"
+	}
+	"63883f7361a63b3b6a0502a437a9b227"
+	{
+		"en"		"Breach the ceiling in the cellar"
+		"es"		"Breach the ceiling in the cellar"
+	}
+	"cd6d6e2f298bd43b48fc956b5001802e"
+	{
+		"en"		"Search the atrium for explosives"
+		"es"		"Search the atrium for explosives"
+	}
+	"a7bff85787d369288a17b9c160e51c2f"
+	{
+		"en"		"Get to the atrium"
+		"es"		"Get to the atrium"
+	}
+}

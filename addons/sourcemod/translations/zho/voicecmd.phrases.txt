@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"zho"		"語音"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"zho"		"要求彈藥"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"zho"		"跟著我"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"zho"		"救命！"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"zho"		"停在這"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"zho"		"不"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"zho"		"好"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"zho"		"感謝"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"zho"		"敵人來襲"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"zho"		"受傷"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"zho"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"zho"		"手榴彈！"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"zho"		"燃燒彈！"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"zho"		"TNT！"
+	}
+}

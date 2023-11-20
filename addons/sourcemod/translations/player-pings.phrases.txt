@@ -1,0 +1,107 @@
+"Phrases"
+{
+    "Hammer Units, Long"
+    {
+        "en"    "Hammer Units"
+        "es"    "Unidades Hammer"
+    }
+
+    "Feet, Long"
+    {
+        "en"    "Feet"
+        "es"    "Pies"
+    }
+
+    "Meters, Long"
+    {
+        "en"    "Meters"
+        "es"    "Metros"
+    }
+
+    "Hammer Units, Short"
+    {
+        "en"    "hu"
+        "es"    "uh"
+    }
+
+    "Feet, Short"
+    {
+        "en"    "ft"
+        "es"    "pies"
+    }
+
+    "Meters, Short"
+    {
+        "en"    "m"
+        "es"    "m"
+    }
+
+    "Caption With Distance"
+    {
+        "#format" "{1:s},{2:.f},{3:T}"
+        "en"    "{1} ({2} {3})"
+        "es"    "{1} ({2} {3})"
+    }
+
+    "Caption"
+    {
+        "#format"    "{1:s}"
+        "en"         "{1}"
+        "es"         "{1}"
+    }
+
+    "Must Be Alive"
+    {
+        "en"    "Only alive players can ping"
+        "es"    "Solo las personas vivas pueden señalar"
+    }
+
+    "Ping Disabled"
+    {
+        "en"    "Player pings are disabled"
+        "es"    "Señalar está desactivado"
+    }
+
+    "Too Many Pings"
+    {
+        "en"    "Can't ping: Too many active pings"
+        "es"    "No puedes señalar: Demasiadas señales activas"
+    }
+
+    "On Cooldown"
+    {
+        "#format"   "{1:d}"
+        "en"    "Can't ping: On cooldown for {1} seconds"
+        "es"    "No puedes señalar: En enfriamiento por {1} segundos"
+    }
+
+    "Ping Settings Title"
+    {
+        "en"    "Player Pings"
+        "es"    "Señales de Jugadores"
+    }
+
+    "Setting: Toggle"
+    {
+        "en"    "Player Pings"
+        "es"    "Señales de Jugadores"
+    }
+
+    "Setting: Units"
+    {
+        "en"    "Distance Units"
+        "es"    "Unidad de distancia"
+    }
+
+    "Cookie Disabled"
+    {
+        "en"    "Disabled"
+        "es"    "Desactivadas"
+    }
+
+    "Cookie Enabled"
+    {
+        "en"    "Enabled"
+        "es"    "Activadas"
+    }
+}

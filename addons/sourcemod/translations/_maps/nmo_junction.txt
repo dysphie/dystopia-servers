@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"2278e414f0260ede7dfd18dc22a6a28e"
+	{
+		"en"		"#nmo_junction_Finale_tnt"
+		"es"		"#nmo_junction_Finale_tnt"
+	}
+	"6e3a7b991e32f6b382915110f78b6c4e"
+	{
+		"en"		"#nmo_junction_Find_sewer_key"
+		"es"		"#nmo_junction_Find_sewer_key"
+	}
+	"4bf4b89d823c0c7cf4f9ac693132228e"
+	{
+		"en"		"#nmo_junction_Office_progress"
+		"es"		"#nmo_junction_Office_progress"
+	}
+	"99bc4b2b48d99d839d327818b941a1a9"
+	{
+		"en"		"#nmo_junction_pawnshop_door_code"
+		"es"		"#nmo_junction_pawnshop_door_code"
+	}
+	"6e949db3b5dfe1eed53c15c54d9afb8c"
+	{
+		"en"		"#nmo_junction_Pawnshop_fense_door"
+		"es"		"#nmo_junction_Pawnshop_fense_door"
+	}
+	"1521509259392bc4eb5647bf3d0b7221"
+	{
+		"en"		"#nmo_junction_Weld_door"
+		"es"		"#nmo_junction_Weld_door"
+	}
+	"fa7c159d6632118f3c52b13b7f882a84"
+	{
+		"en"		"#nmo_junction_Use_radio"
+		"es"		"#nmo_junction_Use_radio"
+	}
+	"c3965095e46335e0eecf3d64db290a9c"
+	{
+		"en"		"#nmo_junction_Exploding_door"
+		"es"		"#nmo_junction_Exploding_door"
+	}
+	"25e2fa7e04ee2e9dd6a77b0c909128f4"
+	{
+		"en"		"#nmo_junction_Turn_off_alarm"
+		"es"		"#nmo_junction_Turn_off_alarm"
+	}
+	"1d187f96e20e8659d012cb9f304f4712"
+	{
+		"en"		"#nmo_junction_Break_front"
+		"es"		"#nmo_junction_Break_front"
+	}
+	"43e58d2cab569b224c39c0e5fc75489f"
+	{
+		"en"		"#nmo_junction_Street_door"
+		"es"		"#nmo_junction_Street_door"
+	}
+}

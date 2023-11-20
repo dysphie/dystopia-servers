@@ -1,0 +1,61 @@
+"Phrases"
+{
+    "0"
+    {
+        "en"    "{lightpink}Bugs or jerks ruining your fun? Use {hotpink}/calladmin{lightpink} and let them handle it."
+        "es"    "{lightpink}Podés usar {hotpink}/calladmin{lightpink} en caso de emergencia para notificar a un admin."
+    }
+
+    "1"
+    {
+        "en"    "{lightpink}Rack up points and stats by {hotpink}getting extracted{lightpink}. View your progress or someone else's with {hotpink}/profile{lightpink}."
+        "es"    "{lightpink}Ganá puntos y estadísticas {hotpink}extrayéndote{lightpink}. Mirá tu progreso con {hotpink}/perfil{lightpink}."
+    }
+
+    "2"
+    {
+        "en"    "{lightpink}Check out the leaderboards with {hotpink}/lb{lightpink} and see where you stand with {hotpink}/rank{lightpink}."
+        "es"    "{lightpink}Consultá los ránkings con {hotpink}/top{lightpink} y chequeá tu posición con {hotpink}/rank{lightpink}."
+    }
+
+    "3"
+    {
+        "en"    "{lightpink}Wondering what mode you're playing? Type {hotpink}/mode{lightpink} and see what leaderboards you can get on."
+        "es"    "{lightpink}Escribiendo {hotpink}/modo{lightpink} podés ver a qué rankings clasifica tu partida."
+    }
+
+    "4"
+    {
+        "en"    "{lightpink}To suggest a map, use {hotpink}/nominate{lightpink}. To request a map change, use {hotpink}/rtv{lightpink} at the start of the round."
+        "es"    "{lightpink}Sugerí mapas con {hotpink}/nominar{lightpink} y votá por un cambio al inicio de la ronda con {hotpink}/cambiar{lightpink}."
+    }
+
+    "5"
+    {
+
+        "en"    "{lightpink}Type {hotpink}/records{lightpink} to view the fastest times for the map and {hotpink}/time{lightpink} to see how your current time compares."
+        "es"    "{lightpink}Escribí {hotpink}/records{lightpink} para ver el mejor tiempo del mapa y {hotpink}/tiempo{lightpink} para compararlo al actual."
+    }
+
+    "6"
+    {
+        "en"    "{lightpink}You can {hotpink}send messages{lightpink} to our {hotpink}discord{lightpink} by prefixing them with {hotpink}#"
+        "es"    "{lightpink}Podés {hotpink}comunicarte con el chat de Discord{lightpink} agregando {hotpink}#{lightpink} al inicio de tus mensajes."
+    }
+
+    "7"
+    {
+        "en"    "{lightpink}If you are gaming on a toaster you can {hotpink}limit your render distance{lightpink} via {hotpink}/dist{lightpink}."
+        "es"    "{lightpink}Si estás jugando en una tostadora podés {hotpink}limitar tu distancia de renderizado{lightpink} con {hotpink}/dist{lightpink}."
+    }
+    "8"
+    {
+        "en"    "{hotpink}Avoid trouble. {lightpink}Don't prevent map progress, or kill infected people without their consent."
+        "es"    "{hotpink}Evita sanciones. {lightpink}No prevengas el progreso de tus equipo ni mates infectados sin autorización."
+    }
+    "9"
+    {
+        "en"    "{lightpink}Join our discord{lightpink} to hang out, report bugs and share suggestions. Get a link by typing {hotpink}!discord{lightpink}."
+        "es"    "{lightpink}Unite al discord{lightpink} para socializar, reportar bugs o hacer sugerencias. Escribí {hotpink}!discord{lightpink} para obtener un link."
+    }
+}

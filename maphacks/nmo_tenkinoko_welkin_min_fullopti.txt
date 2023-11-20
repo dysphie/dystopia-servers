@@ -1,0 +1,494 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove { "targetname" "st4_fall_music2" }
+		$remove { "targetname" "st4_fall_music1" }
+		$remove { "targetname" "st3_fall_music"}
+		$remove { "targetname" "st3_subway_music" }
+		$remove { "targetname" "warmup_music" }
+		$remove { "targetname" "name_sound" }
+		$remove { "targetname" "name2_sound" }
+		$remove { "targetname" "name3_sound" }
+		$remove { "targetname" "name4_sound" }
+		$remove { "targetname" "love2_sound" }
+		$remove { "targetname" "st2_cloud_music2" }
+		$remove { "targetname" "st4_cloud_music" }
+		$remove { "targetname" "st3_cloud_music" }
+		$remove { "targetname" "st2_yoyogi_music" }
+		$remove { "targetname" "st2_subway_music" }
+		$remove { "targetname" "escape_sound" }
+		$remove { "targetname" "door_sound" }
+		$remove { "targetname" "st1_subway_music_1and2" }
+
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"subway_elevator1_welder_use"
+			}
+			"insert"
+			{
+				"OnTrigger" "subway_elevator,Kill,,13.5,1"
+				"OnTrigger" "explode_b_maker,AddOutput,origin -1962 3098.5 -11144.5,13.13,1"
+				"OnTrigger" "explode_b_maker,ForceSpawn,,13.15,1"
+				"OnTrigger" "subway_elevator_prop,Kill,,13.15,1"
+				"OnTrigger" "2,ObjectiveComplete,,14.15,-1"
+				"OnTrigger" "3_spawn,InputEnable,,7.15,1"
+				"OnTrigger" "1_spawn,Kill,,7.15,-1"
+				"OnTrigger" "2_spawn,Kill,,7.15,-1"
+				"OnTrigger" "subway_elevator_def_bull,Kill,,7.15,1"
+				"OnTrigger" "subway_elevator,AddOutput,blockdamage 0,5,1"
+			}
+		}
+	}
+
+	"entities"
+	{
+		// --- First staircase opti start ---
+		$remove_all { "targetname" "yoyogi_low_ladder_bre_sha_info" }
+		$remove { "targetname" "yoyogi_low_ladder_bre_sha" }
+		
+		"npc_template_maker"
+		{
+			// Renamed so we don't have to edit the trigger_progress_use door that calls yoyogi_low_ladder_bre_sha,Enable
+			"targetname" "yoyogi_low_ladder_bre_sha" // "greenstep1_make"
+			"origin" "-2624 -338 -10870"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"MaxLiveChildren" "24"
+			"MaxNPCCount" "24"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			// Renamed so we don't have to edit the trigger_progress_use door that calls yoyogi_low_ladder_bre_sha,Enable
+			"targetname" "yoyogi_low_ladder_bre_sha" //"greenstep2_make"
+			"origin" "-2624 -338 -10384"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"MaxLiveChildren" "24"
+			"MaxNPCCount" "24"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "greenstep3_make"
+			"origin" "-2624 -338 -9904"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"MaxLiveChildren" "24"
+			"MaxNPCCount" "24"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "greenstep4_make"
+			"origin" "-2624 -338 -9424"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"MaxLiveChildren" "24"
+			"MaxNPCCount" "24"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "greenstep5_make"
+			"origin" "-2624 -338 -8944"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"MaxLiveChildren" "24"
+			"MaxNPCCount" "24"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"instant_trigger"
+		{
+			"targetname"	"greenstep1"
+			"origin"		"-2624 -344 -10808"
+			"radius" 		"160"
+			"allowPlayers"	"1"
+			"OnTrigger" 	"greenstep3_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"greenstep2"
+			"origin"		"-2624 -338 -10384"
+			"radius" 		"160"
+			"allowPlayers"	"1"
+			"OnTrigger" 	"greenstep4_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"greenstep3"
+			"origin" 		"-2624 -338 -9904"
+			"radius" 		"160"
+			"allowPlayers"	"1"
+			"OnTrigger" 	"greenstep5_make,Enable,,0,-1"
+		}
+
+		// --- First staircase opti end ---
+
+		$remove_connections { "targetname" "item_human_guns_use" }
+		$modify
+		{
+			"match"
+			{
+				"targetname" "item_human_guns_use"
+			}
+			"insert"
+			{
+				"OnTrigger" "item_human_guns_use_run_info,AddOutput,RenameNPC guns_use_runner,0,-1"
+
+				"OnUser1" "st2_yoyogi_music,PlaySound,,0,1"
+				"OnUser2" "explode_b_maker,ForceSpawn,,4.5,-1"
+				"OnUser2" "explode_b_maker,AddOutput,origin -1234 -1521.5 -8726.5,4.4,-1"
+				"OnUser2" "explode_b_maker,ForceSpawn,,3,-1"
+				"OnUser2" "explode_b_maker,AddOutput,origin -1623 -1523 -8728.5,2.9,-1"
+				"OnUser2" "explode_b_maker,ForceSpawn,,0.02,1"
+				"OnUser2" "explode_b_maker,AddOutput,origin -2836 -698 -8833.5,0,1"
+				"OnUser2" "yoyogi_low_zmroom_bre,Break,,0,1"
+				"OnUser2" "yoyogi_low_wall,Break,,3,1"
+				"OnUser1" "windows,SetHealth,50,17,1"
+				"OnUser1" "item_human_guns_sound,PlaySound,,17,-1"
+				"OnUser1" "windows2,Break,,17.2,1"
+				"OnTrigger" "5,ObjectiveComplete,,17,-1"
+				"OnUser2" "Yoyogi_low_zmdoor0,Break,,0,-1"
+				"OnUser1" "item_human_guns_p250,Kill,,0,-1"
+				"OnUser1" "gun_tip,HideSprite,,0,-1"
+				"OnUser2" "windows2,Break,,17.2,1"
+				"OnUser2" "item_human_guns_sound,PlaySound,,17,-1"
+				"OnUser2" "windows,SetHealth,50,17,1"
+				"OnUser2" "gun_tip,HideSprite,,0,-1"
+				"OnUser2" "item_human_guns_p250,Kill,,0,-1"
+				"OnTrigger" "!self,Kill,,1.5,-1"
+				"OnUser2" "st3_cloud_music,PlaySound,,0,-1"
+				"OnUser2" "item_human_guns_use_run,Enable,,0,1"
+				"OnTrigger" "7_spawn,InputEnable,,26,1"
+				"OnTrigger" "8_spawn,InputEnable,,27,1"
+				"OnTrigger" "second_player,InputEnable,,17,-1"
+				"OnTrigger" "second_player,RespawnPlayers,,17.2,-1"
+				//"OnTrigger" "7_spawn_make,Enable,,27,1"
+				//"OnTrigger" "7_spawn_make2,Enable,,17,1"
+				"OnTrigger" "first_player,Kill,,16,-1"
+				"OnUser1" "text2,FireUser1,,6.5,-1"
+				"OnTrigger" "item_human_guns_sound,Kill,,30,1"
+				"OnTrigger" "4_random,InputSpawn,,17.3,1"
+			}
+		}
+
+		// Second staircase optimization
+
+		// Remove default spawn system
+		$remove { "targetname" "7_spawn_make2" }
+		$remove_all { "targetname" "7_spawn_make2_info" }
+
+		// Add trigger to the staircase that kills all guns_use_runner runners
+		"trigger_allplayer"
+		{
+			"targetname" "stop_gun_use_spawns"
+			"spawnflags" "1"
+			"OnAllPlayerTrigger" "guns_use_runner,BecomeRagdoll,,0,-1"
+			"OnAllPlayerTrigger" "item_human_guns_use_run_info,Kill,,0,-1"
+			"OnAllPlayerTrigger" "item_human_guns_use_run,Kill,,0,-1"
+			"origin" "-1048 -1832 -8500"
+		}
+
+		// Fix dimensions for trigger all player after spawning
+		$fire
+		{
+			"targetname" "stop_gun_use_spawns"
+			"input" "AddOutput"
+			"value" "mins -233.000000 -153.000000 -742.419921"
+		}
+		$fire
+		{
+			"targetname" "stop_gun_use_spawns"
+			"input" "AddOutput"
+			"value" "maxs 233.000000 153.000000 742.410156"
+		}
+		$fire
+		{
+			"targetname" "stop_gun_use_spawns"
+			"input" "AddOutput"
+			"value" "solid 2"
+		}
+		
+
+		"instant_trigger"
+		{
+			"targetname"	"step0"
+			"origin"		"-912 -1792 -8664"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step1_make,Enable,,0,-1"
+			"OnTrigger" "step2_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step1"
+			"origin"		"-912 -1792 -8328"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step3_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step2"
+			"origin"		"-912 -1792 -8008"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step4_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step3"
+			"origin"		"-912 -1792 -7688"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step5_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step4"
+			"origin"		"-912 -1792 -7368"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step6_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step5"
+			"origin"		"-912 -1792 -7048"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step7_make,Enable,,0,-1"
+		}
+		"instant_trigger"
+		{
+			"targetname"	"step6"
+			"origin"		"-912 -1792 -6744"
+			"radius" "128"
+			"allowPlayers"	"1"
+			"OnTrigger" "step8_make,Enable,,0,-1"
+			"OnTrigger" "7_spawn_make,Enable,,0,-1"
+		}
+
+		// 
+		"npc_template_maker"
+		{
+			"targetname" "step1_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin" "-912 -1792 -8328"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step2_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin" "-912 -1792 -8008"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step3_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"		"-912 -1792 -7688"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step4_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"		"-912 -1792 -7368"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step5_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"		"-912 -1792 -7048"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step6_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"		"-912 -1792 -6744"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step7_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"	"-910 -1788 -6472"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		"npc_template_maker"
+		{
+			"targetname" "step8_make"
+			"angles" "0 0 0"
+			"CriterionDistance" "2"
+			"CriterionVisibility" "2"
+			"origin"	"-910 -1856 -6160"
+			"MaxLiveChildren" "10"
+			"MaxNPCCount" "10"
+			"MinSpawnDistance" "0"
+			"Radius" "256"
+			"spawnflags" "16"
+			"SpawnFrequency" "-1"
+			"StartDisabled" "1"
+			"TemplateName" "sha"
+			"OnAllSpawned" "!self,Kill,,0,-1"
+		}
+
+		// Kill subway zeds after elevator descends
+		$modify
+		{
+			"match"
+			{
+				"targetname" "subway_elevator_button"
+			}
+			"insert"
+			{
+				"OnPressed" "sha,AddOutput,targetname sha_old,179,-1"
+				"OnPressed" "sha_old,Kill,,183,-1"
+			}
+		}
+		
+		// Make elevator not kill people, rest is handled in pre_entities
+		$remove_connections
+		{
+			"targetname"	"subway_elevator"
+		}
+
+		$modify
+		{
+			"match"
+			{
+				"targetname" "1"
+			}
+			"replace"
+			{
+				"GlowEntity1Color" "255 0 0"
+				"GlowEntity1Name" "subway_walltrain0"
+			}
+		}
+	}
+}

@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"cb7a2ebdffce0abc121b07f59b252987"
+	{
+		"en"		"Objective: Find the key to the maintinence door!"
+		"es"		"Objective: Find the key to the maintinence door!"
+	}
+	"38e418690f53166ca9d2056a4c3780c0"
+	{
+		"en"		"10 seconds left."
+		"es"		"10 seconds left."
+	}
+	"4b9337b26cb91282f304dd5a7535a242"
+	{
+		"en"		"You have 50 seconds to get into the quarantine before the explosion."
+		"es"		"You have 50 seconds to get into the quarantine before the explosion."
+	}
+	"02ecfaf2a6236b82b27e345d612485d9"
+	{
+		"en"		"Survive for 2 minutes"
+		"es"		"Survive for 2 minutes"
+	}
+	"3246f42ffdb79b7a0bd551ff65162e4d"
+	{
+		"en"		"Activate the siren when ready."
+		"es"		"Activate the siren when ready."
+	}
+	"7106c3b13ed0c21d797b14f905bc32c2"
+	{
+		"en"		"Take the walkie talkie."
+		"es"		"Take the walkie talkie."
+	}
+	"401c8cf5e46e0877a46df8f99b195a1f"
+	{
+		"en"		"Use the radio!"
+		"es"		"Use the radio!"
+	}
+	"6c5552730debe695aa7146790c773d49"
+	{
+		"en"		"Get into the inner quarantine before the failsafe activates!"
+		"es"		"Get into the inner quarantine before the failsafe activates!"
+	}
+	"e603ce9138653e127a649e4f58a79fb9"
+	{
+		"en"		"Get into the sewers"
+		"es"		"Get into the sewers"
+	}
+	"e8fb48869cc3ae378d63903bf9314d61"
+	{
+		"en"		"Wait for the rollup door to open."
+		"es"		"Wait for the rollup door to open."
+	}
+	"7b905773288fc4660f8c2256ad22dc0d"
+	{
+		"en"		"Close the open quarantine entry gate to gain access to the inner quarantine!"
+		"es"		"Close the open quarantine entry gate to gain access to the inner quarantine!"
+	}
+	"f757e4e7c64210e29032717a899d3e0b"
+	{
+		"en"		"Escape the sewers."
+		"es"		"Escape the sewers."
+	}
+	"e6ed8f8deda8f1c6648ab746e0a44b71"
+	{
+		"en"		"Find the missing crank and unflood the maintenance room!"
+		"es"		"Find the missing crank and unflood the maintenance room!"
+	}
+	"b13c1815601332af6e680d1e0ae5f800"
+	{
+		"en"		"Find the key to the maintenance room."
+		"es"		"Find the key to the maintenance room."
+	}
+	"ad0cd063aa2ddb32a4df113adf7e62c1"
+	{
+		"en"		"Fuel the generator and turn it on."
+		"es"		"Fuel the generator and turn it on."
+	}
+	"099e2390a5e7f91ea15d953777a673b5"
+	{
+		"en"		"Escape the alley."
+		"es"		"Escape the alley."
+	}
+	"2ea598f17cebd79db75b20ac274794e1"
+	{
+		"en"		"Find a shovel and dig for fuel at the make-shift grave-yard."
+		"es"		"Find a shovel and dig for fuel at the make-shift grave-yard."
+	}
+	"870c39b5d1fc46dbd4c635d30cb0f46d"
+	{
+		"en"		"#nmo_quarantine_obj_survive"
+		"es"		"#nmo_quarantine_obj_survive"
+	}
+	"0aacd9bf5fd8563603fd6d4c1718af94"
+	{
+		"en"		"#nmo_quarantine_obj_activate_siren"
+		"es"		"#nmo_quarantine_obj_activate_siren"
+	}
+	"78a43af0fe0a455f8c99804215d176ba"
+	{
+		"en"		"#nmo_quarantine_obj_get_walkie"
+		"es"		"#nmo_quarantine_obj_get_walkie"
+	}
+	"1d8948e8cb0f825f2f4f50452662a290"
+	{
+		"en"		"#nmo_quarantine_obj_use_radio"
+		"es"		"#nmo_quarantine_obj_use_radio"
+	}
+	"676ada19ebee422003620ebfb7380b31"
+	{
+		"en"		"#nmo_quarantine_obj_enter_inner_quarantine"
+		"es"		"#nmo_quarantine_obj_enter_inner_quarantine"
+	}
+	"07ce76b85aa8dac91f192696dc756bcc"
+	{
+		"en"		"#nmo_quarantine_obj_enter_sewer"
+		"es"		"#nmo_quarantine_obj_enter_sewer"
+	}
+	"947c6f1b24c1c4293ed4fba6ba576fd2"
+	{
+		"en"		"#nmo_quarantine_obj_waitfordoor"
+		"es"		"#nmo_quarantine_obj_waitfordoor"
+	}
+	"6857dc6ffdf7e989a126b0912b8f27f6"
+	{
+		"en"		"#nmo_quarantine_obj_close_gate"
+		"es"		"#nmo_quarantine_obj_close_gate"
+	}
+	"3db3e2b7f7fff35ee1609ccdac2206ca"
+	{
+		"en"		"#nmo_quarantine_obj_leave_sewer"
+		"es"		"#nmo_quarantine_obj_leave_sewer"
+	}
+	"7f59c3140988638d3f5b8926b23a666a"
+	{
+		"en"		"#nmo_quarantine_obj_get_sewer_crank"
+		"es"		"#nmo_quarantine_obj_get_sewer_crank"
+	}
+	"ced5896f7aad272164efa2e7d81475d5"
+	{
+		"en"		"#nmo_quarantine_obj_get_sewer_key"
+		"es"		"#nmo_quarantine_obj_get_sewer_key"
+	}
+	"430ede0927a2fe2faa2869412a0fd8b6"
+	{
+		"en"		"#nmo_quarantine_obj_fillup_generator_turn_on"
+		"es"		"#nmo_quarantine_obj_fillup_generator_turn_on"
+	}
+	"ad7532711cfbd3ba3e38a3b83b91ef54"
+	{
+		"en"		"#nmo_quarantine_obj_leavespawn"
+		"es"		"#nmo_quarantine_obj_leavespawn"
+	}
+	"35121378afd6901a8a5786f486c6ffaf"
+	{
+		"en"		"#nmo_quarantine_obj_gravesite"
+		"es"		"#nmo_quarantine_obj_gravesite"
+	}
+	"f11dbe7a960d93c9b56bd2a97e856552"
+	{
+		"en"		"#nmo_quarantine_10sec"
+		"es"		"#nmo_quarantine_10sec"
+	}
+	"90973b875f47587111255bdfc2e7a5f5"
+	{
+		"en"		"#nmo_quarantine_50sec"
+		"es"		"#nmo_quarantine_50sec"
+	}
+}

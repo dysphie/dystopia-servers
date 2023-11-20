@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"06110d99a0a5bf002f12f1261f18e2ef"
+	{
+		"en"		"Climb to the helipad and use walkie talkie to call the helicopter. / Поднимитесь на вертолётную площадку и используйте рацию, чтобы вызвать вертолёт."
+		"es"		"Climb to the helipad and use walkie talkie to call the helicopter. / Поднимитесь на вертолётную площадку и используйте рацию, чтобы вызвать вертолёт."
+	}
+	"2cb320e2c857925eff8e688ea9fdc6ef"
+	{
+		"en"		"Hold out for five minutes until the helicopter arrives! / Продержитесь пять минут до прибытия вертолёта!"
+		"es"		"Hold out for five minutes until the helicopter arrives! / Продержитесь пять минут до прибытия вертолёта!"
+	}
+	"b5218d177152d38b92e6605739866634"
+	{
+		"en"		"The door is jammed, you need to find a weld to open it. Hurry up! / Дверь заклинило, найдите сварку, чтобы её открыть. Поторопитесь!"
+		"es"		"The door is jammed, you need to find a weld to open it. Hurry up! / Дверь заклинило, найдите сварку, чтобы её открыть. Поторопитесь!"
+	}
+	"e3a64e4e5536b5fb9c5e3fd0c3edc0b9"
+	{
+		"en"		"Leave this room. / Покиньте эту комнату."
+		"es"		"Leave this room. / Покиньте эту комнату."
+	}
+	"416e91c999cffd96334147a910532cb5"
+	{
+		"en"		"Find the way up and break the barricaded door. There must be a way out. /  Найдите путь наверх и сломайте забаррикадированную дверь. Там должен быть выход."
+		"es"		"Find the way up and break the barricaded door. There must be a way out. /  Найдите путь наверх и сломайте забаррикадированную дверь. Там должен быть выход."
+	}
+	"661cb6b765ead1ed4c7106ed63a04d51"
+	{
+		"en"		"Clear your way and destroy a strong barricade to pass on. /  Расчистите путь и сломайте крепкую баррикаду, чтобы пройти дальше."
+		"es"		"Clear your way and destroy a strong barricade to pass on. /  Расчистите путь и сломайте крепкую баррикаду, чтобы пройти дальше."
+	}
+	"d38a8caed8669d489f3eadedf47f7fc1"
+	{
+		"en"		"Damn, combination lock. Find the code to open it./ Чёрт, кодовый замок. Подберите код, чтобы его открыть."
+		"es"		"Damn, combination lock. Find the code to open it./ Чёрт, кодовый замок. Подберите код, чтобы его открыть."
+	}
+	"de97f63d2025cd42023183cc5b25ab60"
+	{
+		"en"		"Keep moving! Find a way to get upstairs before you get flooded. / Продолжайте двигаться! Найдите способ попасть наверх, прежде чем вас затопит."
+		"es"		"Keep moving! Find a way to get upstairs before you get flooded. / Продолжайте двигаться! Найдите способ попасть наверх, прежде чем вас затопит."
+	}
+	"559594e6e2913f4a401f16ef10aa782d"
+	{
+		"en"		"Get through the warehouse. / Проберитесь через склад."
+		"es"		"Get through the warehouse. / Проберитесь через склад."
+	}
+	"e70e9892f26b61d51721c5b989122830"
+	{
+		"en"		"Make your way through the infected on the second floor of the ship and find the door to the warehouse / Пробейтесь через заражённых на второй этаж судна и найдите дверь на склад."
+		"es"		"Make your way through the infected on the second floor of the ship and find the door to the warehouse / Пробейтесь через заражённых на второй этаж судна и найдите дверь на склад."
+	}
+	"5770b795e7666a7646f4feddbdb76c0e"
+	{
+		"en"		"The ship is sinking, get out of here before it's too late! / Судно тонет, выбирайтесь отсюда пока не поздно!"
+		"es"		"The ship is sinking, get out of here before it's too late! / Судно тонет, выбирайтесь отсюда пока не поздно!"
+	}
+	"714b9e2abee8cd00f1477202b187e766"
+	{
+		"en"		"Author of the original map: Neko Baron."
+		"es"		"Author of the original map: Neko Baron."
+	}
+	"8fae585f24f92e34fadebbac9df195c5"
+	{
+		"en"		"Also thanks for the test: Pla3, Varakushka , BADIKA, 7Rekt, LILAC.Vi , Tej."
+		"es"		"Also thanks for the test: Pla3, Varakushka , BADIKA, 7Rekt, LILAC.Vi , Tej."
+	}
+	"e584ec2011cea159a26ac3d600e90e22"
+	{
+		"en"		"Thank you very much for your help: Pla3, |NMRiH Dev| Atheist, OLEG, MARKIMOO."
+		"es"		"Thank you very much for your help: Pla3, |NMRiH Dev| Atheist, OLEG, MARKIMOO."
+	}
+	"d08161fad8a5f3c04621d20aefc44045"
+	{
+		"en"		"The map was ported by TAWER."
+		"es"		"The map was ported by TAWER."
+	}
+}

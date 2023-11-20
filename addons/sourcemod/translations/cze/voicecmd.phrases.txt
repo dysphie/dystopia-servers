@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Voice"
+	{
+		"cze"		"Hlas"
+	}
+	"NMRiH_VoiceCommand_Ammo"
+	{
+		"cze"		"Potřebuji munici"
+	}
+	"NMRiH_VoiceCommand_Follow"
+	{
+		"cze"		"Pojď za mnou"
+	}
+	"NMRiH_VoiceCommand_Help"
+	{
+		"cze"		"Pomoc!"
+	}
+	"NMRiH_VoiceCommand_Stay"
+	{
+		"cze"		"Zastav tady"
+	}
+	"NMRiH_VoiceCommand_No"
+	{
+		"cze"		"Ne"
+	}
+	"NMRiH_VoiceCommand_Yes"
+	{
+		"cze"		"Ano"
+	}
+	"NMRiH_VoiceCommand_ThankYou"
+	{
+		"cze"		"Díky"
+	}
+	"NMRiH_VoiceCommand_Incoming"
+	{
+		"cze"		"Už se blíží!"
+	}
+	"NMRiH_VoiceCommand_Injured"
+	{
+		"cze"		"Jsem zraněn"
+	}
+	"NMRiH_VoiceCommand_Taunt"
+	{
+		"cze"		"****"
+	}
+	"NMRiH_VoiceCommand_Grenade"
+	{
+		"cze"		"Granát!"
+	}
+	"NMRiH_VoiceCommand_Molotov"
+	{
+		"cze"		"Molotov!"
+	}
+	"NMRiH_VoiceCommand_TNT"
+	{
+		"cze"		"TNT!"
+	}
+}

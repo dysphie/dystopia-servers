@@ -1,0 +1,97 @@
+"Phrases"
+{
+	"ad098de6f9fbf46ef8e7166a82b89cd1"
+	{
+		"en"		"Find me at the Lake."
+		"es"		"Encuéntrame en el lago."
+	}
+	"28bb3f2daadd819ec531ebd3cdbea7b7"
+	{
+		"en"		"A Cogwheel has been found."
+		"es"		"Se ha encontrado un engranaje."
+	}
+	"106c96350465b5123b5d8d2208f12d29"
+	{
+		"en"		"Secret ending unlocked."
+		"es"		"Final secreto desbloqueado."
+	}
+	"26af54edbf533d766ed26af93acb48ab"
+	{
+		"en"		"A secret puzzle piece has been found."
+		"es"		"Se ha encontrado una pieza secreta del rompecabezas."
+	}
+	"2682e6c033627f002d58c956c43ce1f5"
+	{
+		"en"		"Survive for 2 minutes."
+		"es"		"Sobrevive por 2 minutos."
+	}
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"es"		"Escapa!"
+	}
+	"986c8b6f34fd1afbb298b61e19097dbc"
+	{
+		"en"		"Find batteries to begin extraction."
+		"es"		"Encuentra baterías para comenzar la extracción."
+	}
+	"fec10164106685800326b0b1660808d6"
+	{
+		"en"		"Enter the Laboratory."
+		"es"		"Entra al laboratorio."
+	}
+	"3469f32af4a099975385188451a85ffd"
+	{
+		"en"		"Find the missing Cogwheels."
+		"es"		"Encuentra los engranajes que faltan."
+	}
+	"0c115175165af0e91ab7e68f7da6e1c4"
+	{
+		"en"		"Investigate this place."
+		"es"		"Investiga este lugar."
+	}
+	"9f40d7ead883960de0548b9611cde512"
+	{
+		"en"		"Find Batteries to begin extraction."
+		"es"		"Find Batteries to begin extraction."
+	}
+	"55d909664d13a2d4ef828f2fd3fd1339"
+	{
+		"en"		"This place feels familiar.
+Have I been here before?"
+		"es"		"This place feels familiar.
+Have I been here before?"
+	}
+	"a6b3539adb5b2a6f2fa101770290cf2c"
+	{
+		"en"		"I can feel the corruption taking over.
+I don't have much time left..."
+		"es"		"I can feel the corruption taking over.
+I don't have much time left..."
+	}
+	"fb8949fdab78ef91c433ebce67895101"
+	{
+		"en"		"There is a way out.
+Find the...
+...
+The page is missing."
+		"es"		"There is a way out.
+Find the...
+...
+The page is missing."
+	}
+	"e0aa7f880fd510fa0464d05e49145977"
+	{
+		"en"		"no way out no way out no way out
+no way out no way out no way out
+no way out no way out no way out"
+		"es"		"no way out no way out no way out
+no way out no way out no way out
+no way out no way out no way out"
+	}
+	"e1cc1798dd0c7358b81f32273158e3e0"
+	{
+		"en"		"Find a Welder to open this door."
+		"es"		"Find a Welder to open this door."
+	}
+}

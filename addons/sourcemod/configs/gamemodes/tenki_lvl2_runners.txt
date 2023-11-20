@@ -1,0 +1,4 @@
+game_mode 1
+sv_spawn_regen_target 0
+sv_zombie_shambler_crawler_chance 0
+sm_tenki_stage 2

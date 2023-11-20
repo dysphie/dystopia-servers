@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"d5c2f7cdc03363d0a93a24017de5b055"
+	{
+		"en"		"restore power to the elevator"
+		"es"		"restore power to the elevator"
+	}
+	"8b8b7170906ad2bcc0dc77ed14d6168b"
+	{
+		"en"		"red key"
+		"es"		"red key"
+	}
+	"ee41d58549ae6255b2dc9d3cb4f5ff37"
+	{
+		"en"		"blue key"
+		"es"		"blue key"
+	}
+	"99f67654a1abf1a6de57bdc0b2491f48"
+	{
+		"en"		"green key"
+		"es"		"green key"
+	}
+	"4d77979a6b8e1826ca7c81fcee291e7e"
+	{
+		"en"		"Map by: kitrod / NMRiH Edit: Porkchops4lunch"
+		"es"		"Map by: kitrod / NMRiH Edit: Porkchops4lunch"
+	}
+}

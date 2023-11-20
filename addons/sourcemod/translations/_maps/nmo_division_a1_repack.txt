@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"1ea2fa84a3eec62a1c8c677a599f309e"
+	{
+		"en"		"Rubble is blocking the way! Push the scaff to create a ramp"
+		"es"		"¡Escombros bloquean el camino! Empuja el andamio para crear una rampa"
+	}
+	"7fc0c4aa9819a5bf684eaf0ad72c362e"
+	{
+		"en"		"Find an exit"
+		"es"		"Encuentra una salida"
+	}
+	"a08d67d176a8d1f054faf59f7ed1ea3d"
+	{
+		"en"		"The helicopter is on the way, hang in there"
+		"es"		"El helicóptero está en camino, aguanta ahí"
+	}
+	"76f7f0d83b5a35c657dacc89881ef656"
+	{
+		"en"		"The outpost is here! Use the microphone to call for help"
+		"es"		"¡El puesto de avanzada está aquí! Usa el micrófono para pedir ayuda"
+	}
+	"dfc774f7b9a4de9fafe9dc9b6c3363d2"
+	{
+		"en"		"Make your way to the warehouse"
+		"es"		"Dirígete al almacén"
+	}
+	"0b755430644b4d34fd4dd9a074c3c428"
+	{
+		"en"		"The radio is missing some parts! Find a satellite dish and a battery at the Qwikfuel station, then call for help again"
+		"es"		"¡La radio le faltan algunas piezas! Encuentra una antena parabólica y una batería en la estación Qwikfuel, luego pide ayuda de nuevo"
+	}
+	"18bb7d5dbcade00e682e225877fdeb41"
+	{
+		"en"		"The radio is missing some parts! Find a satellite dish and a battery at the foodwall restaurant, then call for help again"
+		"es"		"¡La radio le faltan algunas piezas! Encuentra una antena parabólica y una batería en el restaurante foodwall, luego pide ayuda de nuevo"
+	}
+	"e60a865903806d6be05f0ad625640b12"
+	{
+		"en"		"Use the hand reader to unlock the front doors"
+		"es"		"Usa el lector de mano para desbloquear las puertas delanteras"
+	}
+	"31d9f89c3bd4c73a7b5079e42987387b"
+	{
+		"en"		"Find 2 canisters to have enough fuel for the generator, overload it so it will explode creating a path"
+		"es"		"Encuentra 2 bidones para tener suficiente combustible para el generador, sobrecárgalo para que explote creando un camino"
+	}
+	"fe83ac882f39260ec173b81835ea2734"
+	{
+		"en"		"Find 3 batteries to overload the generator, it will blow up the wall behind it"
+		"es"		"Encuentra 3 baterías para sobrecargar el generador, hará explotar la pared detrás de él"
+	}
+	"4d461752d8e2fce16d1537a85d704fe9"
+	{
+		"en"		"Enter the Qwikfuel station and find an exit towards the other side"
+		"es"		"Entra en la estación Qwikfuel y encuentra una salida hacia el otro lado"
+	}
+	"75050e3ce391cd910cdbeea6ed554083"
+	{
+		"en"		"Get the shopkeeper what he wants from the main store area"
+		"es"		"Consigue al tendero lo que quiere de la zona principal de la tienda"
+	}
+	"1369a38052cf3aa5d2cea912e800e461"
+	{
+		"en"		"rooftojumpbelow"
+		"es"		"saltodesdeeltechoabajo"
+	}
+	"cbd66369c79e80cca00cc038bc04aad1"
+	{
+		"en"		"Find a ladder to get over the military blockade"
+		"es"		"Encuentra una escalera para pasar por encima del bloqueo militar"
+	}
+	"625c80e5544de1824b03643f3d745311"
+	{
+		"en"		"Enter the sewers using the ladder, then continue"
+		"es"		"Entra en las alcantarillas usando la escalera, luego continúa"
+	}
+	"3a0c670b85a098afa9c007ec55a876a5"
+	{
+		"en"		"Push away the car that is blocking the way"
+		"es"		"Empuja el coche que está bloqueando el camino"
+	}
+	"0acea015fcb4c785d11c9946c863f63c"
+	{
+		"en"		"Go through the parking lot"
+		"es"		"Atraviesa el estacionamiento"
+	}
+	"49f0b56caf037f14ebb649b89a5e2b20"
+	{
+		"en"		"Need to find a keyboard, hack the security controls to open up the closed door"
+		"es"		"Necesitas encontrar un teclado, hackear los controles de seguridad para abrir la puerta cerrada"
+	}
+	"6782676677fffe949ecb921896e52d41"
+	{
+		"en"		"Enter the victory garage and find an exit on the other side (You'll need a welder)"
+		"es"		"Entra en el garaje de la victoria y encuentra una salida al otro lado (Necesitarás un soldador)"
+	}
+	"4bae00684aeeae4afdb828b9cf409b73"
+	{
+		"en"		"There's too much rubble to go through! Enter the victory garage and find an exit on the other side (Find a welder!)"
+		"es"		"¡Hay demasiados escombros para pasar! Entra en el garaje de la victoria y encuentra una salida al otro lado (¡Encuentra un soldador!)"
+	}
+	"8a4a2a4b43101fda01d33261f4debe7f"
+	{
+		"en"		"The rubble is blocking the path! Enter the victory garage and find a way to the roof (Find a welder!)"
+		"es"		"¡Los escombros están bloqueando el camino! Entra en el garaje de la victoria y encuentra una forma de llegar al techo (¡Encuentra un soldador!)"
+	}
+	"93df3ef6a2dc1b64281a84086a4c5a6d"
+	{
+		"en"		"The fire is blocking the path, find an extinguisher"
+		"es"		"El fuego está bloqueando el camino, encuentra un extintor"
+	}
+	"51ba39a55166347a4a8c3ca1d3071fb2"
+	{
+		"en"		"Find a way out of the warehouse"
+		"es"		"Encuentra una salida del almacén"
+	}
+	"60a0ac2f0b516d6a2786a867c29b0ecf"
+	{
+		"en"		"Go down the road"
+		"es"		"Baja por la calle"
+	}
+	"c9bfff965e0c4b7886c118eb1bdeea96"
+	{
+		"en"		"Keep going down the street"
+		"es"		"Sigue bajando por la calle"
+	}
+	"f815459cd710dae540f53585ec45fd7a"
+	{
+		"en"		"Destroy the barricade built by the military"
+		"es"		"Destruye la barricada construida por el ejército"
+	}
+	"bd081102d3abf7b9dc5b62efb8e51cd4"
+	{
+		"en"		"One of the soldiers has a key, use it to unlock the back door of the warehouse"
+		"es"		"Uno de los soldados tiene una llave, úsala para desbloquear la puerta trasera del almacén"
+	}
+	"0729ad9681880e65d259c59b10e605f0"
+	{
+		"en"		"Construct a bridge over the destroyed road using planks"
+		"es"		"Construye un puente sobre el camino destruido usando tablones"
+	}
+	"d2b23fb8d196c4caff201bd3d5d95335"
+	{
+		"en"		"Find a microphone and then use the radio to call for help"
+		"es"		"Encuentra un micrófono y luego usa la radio para pedir ayuda"
+	}
+	"e5f8d250040984afaf928a260a1e0190"
+	{
+		"en"		"Go downstairs and find a way to the front area of the tenement"
+		"es"		"Baja las escaleras y encuentra una forma de llegar al área delantera del bloque de viviendas"
+	}
+	"1742b54c73365e54f46e9dd2e5c332fd"
+	{
+		"en"		"Go upstairs and reach the front area of the tenement"
+		"es"		"Sube las escaleras y llega al área delantera del bloque de viviendas"
+	}
+	"a4156a848d051565218a530cf79ff607"
+	{
+		"en"		"Use explosives to blow up the wall, the front door is blocked"
+		"es"		"Usa explosivos para volar la pared, la puerta delantera está bloqueada"
+	}
+	"f68cfcaf6327b2ab0857aeef116b3143"
+	{
+		"en"		"Exit the building, hit or shoot the first door"
+		"es"		"Sal del edificio, golpea o dispara a la primera puerta"
+	}
+	"e109286dc4dd9f8aa9a5a2403f18668f"
+	{
+		"en"		"Find a key to unlock the 2nd floor door"
+		"es"		"Encuentra una llave para desbloquear la puerta del segundo piso"
+	}
+	"ff8f589762f6b15323b4528ce122387a"
+	{
+		"en"		"Restore the power to the basement to unlock the electronic door. Use the hammer to hit the buzzer"
+		"es"		"Restaura la energía en el sótano para desbloquear la puerta electrónica. Usa el martillo para golpear el timbre"
+	}
+}

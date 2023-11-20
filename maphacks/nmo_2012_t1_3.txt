@@ -1,0 +1,15 @@
+"Maphack"
+{
+	"entities"
+	{
+		$remove 
+		{ 
+			"targetname" "soundtrack" 
+		}
+
+		$remove_all 
+		{ 
+			"targetname" "fusfoda" 
+		}
+	}
+}

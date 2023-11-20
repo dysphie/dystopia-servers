@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"7fc3b9ea59d6d0f969db0a07edecc349"
+	{
+		"en"		"Enter the nether portal"
+		"es"		"Entra al portal del nether"
+	}
+	"aa9b894ede554d302d3f90c41bdd0924"
+	{
+		"en"		"Go to the village"
+		"es"		"Ve a la aldea"
+	}
+	"9f00ae89fc65ab0d6d2fbec3875ef4b7"
+	{
+		"en"		"Load minecart with TNT"
+		"es"		"Coloca TNT en la vagoneta"
+	}
+	"08009ccd4480c5b96bf91e59e74b6409"
+	{
+		"en"		"Look for a TNT to blow up the floor"
+		"es"		"Encuentra un TNT para explotar el piso"
+	}
+	"20e473a4eba30e7ec4440858b65f00dc"
+	{
+		"en"		"Go to the mineshaft"
+		"es"		"Ve a la mina abandonada"
+	}
+	"dc0d9cbb92bcf678b1ed275b0c95a082"
+	{
+		"en"		"Use the TNT"
+		"es"		"Usa el TNT"
+	}
+}

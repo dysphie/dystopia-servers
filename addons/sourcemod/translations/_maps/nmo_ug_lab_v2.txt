@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"7ec6c1df791e763c7fb0ce81288cf745"
+	{
+		"en"		"Train leaving in 30 secs"
+		"es"		"El tren se va en 30 segundos"
+	}
+	"c4471747fcf828f44e6aaf478062e984"
+	{
+		"en"		"Hack the PC in security room."
+		"es"		"Hackea la PC en la cabina de seguridad"
+	}
+	"8acfc848cd8da5dbb42b36f6afeef7b1"
+	{
+		"en"		"Turn off the power in this block."
+		"es"		"Apaga la electricidad en esta sección."
+	}
+	"8ffca1456a2308a5556a750be1ecbac0"
+	{
+		"en"		"Password required"
+		"es"		"Contraseña adquirida"
+	}
+	"d8d9d76822f758c893a0fd9f46b27f89"
+	{
+		"en"		"Check the security room"
+		"es"		"Inspecciona la cabina de seguridad"
+	}
+	"7fbca5639be59b46ef76c28eb10250fa"
+	{
+		"en"		"Check the train"
+		"es"		"Inspecciona el tren"
+	}
+	"5ad394bf9dd28b78b0eb53150d128a96"
+	{
+		"en"		"Find your way to leave this place"
+		"es"		"Encuentra una forma de irte de este lugar"
+	}
+	"16f1a6201da35b74b8dd2dd7ad863d02"
+	{
+		"en"		"Collects samples"
+		"es"		"Recolecta muestras"
+	}
+	"902d7c5df6269512572c0a9626f41c86"
+	{
+		"en"		"Hack the PC to open the door"
+		"es"		"Hackea la PC para abrir la puerta"
+	}
+	"fbc141c4e51d3f999189ddd70c1eebdc"
+	{
+		"en"		"Enter the lab"
+		"es"		"Entra al laboratorio"
+	}
+	"81cfd99eca24ec160a5d5ef6160b229c"
+	{
+		"en"		"Im not going back there..."
+		"es"		"No pienso volver ahí..."
+	}
+	"6b345a8c39653dbfb4ce454c4e5de671"
+	{
+		"en"		"Coffee makes you feels sick.."
+		"es"		"El café te descompone.."
+	}
+	"86ad59862a2ce90bcaa73e5923cf8b1d"
+	{
+		"en"		"Feels better...?"
+		"es"		"¿Se siente mejor...?"
+	}
+	"1fb592d2970fdd7acbe89ad0593e6fcd"
+	{
+		"en"		"This may unlock something"
+		"es"		"Quizás esto destrabe algo"
+	}
+	"a53589f0baa078498804c517e7698f45"
+	{
+		"en"		"Im not gonna rush through.."
+		"es"		"No pienso correr por acá.."
+	}
+}

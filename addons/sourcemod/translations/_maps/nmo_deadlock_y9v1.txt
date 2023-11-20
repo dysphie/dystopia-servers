@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"63842f56ac41b8e4c9d5acfd502fac1a"
+	{
+		"en"		"Use valve and go ahead"
+		"es"		"Use valve and go ahead"
+	}
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"es"		"Escape!"
+	}
+	"b0c6c2a916d863d0982fe94d403d9451"
+	{
+		"en"		"Find out something for move train"
+		"es"		"Find out something for move train"
+	}
+	"49df797764e2a4ce1e4eae465aa2bb75"
+	{
+		"en"		"Go to outside for escape"
+		"es"		"Go to outside for escape"
+	}
+	"a42917ba736a4118ef50637ac9aaa233"
+	{
+		"en"		"Unlock the valve"
+		"es"		"Unlock the valve"
+	}
+	"279155dddaabdf55694e6865a96ba97b"
+	{
+		"en"		"Make one's through train"
+		"es"		"Make one's through train"
+	}
+	"cf85006d8d2e5e34a88ac6763c34a191"
+	{
+		"en"		"Input the code"
+		"es"		"Input the code"
+	}
+	"9bc4604c3e5a20d16fdadc77e4c4ae26"
+	{
+		"en"		"Find out hint"
+		"es"		"Find out hint"
+	}
+	"8dd0b339bc8335ba65cd98070dc301be"
+	{
+		"en"		"Move the train"
+		"es"		"Move the train"
+	}
+	"c9cf40bca02031d5e726bd41bedaf4bb"
+	{
+		"en"		"Go to ouside"
+		"es"		"Go to ouside"
+	}
+	"4a3b2edf0fdc739865752879cff4c0ce"
+	{
+		"en"		"Power on for the gate"
+		"es"		"Power on for the gate"
+	}
+	"0cd77c43e3617d836ad1814281317a13"
+	{
+		"en"		"Find the lever"
+		"es"		"Find the lever"
+	}
+	"a0bbc153d9960b953fa16480bb6eed78"
+	{
+		"en"		"Break the board"
+		"es"		"Break the board"
+	}
+	"3b2f1698771e703f5807afccc282bf46"
+	{
+		"en"		"Made by FOOFINOO. Ported by yomox9."
+		"es"		"Made by FOOFINOO. Ported by yomox9."
+	}
+	"4478f4a2425c0c1c849b9368dcde126b"
+	{
+		"en"		"Remain 15sec."
+		"es"		"Remain 15sec."
+	}
+	"d5dbe3929061e2aed6d20484a249d158"
+	{
+		"en"		"This valve is locked"
+		"es"		"This valve is locked"
+	}
+	"1684b880af72a10ce399b575dbe606ad"
+	{
+		"en"		"See compass. You can may found someting."
+		"es"		"See compass. You can may found someting."
+	}
+	"a4bb1575150afc2c4f24da940895ca9f"
+	{
+		"en"		"D E A D L O C K"
+		"es"		"D E A D L O C K"
+	}
+}

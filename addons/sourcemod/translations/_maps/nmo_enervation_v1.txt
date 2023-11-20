@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"7163f88f61acaafa24e203793852b0b4"
+	{
+		"en"		"30 seconds remaining until door opens"
+		"es"		"30 segundos para que se abra la puerta"
+	}
+	"d8437151cf82648969fae9a9da36a70c"
+	{
+		"en"		"Wait two minutes until power restores for door."
+		"es"		"Espera 2 minutos hasta la puerta se encienda"
+	}
+	"4e1e9c896636931a5943e1c41f4b108b"
+	{
+		"en"		"Hurry get in the truck before it leaves!"
+		"es"		"¡Rápido! ¡Sube al camión antes de que se vaya!"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"es"		"Adaptado por xkarma123x"
+	}
+	"04245b0a264a05b64d128d0e645d9d89"
+	{
+		"en"		"Map by Striker"
+		"es"		"Mapa por Striker"
+	}
+	"8a9c7909df601c9ef4fe539d98b9913c"
+	{
+		"en"		"Enervation"
+		"es"		"Enervation"
+	}
+	"690ac464a9d75fec9307454e4687fafb"
+	{
+		"en"		"Power the door and wait for it to open"
+		"es"		"Restablece la electricidad de la puerta"
+	}
+	"543d2957c654145e44a01b5c1faee290"
+	{
+		"en"		"Refuel the truck"
+		"es"		"Reabastece el camión con combustible"
+	}
+	"2f7b0a764b8e628421c352f9b1f9bde6"
+	{
+		"en"		"find keycard and place it in card reader"
+		"es"		"Encuentra una tarjeta y úsala en el lector"
+	}
+	"13891bb39b57e2bdf00f52ebd71e94a0"
+	{
+		"en"		"Use the interface to open door"
+		"es"		"Usa la interfaz para abrir la puerta"
+	}
+	"5dceb95552bbccc84c35775bf55c321b"
+	{
+		"en"		"turn off the electricity"
+		"es"		"Desactiva la electricidad"
+	}
+	"f19b3ec9a20909e169752dedbd75c3d5"
+	{
+		"en"		"proceed ahead"
+		"es"		"Continúa"
+	}
+	"090bf7d0f2966637a5d421fc45d9917b"
+	{
+		"en"		"turn off the gas"
+		"es"		"Detén la fuga de gas"
+	}
+	"0c4f64569c5bfacb3f85ba9ab3635bb7"
+	{
+		"en"		"Turn on power for door and wait 2 minutes for it to open"
+		"es"		"Enciende la puerta y espera 2 minutos hasta que se abra"
+	}
+	"af80f0fb38961d53b0b84ae09befaff5"
+	{
+		"en"		"Reach the other side of the cave"
+		"es"		"Llega al otro lado de la cueva"
+	}
+	"42c5891c30e8a2ac40a49be660e41fac"
+	{
+		"en"		"Reach the underground"
+		"es"		"Ve a la cueva"
+	}
+	"89cd1463a7ec3e51835ed48c02fec720"
+	{
+		"en"		"Navigate throughout Ravenholm"
+		"es"		"Cruza la ciudad de Ravenholm"
+	}
+	"6f6f0c9c7d42dd25433af4066aeb4a32"
+	{
+		"en"		"Get in sewers and then find another way out"
+		"es"		"Encuentra una salida mediante las alcantarillas"
+	}
+	"9712237191a659b2a047ca1e4ae67d29"
+	{
+		"en"		"Find the key to unlock the door"
+		"es"		"Encuentra una llave para abrir la puerta"
+	}
+}

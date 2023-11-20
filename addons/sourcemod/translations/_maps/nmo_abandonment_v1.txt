@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"b0e0aa3d5c46ec5e22c418cd86cccfc5"
+	{
+		"en"		"Exit the sewers"
+		"es"		"Sal de las alcantarillas"
+	}
+	"afd2b3af5c99d2d0c394c72ba12adbb6"
+	{
+		"en"		"Enter the sewers"
+		"es"		"Entra a las alcantarillas"
+	}
+	"8b0a6aab7f8188c2882d874edd915d28"
+	{
+		"en"		"Get outside the main building through the sideroof exit"
+		"es"		"Sal del edificio principal por la salida del techo lateral"
+	}
+	"b5222163eb712d8333bf9b998f8e90c0"
+	{
+		"en"		"Prepare yourself for something horrible"
+		"es"		"Prepárate para algo horrible"
+	}
+	"505d9c3b25b21c3d013bd899b1626ad4"
+	{
+		"en"		"Scavenge for answers"
+		"es"		"Busca respuestas"
+	}
+	"ad461d58d41929c128639e5ffa32480d"
+	{
+		"en"		"Destroy the barricades facing towards the dining room"
+		"es"		"Destruye las barricadas que dan al comedor"
+	}
+	"85010d9aa0714c44ce6153fe566f1ee6"
+	{
+		"en"		"Use an I.E.D. to breach the lock"
+		"es"		"Usa un explosivo improvisado para romper el candado"
+	}
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"es"		"Busca pistas"
+	}
+	"be448bbbd9f69ad942c499c0167bb0b6"
+	{
+		"en"		"Unlock the door to gain access towards the main building"
+		"es"		"Desbloquea la puerta para ganar acceso al edificio principal"
+	}
+	"8ba5b2f8472d1bac235afb5e40514074"
+	{
+		"en"		"Door's locked, see if you can find an alternative way out"
+		"es"		"La puerta esta cerrada, intenta encontrar una salida alternativa"
+	}
+	"c449deccdec10392d966a5ce3f9e0c74"
+	{
+		"en"		"Get out of the cellar"
+		"es"		"Sal del sótano"
+	}
+	"a3a1d60a7060b7b84a2a6d1d2a684907"
+	{
+		"en"		"Code door: 6194"
+		"es"		"Código de la puerta: 6194"
+	}
+	"2aacaa25018248347152f2918876984f"
+	{
+		"en"		"Code door: 2849"
+		"es"		"Código de la puerta: 2849"
+	}
+	"5995720f27d07a8e72aefaf6c7617f20"
+	{
+		"en"		"Code door: 3001"
+		"es"		"Código de la puerta: 3001"
+	}
+	"2b93059d89501828ae5a24a111fcd14b"
+	{
+		"en"		"Code door: 5910"
+		"es"		"Código de la puerta: 5910"
+	}
+	"c5c19de5f0c17661216d1ee55ac04396"
+	{
+		"en"		"Code door: 5487"
+		"es"		"Código de la puerta: 5487"
+	}
+	"5e9695d78f0a39d23f8c918293204df0"
+	{
+		"en"		"Map made by a cat with sunglasses"
+		"es"		"Mapa hecho por \"a cat with sunglasses\""
+	}
+}

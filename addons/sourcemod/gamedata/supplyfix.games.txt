@@ -1,0 +1,13 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"CNMRiH_Player::::m_iAtControlsCount"
+			{
+				"linux"	"5056"
+			}
+		}
+	}
+}

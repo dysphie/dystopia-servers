@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"7d04b75e15c34c3dd492955118140bb6"
+	{
+		"en"		"Lay the soul to rest"
+		"es"		"Lay the soul to rest"
+	}
+	"c95d24be497bd07a88b6c593d7b80d4e"
+	{
+		"en"		"Grab the gate key"
+		"es"		"Grab the gate key"
+	}
+	"42a6db3bab16ecb8493540c29c28ae97"
+	{
+		"en"		"Kill the exploding zombie"
+		"es"		"Kill the exploding zombie"
+	}
+	"1db6d3678a47abe990f498a00f40dd13"
+	{
+		"en"		"Find the keycard"
+		"es"		"Find the keycard"
+	}
+	"f162772d754e6c74cfa6238aa152be3b"
+	{
+		"en"		"Replace battery"
+		"es"		"Replace battery"
+	}
+	"cab0b71b88e68f430267818372117b20"
+	{
+		"en"		"Checkpoint 4 unlocked"
+		"es"		"Checkpoint 4 unlocked"
+	}
+	"3b190fd3410c9523cf8f991db7bc3e59"
+	{
+		"en"		"Necrophobia 3: A horror story by Ethosaur. Thanks for playing!"
+		"es"		"Necrophobia 3: A horror story by Ethosaur. Thanks for playing!"
+	}
+	"8090b461fc666eaee900525e1594b6b6"
+	{
+		"en"		"Checkpoint 3 unlocked"
+		"es"		"Checkpoint 3 unlocked"
+	}
+	"abfe4aca8c6f28dc962c66a461af1b1d"
+	{
+		"en"		"Checkpoint 2 unlocked"
+		"es"		"Checkpoint 2 unlocked"
+	}
+	"e00bf2967492e9144122baa410b1861a"
+	{
+		"en"		"Checkpoint 1 unlocked"
+		"es"		"Checkpoint 1 unlocked"
+	}
+	"4d20dcd7581b9b946a9f1deda85ffc2d"
+	{
+		"en"		"Bury the remains of the angry spirit...."
+		"es"		"Bury the remains of the angry spirit...."
+	}
+	"47ec10aa9539242018887b0e54ba4672"
+	{
+		"en"		"The gate door needs a key."
+		"es"		"The gate door needs a key."
+	}
+	"6fa20defeff4ddf4c608255d28ca162b"
+	{
+		"en"		"This key can probably open the gate."
+		"es"		"This key can probably open the gate."
+	}
+	"f00c3323c1ce8fd9c18335e518a11fcd"
+	{
+		"en"		"I guess that way is not going to work.."
+		"es"		"I guess that way is not going to work.."
+	}
+	"7e11d406eb40d031d7d6a8324319e16e"
+	{
+		"en"		"That probably enabled the door outside."
+		"es"		"That probably enabled the door outside."
+	}
+	"fe8e8dcde134e57c5ce9e18b35d6cf4c"
+	{
+		"en"		"I guess we need to find another way out. This exit is locked."
+		"es"		"I guess we need to find another way out. This exit is locked."
+	}
+	"5c8d31be6cc9f28a216993225b111a05"
+	{
+		"en"		"The door requires a keycard"
+		"es"		"The door requires a keycard"
+	}
+	"f1f9d6bc819375f3f2d668a1ae816ae9"
+	{
+		"en"		"The doors need to be opened from another place."
+		"es"		"The doors need to be opened from another place."
+	}
+	"4890925bd07f2b2b9889199db7b11d01"
+	{
+		"en"		"The door is locked. Perhaps there is another way in?"
+		"es"		"The door is locked. Perhaps there is another way in?"
+	}
+	"3b8192c785a041a725ef4474972459ff"
+	{
+		"en"		"This keycard could open the door"
+		"es"		"This keycard could open the door"
+	}
+	"6780dc445eb5378504bbf7acadad9448"
+	{
+		"en"		"This battery could be useful"
+		"es"		"This battery could be useful"
+	}
+	"af535609404f6aba73aefebe74368b46"
+	{
+		"en"		"The door needs a battery to open"
+		"es"		"The door needs a battery to open"
+	}
+}

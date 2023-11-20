@@ -1,0 +1,528 @@
+"Phrases"
+{
+	"f561aaf6ef0bf14d4208bb46a4ccb3ad"
+	{
+		"en"		"xxx"
+		"es"		"xxx"
+	}
+	"a2810b82f87a81876c9ce91bf5e5b9ad"
+	{
+		"chi"		"生存"
+		"en"		"Existence"
+		"es"		"Existencia"
+	}
+	"67ecfdb694ff220e58a8ec868d5c6185"
+	{
+		"chi"		"逃离天空"
+		"en"		"Escape from the sky"
+		"es"		"Escapa del cielo"
+	}
+	"a51d6fb2027b75ebf1466001cb3b4ed3"
+	{
+		"en"		"穿过云端深处 \\ Through the depths of the clouds"
+		"es"		"A través de las nubes"
+	}
+	"ca0ef1a20ff9396169b8c8e2d0c01572"
+	{
+		"chi"		"向鸟居祈祷打开通往天上的门"
+		"en"		"Pray to Torii to open the door to heaven"
+		"es"		"Reza a Torii para abrir las puertas al cielo"
+	}
+	"513df85c52f51da5debbe300e129946f"
+	{
+		"chi"		"捡起手枪"
+		"en"		"Pick up the pistol"
+		"es"		"Toma la pistola"
+	}
+	"b4924e1006b889f3ff3c28a6f77c4e59"
+	{
+		"chi"		"进入房间内部"
+		"en"		"Enter the room"
+		"es"		"Entra a la sala"
+	}
+	"0fad079da60ca32a69986b5d8af77305"
+	{
+		"chi"		"打开代代木大楼的门"
+		"en"		"Enter the Docomo Yoyogi building"
+		"es"		"Abre la puerta del edificio Docomo Yoyogi"
+	}
+	"0a84d299acefa96993015f674ca08517"
+	{
+		"chi"		"防守电梯并乘坐电梯下到底层"
+		"en"		"Guard the elevator and take the elevator down to the ground floor"
+		"es"		"Protege el ascensor y desciende por el mismo"
+	}
+	"583464daef1e6b1869f84d8b560ef1fa"
+	{
+		"chi"		"清理火车打开道路"
+		"en"		"Clear the train and open the road"
+		"es"		"Quita el vagón para abrir el camino"
+	}
+	"bc347c8b459be7e7cf1b643d69e4c120"
+	{
+		"chi"		"<<< 晴天 >>>"
+		"en"		"<<< Sunny day >>>"
+		"es"		"<<< Día soleado >>>"
+	}
+	"01b13cf1107e23b7acd7e171cab0a23c"
+	{
+		"chi"		"等待一会"
+		"en"		"Wait"
+		"es"		"Espera un momento"
+	}
+	"372f4e3f757e322e08faa2870ed5722d"
+	{
+		"chi"		"等待大门打开"
+		"en"		"Wait for the door to open"
+		"es"		"Espera a que se abra la puerta"
+	}
+	"ced17e57f07d0c8305aa71c3e6467939"
+	{
+		"chi"		"电梯将在20秒后启动，快进去"
+		"en"		"The elevator will start in 20 seconds, get in quickly"
+		"es"		"El ascensor se pondrá en marcha en 20 segundos, entra rápido."
+	}
+	"6489ed3ffbbae6f1bc34f1d030172205"
+	{
+		"chi"		"注意，别让僵尸破坏电梯"
+		"en"		"Careful, don't let the zombies destroy the elevator"
+		"es"		"¡Cuidado! No dejes que los zombis destruyan el ascensor."
+	}
+	"273d71218b106920023ad221b970be50"
+	{
+		"chi"		"防守僵尸，等待电梯开始运作"
+		"en"		"Defend against the horde and wait for the elevator to start"
+		"es"		"Defiéndete y espera a que el ascensor se ponga en marcha"
+	}
+	"5803b65a23c5713a5a1199e16e7ce2e9"
+	{
+		"chi"		"等待15秒，道路即将打开"
+		"en"		"Wait 15 seconds, the path will open up"
+		"es"		"El camino se abrirá en 15 segundos"
+	}
+	"6f35fa989acbf52b088783e44b44479d"
+	{
+		"chi"		"温馨提示：地图第二关难度较大"
+		"en"		"Hint: The second stage is harder"
+		"es"		"Tip: La segunda fase del mapa es más difícil"
+	}
+	"e61fc680dbf29ac88a0f967b8636f896"
+	{
+		"chi"		"需要好良好的团队与配合"
+		"en"		"It requires a good team and cooperation"
+		"es"		"Necesita un buen equipo y cooperación."
+	}
+	"63e8bb58bcc0d9050f8bb564aff17362"
+	{
+		"chi"		"地图根据动画电影天气之子改编而来"
+		"en"		"The map is based on the anime Tenki no Ko"
+		"es"		"El mapa está basado en el anime Tenki no Ko"
+	}
+	"754c9a7bcc9f1b270fdb84e33409fc66"
+	{
+		"chi"		"地图包含两个正常关卡以及一个特殊关卡"
+		"en"		"The map has 2 normal stages and a special one"
+		"es"		"El mapa contiene dos fases normales y una fase especial."
+	}
+	"daf7a245fcab4130f947c60a05e33ebe"
+	{
+		"chi"		"<<< 热身时间 >>>"
+		"en"		"<<< Warmup period >>>"
+		"es"		"<<< Tiempo de práctica >>>"
+	}
+	"c70032af09b8187e19f21002c1619484"
+	{
+		"chi"		"地图作者lopb  移植者fong"
+		"en"		"Map by lopb.  Ported by Fong"
+		"es"		"Mapa por lopb. Adaptado por Fong"
+	}
+	"10f8d62135ed1f39949d19b6535a4707"
+	{
+		"chi"		"现在，天空的的力量已被瓦解了"
+		"en"		"The power of the sky has been weakened"
+		"es"		"El poder del cielo se ha debilitado"
+	}
+	"ad857c7f135063150df06f05672cbe56"
+	{
+		"chi"		"快回头，还没有结束"
+		"en"		"Look behind you, it's not over"
+		"es"		"Mira hacia atrás, todavía no termina"
+	}
+	"80a613cc3f2a8077f6168ed708521663"
+	{
+		"chi"		"在天空最后的愤怒下，活下去"
+		"en"		"Survive the sky's final wrath"
+		"es"		"Sobrevive la última ira del cielo"
+	}
+	"e75c2a9b1f3e21d8cb771c8f98e4f08d"
+	{
+		"chi"		"10秒后开启最终审判，直面天空，击败它"
+		"en"		"The final judgement will begin in 10 seconds, face the sky and defeat it"
+		"es"		"El juicio final comenzará en 10 segundos, mira al cielo y véncelo."
+	}
+	"ec6c71326631873b50dc36cfe60e61a3"
+	{
+		"chi"		"需要全部人集合"
+		"en"		"All players must be present"
+		"es"		"Todos los jugadores deben estar presentes"
+	}
+	"496ec1ef4b415d08677a3465aeaef68a"
+	{
+		"chi"		"小心，别被吹下去了"
+		"en"		"Watch out, don't get blown away"
+		"es"		"Cuidado, no te vueles"
+	}
+	"94b49f5095971ecc4f33c5f8819ba3e8"
+	{
+		"chi"		"就连天空都在阻止我们回到地面"
+		"en"		"The sky is blocking our way back to the ground"
+		"es"		"El cielo está bloqueando nuestro regreso al suelo"
+	}
+	"a95b3337beea547924b7408b29b51c2a"
+	{
+		"chi"		"电梯修复完成，快进电梯"
+		"en"		"Elevator repair complete, carry on, quickly"
+		"es"		"Ascensor reparado, avanza rápido"
+	}
+	"2767d0eec9e07f0618433f89ef15de4d"
+	{
+		"chi"		"道路已经出现"
+		"en"		"A path has materialized"
+		"es"		"Un camino ha aparecido"
+	}
+	"d843c3c89c7e77b516876d18a05d7de6"
+	{
+		"chi"		"暂时击败了天空，坚守一会等待道路的出现"
+		"en"		"The sky has been thwarted for now, wait for a path to emerge"
+		"es"		"El cielo ha sido derrotado temporalmente, espera a que aparezca un camino"
+	}
+	"2eba013c27ba2b5925960c4fb1b56025"
+	{
+		"chi"		"天气什么的，就让它疯狂下去吧！"
+		"en"		"Let the weather be intense!"
+		"es"		"Deja que el clima sea intenso!"
+	}
+	"cb6854ec19d1eb2e7acc5a59adcdb876"
+	{
+		"chi"		"比起晴天，我更需要阳菜你"
+		"en"		"I need you, Hina, more than sunny days"
+		"es"		"Hina, te necesito más que a los días soleados"
+	}
+	"6b8b0f4658f2d0346122b070ff2f25ba"
+	{
+		"chi"		"即使再也没有晴天也没有关系"
+		"en"		"Even if the sun never rises again"
+		"es"		"Incluso si nunca vuelve a salir el sol"
+	}
+	"0c65fc6f43cbb3b6bc06b2fe7eeb47d1"
+	{
+		"chi"		"我只不过......想再一次见到她啊!"
+		"en"		"I just... want to see her again!"
+		"es"		"¡Solo... quiero volver a verla!"
+	}
+	"4ca6ecd181ceda371427f9c49ec2119c"
+	{
+		"chi"		"你们明明什么都不知道，或者装作什么都不知道"
+		"en"		"You obviously don't know anything, or pretend not to know"
+		"es"		"Obviamente no sabes nada, o finges no saber"
+	}
+	"3ec0149a86be1279813512e575cd1879"
+	{
+		"chi"		"为什么要妨碍我啊"
+		"en"		"Why are you bothering me?"
+		"es"		"¿Por qué me molestas?"
+	}
+	"8595532c69873dce61657972fa167f93"
+	{
+		"chi"		"别管我"
+		"en"		"Leave me alone"
+		"es"		"Déjame en paz"
+	}
+	"07527c56737398aacf991b157c81632d"
+	{
+		"chi"		"集齐7个晴天娃娃，解放隐藏的晴天娃娃"
+		"en"		"Collect the 7 sunny dolls to free the hidden doll"
+		"es"		"Colecciona las 7 muñecas para liberar la muñeca oculta."
+	}
+	"abf02fc0b8b46ccd283c59e4c6291303"
+	{
+		"en"		"The sky is about to blow up, get back to land quickly"
+		"es"		"El cielo va a explotar, vuelve al suelo rápido"
+	}
+	"5a8b9f20295ae81ca19292ae497f9440"
+	{
+		"chi"		"往前跳，逃离这片天空"
+		"en"		"Leap forward, flee the sky"
+		"es"		"Salta hacia adelante, escapa de este cielo"
+	}
+	"fd6ef60d4852a89eac9136d56d021024"
+	{
+		"en"		"Hurry back to land before the 200 seconds elapse"
+		"es"		"Vuelve a la tierra antes de que transcurran 200 segundos"
+	}
+	"f68ce0419e3b062f6e0c0375ffdf2301"
+	{
+		"en"		"The sky will blow up in 200 seconds"
+		"es"		"El cielo explotará en 200 segundos."
+	}
+	"84bd084d339a033ffb64f84fba574a06"
+	{
+		"en"		"Players who reach the sky take no fall damage"
+		"es"		"Los jugadores que llegan al cielo no reciben daño por caída"
+	}
+	"db59a464750aa7dee822cb81d9d0938a"
+	{
+		"en"		"Don't touch the water in the sky"
+		"es"		"No toques el agua en el cielo"
+	}
+	"d0d810e594881ef3c922d06453fe488c"
+	{
+		"en"		"Waiting for the sky path to open"
+		"es"		"Esperando que se abra el camino al cielo"
+	}
+	"8d193f358d79d39e9055a5c197a93eb1"
+	{
+		"en"		"Rainbow artifact: Restores full HP within range"
+		"es"		"Artefacto arcoiris: Restaura vida completa a jugadores cercanos"
+	}
+	"e5cb4b542556e2ddf31fbf3e86fda993"
+	{
+		"en"		"Fire zombie: Spawns a fire ring and ignites the whole map periodically"
+		"es"		"Zombi de fuego: Crea un aro de fuego e incendia todo el mapa periodicamente"
+	}
+	"157871f312014f5c14807a49eb049658"
+	{
+		"en"		"Ice artifact: Spawns a chunk of ice that freezes nearby zombies"
+		"es"		"Artefacto de hielo: Crea un hielo que congela a zombis en su rango"
+	}
+	"8db8afb4f54108115c11e129db19daed"
+	{
+		"en"		"Ice zombie: slows down all players periodically"
+		"es"		"Zombi de hielo: ralentiza a todos los jugadores periódicamente"
+	}
+	"2036daa45f5dfb68a1b7ddea9a70deae"
+	{
+		"en"		"Wind artifact: expels entities near the player"
+		"es"		"Artefacto Viento: expulsa entidades cercanas al jugador"
+	}
+	"46ef7fa227204c471bec8c7b40c70d5e"
+	{
+		"en"		"特殊僵尸-雷电，靠近触发雷电，只有1次"
+		"es"		"Zombie especial: Rayo, crea un rayo mortal, solo 1 vez"
+	}
+	"84dbe6d100da6c0e25019a9f4c31df4b"
+	{
+		"en"		"Sunny doll artifact - Blows zombies away and partially restores HP"
+		"es"		"Artefacto muñeca de sol: Restaura parcialmente HP y hace volar a los zombis"
+	}
+	"e7774223a9c0b5d65035534dee6c4e74"
+	{
+		"en"		"Foggy zombie: spawns a cloud that damages and infects nearby players"
+		"es"		"Zombi de neblina: crea una nube que causa daño e infecta"
+	}
+	"775b0f1b6d37c2b17d7c3fb139e1fd3b"
+	{
+		"en"		"Ice doll artifact: damages nearby zombies and slows them down"
+		"es"		"Artefacto muñeca de hielo: daña a zombis cercanos y los ralentiza"
+	}
+	"6d0d944d1eca3646961597bf722518e0"
+	{
+		"en"		"Blizzard zombie: draws in nearby players and spins them around"
+		"es"		"Zombi tormenta de nieve: crea un remolino que atrae a jugadores cercanos"
+	}
+	"c181fe7e9b1882d364aa5f217a5ef5d4"
+	{
+		"en"		"Fire doll artifact: ignites zombies within range"
+		"es"		"Artefacto muñeca de fuego: incendia a zombis cercanos"
+	}
+	"531b6d32ea891cd7d8264ced5f8fbd0e"
+	{
+		"en"		"Flame zombie, burns players within range"
+		"es"		"Zombi llama, quema a jugadores a su alcance"
+	}
+	"30afbf1dc5ff761c9110500cbbe11b5b"
+	{
+		"en"		"Don't put special machetes in backpacks or they'll stop working"
+		"es"		"No pongas machetes especiales en mochilas o dejarán de funcionar"
+	}
+	"498ff9cda402702529f61e28c464d14d"
+	{
+		"en"		"Special zombies are immune to fire and artifact damage"
+		"es"		"Los zombis especiales son inmunes al fuego y daño de artefactos"
+	}
+	"f151eb28a08022f470d0f66871986d32"
+	{
+		"en"		"Artifacts have 2 uses each and can be activated by looking up and pressing E"
+		"es"		"Los artefactos tienen 2 usos y se activan mirando hacia arriba y apretando E"
+	}
+	"7cb94c268a4a25b700ab155ff257478b"
+	{
+		"en"		"Special zombies can have ranged effects and global ones which affect everyone"
+		"es"		"Los zombis especiales pueden tener efectos en rango y globales que afectan a todos"
+	}
+	"77ff69defe6ffd48e51addcac7564684"
+	{
+		"en"		"<<< Overcast >>>"
+		"es"		"<<< Día nublado >>>"
+	}
+	"d49c384c65f79bed0e6ff9879b34e4cf"
+	{
+		"en"		"Lightning artifact, kills zombies in an area after 20 seconds"
+		"es"		"Artefacto rayo: Mata zombis en el área luego de 20 segundos"
+	}
+	"130175f0ed5f26155f8ee59d22856499"
+	{
+		"en"		"Use the artifacts wisely and creatively in order to win"
+		"es"		"Usa los artefactos de manera creativa e inteligente para ganar"
+	}
+	"94893007803d7443c879e1bbf5e24204"
+	{
+		"en"		"The sky's wrath is coming!"
+		"es"		"¡La ira del cielo está a punto de descender!"
+	}
+	"154329ba0469d4c781a9a55378588f88"
+	{
+		"en"		"Activate them and weaken the sky's power"
+		"es"		"Actívalos y debilita el poder del cielo."
+	}
+	"d9af4698589ece2307337c1e71364ffd"
+	{
+		"en"		"Can't hurt it now, wait for the sunny dolls to appear"
+		"es"		"No puedes lastimarlo ahora, espera a que aparezcan las muñecas"
+	}
+	"fe281c732484fe7e687d37f9be7b3599"
+	{
+		"en"		"About to fight the sky, beat it"
+		"es"		"A punto de luchar contra el cielo, véncelo"
+	}
+	"bf6d45bd92965ae71c8ce1834056cb44"
+	{
+		"en"		"Be careful, the door is open"
+		"es"		"Cuidado, la puerta está abierta."
+	}
+	"f4f78953069fc12ff56f1d6f07903b9d"
+	{
+		"en"		"The elevator broke down, find something to fix it"
+		"es"		"El ascensor se rompió, encuentra algo para arreglarlo."
+	}
+	"88796a0fec218d9ec3872371ac187534"
+	{
+		"en"		"Enable background music"
+		"es"		"Activar música"
+	}
+	"c21b8c5b5c706f074a2641af89b8b6ea"
+	{
+		"en"		"会心一击"
+		"es"		"会心一击"
+	}
+	"435c38e0815b0438f716a3d0a8166d08"
+	{
+		"en"		"大丈夫"
+		"es"		"大丈夫"
+	}
+	"e2ef8b408f94c34b6d1c5bab3169d928"
+	{
+		"en"		"Flee the ground"
+		"es"		"Huye de la tierra"
+	}
+	"8b46943d6185b16d633923d61e46ac0f"
+	{
+		"en"		"What else can love do?"
+		"es"		"¿Qué más puede hacer el amor?"
+	}
+	"1689aaa8b4baee2ae3a6cc9be6edca5f"
+	{
+		"en"		"Love stops like rain"
+		"es"		"El amor para como la lluvia"
+	}
+	"221bf5f1b656864406b776c9a6831b1f"
+	{
+		"en"		"Dream lantern"
+		"es"		"Dream lantern"
+	}
+	"97f3ef9be1009e2c72f0aa885d9860a0"
+	{
+		"en"		"没什么大不了"
+		"es"		"没什么大不了"
+	}
+	"d8eaf0806d93017ba03bb853f4b21baf"
+	{
+		"en"		"Past life"
+		"es"		"Vida anterior"
+	}
+	"d232b5cf3241f9f7fb686441079c34ef"
+	{
+		"en"		"铃芽户缔"
+		"es"		"铃芽户缔"
+	}
+	"52de27c9feaa68de94de7877ba369169"
+	{
+		"en"		"You can enter the training session through the board on the left at the start"
+		"es"		"Puedes entrar al modo práctica mediante el cartel en la estación inicial"
+	}
+	"426dcc6f6a1bdba69b8ddaafa1babb66"
+	{
+		"en"		"Complete the challenge without getting hit 100 times"
+		"es"		"Completa el desafío sin que le peguen a nadie 100 veces"
+	}
+	"ca6bdf8e6f2e9aea73acaa7ebe674baf"
+	{
+		"en"		"<<< Practice mode >>>"
+		"es"		"<<< Práctica >>>"
+	}
+	"03c83d073eb809446bc487c3d449881d"
+	{
+		"en"		"Select the song you want to play"
+		"es"		"Selecciona la música que quieres reproducir"
+	}
+	"d07042cd7eb2666ec9e1375a2886b6f3"
+	{
+		"en"		"Practice mode"
+		"es"		"Tiempo de práctica"
+	}
+	"cbbe546304037478ce0c36437d036711"
+	{
+		"en"		"Sunny"
+		"es"		"Soleado"
+	}
+	"4ce465441cd0a7b6f743082be2362549"
+	{
+		"en"		"Cloudy day"
+		"es"		"Día nublado"
+	}
+	"778296af8d28d1189c4accd0481eccf1"
+	{
+		"en"		"Stopped BGM"
+		"es"		"Música parada"
+	}
+	"1ae66080a587698e122fece8e61407aa"
+	{
+		"en"		"Game will restart in 30 seconds if no level is selected"
+		"es"		"La partida se reiniciará en 30 segundos si no se elige un nivel"
+	}
+	"41c1ed26aa160bfd7910716e06c34bd0"
+	{
+		"en"		"Congratulations, you have passed the challenge, jump down and choose the level you want"
+		"es"		"Enhorabuena, has superado el reto, salta hacia abajo y elige el nivel que quieras"
+	}
+	"f7db6a9660804323f9b6ee2403ee1b5c"
+	{
+		"en"		"Successfully collected all dolls"
+		"es"		"Has recogido con éxito todas las muñecas"
+	}
+	"18a5b2d7329519b2fe9ebec5e571a7df"
+	{
+		"en"		"Jump down from the sky now"
+		"es"		"Salta abajo ahora, escapa del cielo"
+	}
+	"746e3027a7c66aef291cb97530d5bd2f"
+	{
+		"en"		"It's starting to get sunny!"
+		"es"		"¡Está empezando a ponerse soleado!"
+	}
+	"cc5d4375066f6173d674032934661010"
+	{
+		"en"		"电梯被破坏了"
+		"es"		"电梯被破坏了"
+	}
+}

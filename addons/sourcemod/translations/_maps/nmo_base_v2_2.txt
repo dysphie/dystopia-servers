@@ -1,0 +1,408 @@
+"Phrases"
+{
+	"ca6a464dca46657d032236397006655e"
+	{
+		"en"		"Find the crank"
+		"es"		"Encuentra una manivela"
+	}
+	"bee7da95c3816ceb3378bc6c031a6f62"
+	{
+		"en"		"In the train"
+		"es"		"Sube al tren"
+	}
+	"3d93907f02eb45d197cbf3a9e1144286"
+	{
+		"en"		"In the elevator"
+		"es"		"Entra al ascensor"
+	}
+	"afd2ebb677018d7ba2f4f995dd36bd97"
+	{
+		"en"		"Wait for loading"
+		"es"		"Esperando a cargar"
+	}
+	"8eabfc63286cb0f16dfa62f26f97092c"
+	{
+		"en"		"open the door"
+		"es"		"Abre la puerta"
+	}
+	"5e0771f48fef0e85f70bd3d62e40e2fa"
+	{
+		"en"		"Following freight platform"
+		"es"		"Sigue la plataforma de carga"
+	}
+	"d26b5c95b0e365fd23e89ad0e07ebf2e"
+	{
+		"en"		"Start the elevator"
+		"es"		"Enciende el ascensor"
+	}
+	"e0202e87928ac3a3e0db82d5c5c2664e"
+	{
+		"en"		"Exit the labs. Find four connectors to start the moving platform"
+		"es"		"Sal de los laboratorios. Encuentra cuatro conectores y colócalos en la plataforma móvil para encenderla"
+	}
+	"08dc73f9a1d894f40afd64231ec08fb4"
+	{
+		"en"		"Take limb to the server room and scan it"
+		"es"		"Ve a la sala de servidores y usa el brazo en el escáner"
+	}
+	"f3fd53032c53e12183158d53816d95e6"
+	{
+		"en"		"Takeover control center"
+		"es"		"Usa las consolas en la sala de servidores para desbloquear la cámara de decontaminación"
+	}
+	"694a9902ac676c46b4b8255a260ec11a"
+	{
+		"en"		"Use a computer"
+		"es"		"Interactúa con la computadora"
+	}
+	"fcc97245d834582a0c4bd27cda9ef671"
+	{
+		"en"		"Find a card to access the labs"
+		"es"		"Encuentra una tarjeta para desbloquear el portón de entrada a los laboratorios"
+	}
+	"a544c12dc43408e7da0970f96b2ac996"
+	{
+		"en"		"Find a fire extinguisher to put out the fire at the end of a tunnel"
+		"es"		"Encuentra un extintor para apagar el fuego al final de un túnel"
+	}
+	"85e12531bf88b66d8f9afb4e83752ccf"
+	{
+		"en"		"Find a welder and open the gate at the end of a tunnel"
+		"es"		"Encuentra un soldador y abre la reja al final dl túnel vehicular"
+	}
+	"251d90b90f336124853edc6b3f82337d"
+	{
+		"en"		"Go through the ventilation system"
+		"es"		"Continúa por los ductos de ventilación"
+	}
+	"c17416ed4152b3f8923cd86efc4fde98"
+	{
+		"en"		"Enter the ventilation system"
+		"es"		"Entra a los ductos de ventilación"
+	}
+	"0024262c58e7758c5f37ada36b88791b"
+	{
+		"en"		"Map made by PENGUIN S and WUXIN"
+		"es"		"Mapa hecho por PENGUIN S y WUXIN"
+	}
+	"9fadde94718bf0b33940e88bd5f8d943"
+	{
+		"en"		"Remove obstacles, escape."
+		"es"		"Elimina los obstáculos, escapa."
+	}
+	"961db9187c6446140a625cd2db35a58d"
+	{
+		"en"		"Find the walkie-talkie."
+		"es"		"Encuentra un walkie-talkie."
+	}
+	"fce9641158ea4bbb9c6b875d16bae7ff"
+	{
+		"en"		"Enter password: 7787."
+		"es"		"Ingresa la contraseña: 7787."
+	}
+	"b3765c3b2215c07e34d44c94fe8560aa"
+	{
+		"en"		"Crack the locking device."
+		"es"		"Descifra la cerradura de la puerta."
+	}
+	"77568cfa3a360b491d52f52a01ead0e2"
+	{
+		"en"		"Leave the warehouse."
+		"es"		"Sal del depósito"
+	}
+	"bf558d53d3f819a333b46d7e10b3c416"
+	{
+		"en"		"Restore power."
+		"es"		"Restaura la energía."
+	}
+	"5bd79a4e3e25ab1ef257d0dd97c08282"
+	{
+		"en"		"Activate the elevator, go to the helipad."
+		"es"		"Activa el ascensor, ve al helipuerto."
+	}
+	"2002d79522282ec30340a78ea79f8891"
+	{
+		"en"		"Find a fuse."
+		"es"		"Encuentra un fusible."
+	}
+	"6e73be3c06858ab680e99ab5dad441fb"
+	{
+		"en"		"Activate the sealed door, wait for the helicopter."
+		"es"		"Activa la puerta sellada y espera al helicóptero."
+	}
+	"5493eae4f576fc192a4c205bc84ea238"
+	{
+		"en"		"Receive the container and transport it to the designated location."
+		"es"		"Recoge los suministros del contenedor."
+	}
+	"e31fd2b614e62f7f8111d4bd8c5a285b"
+	{
+		"en"		"¡Shoot!"
+		"es"		"¡Dispara!"
+	}
+	"2f898acb956c8766e92502239b5b5823"
+	{
+		"en"		"Award!"
+		"es"		"¡Premio!"
+	}
+	"5d203b4aa8cc6761116aa9f7c435f8bf"
+	{
+		"en"		"Perfect!"
+		"es"		"¡Perfecto!"
+	}
+	"0b3f0f1d5e261f4ac549b1bdd142f444"
+	{
+		"en"		"The container was delivered."
+		"es"		"El contenedor fue entregado."
+	}
+	"27b7f1197976666985839d62c264d7d7"
+	{
+		"en"		"Wait 3 minutes"
+		"es"		"Espera 3 minutos"
+	}
+	"8bfae9760fc818cda71f4f0ba29c0ce2"
+	{
+		"en"		"Load biochemical agents"
+		"es"		"Carga agentes bioquímicos"
+	}
+	"20d13864ba0f6fc1d2f90065ee03e356"
+	{
+		"en"		"Go to B Area Laboratory"
+		"es"		"Ve al laboratorio del área B"
+	}
+	"112d998969c790e6c87bf945c7ec2844"
+	{
+		"en"		"Kill the infected to open the sealed door"
+		"es"		"Mata a los infectados para abrir la puerta sellada"
+	}
+	"df58056796f571eb19b0060a91878672"
+	{
+		"en"		"Use the ID card to open the door in C Area"
+		"es"		"Usa la tarjeta para abrir la puerta del área C"
+	}
+	"10295e548d785b69590f1d272959fd06"
+	{
+		"en"		"Enter the biology laboratory"
+		"es"		"Ingresa al laboratorio de biología"
+	}
+	"6ae1dfb405484aca7971d153766a135d"
+	{
+		"en"		"Operate the facility computer to get the next instructions"
+		"es"		"Opera el ordenador de la instalación para obtener las siguientes instrucciones"
+	}
+	"f7336a80de5348dcceb0a91318e19eb7"
+	{
+		"en"		"Find the scattered company property and put it in the safe before taking it away"
+		"es"		"Encuentra la propiedad de la empresa dispersa y pónla en la caja fuerte antes de llevarla"
+	}
+	"9b94e092eacddca6642677b431265231"
+	{
+		"en"		"Activate the pest control program"
+		"es"		"Activa el programa de control de plagas"
+	}
+	"b30d979d1ba509828dde644a4d4f5b72"
+	{
+		"en"		"Evacuate from C area"
+		"es"		"Evacua del área C"
+	}
+	"43876bab88dda4487df6d89fc50112f4"
+	{
+		"en"		"The gas will reach its maximum in 5 minutes!"
+		"es"		"¡El gas alcanzará su máximo en 5 minutos!"
+	}
+	"6b4b3c5a73f1ac99805b9c22bccb09cb"
+	{
+		"en"		"前往电梯/In the elevator"
+		"es"		"前往电梯/In the elevator"
+	}
+	"a874b1bc770368bd6bdd7a775639d07a"
+	{
+		"en"		"电梯准备完成后，所有人上电梯！/When the elevator is ready, everyone on the elevator!"
+		"es"		"电梯准备完成后，所有人上电梯！/When the elevator is ready, everyone on the elevator!"
+	}
+	"61838d0bb7b17b2d39d6cf1ca727b12f"
+	{
+		"en"		"等待救援/wait for rescue "
+		"es"		"等待救援/wait for rescue "
+	}
+	"5a8ce0d56f13e69d5f5e8239539305c2"
+	{
+		"en"		"启动气密门/Activate airtight door"
+		"es"		"启动气密门/Activate airtight door"
+	}
+	"a69e452ccf093eb25dcf1b4c21c44c87"
+	{
+		"en"		"安装保险丝/Install fuse"
+		"es"		"安装保险丝/Install fuse"
+	}
+	"54240b23c95db02e1991fbbd02e51d1f"
+	{
+		"en"		"前往货运电梯/To freight elevator"
+		"es"		"前往货运电梯/To freight elevator"
+	}
+	"109a918536a021feadb1b7b09a781363"
+	{
+		"en"		"在80秒内离开这里，否则整个c区将会散播毒气！/Get out of here in 80 seconds, or the entire C-block will be venting!"
+		"es"		"在80秒内离开这里，否则整个c区将会散播毒气！/Get out of here in 80 seconds, or the entire C-block will be venting!"
+	}
+	"dccbe94f3d5079acf11fc0c24b07a5b5"
+	{
+		"en"		"启动除虫程序/Start the deworming program"
+		"es"		"启动除虫程序/Start the deworming program"
+	}
+	"6cb116876c2ca5704709ed661ae5b3fa"
+	{
+		"en"		"收集散落的生化制品，并装入安全箱/Collect scattered biochemical products and put them in safety boxes"
+		"es"		"收集散落的生化制品，并装入安全箱/Collect scattered biochemical products and put them in safety boxes"
+	}
+	"5cac4cb67101f2decf7f88a1568eeb46"
+	{
+		"en"		"操作终端来获取下一步指令/Operation terminal to get next instructions"
+		"es"		"操作终端来获取下一步指令/Operation terminal to get next instructions"
+	}
+	"eee8400713d1c6074e9d6c7c01b6b8d4"
+	{
+		"en"		"拿上id卡，解除封锁/Grab the ID card and unblock the lockdown"
+		"es"		"拿上id卡，解除封锁/Grab the ID card and unblock the lockdown"
+	}
+	"5a71c50a330d3cb87087db4502c2d15a"
+	{
+		"en"		"启动消毒程序/Start disinfection procedure"
+		"es"		"启动消毒程序/Start disinfection procedure"
+	}
+	"63dc3a0cd122866bd080c8459df20428"
+	{
+		"en"		"进入消毒间/Enter the disinfection room"
+		"es"		"进入消毒间/Enter the disinfection room"
+	}
+	"b45ec0f90ded5484eb1b73c2ec1515e1"
+	{
+		"en"		"拿上生化容器，并安装/Take the biochemical container and install it"
+		"es"		"拿上生化容器，并安装/Take the biochemical container and install it"
+	}
+	"1b8de56e249737b59216b2c8c1972894"
+	{
+		"en"		"打开隔离门/Open isolation door"
+		"es"		"打开隔离门/Open isolation door"
+	}
+	"5afa9446f46332271bde5d258c5ba10c"
+	{
+		"en"		"进入维修间/Enter the maintenance room"
+		"es"		"进入维修间/Enter the maintenance room"
+	}
+	"9ec7de53718bf5275397e0c1efd06ae9"
+	{
+		"en"		"离开仓库/Left the warehouse"
+		"es"		"离开仓库/Left the warehouse"
+	}
+	"fabf14492d4b827d8dac93c2a2ba03b1"
+	{
+		"en"		"输入密码7787/Enter the password 7787"
+		"es"		"输入密码7787/Enter the password 7787"
+	}
+	"37f44c4607fb2f4166c7ecbb7f09440c"
+	{
+		"en"		"接通无线电/Switch on radio"
+		"es"		"接通无线电/Switch on radio"
+	}
+	"dd330f28057c2874343c5c4922b21480"
+	{
+		"en"		"前往员工区/Go to the staff area"
+		"es"		"前往员工区/Go to the staff area"
+	}
+	"47cb7743c65c2e141dd569675c1434ec"
+	{
+		"en"		"等待货物装载完毕/Wait for the goods to be loaded"
+		"es"		"等待货物装载完毕/Wait for the goods to be loaded"
+	}
+	"a2ea22faca4beee3b73c50cd57e3d545"
+	{
+		"en"		"打开大门/Open the door"
+		"es"		"打开大门/Open the door"
+	}
+	"6ea20a20a1cf74e816b8b32f4d3a746b"
+	{
+		"en"		"跟随运货平台/Follow the freight platform"
+		"es"		"跟随运货平台/Follow the freight platform"
+	}
+	"3a06a8227fa9a715576d06e1989af4e9"
+	{
+		"en"		"启动电梯"
+		"es"		"启动电梯"
+	}
+	"4fe10495e6a09dbdb486615ced89911b"
+	{
+		"en"		"找到四个固定销，并启动运货平台"
+		"es"		"找到四个固定销，并启动运货平台"
+	}
+	"dd0fd9d989aab7be36f4ea9f7cbc5413"
+	{
+		"en"		"拿着断肢，我们需要它来通过封锁/Take the limb. We need it to get through the lockdown"
+		"es"		"拿着断肢，我们需要它来通过封锁/Take the limb. We need it to get through the lockdown"
+	}
+	"ea0230dd23d8838a130d322e878f2c48"
+	{
+		"en"		"接管总控台/Take-over console"
+		"es"		"接管总控台/Take-over console"
+	}
+	"a9ffeb8ad7d168bbd122120bdc99ba99"
+	{
+		"en"		"操作电脑/operate a computer"
+		"es"		"操作电脑/operate a computer"
+	}
+	"702aa88778b5b2f79b063c985b07825e"
+	{
+		"en"		"拿上卡，解锁实验室/Grab the card and unlock the lab"
+		"es"		"拿上卡，解锁实验室/Grab the card and unlock the lab"
+	}
+	"4fd14204a077a25ea24302240175287c"
+	{
+		"en"		"找到灭火器来灭火/Get a fire extinguisher to put out the fire"
+		"es"		"找到灭火器来灭火/Get a fire extinguisher to put out the fire"
+	}
+	"700b484ce3dd6f94d9f6f1c809cd1b0e"
+	{
+		"en"		"找到焊枪，焊开栅栏门/Find the torch and weld the gate"
+		"es"		"找到焊枪，焊开栅栏门/Find the torch and weld the gate"
+	}
+	"cccfbe0b364f4b1e31dfd5de00d4625a"
+	{
+		"en"		"离开通风管/Exit duct"
+		"es"		"离开通风管/Exit duct"
+	}
+	"9089cf2cd52a60fbcd086f4a4f9a7c90"
+	{
+		"en"		"进入通风管/Inlet duct"
+		"es"		"进入通风管/Inlet duct"
+	}
+	"378d07443d413def2bb3c417de221b3c"
+	{
+		"en"		"找到曲柄，打开门/Find the crank and open the door"
+		"es"		"找到曲柄，打开门/Find the crank and open the door"
+	}
+	"08022fcb93f7452ce00c43fd5192103f"
+	{
+		"en"		"进入火车/In the train"
+		"es"		"进入火车/In the train"
+	}
+	"9eb4696d7c8e050c2357057398b6fab8"
+	{
+		"en"		"Activate the gas in 80 seconds! run"
+		"es"		"Activate the gas in 80 seconds! run"
+	}
+	"baa7d265767256a1afedd29f13eb817f"
+	{
+		"en"		"Activate the gas in 40 seconds! run"
+		"es"		"Activate the gas in 40 seconds! run"
+	}
+	"7d928ab7ddbd9f8030e57aea0d344d1c"
+	{
+		"en"		"Hold this position until help arrives"
+		"es"		"Hold this position until help arrives"
+	}
+	"fa35e5ab7fa855a4d44e180e06910834"
+	{
+		"en"		"Wait for 160 seconds"
+		"es"		"Wait for 160 seconds"
+	}
+}

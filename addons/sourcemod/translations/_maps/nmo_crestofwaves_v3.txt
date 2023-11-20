@@ -1,0 +1,303 @@
+"Phrases"
+{
+	"1ba628a88e52c4b303f840be9f60c495"
+	{
+		"en"		"Secret respawn has been activated"
+		"es"		"Respawn secreto activado"
+	}
+	"744b13dd0c425b61f49a20955d1e1dc8"
+	{
+		"en"		"That wall looks breakable"
+		"es"		"Esta pared parece frágil"
+	}
+	"049b7c29dd5ab4ca036aa7900645193d"
+	{
+		"en"		"Destroy the cable to proceed"
+		"es"		"Destruye el cable para continuar"
+	}
+	"1b6c55a268fee1702d47489b42968dac"
+	{
+		"en"		"I don't remember what the code was but i did leave some notes around here.."
+		"es"		"No recuerdo el código, pero recuerdo haber dejado notas en algún lado.."
+	}
+	"1610ee79f946edaafe9abcd8210ffd82"
+	{
+		"en"		"Theres should be a radio which you can call for rescue. However theres a keypad to proceed further."
+		"es"		"Debería haber una radio para llamar al rescate. Pero hay un teclado numérico que bloquea el acceso."
+	}
+	"78917d3071954ca946179ec40e2bd742"
+	{
+		"en"		"On the bright side theres an island on the other side of the docks."
+		"es"		"Viendo el lado positivo, hay una isla del otro lado del muelle"
+	}
+	"e6821cbbdf6ed389150fc670b0911e75"
+	{
+		"en"		"You must hurry! the storm is about to reach very shortly."
+		"es"		"Debes apurarte! La tormenta llegará muy pronto."
+	}
+	"323f169a3f6c984f2652b466e02934cb"
+	{
+		"en"		"It was too late. I lost all the tools to repair the darn raft.."
+		"es"		"Muy tarde. Perdí todas las herramientas para reparar la balsa.."
+	}
+	"b62c8a481ef47be05a4562353d91f806"
+	{
+		"en"		"The raft needs to be repaired. I left some parts in the area that it needs!"
+		"es"		"La balsa debe ser reparada. Dejé algunas herramientas útiles en el área"
+	}
+	"f8b7ef4dbb3ed6a5df3ad4c109667480"
+	{
+		"en"		"Rescue will be here in a minute!"
+		"es"		"El rescate llegará en un minuto!"
+	}
+	"5cb1bf457433879498a6be24c5fe5122"
+	{
+		"en"		"Stay back!"
+		"es"		"Quédate atrás!"
+	}
+	"7968fdc59ab26d1b569871cf2c955e80"
+	{
+		"en"		"Defeat the boss zed"
+		"es"		"Mata al jefe zombi"
+	}
+	"a474778f24939c7209937c9254fb96ae"
+	{
+		"en"		"NMRIH edit by: Y#shieon"
+		"es"		"Adaptación de NMRiH por: Y#shieon"
+	}
+	"53717cb2e5aafadf463a8b7312023e22"
+	{
+		"en"		"Map made by: Pierce"
+		"es"		"Mapa por: Pierce"
+	}
+	"85b8d6947af73e278f178bba6192d1a2"
+	{
+		"en"		"Steam is way too hot, I should shut it off first"
+		"es"		"El vapor es muy caliente. Debería detener el flujo primero"
+	}
+	"250a75c98165d7a1c7712193b583e498"
+	{
+		"en"		"Due to the loss of the engine, the humans lose.."
+		"es"		"Due to the loss of the engine, the humans lose.."
+	}
+	"adce05eb021bfca5081a2799e35789d2"
+	{
+		"en"		"The engine stalled, your only way of escape is gone now.."
+		"es"		"El motor se estancó, perdiste tu única manera de escapar."
+	}
+	"9d6f7a59b6c4973d5a118de1f506975d"
+	{
+		"en"		"The engine is now in place on the raft.."
+		"es"		"El motor ha sido colocado en la balsa.."
+	}
+	"aed073d7d06f16768d525f0d1f3c8fbd"
+	{
+		"en"		"The raft is leaving!!."
+		"es"		"La balsa se esta yendo!!."
+	}
+	"7ad3eea6d5671c1fbbf1bff7ac2bd2f3"
+	{
+		"en"		"The raft is repaired! Everyone needs to get back before the storm hits"
+		"es"		"La balsa ha sido reparada! Tienen que venir todos antes de que empiece la tormenta"
+	}
+	"1528c7a810c43896027eaabce900bccd"
+	{
+		"en"		"The raft's engine is on now, press the switch to escape!"
+		"es"		"El motor de la balsa está encendido, presione el interruptor para escapar!"
+	}
+	"fbe058b64bcdd0a7cf71aa1bc83d7f84"
+	{
+		"en"		"Only 30 seconds left!"
+		"es"		"Solo quedan 30 segundos!"
+	}
+	"1131af5d7cd1ba3bbd48dad9513ca8c0"
+	{
+		"en"		"One barrel down, 3 more to go.."
+		"es"		"Un barril colocado, faltan 3.."
+	}
+	"6773517335e4f8447a95a8cfe6442666"
+	{
+		"en"		"One gas can down, 4 more to go.."
+		"es"		"Una lata de combustible colocada, faltan 4.."
+	}
+	"35b0f5d4677346f586871a01618fada1"
+	{
+		"en"		"The raft's engine is fully fueled now.."
+		"es"		"El motor de la balsa está lleno de combustible.."
+	}
+	"f462a6692ff2ccaeea2eabc112d0b96f"
+	{
+		"en"		"Four gas cans down,  just 1 more to go.."
+		"es"		"Cuatro latas de combustible colocadas, falta solo 1.."
+	}
+	"bb9e3845f7158828c3f1e22cd11dbdfc"
+	{
+		"en"		"Three gas cans down, only 2 more to go.."
+		"es"		"Tres latas de combustible colocadas, faltan 2.."
+	}
+	"eab16210d0a967d7f9a1dd0279144018"
+	{
+		"en"		"Two gas cans down, 3 more to go.."
+		"es"		"Dos latas de combustible colocadas, faltan 3.."
+	}
+	"c50001bb9f0b134f5fa7f1f597b67ea5"
+	{
+		"en"		"All the barrels are in place now.."
+		"es"		"Todos los barriles fueron colocados.."
+	}
+	"0f843c318da96df9da4a68a1a8cb8b5a"
+	{
+		"en"		"Three barrels down, just one left.."
+		"es"		"Tres barriles colocados, falta solo 1.."
+	}
+	"06a8d2eca34913ca97b2e8c239b8c17b"
+	{
+		"en"		"Two barrels down, 2 left.."
+		"es"		"Dos barriles colocados, faltan 2.."
+	}
+	"5d3873e77f05e6c7217f415a38484d7f"
+	{
+		"en"		"There is a raft located inside the building.."
+		"es"		"Hay una balsa dentro del cobertizo.."
+	}
+	"9629579ba087b2a20bd3d396c67cda33"
+	{
+		"en"		"The Fence is down!"
+		"es"		"La barrera ha sido apagada!"
+	}
+	"1d0a24b24c0ef423151071054ce2a687"
+	{
+		"en"		"Defend the bridge for 1 minute while the Fence powers down!"
+		"es"		"Defiende el puente por 1 minuto hasta que se apague la barrera!"
+	}
+	"f387955cdc0d2c6233cf42739c9aada6"
+	{
+		"en"		"The gate is now open.."
+		"es"		"El portón está abierto.."
+	}
+	"720429b78bacf0deefd4708f83fcdd2c"
+	{
+		"en"		"The gate switch now has power.."
+		"es"		"El mecanismo del portón está encendido.."
+	}
+	"ee0ae2912abc4566fc607f01fab381f8"
+	{
+		"en"		"I think I missed something in the last house I passed..."
+		"es"		"Creo que olvidé algo en la casa previa..."
+	}
+	"204b7f494d98cdfa6250e9bcd7b940b5"
+	{
+		"en"		"Crests Of Waves"
+		"es"		"Crests Of Waves"
+	}
+	"b5036fdbdbed53230c3d4afd652bef66"
+	{
+		"en"		"Get away from the explosives, they will detonate in 30 seconds!"
+		"es"		"Aléjate de los explosivos, serán detonados en 30 segundos!"
+	}
+	"24aae71ba50134eed38b5e0b3337d027"
+	{
+		"en"		"One explosive is in place, only two more left!"
+		"es"		"Un explosivo colocado, solo faltan dos!"
+	}
+	"3de1aeee2bddcf8e860b222b20bc5efd"
+	{
+		"en"		"Two explosives in place, just one left!"
+		"es"		"Dos explosivos colocados, solo falta uno!"
+	}
+	"860d1994b1ccf40a415b6b9180fec975"
+	{
+		"en"		"All the explosives are in place.."
+		"es"		"Todos los explosivos fueron colocados.."
+	}
+	"ff946bbaea74698fa674f4022b5bb207"
+	{
+		"en"		"The Combine Fence is down, advance on to the highway!"
+		"es"		"La barrera fue apagada, avanza hacia la autopista!"
+	}
+	"122f171bb8ac401bde1888f1f6935821"
+	{
+		"en"		"Find a way inside the boathouse. "
+		"es"		"Encuentra una manera de entrar al cobertizo. "
+	}
+	"14d351a472b05d64f58b64f6cb983a1e"
+	{
+		"en"		"Make your way to the docks."
+		"es"		"Continúa avanzando hasta el muelle."
+	}
+	"8ca475b652525f2252438636c939fb07"
+	{
+		"en"		"Signal a SOS for extraction!"
+		"es"		"Manda una señal de SOS a los rescatistas!"
+	}
+	"11f3504ebe5c0c1c4e34679abd99cfe9"
+	{
+		"en"		"Find out the code to gain access to the island."
+		"es"		"Encuentra el código para ganar acceso a la isla."
+	}
+	"e592263d550977e51a797c9483c0e502"
+	{
+		"en"		"Find all the pieces to repair the raft!"
+		"es"		"Encuentra todas las partes para reparar la balsa!"
+	}
+	"78b5f6055feb15d04b97a62107b637e0"
+	{
+		"en"		"Find out what happens at the docks."
+		"es"		"Investiga las condiciones en el muelle."
+	}
+	"ebae9e0ee56480a725952cc280bcc84d"
+	{
+		"en"		"Turn off the alarm system!! "
+		"es"		"Apaga la alarma!! "
+	}
+	"8e3e1c17ff44b11243132fe5844e8ae2"
+	{
+		"en"		"Find a way to shut off the secondary forcefield. "
+		"es"		"Encuentra una manera de desactivar el campo de fuerza secundario. "
+	}
+	"8b506799cba3d3bfaa6b56544189284f"
+	{
+		"en"		"Find something to blow up the barrier"
+		"es"		"Encuentra algo para detonar la barrera"
+	}
+	"7d05deec11719d2e77384d0a9c5958b5"
+	{
+		"en"		"Find a way to open up the gate."
+		"es"		"Encuentra una manera de abrir la reja."
+	}
+	"f64f933569fc5fb2da4626190675f9a2"
+	{
+		"en"		"Continue on Highway 17"
+		"es"		"Continúa por la Autopista 17"
+	}
+	"f2e94d122dc8cb52ed5c4b092eaa6737"
+	{
+		"en"		"Find 3 explosives to blow up the landscape. "
+		"es"		"Encuentra 3 explosivos para abrir camino. "
+	}
+	"7377edd9235428c7ae3a73127213d188"
+	{
+		"en"		"Make your way through the storm."
+		"es"		"Continúa avanzado a través de la tormenta."
+	}
+	"550949c18e4a8b42b3a5495eeab787c4"
+	{
+		"en"		"Disable the forcefield."
+		"es"		"Desactiva el campo de fuerza."
+	}
+	"bf4f2c826f49f6e1227b5affcca2a9f2"
+	{
+		"en"		"Find a panel to shut off the steam system."
+		"es"		"Encuentra un panel de control para apagar el vapor."
+	}
+	"1c62df5daade1e030e408c3ceb0b7de9"
+	{
+		"en"		"The door is locked. Find something to break the lock."
+		"es"		"La puerta esta cerrada. Encuentra algo para romper el candado"
+	}
+	"f3b47fd0fe9f355feef0abc997cdd088"
+	{
+		"en"		"Enter the maintenance tunnel."
+		"es"		"Entra al túnel de mantenimiento."
+	}
+}

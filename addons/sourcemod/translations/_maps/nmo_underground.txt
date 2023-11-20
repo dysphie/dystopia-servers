@@ -1,0 +1,143 @@
+"Phrases"
+{
+	"2e46e1939f6cacdc6b91b38c8810356b"
+	{
+		"en"		"Activate the generator"
+		"es"		"Activate the generator"
+	}
+	"9c66f87cbcf9fcda9b37d656175ea555"
+	{
+		"en"		"Draw 'S.O.S'"
+		"es"		"Draw 'S.O.S'"
+	}
+	"3dd3d1346cfa4d403c289acb29cdd708"
+	{
+		"en"		"Push the car"
+		"es"		"Push the car"
+	}
+	"1cd3903d6d3cba9e6e7075f79842dc3f"
+	{
+		"en"		"Connect the plugs!"
+		"es"		"Connect the plugs!"
+	}
+	"06b02dafd8b1ee432486f225f5baa59a"
+	{
+		"en"		"Push the cart!"
+		"es"		"Push the cart!"
+	}
+	"7ea5a327211ea3e46410cddf480f4870"
+	{
+		"en"		"Look for a code in the office building and loot a can of paint!"
+		"es"		"Look for a code in the office building and loot a can of paint!"
+	}
+	"d66631a6a45c3766389b81518dca2c63"
+	{
+		"en"		"Loot the car battery!"
+		"es"		"Loot the car battery!"
+	}
+	"edfd7a0b80906af47a8df7bacdbed889"
+	{
+		"en"		"Loot a smoke grenade!"
+		"es"		"Loot a smoke grenade!"
+	}
+	"36f626b6168606564d0c996db8dacee7"
+	{
+		"en"		"Wait for the helicopter!"
+		"es"		"Wait for the helicopter!"
+	}
+	"a5d6ab8f48855623a5c5b4e669f087dc"
+	{
+		"en"		"Use all looted items!"
+		"es"		"Use all looted items!"
+	}
+	"18aff5e16cc4e562426699ca96ee5562"
+	{
+		"en"		"Activate elevator!"
+		"es"		"Activate elevator!"
+	}
+	"205662c3189b5917fec142155ac7a556"
+	{
+		"en"		"Find dynamite and blow up the wall!"
+		"es"		"Find dynamite and blow up the wall!"
+	}
+	"a4bb1ea8e90df1f6e649abbc8f82e434"
+	{
+		"en"		"Weld through grate!"
+		"es"		"Weld through grate!"
+	}
+	"9561fac78cb5c2a50e5358af8c90ab41"
+	{
+		"en"		"Find a way to open the door!"
+		"es"		"Find a way to open the door!"
+	}
+	"e2d26b93cc11fd4dc1699015817e3e77"
+	{
+		"en"		"#nmo_underground_PushTheCart"
+		"es"		"#nmo_underground_PushTheCart"
+	}
+	"0c9b31807d55bd38669fee69d8492981"
+	{
+		"en"		"#nmo_underground_FindCodeLootPaint"
+		"es"		"#nmo_underground_FindCodeLootPaint"
+	}
+	"e262657ec00f77b400dc9eddd735a14a"
+	{
+		"en"		"#nmo_underground_LootCarBattery"
+		"es"		"#nmo_underground_LootCarBattery"
+	}
+	"ae6964a7f899e6f88cd9130b2c3491ba"
+	{
+		"en"		"#nmo_underground_LootSmokeGrenade"
+		"es"		"#nmo_underground_LootSmokeGrenade"
+	}
+	"c721bfa3a06c49c60f473785329bce60"
+	{
+		"en"		"#nmo_underground_HelicopterCome"
+		"es"		"#nmo_underground_HelicopterCome"
+	}
+	"6a5969f654f6b87709a8ab61fc468019"
+	{
+		"en"		"#nmo_underground_Last_Objective"
+		"es"		"#nmo_underground_Last_Objective"
+	}
+	"54e16c367a9079e1051363dd8bfd649b"
+	{
+		"en"		"#nmo_underground_Elevator"
+		"es"		"#nmo_underground_Elevator"
+	}
+	"8961d726ab9aa9a35aeedac0f9bf3cfc"
+	{
+		"en"		"#nmo_underground_Find_Dinamite"
+		"es"		"#nmo_underground_Find_Dinamite"
+	}
+	"6f8a831d45bfd5dc03baf6d7ae93d306"
+	{
+		"en"		"#nmo_underground_Fence_Welder"
+		"es"		"#nmo_underground_Fence_Welder"
+	}
+	"6f1b2dd1b05f24b69791aac571b89363"
+	{
+		"en"		"#nmo_underground_Open_The_Door"
+		"es"		"#nmo_underground_Open_The_Door"
+	}
+	"067920345117732f0e369d43f23c378b"
+	{
+		"en"		"#nmo_underground_car"
+		"es"		"#nmo_underground_car"
+	}
+	"813a367a845b9828e9b36a6a461e554e"
+	{
+		"en"		"#nmo_underground_plugs"
+		"es"		"#nmo_underground_plugs"
+	}
+	"56d223b7ad115e9c67d9023fffc7f5e5"
+	{
+		"en"		"#nmo_underground_sos"
+		"es"		"#nmo_underground_sos"
+	}
+	"f6469067a2c96ff4ee56a4ab3d7f3374"
+	{
+		"en"		"#nmo_underground_gen"
+		"es"		"#nmo_underground_gen"
+	}
+}

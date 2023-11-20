@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"1217750d828c8d92b715cb3c48e8c25f"
+	{
+		"en"		"Fueling up, Leaving in 30 seconds!"
+		"es"		"Cargando combustible, nos vamos en 30 segundos!"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"es"		"Mapa por Porkchops4lunch"
+	}
+	"57131c622e398464e42eab1d962b46c2"
+	{
+		"en"		"Return to the RV"
+		"es"		"Vuelve a la casa rodante"
+	}
+	"696851f8674b894aed2eb3a6534597e7"
+	{
+		"en"		"Find fuel 4/4"
+		"es"		"Encuentra gasolina 4/4"
+	}
+	"9dc5c30f22200506873539644409259b"
+	{
+		"en"		"Unlock the gate"
+		"es"		"Abre la reja"
+	}
+	"c40665453624f49e93a6d0db87646573"
+	{
+		"en"		"Defend against the horde"
+		"es"		"Defiéndete contra la horda"
+	}
+	"9cef0e0423eb353cd06d524ce53c76d4"
+	{
+		"en"		"Find fuel 3/4"
+		"es"		"Encuentra gasolina 3/4"
+	}
+	"4b62ee1b585a8ffd1b5e0ec71463eaef"
+	{
+		"en"		"Find fuel 2/4"
+		"es"		"Encuentra gasolina 2/4"
+	}
+	"15e2ed5a2367bddbfc2a4520121eb89a"
+	{
+		"en"		"Find fuel 1/4"
+		"es"		"Encuentra gasolina 1/4"
+	}
+	"e32a0a1fee7af4519f1d2f6a3688ab86"
+	{
+		"en"		"Enter the woods"
+		"es"		"Entra al bosque"
+	}
+}

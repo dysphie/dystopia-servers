@@ -1,0 +1,158 @@
+"Phrases"
+{
+	"acbf191a7da92ab44be182d8989584d3"
+	{
+		"en"		"Find a way to beat what lies in the tombs. (Compass wont tell you much in this map)"
+		"es"		"Find a way to beat what lies in the tombs. (Compass wont tell you much in this map)"
+	}
+	"b133b59e03e76ec4101b80dce7b8e38f"
+	{
+		"en"		"Find your way onward. (Compass wont tell you much in this map)"
+		"es"		"Find your way onward. (Compass wont tell you much in this map)"
+	}
+	"02c4c638d2e6530af6f141b9ad32c430"
+	{
+		"en"		"Find your way in the temple. (Compass wont tell you much in this map)"
+		"es"		"Find your way in the temple. (Compass wont tell you much in this map)"
+	}
+	"9f42415a20448e4b20fb7941baceadcf"
+	{
+		"en"		"Decypher the images on the wall to figure out how to kill each floors boss!"
+		"es"		"Decypher the images on the wall to figure out how to kill each floors boss!"
+	}
+	"cad808f749c473823c34c3330b25666a"
+	{
+		"en"		"nmo_origins by BadCompany"
+		"es"		"nmo_origins by BadCompany"
+	}
+	"3b29c44d40a793b523b3759914e36296"
+	{
+		"en"		"use the computer"
+		"es"		"use the computer"
+	}
+	"e093c6b8db7436f41a3233187fe8b096"
+	{
+		"en"		"This wall of snow can be moved if you press the interact button"
+		"es"		"This wall of snow can be moved if you press the interact button"
+	}
+	"09f06c4a6ff739597f8205e22df82ed9"
+	{
+		"en"		"Find and place the relics on the given pedestals."
+		"es"		"Find and place the relics on the given pedestals."
+	}
+	"1f45b237dc9fdf87689dcf5b61145497"
+	{
+		"en"		"GET BACK TO THE TRAIN!!!"
+		"es"		"GET BACK TO THE TRAIN!!!"
+	}
+	"82127ffd1c268ee534cecd841aa668a8"
+	{
+		"en"		"Kill them all"
+		"es"		"Kill them all"
+	}
+	"0e48d77510082774e1ca3b4320b930de"
+	{
+		"en"		"The root of much evil, What am I?"
+		"es"		"The root of much evil, What am I?"
+	}
+	"e71875edf3dff181f8c1a70745b40b94"
+	{
+		"en"		"I hold CDs but I was made for other things. What am I?"
+		"es"		"I hold CDs but I was made for other things. What am I?"
+	}
+	"f7c0a944679c3ec3d1ed9c1fe1a1658f"
+	{
+		"en"		"I hold an apple and CDs, what am I?"
+		"es"		"I hold an apple and CDs, what am I?"
+	}
+	"ba2b0516b1528ae190e574ec0e15f481"
+	{
+		"en"		"Keep killing them until you reach 50."
+		"es"		"Keep killing them until you reach 50."
+	}
+	"ff1d750ab6ffcdb9483bfc2d27d046ff"
+	{
+		"en"		"Go to the next floor"
+		"es"		"Go to the next floor"
+	}
+	"e3815077deb2f6b352b9c5e4501e498e"
+	{
+		"en"		"Survive 5 minutes. STAY CLOSE TO THE PAINTING OF YOU WILL GET HURT."
+		"es"		"Survive 5 minutes. STAY CLOSE TO THE PAINTING OF YOU WILL GET HURT."
+	}
+	"5aa66f7a255c6f7d86d4371a27270fed"
+	{
+		"en"		"TNT could break this wall"
+		"es"		"TNT could break this wall"
+	}
+	"cba10574d99e8c4d1a9ab40f59e5b6d8"
+	{
+		"en"		"TNT acquired."
+		"es"		"TNT acquired."
+	}
+	"75d78f3148df19c7c615de1718c156de"
+	{
+		"en"		"Path B"
+		"es"		"Path B"
+	}
+	"0c9d5e1afcdc13425e27677c0bdeebc3"
+	{
+		"en"		"Path A"
+		"es"		"Path A"
+	}
+	"c128b72920846624442115ef43453a5f"
+	{
+		"en"		"These doors require a blue cardkey."
+		"es"		"These doors require a blue cardkey."
+	}
+	"377888f7b3de23782b5ae18fc8f79dea"
+	{
+		"en"		"A cardkey is needed to open this door."
+		"es"		"A cardkey is needed to open this door."
+	}
+	"9f54ffe477dac2261b6654d41436a452"
+	{
+		"en"		"All panels unlocked."
+		"es"		"All panels unlocked."
+	}
+	"07ceff27e8151365d817469e0fd1287f"
+	{
+		"en"		"Looking for the security control network. . ."
+		"es"		"Looking for the security control network. . ."
+	}
+	"6ae81bd9f7d2fe3e6c55079cdfd1b52b"
+	{
+		"en"		"Unlocked the door."
+		"es"		"Unlocked the door."
+	}
+	"0990223251ffbb7148fdabd4951768ec"
+	{
+		"en"		"Now that thing is dead we should be able to move on."
+		"es"		"Now that thing is dead we should be able to move on."
+	}
+	"5a3fe45824bdead54f98cc63cf22620c"
+	{
+		"en"		"LOOK OUT!!"
+		"es"		"LOOK OUT!!"
+	}
+	"48446065ebf3c5c0ce2053ccd0b9506a"
+	{
+		"en"		"Both sides of this hallways doors open and seal at the same time. Do not get caught in the air lock!"
+		"es"		"Both sides of this hallways doors open and seal at the same time. Do not get caught in the air lock!"
+	}
+	"c68063a1b564fe1d3d7f4ba2e8fdb7b8"
+	{
+		"en"		"You found the cardkey!"
+		"es"		"You found the cardkey!"
+	}
+	"50c12443750d4b865be4aec318987a72"
+	{
+		"en"		"A cardkey is needed to open this gate."
+		"es"		"A cardkey is needed to open this gate."
+	}
+	"5d77e1b5bc0db24fbdcd26c8008e250e"
+	{
+		"en"		"It doesn't seem too work.. Maybe it needs power?"
+		"es"		"It doesn't seem too work.. Maybe it needs power?"
+	}
+}

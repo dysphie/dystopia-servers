@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"Left Idle"
+	{
+		"#format" "{1:s}" 
+		"es"	"{1} se fue por inactividad"
+		"en"	"{1} left for being AFK"
+	}
+	
+	"Left"
+	{
+		"#format" "{1:s}" 
+		"es"	"{red}{1} {salmon}se fue"
+		"en"	"{red}{1} {salmon}left"
+	}
+	
+	"Joined"
+	{
+		"#format" "{1:s}" 
+		"es"	"{limegreen}{1} {olive}entró"
+		"en"	"{limegreen}{1} {olive}joined"
+	}
+	
+	"Joined Hours"
+	{
+		"#format" "{1:s},{2:.f}" 
+		"es"	"{1} entró {darkgrey}({2}h)"
+		"en"	"{1} joined {darkgrey}({2}h)"
+	}
+
+	"Crashed"
+	{
+		"#format" "{1:s}" 
+		"es"	"{red}{1} {salmon}crasheó"
+		"en"	"{red}{1} {salmon}crashed" 
+	}
+}

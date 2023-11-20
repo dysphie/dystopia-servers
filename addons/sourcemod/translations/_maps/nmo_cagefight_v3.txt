@@ -1,0 +1,64 @@
+"Phrases"
+{
+	"c25001bf3a801307c2e7586abe6a1220"
+	{
+		"en"		"Try to survive and escape."
+		"es"		"Intenta sobrevivir y escapar."
+		"ru"		"Попробуйте выжить и сбежать."
+	}
+	"b562284233ce868f5886be9f63dc018c"
+	{
+		"en"		"Thirsty? Grab a drink from the villainous vending machine!"
+		"es"		"¿Tienes sed? ¡Toma una bebida de la máquina expendedora villana!"
+	}
+	"ad0da88421f26d709bdbdf0daefe8922"
+	{
+		"en"		"Meet the Ripper!"
+		"es"		"¡Conoce al Destripador!"
+	}
+	"9daf196245274549f1982b53a066a7a7"
+	{
+		"en"		"Cases 0/14"
+		"es"		"Maletas 0/14"
+	}
+	"31e14a8377acd94331b229bb4573ac35"
+	{
+		"en"		"[0/5] Baskets Scored"
+		"es"		"[0/5] Canastas Anotadas"
+	}
+	"2e85d164779646a95d6bd8c48c803b37"
+	{
+		"en"		"Look to the skies! Beware the Satanic Seagull!"
+		"es"		"¡Mira al cielo! ¡Cuidado con la gaviota satánica!"
+	}
+	"6f6074529220718b5d450b27c7b1704a"
+	{
+		"en"		"Beware! The vicious Shredder!"
+		"es"		"¡Cuidado! ¡El despiadado Triturador!"
+	}
+	"b0178c9e7f61b518f3f441ec73357b3e"
+	{
+		"en"		"Behold! Laser Ball!"
+		"es"		"¡Contempla! ¡Bola Láser!"
+	}
+	"d458596109b6e701df430921a6c34060"
+	{
+		"en"		"Map by arroganttortoise, SK4NKDR4GON and ported to NMRiH by MAGISTER."
+		"es"		"Mapa por arroganttortoise, SK4NKDR4GON y adaptado a NMRiH por MAGISTER."
+	}
+	"67c2963e113d5f5e4328a09d3f49769c"
+	{
+		"en"		"You must score 5 baskets... to win!"
+		"es"		"Debes anotar 5 canastas... ¡para ganar!"
+	}
+	"2d7bd4447b7323be167631aeef3dcd6a"
+	{
+		"en"		"Hi! I'm the Wheelmonster!"
+		"es"		"¡Hola! ¡Soy el Monstruo de la Rueda!"
+	}
+	"a90c5119b1e197d7f564a69fc52199f0"
+	{
+		"en"		"Admin Room: auto respawn on round every 10 seconds :)"
+		"es"		"Sala de administración: reaparición automática en ronda cada 10 segundos :)"
+	}
+}

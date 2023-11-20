@@ -1,0 +1,133 @@
+"Phrases"
+{
+	"f2f8307ad02a8625ae75696c3c1b75fe"
+	{
+		"en"		"Ascend the temple and stop the cultists!"
+		"es"		"¡Sube por el templo y detén a los cultistas!"
+	}
+	"5a2c843102966b98f80bd1224ffefa57"
+	{
+		"en"		"Find three batteries to charge the gate!"
+		"es"		"¡Encuentra 3 baterías para activar la puerta!"
+	}
+	"1c5b70f06a1fa4e71183db78fb521a04"
+	{
+		"en"		"That crypt lead us back the the ground floor. Look for a power source for the lift."
+		"es"		"Esa cripta nos llevó de vuelta al primer piso. Busca una fuente de electricidad para el ascensor."
+	}
+	"d956e0cc1550dfa999f77e53fc818e52"
+	{
+		"en"		"There might be another way up through the crypt. Find a way to blow through the weak wall."
+		"es"		"Puede que haya otra forma de subir a través de la cripta. Encuentra una forma de penetrar el muro agrietado."
+	}
+	"f70b3fa6cef3e3cfd183dc24103c68fa"
+	{
+		"en"		"There must be a way to power the lift! Explore the temple for a power source."
+		"es"		"¡Debe haber una manera de encender el ascensor! Explora el templo por una fuente de electricidad"
+	}
+	"12fde2c54404f5b22f3bbcb03c05200b"
+	{
+		"en"		"Find a way inside the temple."
+		"es"		"Encuentra una manera de entrar al templo."
+	}
+	"af12496cf13df5572331026db7735689"
+	{
+		"en"		"Exit the chopper."
+		"es"		"Salta del helicóptero."
+	}
+	"53f1aba063cc26b8cd060046a7c09bec"
+	{
+		"en"		"Please like the map on steam workshop if you enjoyed!"
+		"es"		"Dale me gusta al mapa en la workshop de Steam si lo disfrutaste!"
+	}
+	"a204d7bd7ead0f510f0680401ca2a789"
+	{
+		"en"		"I think I heard glass breaking. I should go back to the cavern..."
+		"es"		"Creo que escuché ruido de vidrio rompiéndose. Debería volver a la caverna..."
+	}
+	"0471b8f809c616d46c15a3ef92ae5d7c"
+	{
+		"en"		"Everyone should be on the lift before going up."
+		"es"		"Todos deberían estar en el ascensor antes de subir."
+	}
+	"2c32c8daa407d024e265761a4c66e78c"
+	{
+		"en"		"The air is getting poisoned with the undead energy! You gotta find a way outta here!"
+		"es"		"¡El aire se está contaminando con los zombis! ¡Tienes que encontrar una forma de salir de aquí!"
+	}
+	"d7348e4c977d8d8fb84aeaf407cb8cc5"
+	{
+		"en"		"You have collected the red crystal."
+		"es"		"Has recogido el cristal rojo."
+	}
+	"55c5d798dc5cd0f9cf628d171a926c5f"
+	{
+		"en"		"Those who see will prosper, those who dont will perish..."
+		"es"		"Los que ven prosperarán, los que no perecerán..."
+	}
+	"920b4b48d18eb5a20d24ee9f40373729"
+	{
+		"en"		"The watcher inhabits this tomb."
+		"es"		"El observador habita esta tumba."
+	}
+	"5ee8fc3ce1c32b8204f00d11ef1ed010"
+	{
+		"en"		"We will need power before the gate starts up..."
+		"es"		"Necesitaremos electricidad para que la puerta se active..."
+	}
+	"54a4705a2b20f22e7481c0ef2cbb2079"
+	{
+		"en"		"Perhaps this could be an offering..."
+		"es"		"Tal vez esto podría ser una ofrenda..."
+	}
+	"0d96da0b57faaf01ab6829c4a2968dc0"
+	{
+		"en"		"This door requires some sort of key..."
+		"es"		"Esta puerta requiere algún tipo de llave..."
+	}
+	"799728132be575bdbea8fb0f1276997c"
+	{
+		"en"		"You have collected the blue crystal."
+		"es"		"Has recogido el cristal azul."
+	}
+	"75a75fc59b57efd755a616f66d49bdf2"
+	{
+		"en"		"This place looks dangerous, you should go in with your team..."
+		"es"		"Este lugar parece peligroso, deberías ir con tus compañeros..."
+	}
+	"c96449a0ea30e110e5e33b519da6e25d"
+	{
+		"en"		"Leave this place, or your life will become theirs..."
+		"es"		"Abandona este lugar, o tu vida se convertirá en la de ellos..."
+	}
+	"549bdb4d433813a46be5528a8a97201f"
+	{
+		"en"		"The guardian is the door."
+		"es"		"El guardián es la puerta."
+	}
+	"8d8eb4e7e89dfbd31b6d94840786b12c"
+	{
+		"en"		"The guardian protects the door."
+		"es"		"El guardián protege la puerta."
+	}
+	"34abc373fe75c745f81e6355ff3fb080"
+	{
+		"en"		"The guardian is the key."
+		"es"		"El guardián es la llave."
+	}
+	"766b84f24169724f87db3b69cba36409"
+	{
+		"en"		"The guardian holds the key."
+		"es"		"El guardián tiene la llave"
+	}
+	"ea61791d1a190dc9ccd51425bdf0812a"
+	{
+		"en"		"Tower of Babel"
+		"es"		"Torre de Babel"
+	}
+	"1a2e5cefca3ca7dc81fa31a852c06ba1"
+	{
+		"en"		"A map created by Major Tiddys"
+		"es"		"Mapa creado por Major Tiddys"
+	}
+}

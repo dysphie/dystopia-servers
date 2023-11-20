@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"a40cdfa3a66d8925a1180098ab4fb245"
+	{
+		"en"		"PHARAOH IS AWAKE!"
+		"es"		"EL FARAÓN SE HA DESPERTADO!"
+	}
+	"692f31b9eb8c5e81bb599270e2e18138"
+	{
+		"en"		"Pharaoh sarcophagus breached!"
+		"es"		"El sarcófago del faraón ha sido violado!"
+	}
+	"1136487b7f1e8af4b96df6ac497f1d7a"
+	{
+		"en"		"All players should come here to open this huge tombstone..."
+		"es"		"Todos los jugadores deben venir al sarcófago del faraón..."
+	}
+	"c51711c1be90ac54cce8c1925bb25cbc"
+	{
+		"en"		"Location: Egypt - Giza Complex"
+		"es"		"Ubicación: Necrópolis de Guiza"
+	}
+	"de6e65ffd43b656c621604aa8168b2fc"
+	{
+		"en"		"Quarantine Zone: Pyramid of Khafre"
+		"es"		"Zona de cuarentena: Pirámide de Khafre"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"es"		"Mapa creado por Ulreth"
+	}
+	"92751f2317e75ce3157a2d6f6b44975e"
+	{
+		"en"		"Without help of our god Ra, geometry would remain as a mystery, learn from us..."
+		"es"		"Sin la ayuda de Ra, la geometría sería un misterio, aprende de nosotros..."
+	}
+	"fe78df0c20fa330760993e2bc467b7a0"
+	{
+		"en"		"Stone can be sculpt to please our ancestors..."
+		"es"		"La roca puede ser esculpida para complacer a nuestros antepasados..."
+	}
+	"0f645d95ed07095a928cc186c19d0ea6"
+	{
+		"en"		"Our maze will please the Osiris wisdom..."
+		"es"		"Nuestro laberinto complacerá la sabiduría de Osiris..."
+	}
+	"6d57287f200a38dcf4fa227f0ab9ed4b"
+	{
+		"en"		"Agility is the key to beat your enemies..."
+		"es"		"La agilidad es el secreto para vencer a tus enemigos..."
+	}
+	"93ee95f78936de081aa4818b1d62a6e1"
+	{
+		"en"		"Pyramid... Traps... 4 hallways must be explored, beware of our best elite guards stranger..."
+		"es"		"Pirámide... Trampas... Se deben explorar los 4 pasillos, ten cuidado con los guardianes, forastero..."
+	}
+	"f5d7cb3b3342f09426b68e3725df7a7c"
+	{
+		"en"		"Honor our gods! Be grateful with them and offer your gold..."
+		"es"		"¡Honra a nuestros dioses! Muestra gratitud y ofrece tu oro...."
+	}
+	"961f3bca63ae3a81191a7cd5fa4dc2b0"
+	{
+		"en"		"Our most precious relics are hidden and wait ahead, even the pharaoh itself was amazed of their beauty..."
+		"es"		"Nuestras reliquias más preciadas están escondidas, incluso el propio faraón se asombró de sus bellezas..."
+	}
+	"7259f1f11d8224f1641177ca79d589a0"
+	{
+		"en"		"Pharaoh lays in main room, any intruder that disturbs his sarcophagus will face severe consequences..."
+		"es"		"El Faraón yace en la sala principal, cualquier intruso que perturbe su sarcófago enfrentará consecuencias severas..."
+	}
+	"356a40914e0ef1c69db1b025a5615a0b"
+	{
+		"en"		"Escape from the pyramid before it collapses"
+		"es"		"Escapa de la pirámide antes de que se derrumbe"
+	}
+	"dfe7b166c49893c8f8849621edc4a89c"
+	{
+		"en"		"It was another trap! You are surrounded!"
+		"es"		"Era otra trampa! Están rodeados!"
+	}
+	"cdc12632a2c5865694000007a03f9ddb"
+	{
+		"en"		"Find all the relics to unlock pharaoh's room, search for clues inside"
+		"es"		"Encuentra todos los artefactos necesarios para desbloquear la sala del Faraón"
+	}
+	"3dcaed19ad03dbd04ddd5ec02fe1f31c"
+	{
+		"en"		"Locate and steal key artifacts from all the tombstones to unlock main stone door"
+		"es"		"Encuentra todos los artefactos necesarios para desbloquear la puerta de piedra"
+	}
+	"5a038220965f1f11cb1efd5562ab9179"
+	{
+		"en"		"Blow out the entrance of the pyramid of Khafre"
+		"es"		"Coloca dinamita en la entrada de la pirámide"
+	}
+}

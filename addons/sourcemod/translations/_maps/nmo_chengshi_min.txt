@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"93ac5d546b1e8179272821fe8dbbd410"
+	{
+		"en"		"Map by Wuxin"
+		"es"		"Map by Wuxin"
+	}
+	"cb160d3c262467949967f62c2e8bf771"
+	{
+		"en"		"NEED WELDER!!!"
+		"es"		"NEED WELDER!!!"
+	}
+	"ac48b27a5936074dc19702bcac600251"
+	{
+		"en"		"NEED ALL PLAYER!!!"
+		"es"		"NEED ALL PLAYER!!!"
+	}
+	"058b717d6e06de96ec44e62594c28179"
+	{
+		"en"		"BECAREFUL SNIPERS!!!!!!!!!"
+		"es"		"BECAREFUL SNIPERS!!!!!!!!!"
+	}
+	"3a1015ac559dbebd08247c02b20492e2"
+	{
+		"en"		"KILL ALL ZOMBIES SPAWN ALL PLAYER(60s)!!!"
+		"es"		"KILL ALL ZOMBIES SPAWN ALL PLAYER(60s)!!!"
+	}
+	"645193038bcf44c4778ec7e0cc398546"
+	{
+		"en"		"KILL BOSS ZOMBIES!"
+		"es"		"KILL BOSS ZOMBIES!"
+	}
+	"b96208c659f31c66fb77941472db5fd0"
+	{
+		"en"		"NEED ALL PLAYER!"
+		"es"		"NEED ALL PLAYER!"
+	}
+	"600431a9b76b13c8e050bf5c302b50cf"
+	{
+		"en"		"Look for C4!"
+		"es"		"Look for C4!"
+	}
+	"96e1a6a9bba1df62567249a3dcebd644"
+	{
+		"en"		"回到弗帝冈人面前撤离!"
+		"es"		"回到弗帝冈人面前撤离!"
+	}
+	"6ceb934e0d996bbd405492129404c915"
+	{
+		"en"		"地狱已满联机群：1057157630"
+		"es"		"地狱已满联机群：1057157630"
+	}
+	"289793d312176da16657034409f0913b"
+	{
+		"en"		"寻找弗帝冈人部署灯光音响开始救援"
+		"es"		"寻找弗帝冈人部署灯光音响开始救援"
+	}
+	"898696537732f5cf0be4c10ad8c32da3"
+	{
+		"en"		"探索小区"
+		"es"		"探索小区"
+	}
+	"4a71d1cc340087f3acff812112e339c1"
+	{
+		"en"		"进入胡同寻找出路"
+		"es"		"进入胡同寻找出路"
+	}
+	"db0a82312def87f9748a0259c1fa24c7"
+	{
+		"en"		"逃离仓库"
+		"es"		"逃离仓库"
+	}
+	"c1bc0465c2d4c0eceb8c4b763b6af8fd"
+	{
+		"en"		"在附近寻找出路"
+		"es"		"在附近寻找出路"
+	}
+	"52d19e5a1870920ba8d8698ee08494c0"
+	{
+		"en"		"逃离鬼打墙"
+		"es"		"逃离鬼打墙"
+	}
+	"32ff6993919f8cb294941113c452e517"
+	{
+		"en"		"进入传送门"
+		"es"		"进入传送门"
+	}
+	"164dff5720fb2451fb4dad28f3988ddc"
+	{
+		"en"		"探索古塔"
+		"es"		"探索古塔"
+	}
+	"7622d511daaceb176aa3d947df53ba35"
+	{
+		"en"		"逃离停车场"
+		"es"		"逃离停车场"
+	}
+	"d7c60f55daadd465f61993d87026245b"
+	{
+		"en"		"寻找出路"
+		"es"		"寻找出路"
+	}
+	"9ac8e2f96af2e20a92cc6404e60be734"
+	{
+		"en"		"使用大锤敲掉尽头的石墙"
+		"es"		"Usa el mazo para derribar el muro final."
+	}
+	"f7f94cda9d5e6b8b603781f3bb047113"
+	{
+		"en"		"继续探索"
+		"es"		"Sigue explorando"
+	}
+	"746c0138069f8475492055d099a2aafa"
+	{
+		"en"		"寻找五枚c4炸掉中路的墙"
+		"es"		"Busca cinco dinamitas para volar la pared del medio."
+	}
+	"7287c737e752d7752bc641b85e579552"
+	{
+		"en"		"使用焊枪打开下水道的盖子"
+		"es"		"Usa un soldador para abrir la tapa de la alcantarilla"
+	}
+	"5ae787e66bd4be5ca7925ae9f5c3bd9c"
+	{
+		"en"		"使用炸药炸开公寓的门"
+		"es"		"Usa dinamita para abrir la puerta del apartamento."
+	}
+}

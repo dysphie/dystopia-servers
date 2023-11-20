@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"6c0dd8c72f24b112f2f2164c01fbab63"
+	{
+		"en"		"灭掉隧道尽头的火焰"
+		"es"		"灭掉隧道尽头的火焰"
+	}
+	"e24d93f256433f614246b8073dd93f21"
+	{
+		"en"		"使用TNT炸掉路障"
+		"es"		"使用TNT炸掉路障"
+	}
+	"add2da8874d6fb3b6e22b55e4cde76ca"
+	{
+		"en"		"使用炸药炸毁围栏"
+		"es"		"使用炸药炸毁围栏"
+	}
+	"7149fe1d14a782033d3fe997ff65b060"
+	{
+		"en"		"推开当在路上的汽车"
+		"es"		"推开当在路上的汽车"
+	}
+	"3a08c054864d63e701194bc50a100d90"
+	{
+		"en"		"thanks :)"
+		"es"		"thanks :)"
+	}
+	"1d548d0720ffa5475ab06e8af4aa59f7"
+	{
+		"en"		"Runner Dark FreeWay."
+		"es"		"Runner Dark FreeWay."
+	}
+	"c7141e177d40efb98f070a399efc7746"
+	{
+		"en"		"wuxin Q:3010412420 // 2020.11.20"
+		"es"		"wuxin Q:3010412420 // 2020.11.20"
+	}
+	"7dcc8a804627cb062d6a01c115e7e8ce"
+	{
+		"en"		"Made by Bump Attack.  Modify by wuxin."
+		"es"		"Made by Bump Attack.  Modify by wuxin."
+	}
+}

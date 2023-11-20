@@ -1,0 +1,76 @@
+"Phrases"
+{
+	"Namecolor Menu Title"
+	{
+		"en"	"Pick your name color"
+		"es"	"Elige tu color de nombre"
+	}
+
+	"Type Please"
+	{
+		"en"	"{darkgray}Type the hex code in chat (e.g. #FFFF00)"
+		"es"	"{darkgray}Escribe el código hex en chat (ejemplo: #FFFF00)"
+	}
+	"Set Random Color"
+	{
+		"en"	"{darkgray}Set your name color to a random one"
+		"es"	"{darkgray}Tu color de nombre fue asignado al azar"
+	}
+
+	"Invalid Color"
+	{
+		"en"	"Invalid hex code provided"
+		"es"	"Código hex inválido"
+	}
+	"Set Custom Color"
+	{
+		"#format" "{1:s}"
+		"en"	"Set your color to #{1}"
+		"es"	"Tu color de nombre fue cambiado a #{1}"
+	}
+	"Custom"
+	{
+		"en"	"Custom"
+		"es"	"Personalizado"
+	}
+	"None"
+	{
+		"en"	"None"
+		"es"	"Ninguno"
+	}
+	"Random"
+	{
+		"en"	"Random"
+		"es"	"Al azar"
+	}
+	"Pink"
+	{
+		"en"	"Pink"
+		"es"	"Rosa"
+	}
+	"Red"
+	{
+		"en"	"Red"
+		"es"	"Rojo"
+	}
+	"Yellow"
+	{
+		"en"	"Yellow"
+		"es"	"Amarillo"
+	}
+	"Green"
+	{
+		"en"	"Green"
+		"es"	"Verde"
+	}
+	"Blue"
+	{
+		"en"	"Blue"
+		"es"	"Azul"
+	}
+	"Orange"
+	{
+		"en"	"Orange"
+		"es"	"Naranja"
+	}
+}

@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"5d507c700c63e4c4b9390c66afdd2aa4"
+	{
+		"en"		"寻找电池和钳子，修理发电机/Find the battery and pliers, and repair the generator"
+		"es"		"寻找电池和钳子，修理发电机/Find the battery and pliers, and repair the generator"
+	}
+	"b8a45310769a2dd153959ac823c60fbe"
+	{
+		"en"		"救援已在路上，坚持5分钟/Rescue is on the way, hold on for 5 minutes"
+		"es"		"救援已在路上，坚持5分钟/Rescue is on the way, hold on for 5 minutes"
+	}
+	"fcd1f150e0ababe69d9aadab5e3a79d8"
+	{
+		"en"		"呼叫支援/Call for support"
+		"es"		"呼叫支援/Call for support"
+	}
+	"84c4e241c07b09b9b70a61f92a8170da"
+	{
+		"en"		"放置一颗烟雾弹，表示位置/Place a smoke bomb to indicate the position"
+		"es"		"放置一颗烟雾弹，表示位置/Place a smoke bomb to indicate the position"
+	}
+	"976e3c58da02b26636cca4f1afc49b60"
+	{
+		"en"		"寻求救援/Seek help"
+		"es"		"寻求救援/Seek help"
+	}
+	"bf43721b79369ebe88d0548b7a706a5f"
+	{
+		"en"		"用煤气罐炸开仓库大门，并拿走梯子/Explode the warehouse door with a gas can, take away the ladder"
+		"es"		"用煤气罐炸开仓库大门，并拿走梯子/Explode the warehouse door with a gas can, take away the ladder"
+	}
+	"2ef29e55a6eb0d6d531f65f36a9052f3"
+	{
+		"en"		"探索区域/Exploration area"
+		"es"		"探索区域/Exploration area"
+	}
+	"030f0a03e50687a70ff6db80beb04e11"
+	{
+		"en"		"继续前进,前往撤离区/Keep moving to the evacuation area"
+		"es"		"继续前进,前往撤离区/Keep moving to the evacuation area"
+	}
+	"5c5e5159849bdb72b21b853614deca3c"
+	{
+		"en"		"恢复电力/Restore power"
+		"es"		"恢复电力/Restore power"
+	}
+	"6af8653448f90395ea810be9e599607b"
+	{
+		"en"		"想办法进入超市电房/Enter the supermarket electric room"
+		"es"		"想办法进入超市电房/Enter the supermarket electric room"
+	}
+	"78645ef85d32e3dffe28819ee3759db2"
+	{
+		"en"		"找到炸药,炸开超市仓库后门/Find the explosives,blow up the supermarket warehouse"
+		"es"		"找到炸药,炸开超市仓库后门/Find the explosives,blow up the supermarket warehouse"
+	}
+	"2e2acd1f410a3a274e6e0e9040d3bb7e"
+	{
+		"en"		"想办法打开修理厂后门/Open the rear door of the repair shop"
+		"es"		"想办法打开修理厂后门/Open the rear door of the repair shop"
+	}
+	"7729341a522230451d2cc68332c7ce80"
+	{
+		"en"		"穿过小巷/Go through the alley"
+		"es"		"穿过小巷/Go through the alley"
+	}
+	"6113ea97f56fa102d7750b6b171491c0"
+	{
+		"en"		"寻找焊枪,打开商店大门/Find the welding gun, open the shop door"
+		"es"		"寻找焊枪,打开商店大门/Find the welding gun, open the shop door"
+	}
+	"80a97272b8d0ae0b461f59149dd67e4d"
+	{
+		"en"		"前往社区中心,寻求救援/Go to the community center for rescue"
+		"es"		"前往社区中心,寻求救援/Go to the community center for rescue"
+	}
+	"9635680e06f0c6743f8fc946910727b1"
+	{
+		"en"		"离开楼顶,到楼下去/Go downstairs"
+		"es"		"离开楼顶,到楼下去/Go downstairs"
+	}
+}

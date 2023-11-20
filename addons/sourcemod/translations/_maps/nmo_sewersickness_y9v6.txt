@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"c4702701c1968ac5b1cdd6f662fa5547"
+	{
+		"en"		"Destroy the Machine"
+		"es"		"Destruye la máquina"
+	}
+	"23fe974f999f32e8a4516329cd8c5589"
+	{
+		"en"		"Find the way"
+		"es"		"Encuentra un camino"
+	}
+	"6a1642fadc6e0376423ecd0ffc17dcb2"
+	{
+		"en"		"Go to the sewer"
+		"es"		"Ve a las alcantarillas"
+	}
+	"5c0dff5d68176093caadda87bc9ac380"
+	{
+		"en"		"Find the reserch center"
+		"es"		"Encuentra el centro de investigación"
+	}
+	"4a0dd7d52b1dbb68623f3a96e701cba0"
+	{
+		"en"		"Go ahead"
+		"es"		"Continúa avanzando"
+	}
+	"d6651892cb8675b8c8b6e8bdb4660d37"
+	{
+		"en"		"Open the water gate"
+		"es"		"Abre la compuerta del agua"
+	}
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"es"		"Escapa!"
+	}
+	"2e781e46cd473612f108b29a62e711ab"
+	{
+		"en"		"Congratulations"
+		"es"		"Felicitaciones"
+	}
+	"faf693c8546142844adeb0a0349cfdb8"
+	{
+		"en"		"With your help, we'll be more powerful than the bad company..."
+		"es"		"Con tu ayuda, seremos más fuertes que esta compañía malvada..."
+	}
+	"498cd895eb5a102c5aeb977e2b928dee"
+	{
+		"en"		"Thank you!"
+		"es"		"Gracias!"
+	}
+	"72fc8754f43c12253e2e10ff70a953b0"
+	{
+		"en"		"It looks like a reservoir for the Machine..."
+		"es"		"Parece un depósito para la máquina..."
+	}
+	"54aceaebdc59c93a3524bad3e7ee80db"
+	{
+		"en"		"You can try to throw the Power Ball inside..."
+		"es"		"Puedes intentar tirar una bola de poder adentro..."
+	}
+	"57e2313f8aaa08b2e890e117accc3629"
+	{
+		"en"		"But you need something to break protector..."
+		"es"		"Pero necesitas algo para romper la protección..."
+	}
+	"7e16e8fcf3876160066837c082dc0ba1"
+	{
+		"en"		"It works, the Machine is overloaded !!"
+		"es"		"Funciona, la máquina esta sobrecargada !!"
+	}
+	"ae1538772e8238ad07a201808867d007"
+	{
+		"en"		"Escape from here before it explodes !!"
+		"es"		"Escapa de aquí antes de que explote !!"
+	}
+	"9956f25fb325f295eed1f40c3292d529"
+	{
+		"en"		"Good, but keep searching the Power Balls..."
+		"es"		"Bien, pero sigue buscando las bolas de poder..."
+	}
+	"ab36b9a9688401c5d5b371399c5ca2eb"
+	{
+		"en"		"Because you can maybe overload the Machine..."
+		"es"		"Porque quizás puedas sobrecargar la máquina..."
+	}
+	"5a7ee3e08506a69b791c81d8a34f8819"
+	{
+		"en"		"Good luck, I recontact you if needed..."
+		"es"		"Suerte, me contactaré si es necesario..."
+	}
+	"16c381e629c3542cee2a002e4eb29e62"
+	{
+		"en"		"Your mission is to find it and destroy it..."
+		"es"		"Tu misión es encontrarla y destruirla..."
+	}
+	"c62ba99e3daa19bfc5066bebbab022c9"
+	{
+		"en"		"And it's hidden somewhere in these Sewers..."
+		"es"		"Y está escondida en algún lugar de estas alcantarillas..."
+	}
+	"fbf44928097958d2c4587aec09eb4ddd"
+	{
+		"en"		"One company own a Secret Machine which can change the World !!"
+		"es"		"Una empresa posee una máquina secreta que puede cambiar el mundo !!"
+	}
+	"24bbe4e9aa8e112c28838b0a8a364f51"
+	{
+		"en"		"This Weapon can transform the Citizens in Zombies..."
+		"es"		"Este arma puede transformar a los ciudadanos en zombis..."
+	}
+	"17799c49c0946e572630620a7f7510ee"
+	{
+		"en"		"Our undercover agent has discovered a really important thing..."
+		"es"		"Nuesto agente encubierto ha descubrido algo muy importante..."
+	}
+	"e5a5649609ead6861a6936b30c531566"
+	{
+		"en"		"Welcome to the Sewers"
+		"es"		"Bienvenido a las alcantarillas"
+	}
+}

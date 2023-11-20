@@ -1,0 +1,163 @@
+"Phrases"
+{
+	"f484306f6b9b5e94f5491c4f4a9eddfe"
+	{
+		"en"		"Find a crank to a pipe to decrease the water level."
+		"es"		"Encuentra una manivela para la cañería para bajar el nivel del agua"
+	}
+	"4b89872a26be1c26e56ba0fce2a1dbbb"
+	{
+		"en"		"Hold out until Chopper arrives."
+		"es"		"Sobrevive hasta que llegue el helicóptero."
+	}
+	"f16aabf98937ab3450edbc1237b425f1"
+	{
+		"en"		"Rescue is on the way! Survive!!"
+		"es"		"El rescate esta llegando ¡Sobrevive!"
+	}
+	"b726fa87162fbb5f87c6ec130fea5a12"
+	{
+		"en"		"Locate 3 smoke signals and use them on top of the goal post to signal the chopper."
+		"es"		"Encuentra 3 granadas de humo y colócalas en el poste de gol para alertar al helicóptero."
+	}
+	"5082affc338a6fb5acab13beec49b15f"
+	{
+		"en"		"Find a keycard to get access to the parking lot."
+		"es"		"Encuentra una tarjeta para acceder al estacionamiento."
+	}
+	"6151e0d17f2c1812fd05d30d013381ad"
+	{
+		"en"		"Alert the horde by using the boombox."
+		"es"		"Alerta a la horda usando el parlante."
+	}
+	"eefb019e2c832d7ac04319c6c7d2e893"
+	{
+		"en"		"Head to Captain's Quarters and search for a radio to call for help."
+		"es"		"Ve a la oficina del capitán y busca una radio para pedir ayuda."
+	}
+	"5582a3cb6c916587f2e28a67c8a97cdf"
+	{
+		"en"		"Make your way into the football stadium."
+		"es"		"Avanza hacia el estadio"
+	}
+	"d6041076071bd9df747e1ffdd6890a91"
+	{
+		"en"		"Find something useful to blow up the barrier."
+		"es"		"Encuentra algo útil para explotar la barrera."
+	}
+	"4ec30667dd003529d4fea78bcfdb0ebb"
+	{
+		"en"		"Use the battery from earlier to power up the generator to continue further."
+		"es"		"Usa la batería de antes para encender el generador y avanzar"
+	}
+	"8cf44a1f732fd00aea650dec30fd5327"
+	{
+		"en"		"Navigate through the tunnels."
+		"es"		"Avanza por los túneles"
+	}
+	"5c1bbb2ff9b89331df303f1a0f1345b2"
+	{
+		"en"		"Find some keys to unlock the gate to tunnels."
+		"es"		"Encuentra una llave para abrir la entrada a los túneles."
+	}
+	"53889c718b96395acc2641d14377c904"
+	{
+		"en"		"Find a key to gain access to warehouse."
+		"es"		"Encuentra una llave para acceder al depósito"
+	}
+	"124a3a77627c5dfd71d073ddcd7ba8c8"
+	{
+		"en"		"Look for an alternative way to exit the building."
+		"es"		"Encuentra una manera alternativa de salir del edificio."
+	}
+	"080e07d212dae2367f171cd3f5563839"
+	{
+		"en"		"Find a way out of the building."
+		"es"		"Encuentra una manera de salir del edificio."
+	}
+	"01310a061c7080b0be6e541875ff23af"
+	{
+		"en"		"Find a fuse to power up the door."
+		"es"		"Encuentra un fusible para activar la puerta"
+	}
+	"e4c4a0f7c969f78354fc2734fb72c982"
+	{
+		"en"		"Collegiate"
+		"es"		"Collegiate"
+	}
+	"1cd02d9e95f53644695f584362aed8f7"
+	{
+		"en"		"2 more smoke signals left."
+		"es"		"Faltan 2 señales de humo."
+	}
+	"f0c6311dcee80acd10408959d38c1287"
+	{
+		"en"		"Made by Y#shieon."
+		"es"		"Hecho por Y#shieon."
+	}
+	"b53d7eed5894aa66a1f063d83b47fb6d"
+	{
+		"en"		"All smoke signals have been gathered!"
+		"es"		"Todas las señales de humo han sido colocadas"
+	}
+	"83f81ac0c036648e308d270e5aa437f2"
+	{
+		"en"		"1 more smoke signal left."
+		"es"		"Falta 1 señal de humo."
+	}
+	"5cb1bf457433879498a6be24c5fe5122"
+	{
+		"en"		"Stay back!"
+		"es"		"¡Retrocede!"
+	}
+	"11071623a2938212d08f560aa4e0a58d"
+	{
+		"en"		"Theres too many zeds in our area!"
+		"es"		"¡Hay demasiados zombies en nuestra ubicación!"
+	}
+	"0e4e7fd84bfcbd801fa58a07cd145478"
+	{
+		"en"		"Use the speakers to distract zees!"
+		"es"		"¡Usa los parlantes para distraer a los zombis!"
+	}
+	"43c868077a069acbe7d4c1bc6a0e4474"
+	{
+		"en"		"This door is now unlocked."
+		"es"		"Esta puerta está desbloqueada ahora"
+	}
+	"666d9b5648a671509631d8e26b8cf403"
+	{
+		"en"		"Hey, check this out."
+		"es"		"Hey, mira esto."
+	}
+	"43d71068bfb70813e022c0cd5557b5de"
+	{
+		"en"		"Dufflebags may contain useful items."
+		"es"		"Los bolsos pueden contener ítems útiles"
+	}
+	"95d38ceb93811e780d7518d33a34551a"
+	{
+		"en"		"Once the smoke signals are placed, ladder will be disable."
+		"es"		"Una vez colocadas las señales de humo, se desactivará la escalera"
+	}
+	"accff04c4e8785473208851ee9112d6f"
+	{
+		"en"		"Disconnect the battery to proceed further."
+		"es"		"Desconecta la batería para avanzar."
+	}
+	"7eae98b92588c39c2eff121ac6bd8a0c"
+	{
+		"en"		"That battery could come in handy later on."
+		"es"		"That battery could come in handy later on."
+	}
+	"ceb56944a9b2a2e3db3e8bdc5f60ade3"
+	{
+		"en"		"Secret room by lunch room unlocks in 10."
+		"es"		"La sala secreta del comedor se desbloqueará en 10 seg."
+	}
+	"d1dfaa7440b8787eabb1daa1cf95c181"
+	{
+		"en"		"Truck is on the way!"
+		"es"		"¡El camión está en camino!"
+	}
+}

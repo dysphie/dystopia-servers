@@ -1,0 +1,193 @@
+"Phrases"
+{
+	"efe7bffcdab100bfdbd614917a04d9aa"
+	{
+		"en"		"上直升机"
+		"es"		"上直升机"
+	}
+	"2519e2f359f6ad889a592398fe0fff32"
+	{
+		"en"		"开大门"
+		"es"		"开大门"
+	}
+	"816e561cffecc8b6671b4955294f7888"
+	{
+		"en"		"走出迷宫"
+		"es"		"走出迷宫"
+	}
+	"9912014c6c72f4b790a6adb00d781fd7"
+	{
+		"en"		"开电梯2"
+		"es"		"开电梯2"
+	}
+	"1d4e70cb7830df284aff3428d2b2dc20"
+	{
+		"en"		"逃出方块"
+		"es"		"逃出方块"
+	}
+	"259a29239d905e6e41768c3beb07583e"
+	{
+		"en"		"炸墙"
+		"es"		"炸墙"
+	}
+	"f7d71d7d80fb8bdc6fc34bf68cbe0115"
+	{
+		"en"		"开电梯"
+		"es"		"开电梯"
+	}
+	"bc5995d306f9019113536dc3407f919a"
+	{
+		"en"		"经过障碍"
+		"es"		"经过障碍"
+	}
+	"8e5f40144bc7f859c410b4e8ecf54543"
+	{
+		"en"		"移走方块"
+		"es"		"移走方块"
+	}
+	"e5e3b94a653a72589994cd1b1b9f3cc1"
+	{
+		"en"		"开栅栏门"
+		"es"		"开栅栏门"
+	}
+	"790c0681cdf52d474adf4ac9d28bf71e"
+	{
+		"en"		"快撤"
+		"es"		"快撤"
+	}
+	"a43bcb86c8ae8d6379dd692b5e3f9a59"
+	{
+		"en"		"18s"
+		"es"		"18s"
+	}
+	"b6f4d48b4a7d12f9731a9c6c79c5b18e"
+	{
+		"en"		"17s"
+		"es"		"17s"
+	}
+	"5ca79b660fbc39474b73990080af2082"
+	{
+		"en"		"16s"
+		"es"		"16s"
+	}
+	"1fd7635317edfeca9054894ac9ef9b5e"
+	{
+		"en"		"14s"
+		"es"		"14s"
+	}
+	"262779a2d9336414bb830ceb2dac2610"
+	{
+		"en"		"15s"
+		"es"		"15s"
+	}
+	"b7047ec367f4d718f1a50b6b344d72b8"
+	{
+		"en"		"13s"
+		"es"		"13s"
+	}
+	"d084dd881a190aa5ffdf0ce21cff9509"
+	{
+		"en"		"12s"
+		"es"		"12s"
+	}
+	"5de51b96f0ce068d74abece2cd57527b"
+	{
+		"en"		"11s"
+		"es"		"11s"
+	}
+	"e82d0467d342d614cd3d6368b302d9e7"
+	{
+		"en"		"10s"
+		"es"		"10s"
+	}
+	"fef9a0ef9e26e578d14b904ef474848a"
+	{
+		"en"		"9s"
+		"es"		"9s"
+	}
+	"ee3b1e42b451a7032605f24f4d9a8e53"
+	{
+		"en"		"8s"
+		"es"		"8s"
+	}
+	"a71f6f6b42d679a78650d265622bdf42"
+	{
+		"en"		"6s"
+		"es"		"6s"
+	}
+	"a43103fa2c1ea6fb4d78c4e895fcfee4"
+	{
+		"en"		"7s"
+		"es"		"7s"
+	}
+	"f20a81adfd4dc563c9c150f62b5e5014"
+	{
+		"en"		"5s"
+		"es"		"5s"
+	}
+	"bc6bee4eecb7ad250cd0b5ef7e1387d3"
+	{
+		"en"		"4s"
+		"es"		"4s"
+	}
+	"0d4896d431044c92de2840ed53b6fbbd"
+	{
+		"en"		"3s"
+		"es"		"3s"
+	}
+	"c804c3a15ebe05b5baf40ad5ee12be1f"
+	{
+		"en"		"2s"
+		"es"		"2s"
+	}
+	"0cf81f9038402e85910cfad17d0051b3"
+	{
+		"en"		"1s"
+		"es"		"1s"
+	}
+	"bb61fa2850d04f4e5e34449de13febe4"
+	{
+		"en"		"0s"
+		"es"		"0s"
+	}
+	"64ef101edfdf7ebbe0ae4b54e2c6ffd1"
+	{
+		"en"		"Zombie's path open"
+		"es"		"Zombie's path open"
+	}
+	"b5f35f87d9a015f9f43a87cd6f036789"
+	{
+		"en"		"The gate will open in 15s"
+		"es"		"The gate will open in 15s"
+	}
+	"ed02e91a30ea81ad98fc049dc6daeb73"
+	{
+		"en"		"The elevator starts after 18s"
+		"es"		"The elevator starts after 18s"
+	}
+	"8db3d789ac2dff20454aa328e71a522e"
+	{
+		"en"		"The tnt will explode in 10s"
+		"es"		"The tnt will explode in 10s"
+	}
+	"784ca6777cb58d1a929da186c9fa3089"
+	{
+		"en"		"The cube will move in 15s"
+		"es"		"The cube will move in 15s"
+	}
+	"507c7f7d0b892c17973252dced3940de"
+	{
+		"en"		"The elevator starts after 18s, and the zombie's way is opened at the same time"
+		"es"		"The elevator starts after 18s, and the zombie's way is opened at the same time"
+	}
+	"62a6db45402741cf871df587edf4ecff"
+	{
+		"en"		"The fence door will open in 10s"
+		"es"		"The fence door will open in 10s"
+	}
+	"474fdb02a50f90c69565feae0bd3fe2a"
+	{
+		"en"		"Zombie TP will start in 5 seconds"
+		"es"		"Zombie TP will start in 5 seconds"
+	}
+}

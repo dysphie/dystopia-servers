@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"cecbab0e0c0fcb3629f2d73c20b36576"
+	{
+		"en"		"Explore the facility."
+		"es"		"Explore the facility."
+	}
+}

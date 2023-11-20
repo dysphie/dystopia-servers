@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"SDK_Chat_Team"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"(ΟΜΑΔΑ) {1} :  {2}"
+	}
+	"SDK_Chat_Team_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"*ΠΕΘΑΜΕΝΟΣ*(ΟΜΑΔΑ) {1} :  {2}"
+	}
+	"SDK_Chat_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"(Θεατής) {1} :  {2}"
+	}
+	"SDK_Chat_All"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"{1} :  {2}"
+	}
+	"SDK_Chat_All_Dead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"(ΠΕΘΑΜΕΝΟΣ) {1} :  {2}"
+	}
+	"SDK_Chat_All_Spec"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"(ΘΕΑΤΗΣ) {1} :  {2}"
+	}
+	"NMRiH_Chat_All_Extracted"
+	{
+		"#format"	"{1:s},{2:s}"
+		"el"		"(Διέφυγαν) {1} :  {2}"
+	}
+	"Chat_Spec"
+	{
+		"#format"	"{1:s}"
+		"el"		"(Θεατής) {1}: "
+	}
+	"Chat_Admin"
+	{
+		"el"		"(ADMIN) "
+	}
+	"Chat_Dead"
+	{
+		"#format"	"{1:s}"
+		"el"		"(Πεθαμένος) {1}: "
+	}
+	"Chat_Prefix"
+	{
+		"#format"	"{1:s}"
+		"el"		"{1}: "
+	}
+	"Chat_Extracted"
+	{
+		"#format"	"{1:s}"
+		"el"		"(Διέφυγε) {1}: "
+	}
+}

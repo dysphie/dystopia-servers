@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"f6e134e14420b50e13587d48ee09bb5f"
+	{
+		"en"		"TOO DANGEROUS!!!!"
+		"es"		"MUY PELIGROSO!!!!"
+	}
+	"a258f39e5f5d18ed40343c4201a8f6fa"
+	{
+		"en"		"Push the crate and defend the area"
+		"es"		"Empuja el contenedor y defiende el área"
+	}
+	"26a473f49002768bc54a648551ac7a54"
+	{
+		"en"		"Tested by BOBSCHKE,DAVL,STREETKID,FIONA,FEDERER-EXPRESS,JOHNCHARLAN,DER-VAMPIR,FEARSOME"
+		"es"		"Probado por BOBSCHKE,DAVL,STREETKID,FIONA,FEDERER-EXPRESS,JOHNCHARLAN,DER-VAMPIR,FEARSOME"
+	}
+	"b25f7cf5cd990d58416abb75d335fbd6"
+	{
+		"en"		"Help by MRBLAGUES"
+		"es"		"Ayuda de MRBLAGUES"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"es"		"Mapa por HAMMERCORE"
+	}
+	"981d96142da31040b17183fd62719a4c"
+	{
+		"en"		"MAKE EVERYTHING BREAK!!!"
+		"es"		"DESTRUYE TODO!!!"
+	}
+	"fadfb83ba72ff5d5061edd5c0d478dd2"
+	{
+		"en"		"All players to the defending zone"
+		"es"		"Todos los jugadores deben estar en la zona de defensa"
+	}
+	"aab0183971be2ddcd6fed7b609e8a939"
+	{
+		"en"		"Make everything break"
+		"es"		"Destruye todo"
+	}
+	"426912b2d7b6356a87b0a3b46b9dc6a8"
+	{
+		"en"		"Put the can behind the wagon"
+		"es"		"Pon la lata de gasolina detrás del carrito"
+	}
+	"0b4e319d37041afda5590474ff9fef56"
+	{
+		"en"		"Push the wagon until the limit"
+		"es"		"Empuja el carrito hasta su punto límite"
+	}
+	"2d075b3f20e5157fd998f8ce1d7478b9"
+	{
+		"en"		"Press the control panel"
+		"es"		"Usa el panel de control"
+	}
+	"3d40e65484cacd787bbfe934098956f0"
+	{
+		"en"		"Find the key to the hut"
+		"es"		"Encuentra la llave de la cabina"
+	}
+	"bac9fc9fa547c85d1b008394d3f663f4"
+	{
+		"en"		"Break the crates to find the welder"
+		"es"		"Rompe las cajas para encontrar un soldador"
+	}
+	"3222101311c49cc5202b27ace4b7198f"
+	{
+		"en"		"Find the key to the warehouse"
+		"es"		"Encuentra la llave del depósito"
+	}
+	"eab24823490fdce5f80576f3a47745ee"
+	{
+		"en"		"Remove the handbrake from the truck"
+		"es"		"Quita el freno de manos de la camioneta"
+	}
+	"cd773a8778fe48cc404ec074f2b8bb7f"
+	{
+		"en"		"Cross the sewers"
+		"es"		"Ve a través de las alcantarillas"
+	}
+	"8aa5b96393d8a738e8a0245437f733ad"
+	{
+		"en"		"Find the key in the apartments"
+		"es"		"Encuentra la llave en los edificios"
+	}
+	"72a843dd6ef6440f4e10aedd79fe7aa1"
+	{
+		"en"		"Find the sewer door"
+		"es"		"Encuentra la llave de las alcantarillas"
+	}
+}

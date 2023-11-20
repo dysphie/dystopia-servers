@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"eb59254299181215ffc07621477ed683"
+	{
+		"en"		"Last team standing wins!"
+		"es"		"Last team standing wins!"
+	}
+	"9b34fad4112abeb54fb20e31ed875459"
+	{
+		"en"		"durkhaz & Socialstyrelsen"
+		"es"		"durkhaz & Socialstyrelsen"
+	}
+	"a129ef8050bf52f9538c666fa60d66ba"
+	{
+		"en"		"Made by"
+		"es"		"Made by"
+	}
+	"0293d0774462d7b37832d1d1f2ed50c7"
+	{
+		"en"		"Team Oakhampton Wins!"
+		"es"		"Team Oakhampton Wins!"
+	}
+	"e6d1b201cdf233336750d2cc0255be22"
+	{
+		"en"		"Team Greendale Wins!"
+		"es"		"Team Greendale Wins!"
+	}
+	"80c536f5368d770978574c1930b747a3"
+	{
+		"en"		"Waiting for players!"
+		"es"		"Waiting for players!"
+	}
+	"dc8b46db173a25ad6d27af1f2a6b129a"
+	{
+		"en"		"Starting game!"
+		"es"		"Starting game!"
+	}
+}

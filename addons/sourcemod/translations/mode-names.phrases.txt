@@ -1,0 +1,104 @@
+"Phrases"
+{
+	"sh_lvl1_runners"
+	{
+		"en"	"Stage 1"
+		"es"	"Fase 1"
+	}
+
+	"sh_lvl2_runners"
+	{
+		"en"	"Stage 2"
+		"es"	"Fase 2"
+	}
+
+	"sh_lvl3_runners"
+	{
+		"en"	"Parkour"
+		"es"	"Parkour"
+	}
+
+	"wabein"
+	{
+		"en"	"Wabein Mode"
+		"es"	"Modo Wabein"
+	}
+
+	"runners"
+	{
+		"en"	"Runners Only"
+		"es"	"Solo Corredores"
+		"pt"	"Só Corredores"
+		"pt_p"	"Só Corredores"
+	}
+
+	"normal"
+	{
+		"en"	"Shamblers"
+		"es"	"Zombis Lentos"
+		"pt"	"Zumbis Lentos"
+		"pt_p"	"Zumbis Lentos"
+	}
+
+	"abra_easy_runners"
+	{
+		"en"	"Easy"
+		"es"	"Fácil"
+		"pt"	"Fácil"
+		"pt_p"	"Fácil"
+	}
+
+	"abra_hard_runners"
+	{
+		"en"	"Hard"
+		"es"	"Difícil"
+		"pt"	"Difícil"
+		"pt_p"	"Difícil"
+	}
+	
+	"fallout_easy_runners"
+	{
+		"en"	"Easy"
+		"es"	"Fácil"
+		"pt"	"Fácil"
+		"pt_p"	"Fácil"
+	}
+	
+	"fallout_medium_runners"
+	{
+		"en"	"Medium"
+		"es"	"Intermedio"
+		"pt"	"intermédio"
+		"pt_p"	"intermédio"
+	}
+	
+	"fallout_hard_runners"
+	{
+		"en"	"Hard"
+		"es"	"Difícil"
+		"pt"	"Difícil"
+		"pt_p"	"Difícil"
+	}
+
+	"tenki_lvl1_runners"
+	{
+		"en"	"Sunny"
+		"es"	"Soleado"
+		"pt"	"Ensolarado"
+		"pt_p"	"Ensolarado"
+	}
+
+	"tenki_lvl2_runners"
+	{
+		"en"	"Cloudy"
+		"es"	"Nublado"
+		"pt"	"Nublado"
+		"pt_p"	"Nublado"
+	}
+
+	"runners_crash"
+	{
+		"en"	"May Crash"
+		"es"	"Puede Crashear"
+	}
+}

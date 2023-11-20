@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"f17b049c54d0528df29dc03310f6d837"
+	{
+		"en"		"Try the radio again"
+		"es"		"Try the radio again"
+	}
+	"32183ca1786a62533e05b810d2231382"
+	{
+		"en"		"Radio isn't working fix the antenna"
+		"es"		"Radio isn't working fix the antenna"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Call for help"
+	}
+	"256a7522fe1e8e228b1c69a0041cc05c"
+	{
+		"en"		"So much for rescue."
+		"es"		"So much for rescue."
+	}
+	"9d9a54fbd6955d9da8d5ab876234c472"
+	{
+		"en"		"I could use a ladder to get to the antenna."
+		"es"		"I could use a ladder to get to the antenna."
+	}
+	"7362307c5432d530174fd8206de72736"
+	{
+		"en"		"Rescue will arrive in five minutes hold your position."
+		"es"		"Rescue will arrive in five minutes hold your position."
+	}
+}

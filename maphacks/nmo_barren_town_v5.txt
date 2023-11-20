@@ -1,0 +1,31 @@
+// MapHack Edit by overmase
+"MapHack"
+{
+  "pre_entities"
+  {
+         $modify
+		{
+            "match"
+			{
+				"model"   "models/money/goldcoin.mdl"
+			}
+			"replace"
+			{
+                "model"   "models/static/casino_coin.mdl"
+				"modelscale" "2.0"
+			}
+		}
+	    $modify
+		{
+            "match"
+			{
+				"model"   "models/money/silvcoin.mdl"
+			}
+			"replace"
+			{
+                "model"   "models/static/casino_coin.mdl"
+				"modelscale" "0.5"
+			}
+		}   
+	}
+}

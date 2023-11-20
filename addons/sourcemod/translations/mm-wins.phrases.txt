@@ -1,0 +1,313 @@
+"Phrases"
+{
+	"View finished maps"
+	{
+		"en"	"View finished maps"
+		"es"	"Ver mapas completados"
+	}
+
+	"Profile Filter"
+	{
+		"en"	"Mode: "
+		"es"	"Modo: "
+	}
+
+	"Profile Block"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s},{5:s},{6:d},{7:d},{8:.2f}"
+		"en" 	"{1}:\n \nJoined: {2}\nLast Seen: {3}\n \n{4}\n{5}\nFinished maps: {6}/{7} ({8}%%)\n \n"
+		"es" 	"{1}:\n \nPrimera conexión: {2}\nÚltima conexión: {3}\n \n{4}\n{5}\nMapas completados: {6}/{7} ({8}%%)\n \n"
+	}
+
+	"Points:"
+	{
+		"#format" "{1:d}"
+		"en"	"Points: {1}"
+		"es"	"Puntos: {1}"
+	}
+
+	"Rank: Ranked"
+	{
+		"#format" "{1:d},{2:d}"
+		"en"	"Rank: {1}/{2}"
+		"es"	"Rango: {1}/{2}"	
+	}
+
+	"Rank: Unranked"
+	{
+		"en"	"Rank: None"
+		"es"	"Rango: Ninguno"		
+	}
+
+	"Next Rank In"
+	{
+		"#format" "{1:d}"
+		"en"	"(Next in {1} points)"
+		"es"	"(Siguiente en {1} puntos)"
+	}
+
+	"Victory Points Casual"
+	{
+		"#format"	"{1:d}"
+		"en"	"{lightpink}Points on extraction: {red}0 of {1} (Late join or death)"
+		"es"	"{lightpink}Puntos al extraerse: {red}0 de {1} (Entrada tardía o muerte)"
+	}
+
+	"Victory Points Pro"
+	{
+		"#format"	"{1:d}"
+		"en"	"{lightpink}Points on extraction: {green}{1}"
+		"es"	"{lightpink}Puntos al extraerse: {green}{1}"
+	}
+
+	"Current Campaign"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{lightpink}Map: {hotpink}{1} ({2})"
+		"es"	"{lightpink}Mapa: {hotpink}{1} ({2})"
+	}
+	"Average Time"
+	{
+		"#format"	"{1:s}"
+		"en"	"{lightpink}Avg time: {hotpink}{1}"
+		"es"	"{lightpink}Tiempo promedio: {hotpink}{1}"
+	}
+
+	"Elapsed Time"
+	{
+		"#format"	"{1:s}"
+		"en"	"{lightpink}Elapsed time: {hotpink}{1}"
+		"es"	"{lightpink}Tiempo actual: {hotpink}{1}"
+	}
+
+	"No Active Round"
+	{
+		"en"	"No active round"
+		"es"	"Ronda no activa"
+	}
+
+	"Invalid Mode"
+	{
+		"en"	"Invalid map or mode"
+		"es"	"Mapa o modo inválido"
+	}
+	"No Steam"
+	{
+		"en"	"No connection to Steam"
+		"es"	"Sin conexión a Steam"
+	}
+	"Died"
+	{
+		"en"	"You died"
+		"es"	"Has muerto"
+	}
+	"Spawned Late"
+	{
+		"en"	"Spawned late"
+		"es"	"Unión tardía"
+	}
+	"Player Extracted"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:d}"
+		"en"	"{hotpink}{1} {lightpink}finished in {hotpink}{2}{lightpink} ({3} {lightpink}· {green}+{4} pp{lightpink})"
+		"es"	"{hotpink}{1} {lightpink}terminó en {hotpink}{2}{lightpink} ({3} {lightpink}· {green}+{4} pp{lightpink})"
+	}
+
+	"New Map WR"
+	{
+		"#format" "{1:s}"
+		"en"	"{gold}{1} {khaki}beat the {gold}time record{khaki} for this map"
+		"es"	"{gold}{1} {khaki}batió el {gold}récord de tiempo{khaki} del mapa"
+	}
+
+	"Player Extracted Ranked"
+	{
+		"#format" "{1:s},{2:s},{3:d}"
+		"en"	"{hotpink}{1} {lightpink}finished in {hotpink}{2}{lightpink} ({orange}Pro · +{3} pp{lightpink})"
+		"es"	"{hotpink}{1} {lightpink}terminó en {hotpink}{2}{lightpink} ({orange}Pro · +{3} pp{default})"
+	}
+
+	"Player Extracted No Hit"
+	{
+		"#format" "{1:s},{2:s},{3:d}"
+		"en"	"{hotpink}{1} {lightpink}finished in {hotpink}{2}{lightpink} ({fuchsia}No Hits · +{3} pp{lightpink})"
+		"es"	"{hotpink}{1} {lightpink}terminó en {hotpink}{2}{lightpink} ({fuchsia}Sin Golpes · +{3} pp{default})"
+	}
+
+
+	"Map Info Ranked"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s}{5:d}"
+		"en"	"{lightpink}Map: {hotpink}{1} ({2}){lightpink}\nAvg time: {hotpink}{3}{lightpink} - Elapsed: {hotpink}{4}{lightpink}\nPoints on extraction: {green}{5}"
+		"es"	"{lightpink}Mapa: {hotpink}{1} ({2}){lightpink}\nDuración promedio: {hotpink}{3}{lightpink} - Actual: {hotpink}{4}{lightpink}\nPuntos por extracción: {green}{5}"
+	}
+
+	"Map Info Unranked"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s}{5:d},{6:t}"
+		"en"	"{lightpink}Map: {hotpink}{1} ({2}){lightpink}\nAvg time: {hotpink}{3}{lightpink}\nPoints on extraction: {red}/{4} [{5}]"
+		"es"	"{lightpink}Mapa: {hotpink}{1} ({2}){lightpink}\nDuración promedio: {hotpink}{3}{lightpink}\nPuntos en extracción: {red}/{4} [{5}]"
+	}
+
+	"Multiple players match this filter"
+	{
+		"en"	"Multiple players match this filter"
+		"es"	"Múltiples jugadores coinciden"
+	}
+	"No Suffix"
+	{
+		"en"	""
+		"es"	""
+	}
+	"WR"
+	{
+		"en"	"{gold}[WR]"
+		"es"	"{gold}[WR]"
+	}
+	"PB"
+	{
+		"en"	"{chocolate}[PB]"
+		"es"	"{chocolate}[PB]"
+	}
+	"Sorting by Damage"
+	{
+		"en"	"Sorted by: Damage taken"
+		"es"	"Ordenados por: Daño recibido"
+	}
+	"Sorting by Time"
+	{
+		"en"	"Sorted by: Quickest"
+		"es"	"Ordenados por: Tiempo"
+	}
+	"Need Steam"
+	{
+		"en"	"{lightpink}Failed to retrieve your Steam ID (Steam is probably under maintenance)"
+		"es"	"{lightpink}Fallo al obtener tu Steam ID (Steam posiblemente esté en mantenimiento)"
+	}
+	"No Records Cuz No MM"
+	{
+		"en"	"No records because this map or mode isn't registered"
+		"es"	"No récords porque este mapa o modo no está registrado"
+	}
+	"Exit"
+	{
+		"en"	"Exit"
+		"es"	"Salir"
+	}
+	"No Records"
+	{
+		"es"	"No existen récords"
+		"en"	"No records"
+	}
+
+	"Top10 Title"
+	{
+		"en"	"Top 10 (Most Points)"
+		"es"	"Top 10 (Most Points)"
+	}
+
+	"Ranked Player Not Found"
+	{
+		"en"	"{lightpink}No results. The player either does not exist or hasn't earned any points"
+		"es"	"{lightpink}No hay resultados. El perfil no existe o no ha ganado puntos"
+	}
+
+	"Top10 Entry"
+	{
+		"#format" "{1:d},{2:s},{3:d}"
+		"en"	"#{1}. {2} ({3} pp)"
+		"es"	"#{1}. {2} ({3} pp)"
+	}
+
+	"Personal Records Title"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"Wins for {1}\nMaps beaten: {2}/{3}\n \nMap - Mode (Times x Reward)"
+		"es"	"Victorias de {1}\nMapas ganados: {2}/{3}\n \nMapa - Modo (Veces x Puntos)"
+	}
+
+	"Campaign History Title"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"en"	"Wins for {1} on {2} ({3})"
+		"es"	"Victorias de {1} en {2} ({3})"
+	}
+
+	"Campaign History Entry"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en"	"[{1}] {2} ({4} kills, {3} dmg)"
+		"es"	"[{1}] {2} ({4} bajas, {3} daño)"
+	}
+
+	"Personal Records Entry"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en"	"{1} - {2} ({3}x {4})"
+		"es"	"{1} - {2} ({3}x {4})"
+	}
+
+	"Player Rank"
+	{
+		"#format" "{1:s},{2:d},{3:d},{4:d}"
+		"en" "{hotpink}{1}{lightpink} is {hotpink}#{2}{lightpink} in {green}Normal{lightpink} mode with {hotpink}{3}{lightpink} points"
+		"es" "{hotpink}{1}{lightpink} es {hotpink}#{2}{lightpink} en modo {green}Normal{lightpink} con {hotpink}{3}{lightpink} puntos"
+	}
+
+	"Wins Title"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"Extracciones en {1} ({2})"
+		"en"	"Extractions in {1} ({2})"
+	}
+
+	"Record Entry"
+	{
+		"#format" "{1:s},{2:s}"
+		"es"	"{1} - {2}"
+		"en"	"{1} - {2}"
+	}
+
+	"Player Won"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"es"	"{hotpink}{1}{lightpink} ganó en {hotpink}{2}{3}"
+		"en"	"{hotpink}{1}{lightpink} won in {hotpink}{2}{3}"
+	}
+
+	"time"
+	{
+		"es"	"Menor tiempo"
+		"en"	"Fastest"
+	}
+
+	"damage"
+	{
+		"es"	"Menos daño recibido"
+		"en"	"Least damage taken"
+	}
+
+	"Filter"
+	{
+		"es"	"Filtro"
+		"en"	"Filter"
+	}
+
+	"Full Presence"
+	{
+		"es"	"Presencia total"
+		"en"	"Full presence"
+	}
+
+	"No Presence"
+	{
+		"es"	"Ninguno"
+		"en"	"None"
+	}
+
+	"Sort by"
+	{
+		"es"	"Orden"
+		"en"	"Sort by"
+	}
+}

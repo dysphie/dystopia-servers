@@ -1,0 +1,25 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		$remove { "targetname" "st4_fall_music2" }
+		$remove { "targetname" "st4_fall_music1" }
+		$remove { "targetname" "st3_fall_music"}
+		$remove { "targetname" "st3_subway_music" }
+		$remove { "targetname" "warmup_music" }
+		$remove { "targetname" "name_sound" }
+		$remove { "targetname" "name2_sound" }
+		$remove { "targetname" "name3_sound" }
+		$remove { "targetname" "name4_sound" }
+		$remove { "targetname" "love2_sound" }
+		$remove { "targetname" "st2_cloud_music2" }
+		$remove { "targetname" "st4_cloud_music" }
+		$remove { "targetname" "st3_cloud_music" }
+		$remove { "targetname" "st2_yoyogi_music" }
+		$remove { "targetname" "st2_subway_music" }
+		$remove { "targetname" "escape_sound" }
+		$remove { "targetname" "door_sound" }
+		$remove { "targetname" "st1_subway_music_1and2" }
+		$remove { "targetname" "st4_fall_music" }
+	}
+}

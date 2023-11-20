@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"d16b21a2d55582dc888c6934702868da"
+	{
+		"en"		"Light the signal on the bridge and wait for the rescue."
+		"es"		"Light the signal on the bridge and wait for the rescue."
+	}
+	"0dd442edb423904fa4c8ea60f144bb32"
+	{
+		"en"		"Find a way to call for help."
+		"es"		"Find a way to call for help."
+	}
+	"3cdfa14487a45ee2bbb4113236bc8ed9"
+	{
+		"en"		"Fix the antenna and call for help."
+		"es"		"Fix the antenna and call for help."
+	}
+	"0f6b76a6b5f336116b2ca3e3261debf7"
+	{
+		"en"		"HURRY EVERYONE GET ON ABOARD THE WIND IS TOO STRONG!"
+		"es"		"HURRY EVERYONE GET ON ABOARD THE WIND IS TOO STRONG!"
+	}
+	"ea2de9207cdd95c97607d9915f6db7ae"
+	{
+		"en"		"this radio is missing the microphone"
+		"es"		"this radio is missing the microphone"
+	}
+	"e658750f923004c760b50529ab321e28"
+	{
+		"en"		"Are you stupid? dont extinguish the signal."
+		"es"		"Are you stupid? dont extinguish the signal."
+	}
+	"4e2098ff1db1ebb785804df8ad0fc9b5"
+	{
+		"en"		"this radio is broken"
+		"es"		"this radio is broken"
+	}
+}

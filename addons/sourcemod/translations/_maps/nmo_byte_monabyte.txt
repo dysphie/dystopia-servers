@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"0286143d5af933c70a113be08b410b8f"
+	{
+		"en"		"Game Start! Open the door within 20 seconds to see Mona Byte! :D"
+		"es"		"Game Start! Open the door within 20 seconds to see Mona Byte! :D"
+	}
+}

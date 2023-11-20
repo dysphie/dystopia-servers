@@ -1,0 +1,91 @@
+"Phrases"
+{
+    "Disabled Trigger Preview"
+    {
+        "en"    "Trigger visualization {red}disabled"
+        "es"    "Visualización de triggers {red}desactivada"
+    }
+
+    "Enabled Trigger Preview"
+    {
+        "en"    "Trigger visualization {green}enabled"
+        "es"    "Visualización de triggers {green}activada"
+    }
+
+    "Not Inside Trigger, Second Person"
+    {
+        "en"    "You are not in an area that requires other players."
+        "es"    "No te encuentras en un área que requiera a todo el equipo."
+    }
+
+    "Not Inside Trigger, Third Person"
+    {
+        "#format"    "{1:N}"
+        "en"         "{1} is not in an area that requires other players."
+        "es"         "{1} no está en un área que requiera a todo el equipo."
+    }
+
+    "Must be at Marked Location"
+    {
+        "#format"    "{1:s},{2:t}"
+        "en"         "{salmon}Everyone must be at the marked location in {red}{1}{salmon}. Those left behind will be {red}{2}{salmon}."
+        "es"         "{salmon}Todos deben estar en la ubicación marcada en {red}{1}{salmon}. Aquellos que no lo logren serán {red}{2}{salmon}."
+    }
+
+    "Waiting for Players"
+    {
+        "#format"    "{1:s}"
+        "en"         "[{1}] Waiting for everyone"
+        "es"         "[{1}] Esperando al equipo"
+    }
+
+    "Absent Players"
+    {
+        "#format"    "{1:d},{2:s}"
+        "en"         "Absent players ({1}): {2}"
+        "es"         "Jugadores ausentes ({1}): {2}"
+    }
+
+    "You Were Acted Upon"
+    {
+        "#format"    "{1:t}"
+        "en"         "{salmon}You've been {red}{1}{salmon} for failing to show up at the required location in time"
+        "es"         "{salmon}Has sido {red}{1}{salmon} por no ir a la ubicación requerida a tiempo"
+    }
+
+    "Teleported and Stripped, Third Person"
+    {
+        "en"    "teleported without their inventory"
+        "es"    "teletransportados sin inventario"
+    }
+
+    "Teleported, Third Person"
+    {
+        "en"    "teleported"
+        "es"    "teletransportados"
+    }
+
+    "Killed, Third Person"
+    {
+        "en"    "killed"
+        "es"    "matados"
+    }
+
+    "Teleported and Stripped, Second Person"
+    {
+        "en"    "teleported without your inventory"
+        "es"    "teletransportado sin inventario"
+    }
+
+    "Teleported, Second Person"
+    {
+        "en"    "teleported"
+        "es"    "teletransportado"
+    }
+
+    "Killed, Second Person"
+    {
+        "en"    "killed"
+        "es"    "matado"
+    }
+}

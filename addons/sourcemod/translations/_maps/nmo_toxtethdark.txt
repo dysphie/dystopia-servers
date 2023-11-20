@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"5f2c3a0dc1d16021d95a98f53a169cf6"
+	{
+		"en"		"Proceed back to Hartington road"
+		"es"		"Proceed back to Hartington road"
+	}
+	"66a6b27580002a706abb513759f47b4b"
+	{
+		"en"		"Use welder on manhole cover"
+		"es"		"Use welder on manhole cover"
+	}
+	"d6598b115d36d66b7de17c299558ab4f"
+	{
+		"en"		"Proceed to the chapel"
+		"es"		"Proceed to the chapel"
+	}
+	"7776df202313723f4240e9319d3639e2"
+	{
+		"en"		"Find crank to open door"
+		"es"		"Find crank to open door"
+	}
+	"8bf5ad0714e090820f11d4508dc20752"
+	{
+		"en"		"Use welder on 3 wall sockets to cause a fire!"
+		"es"		"Use welder on 3 wall sockets to cause a fire!"
+	}
+	"2fc3714af70a1a4770d93f8703bb4bfb"
+	{
+		"en"		"Answer the phone"
+		"es"		"Answer the phone"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Call for help"
+	}
+	"3b31173afabd99aa56e13376b049dcd3"
+	{
+		"en"		"Find dead staff member to enter warehouse office"
+		"es"		"Find dead staff member to enter warehouse office"
+	}
+	"86ed761bab007b381ffe0a26356c9e84"
+	{
+		"en"		"Proceed to Hartington road"
+		"es"		"Proceed to Hartington road"
+	}
+	"3acdb0d4e6eb85a97e6ef6e22ca2390b"
+	{
+		"en"		"Answer the Phone"
+		"es"		"Answer the Phone"
+	}
+	"2c5cc72c32fd0ce535e1d05fdc1e36a9"
+	{
+		"en"		"Find fuel tank to blast through garden wall"
+		"es"		"Find fuel tank to blast through garden wall"
+	}
+	"74c77a66e417d8a3ba7a6ce8cf5a08ba"
+	{
+		"en"		"Use tnt to get through to the store"
+		"es"		"Use tnt to get through to the store"
+	}
+	"b172b33b71d85205906fc78151a9010b"
+	{
+		"en"		"Weld through store side entrance"
+		"es"		"Weld through store side entrance"
+	}
+	"33712216f68e633126113db4fa0b045b"
+	{
+		"en"		"Break into the store."
+		"es"		"Break into the store."
+	}
+}

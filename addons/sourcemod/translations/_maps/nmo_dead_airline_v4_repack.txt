@@ -1,0 +1,159 @@
+"Phrases"
+{
+	"6b5760606e41e93702a11e671f0b11e8"
+	{
+		"en"		"Map by Flippy"
+		"es"		"Mapa por Flippy"
+	}
+	"4152c27e8e1e8a5ad6840a3c4f256153"
+	{
+		"en"		"almost done, one minute left"
+		"es"		"Casi listo, un minuto restante"
+	}
+	"e4121ed43271085e5d82e6fe08f8b13b"
+	{
+		"en"		"try to get to the airfield I'll be waiting for you there"
+		"es"		"trata de llegar al aeropuerto, estaré esperando ahí"
+	}
+	"6a4da125c32102fe2cd7b96f2bd557b9"
+	{
+		"en"		"Yes I see you but I can't pick you here"
+		"es"		"Te veo, pero no te puedo rescatar ahí"
+	}
+	"a84ec603b45ae6c5fe0f784bc95eb474"
+	{
+		"en"		"Looks like we can open the hangar"
+		"es"		"Parece que podemos abrir el hangar"
+	}
+	"e5143e51121da7a65e35a94519a03e3f"
+	{
+		"en"		"Find the plane and refuel it to escape"
+		"es"		"Encuentra un avión y cárgalo con gasolina para escapar"
+	}
+	"cd2f5a52527089893f3b2a17f14b5972"
+	{
+		"en"		"In a minute zombies from all the city will be here"
+		"es"		"Dentro de poco todos los zombis de la ciudad van a estar ahí"
+	}
+	"d1ff8763c8d34949551d46779172fdd4"
+	{
+		"en"		"Need a canister to make molotov"
+		"es"		"Necesitas una lata de gasolina para crear una molotov"
+	}
+	"9c3cc75dedbefd67820ae2c4b0ae2601"
+	{
+		"en"		"It looks like this tank can still shoot"
+		"es"		"Parece que este tanque aún puede disparar"
+	}
+	"4261bafe9a675c42e601e9f70840d39f"
+	{
+		"en"		"Do you want to go through this gate?"
+		"es"		"Quieres proceder por este portón?"
+	}
+	"c2c62a76bddecf098d13227db103f851"
+	{
+		"en"		"Get the vaccine from the alley near the FEMA cars"
+		"es"		"Toma la vacuna al fondo del callejón al lado de los autos"
+	}
+	"cef5d59be42eab2a6017e23cfbc45234"
+	{
+		"en"		"Shoot to the head"
+		"es"		"Dispara a la cabeza"
+	}
+	"bbb811f78b0f10ef213f6e0b125bd4da"
+	{
+		"ru"		"спасайтесь"
+		"en"		"Escape"
+		"es"		"Escapa"
+	}
+	"2e3f3a2346cea1e5a7156a7c2733d881"
+	{
+		"ru"		"продержитесь 5 минут"
+		"en"		"Hold for 5 minutes"
+		"es"		"Sobrevive por 5 minutos"
+	}
+	"bf55a6b7f80fe34ae615c2f41a258225"
+	{
+		"ru"		"спасение провалено найдите самолет и заправьте"
+		"en"		"Rescue failed. Find a plane and refuel it"
+		"es"		"El recate ha fallado. Encuentra un avión y cárgalo con combustible"
+	}
+	"77d4d6f547e3b8bad5839c7858cc0408"
+	{
+		"ru"		"вертолёт ждёт вас для эвакуации"
+		"en"		"A helicopter is waiting for you to evacuate"
+		"es"		"Un helicóptero está esperando para evacuarte"
+	}
+	"9363a7f32615f4c8a5304dcc29ff4565"
+	{
+		"ru"		"пробейтесь к аэродрому"
+		"en"		"Make your way to the airfield"
+		"es"		"Ve al aeropuerto"
+	}
+	"454c6128029afc11df5daa0011bf94b3"
+	{
+		"ru"		"идите через дом"
+		"en"		"Go through the apartment building"
+		"es"		"Ve por los apartamentos"
+	}
+	"a3aef56843283cd066ad51a1093db513"
+	{
+		"ru"		"идите через город"
+		"en"		"Go through the city"
+		"es"		"Avanza por la ciudad"
+	}
+	"f2aaa73b8194e436783972cab6db4f45"
+	{
+		"ru"		"пройдите метро"
+		"en"		"Go through the subway station"
+		"es"		"Avanza por la estación de subte"
+	}
+	"5555e6596b839d842aa1123892c6cdf8"
+	{
+		"ru"		"военные мертвы найдите путь дальше"
+		"en"		"The military is dead, find a way on"
+		"es"		"La armada está muerta, encuentra una manera de proseguir"
+	}
+	"b28d79c58f1b2daad582e44a3ee25e6a"
+	{
+		"ru"		"вернитесь к военным"
+		"en"		"Go back to the military"
+		"es"		"Retrocede hacia la armada"
+	}
+	"cc9e487bc5022b24eb052b8dd9414023"
+	{
+		"ru"		"найдите потерянную вакцину в переулке"
+		"en"		"Find the lost vaccine in the alley "
+		"es"		"Encuentra la vacuna perdida en el callejón"
+	}
+	"0ca05d3dd628c89048d66bae04b670b6"
+	{
+		"ru"		"идите к блокпосту"
+		"en"		"Go to the military blockpost"
+		"es"		"Ve al asentamiento militar"
+	}
+	"9191c90f30d74cf209541e982daf18dd"
+	{
+		"ru"		"пройдите через дом и откройте дверь сваркой"
+		"en"		"Go through the apartment building and weld the exit open"
+		"es"		"Ve por los apartamentos y abre la salida con un soldador"
+	}
+	"84a9bde452a66174d32bf7c429080a49"
+	{
+		"ru"		"взорвите выход"
+		"en"		"Blow up the exit"
+		"es"		"Has explotar la salida"
+	}
+	"11c333eb112012ab5c54d48355eb117f"
+	{
+		"ru"		"идите в маркет"
+		"en"		"Go to the supermarket"
+		"es"		"Ve al supermercado"
+	}
+	"13eafaf7320c574c3cac23535f4a8cf0"
+	{
+		"ru"		"свяжитесь с пилотом вертолёта"
+		"en"		"Call the helicopter pilot"
+		"es"		"Llama al piloto del helicóptero"
+	}
+}

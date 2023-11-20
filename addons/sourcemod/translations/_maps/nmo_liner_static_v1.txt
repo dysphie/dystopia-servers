@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"9a16283ce7b7037f77ebb5051b8aea06"
+	{
+		"en"		"Call a helicopter."
+		"es"		"Llama a un helicóptero."
+	}
+	"47645f3a8d6790c728b5f0524a7a34d5"
+	{
+		"en"		"Hold on for five minutes until the helicopter arrives."
+		"es"		"Aguanta cinco minutos hasta que llegue el helicóptero."
+	}
+	"8c4f371b7c8add10bef134b29e8e5e12"
+	{
+		"en"		"The door is jammed, find a welder to fix it."
+		"es"		"La puerta está atascada, encuentra un soldador para arreglarla."
+	}
+	"761015bd67d01c34eb5afcb59595f152"
+	{
+		"en"		"Leave the room."
+		"es"		"Sal de la habitación."
+	}
+	"bdf42c6f21cd46a998b3da26784b083d"
+	{
+		"en"		"Go upstairs and make your way into the room."
+		"es"		"Sube las escaleras y entra en la habitación."
+	}
+	"1ba24e2b35519baa4ea61408186493fb"
+	{
+		"en"		"Break the barricade and keep moving."
+		"es"		"Rompe la barricada y sigue avanzando."
+	}
+	"9045017e2f0547cb924a3bf812658c5d"
+	{
+		"en"		"Figure out the keypad code and open the door."
+		"es"		"Encuentra el código del tablero electrónico y abre la puerta."
+	}
+	"245bf06d5c2cdb9873e3491719c5b898"
+	{
+		"en"		"Keep moving, go up the stairs."
+		"es"		"Sigue avanzando, sube las escaleras."
+	}
+	"9fa27360311efb7a81b8535667e9d268"
+	{
+		"en"		"Make your way to the opposite side of the warehouse."
+		"es"		"Dirígete al lado opuesto del depósito."
+	}
+	"65214b29e770b45bafa3666992230de2"
+	{
+		"en"		"Find the door to the warehouse."
+		"es"		"Encuentra la puerta del depósito."
+	}
+	"e6854c41a54cb13e60b737478bc7e044"
+	{
+		"en"		"Leave the engine room."
+		"es"		"Sal de la sala de máquinas."
+	}
+	"714b9e2abee8cd00f1477202b187e766"
+	{
+		"en"		"Author of the original map: Neko Baron."
+		"es"		"Autor del mapa original: Neko Baron."
+	}
+	"a56cd7432549f440eb149242905a5940"
+	{
+		"en"		"Also thanks for testing: TheSniperLegendary, T.U.M.P.P.I , Tuesday,  EnoT,  |NMRiH Dev| Atheist."
+		"es"		"También gracias por las pruebas: TheSniperLegendary, T.U.M.P.P.I , Tuesday,  EnoT,  |NMRiH Dev| Atheist."
+	}
+	"e584ec2011cea159a26ac3d600e90e22"
+	{
+		"en"		"Thank you very much for your help: Pla3, |NMRiH Dev| Atheist, OLEG, MARKIMOO."
+		"es"		"Muchas gracias por la ayuda: Pla3, |NMRiH Dev| Atheist, OLEG, MARKIMOO."
+	}
+	"d08161fad8a5f3c04621d20aefc44045"
+	{
+		"en"		"The map was ported by TAWER."
+		"es"		"El mapa fue portado por TAWER."
+	}
+}

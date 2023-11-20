@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"9c5a54d4b64ff715036197dd5f05090d"
+	{
+		"en"		"Take your bag."
+		"es"		"Toma tu bolso."
+	}
+	"24819959137054c4e2b2ef772a635412"
+	{
+		"en"		"Bag is heavy. Find a M.U.L.E. stimulator."
+		"es"		"La bolsa está pesada. Encuentra un estimulador M.U.L.E."
+	}
+	"39c8b69fab1aead8185171f3f8726de3"
+	{
+		"en"		"There is a bag. Collect something valuable."
+		"es"		"Hay una bolsa. Recoja algo valioso."
+	}
+	"0e1e45e2e8aa9b810347cab6f1fe1d3c"
+	{
+		"en"		"You are PMC. Find somthing valuable and escape."
+		"es"		"Eres PMC. Encuentra algo valioso y escapa."
+	}
+	"01fbe98eb1800567a59b88baf26a733a"
+	{
+		"en"		"Find 9/9"
+		"es"		"Encontrado 9/9"
+	}
+	"f253d9a42cce24e9cf141264db2c2bdb"
+	{
+		"en"		"Find 8/9"
+		"es"		"Encontrado 8/9"
+	}
+	"50a498b594dd05543a0387f2ed93a4ef"
+	{
+		"en"		"Find 7/9"
+		"es"		"Encontrado 7/9"
+	}
+	"9042faac84901df4f095b72eb4bc2f5f"
+	{
+		"en"		"Find 6/9"
+		"es"		"Encontrado 6/9"
+	}
+	"c273beed04d32710a40def0b83473890"
+	{
+		"en"		"Find 5/9"
+		"es"		"Encontrado 5/9"
+	}
+	"edab7cfc2293178ad3d104b1b53ce71a"
+	{
+		"en"		"Find 4/9"
+		"es"		"Encontrado 4/9"
+	}
+	"c761fee1a3147d0ce0439d6319fdc8b5"
+	{
+		"en"		"Find 3/9"
+		"es"		"Encontrado 3/9"
+	}
+	"577e6110753264c377682d62911d0101"
+	{
+		"en"		"Find 2/9"
+		"es"		"Encontrado 2/9"
+	}
+	"d60a5aefd166d7d89e8d3533bf213a0e"
+	{
+		"en"		"Find 0/9"
+		"es"		"Encontrado 0/9"
+	}
+	"da0cd167415230789efd96a0e018969f"
+	{
+		"en"		"Find 1/9"
+		"es"		"Encontrado 1/9"
+	}
+	"998b3c4b740f583d01d06782054a3d30"
+	{
+		"en"		"Gas? Maybe you can use it to start the generator."
+		"es"		"¿Gas? Tal vez se pueda usar para encender el generador."
+	}
+	"0eec506445487e8ac6dabc1b234264fc"
+	{
+		"en"		"Press E on crates to search for items."
+		"es"		"Mantén E en la cajas para buscar objetos."
+	}
+}

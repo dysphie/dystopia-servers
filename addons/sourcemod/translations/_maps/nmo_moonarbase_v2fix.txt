@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"16ffd6f2b28e26dc44860812dc921489"
+	{
+		"en"		"Осталось лишь запустить ракету/All that remains is to launch the rocket."
+		"es"		"Осталось лишь запустить ракету/All that remains is to launch the rocket."
+	}
+	"bf57807b51d467b9c0699ebbe1f9359d"
+	{
+		"en"		"Все ключ-карты были собраны. Вам осталось настроить антенну на спутнике/All the key cards were collected. You just need to set up the antenna on the satellite"
+		"es"		"Все ключ-карты были собраны. Вам осталось настроить антенну на спутнике/All the key cards were collected. You just need to set up the antenna on the satellite"
+	}
+	"e71b5242a62da113f7749999d1765373"
+	{
+		"en"		"Активируйте секретный терминал и затем соберите все ключ-карты/Activate the secret terminal and then collect all the key cards"
+		"es"		"Активируйте секретный терминал и затем соберите все ключ-карты/Activate the secret terminal and then collect all the key cards"
+	}
+	"604ba8981e5ddfd784cca6855d1be31d"
+	{
+		"en"		"Теперь в центре управление задайте координаты/Now in the control center, set the coordinates"
+		"es"		"Теперь в центре управление задайте координаты/Now in the control center, set the coordinates"
+	}
+	"a95a8526e413862e92561dec61d545d7"
+	{
+		"en"		"Настройте спутниковую тарелку, что бы её запустить найдите в лабораторном комплексе компьютер/Set up a satellite dish to launch it find a computer in the laboratory complex"
+		"es"		"Настройте спутниковую тарелку, что бы её запустить найдите в лабораторном комплексе компьютер/Set up a satellite dish to launch it find a computer in the laboratory complex"
+	}
+	"35565e3d4e809d4f228b4db33bc2a06e"
+	{
+		"en"		"Активируйте секретный терминал/Activate the secret terminal."
+		"es"		"Активируйте секретный терминал/Activate the secret terminal."
+	}
+	"4d5d19990f793242bf506803671090df"
+	{
+		"en"		"Теперь бур можно активировать./The drill can now be activated."
+		"es"		"Теперь бур можно активировать./The drill can now be activated."
+	}
+	"e5cde1055ef91889d92c0cfdbfc8276c"
+	{
+		"en"		"Чтобы активировать бур, вам нужно найти и отключить камеры наблюдения/To activate the drill, you need to find and disable the surveillance cameras"
+		"es"		"Чтобы активировать бур, вам нужно найти и отключить камеры наблюдения/To activate the drill, you need to find and disable the surveillance cameras"
+	}
+	"609bee72f5e2f409762575fb44269470"
+	{
+		"en"		"Спуститесь в комплекс, найдите и активируйте буровую установку/Go down to the complex, find and activate the drilling rig"
+		"es"		"Спуститесь в комплекс, найдите и активируйте буровую установку/Go down to the complex, find and activate the drilling rig"
+	}
+	"6564db5b2573c069abec90a0c0f66f37"
+	{
+		"en"		"A camera has been destroyed. Find them all to unlock the drill!"
+		"es"		"A camera has been destroyed. Find them all to unlock the drill!"
+	}
+	"a1d8ff9e47690bc84bfb02bb646d8fbb"
+	{
+		"en"		"Special thanks to: Mum, Nan, Willie, Johnatank, Michael, Angus, Decagn, Nick, DJ, CHEWY117, Benar, Mr. Nightmare, RainbowGauntlet. Each of you helped me make this map and for this I thank you all."
+		"es"		"Special thanks to: Mum, Nan, Willie, Johnatank, Michael, Angus, Decagn, Nick, DJ, CHEWY117, Benar, Mr. Nightmare, RainbowGauntlet. Each of you helped me make this map and for this I thank you all."
+	}
+	"d04de76f4203fed7156a43a29082e704"
+	{
+		"en"		"YOU FOUND THE SECRET MELON!!!!!"
+		"es"		"YOU FOUND THE SECRET MELON!!!!!"
+	}
+	"de9462680e60e2b1d479bc7cf8025bb6"
+	{
+		"en"		"8 orange keycards have spawned. Find them."
+		"es"		"8 orange keycards have spawned. Find them."
+	}
+	"4caec7b7650889b8083ab9b48e16c754"
+	{
+		"en"		"all cops r ded. long live imperial hooZAIN"
+		"es"		"all cops r ded. long live imperial hooZAIN"
+	}
+	"ddc2e1b17804162784c428c2bb43a92d"
+	{
+		"en"		"This button is locked. You need to collect the card key..."
+		"es"		"This button is locked. You need to collect the card key..."
+	}
+	"a0998c93a9c3e14b8a4dd4aefbaa57c7"
+	{
+		"en"		"Give me a map secret - lachy101"
+		"es"		"Give me a map secret - lachy101"
+	}
+	"3094e5d413d53ab9048ac5bf6d08871c"
+	{
+		"en"		"LAUNCH THE ROCKET FOR ESCAPE!!!!"
+		"es"		"LAUNCH THE ROCKET FOR ESCAPE!!!!"
+	}
+	"eaaeccc8153e4696eb6622b1aa9fd7cb"
+	{
+		"en"		"BUTTON PUZZLE SOLVED. ROCKET LAUNCH BUTTON ENABLED."
+		"es"		"BUTTON PUZZLE SOLVED. ROCKET LAUNCH BUTTON ENABLED."
+	}
+	"3b945e17253cc977404a266538488abe"
+	{
+		"en"		"KEYCARDS DISTRIBUTED THROUGH MAP. 8 REQUIRED FOR ROCKET LAUNC PROCEDURE."
+		"es"		"KEYCARDS DISTRIBUTED THROUGH MAP. 8 REQUIRED FOR ROCKET LAUNC PROCEDURE."
+	}
+	"34462501dbf7e25ba1947ad78675407d"
+	{
+		"en"		"ERROR: CANNOT SPAWN KEYCARDS UNTIL SATELITTE DISH IS RE-ALIGNED."
+		"es"		"ERROR: CANNOT SPAWN KEYCARDS UNTIL SATELITTE DISH IS RE-ALIGNED."
+	}
+	"f79f8e98dcfe9adb297f835ab4cd7656"
+	{
+		"en"		"THE DISH HAS BEEN RE-ALIGNED. KEYCARD SPAWNER ENABLED"
+		"es"		"THE DISH HAS BEEN RE-ALIGNED. KEYCARD SPAWNER ENABLED"
+	}
+	"90f04192e6628f780c069417d9d17ff5"
+	{
+		"en"		"I want a map secret dedicated to me smh - BENAR, 2018"
+		"es"		"I want a map secret dedicated to me smh - BENAR, 2018"
+	}
+	"e3ea58a63bb32f8e942c7e94852de60e"
+	{
+		"en"		"The dish is being realigned! Success!"
+		"es"		"The dish is being realigned! Success!"
+	}
+	"fd295d87244127ad54de426816945aec"
+	{
+		"en"		"The Satelitte Dish Button has been unlocked."
+		"es"		"The Satelitte Dish Button has been unlocked."
+	}
+	"d7b7422d2fc47d4dd0d0d17db67c3ed5"
+	{
+		"en"		"DISH REALIGNMENT BUTTON LOCKED. Find the Satelitte computer to unlock this button. Should be somewhere in a laboratory...."
+		"es"		"DISH REALIGNMENT BUTTON LOCKED. Find the Satelitte computer to unlock this button. Should be somewhere in a laboratory...."
+	}
+	"afc10e58e790de34533560bf227f67be"
+	{
+		"en"		"Does this Orange even do anything? - SanicBear, 2018"
+		"es"		"Does this Orange even do anything? - SanicBear, 2018"
+	}
+	"5717004cd974a71554391e802d13e9cf"
+	{
+		"en"		"Howsen's room is locked... It is protected by the reactor. Turn it off! You also need to get the satelitte working."
+		"es"		"Howsen's room is locked... It is protected by the reactor. Turn it off! You also need to get the satelitte working."
+	}
+	"6043649bd1d19eb6e26577ae06513c5f"
+	{
+		"en"		"A keycard has been found."
+		"es"		"A keycard has been found."
+	}
+	"69ce7f599536d9e395158dc4f40e61a4"
+	{
+		"en"		"To activate the Drill, you need to take out eight cameras."
+		"es"		"To activate the Drill, you need to take out eight cameras."
+	}
+	"514086a17ffc6929099b43f18caf2a20"
+	{
+		"en"		"The Security System has been Deactivated."
+		"es"		"The Security System has been Deactivated."
+	}
+	"e2bbf3bba01b03cfe3215fe9a0db9639"
+	{
+		"en"		"YOU NEED A WHITE KEY CARD TO GAIN ACCESS TO THIS ARMORY !!!"
+		"es"		"YOU NEED A WHITE KEY CARD TO GAIN ACCESS TO THIS ARMORY !!!"
+	}
+	"55afd1ca61860dc9d693d16c9b6da41f"
+	{
+		"en"		"THERE IS NOT MUCH AIR OUTSIDE. IF YOU GO TOO HIGH, YOU WILL DIE!!!"
+		"es"		"THERE IS NOT MUCH AIR OUTSIDE. IF YOU GO TOO HIGH, YOU WILL DIE!!!"
+	}
+	"669e88ab1ecdf9ddcf49561e2abb0731"
+	{
+		"en"		"Welcome to nmo_moonarbase!"
+		"es"		"Welcome to nmo_moonarbase!"
+	}
+}

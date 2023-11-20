@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"e08567d05ab676891d09a35112baaa9c"
+	{
+		"en"		"You need to work quickly, before all the runners show up"
+		"es"		"Necesitas trabajar rápido antes de que llegue la horda de corredores"
+	}
+	"e8a6901ce0be7d893c69332aa412e428"
+	{
+		"en"		"The gate alarm went off, this is gonna draw a lot of unwanted attention..."
+		"es"		"La alarma de la reja se activó, esto va a atraer mucha atención no deseada..."
+	}
+	"eca66c2a8087f23eb76fe9c48714e067"
+	{
+		"en"		"Maybe try and search that other house?"
+		"es"		"Quizás deberías buscar en esa otra casa?"
+	}
+	"3bf9d37522a2ee6f6cd70a07f12c48a7"
+	{
+		"en"		"You don't have enough gas, try and find a pipe to siphon some gas with"
+		"es"		"No tienes suficiente gasolina, intenta encontrar una manguera"
+	}
+	"08b8a90fa15d2d877bbd761525d427e4"
+	{
+		"en"		"The gas can is full! head to the military truck and fill it up"
+		"es"		"¡La lata de gasolina está llena! Dirígete al camión militar y llénalo"
+	}
+	"671487dda3c060e02741a7cbecf763a2"
+	{
+		"en"		"The gas can is only half full! Siphon gas from another car"
+		"es"		"¡La lata de gasolina solo está llena hasta la mitad! Encuentra otro auto para extraer más"
+	}
+	"dde456d3415a3fa71e23038476c3b4f4"
+	{
+		"en"		"Use the pipe and siphon the gas from your car back at the roadblock"
+		"es"		"Vuelve al bloqueo de tráfico y usa la manguera para extraer combustible de tu auto"
+	}
+	"2f9765ce35466427e777be5ee1fb6af4"
+	{
+		"en"		"Find a pipe to siphon more gas"
+		"es"		"Encuentra una manguera para extraer mas gasolina"
+	}
+	"7024a899791463ac277471dfcde79841"
+	{
+		"en"		"Find some pliers to cut open the gate lock in order to access the other house"
+		"es"		"Encuentra una pinza para quitar el candado de la reja y poder acceder a la otra casa."
+	}
+	"216418ec835ab8f7fd2ce104b780ce04"
+	{
+		"en"		"Now you need another vehicle to get out of here, find some gas for the military truck"
+		"es"		"Ahora necesitas otro vehículo para escapar, encuentra gasolina para el camión militar"
+	}
+	"06fb22455daf9570afa7509e4b3caf11"
+	{
+		"en"		"Stock up"
+		"es"		"Toma suministros"
+	}
+	"6ae996b49d7fd4ba0df7ac2359e8ca2c"
+	{
+		"en"		"Find the keys to the weapon stock"
+		"es"		"Encuentra las llaves del galpón de armas"
+	}
+	"4fd17ee238f0d1ef6d2a7bc9746ffea6"
+	{
+		"en"		"Looks like the people here didn't make it, look around for anything useful"
+		"es"		"Parece que la gente aquí no sobrevivió, explora en busca de algo útil"
+	}
+	"06d20c2dbcea3be80ce9d443c4da3c11"
+	{
+		"en"		"The road is blocked, find another way around"
+		"es"		"La calle esta bloqueada, encuentra otro camino"
+	}
+}

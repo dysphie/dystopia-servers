@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"3e0d1be70625b7bfab2ce3eeaffec38e"
+	{
+		"en"		"Survive until the military carries out an air strike on the bridge"
+		"es"		"Sobrevive hasta que los aviones militares bombardeen el puente"
+	}
+	"f0f569247e0b0c60665f22d30464c484"
+	{
+		"en"		"Answer the radio, prepare to fight the horde"
+		"es"		"Responde a la radio, prepárate para luchar contra la horda."
+	}
+	"f7540710952c950a77527607bddfca97"
+	{
+		"en"		"Place a smoke bomb on each side of the bridge to avoid friendly fire"
+		"es"		"Coloca una bomba de humo a cada lado del puente para indicar tu ubicación."
+	}
+	"c07e1899889d34cf34b2e325c0144fcd"
+	{
+		"en"		"Use the military radio"
+		"es"		"Usa la radio militar"
+	}
+	"6a5f04df8f83cb2207c1c479d3cda8cd"
+	{
+		"en"		"Cross the bridge and make it to the control point"
+		"es"		"Cruza el puente y llega al puesto de control."
+	}
+	"bb8016c7fabb9e31f72612893654129b"
+	{
+		"en"		"Go to the bridge"
+		"es"		"Ve al puente"
+	}
+	"f4db0350263949d70ebd611e3a6a7fad"
+	{
+		"en"		"Grab TNT and blow up the wall"
+		"es"		"Toma la dinamita y destruye la pared"
+	}
+	"5b03dabf3aa52a050b0e9673d893fe64"
+	{
+		"en"		"Go to the gun shop"
+		"es"		"Ve a la tienda de armas"
+	}
+	"9c8ba21341cc606b0e4c4b57ab139682"
+	{
+		"en"		"The current is too strong, close the drain via control panel"
+		"es"		"El flujo de agua es muy fuerte, ve a la consola para cerrar el desagüe."
+	}
+	"4aa8af5559582d22f2640b03b1c37e57"
+	{
+		"en"		"Weld open the storage room door"
+		"es"		"Usa un soldador para abrir la puerta del depósito."
+	}
+	"d0d0bcfa512dbacb82a5cb4b9c75d65d"
+	{
+		"en"		"Search the sewers for clues"
+		"es"		"Explora las alcantarillas en busca de pistas."
+	}
+	"db398bbd73a87717feb10f4fc1194cb3"
+	{
+		"en"		"The military's air strike is coming, search for the key and head to the sewer"
+		"es"		"Se acerca el ataque aéreo militar, encuentra la llave, ve a las alcantarillas."
+	}
+	"03acfaeef4da227136e8418187a67fd9"
+	{
+		"en"		"Find a battery to restore radio signal"
+		"es"		"Encuentra la batería, restaura la señal de radio."
+	}
+	"96df81a6415007cb91ff325b31069594"
+	{
+		"en"		"Use a crowbar to pry the door open"
+		"es"		"Encuentra la palanca y abre la puerta."
+	}
+	"78936482dc56edc16bff77add70811bb"
+	{
+		"en"		"Search for the military's trail"
+		"es"		"Busca rastros de los militares"
+	}
+	"0174d1e54d2f880c11557270ccfe1989"
+	{
+		"en"		"Go to the street"
+		"es"		"Ve a la calle"
+	}
+	"43e7cc45e8c31292921c4bd7ffb989cf"
+	{
+		"en"		"If you succeed, we will send helicopters to pick you up. Good luck"
+		"es"		"Si lo consigues, enviaremos helicópteros a rescatarte. Buena suerte."
+	}
+	"416f434ea29192d345d0f5dfd82c8dcb"
+	{
+		"en"		"What? There are people at the bridge?"
+		"es"		"¿Qué? ¿Hay alguien más en el puente?"
+	}
+	"c75407e61ee3d24c6a9396a230eab717"
+	{
+		"en"		"Good, we need you to help us defend it"
+		"es"		"Bien, necesitamos tu ayuda para defenderlo"
+	}
+	"2bbd8549a463c051effb012399ad7e5c"
+	{
+		"en"		"until our fighter jets arrive and blow it up"
+		"es"		"hasta que lleguen nuestros aviones bombardeen el puente"
+	}
+	"c9b2f14d529d6a8cf231c32cac0f320d"
+	{
+		"en"		"You have to place several smoke bombs to indicate your position and prevent friendly fire"
+		"es"		"Tienes que colocar varias bombas de humo para indicar tu posición para evitar fuego amigo"
+	}
+}

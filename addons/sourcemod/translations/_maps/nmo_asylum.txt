@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"bf7d04f3c2d3e7946662a1cf761a10d7"
+	{
+		"en"		"#nmo_asylum_Objective_Summon_Alt2"
+		"es"		"#nmo_asylum_Objective_Summon_Alt2"
+	}
+	"e6ccb19d04987bcc63bfb27683dbb5a6"
+	{
+		"en"		"#nmo_asylum_Objective_StandBack"
+		"es"		"#nmo_asylum_Objective_StandBack"
+	}
+	"efb21918996dabb72a02b066949f457e"
+	{
+		"en"		"#nmo_asylum_Objective_Lobby_NoWeld"
+		"es"		"#nmo_asylum_Objective_Lobby_NoWeld"
+	}
+	"701ace8f58f14daa3384ac161b40d880"
+	{
+		"en"		"#nmo_asylum_Objective_Traverse"
+		"es"		"#nmo_asylum_Objective_Traverse"
+	}
+	"45a41dbb13dc720a26aa7b930be7fd96"
+	{
+		"en"		"#nmo_asylum_Objective_Lobby_1"
+		"es"		"#nmo_asylum_Objective_Lobby_1"
+	}
+	"f5f039370b1bf3fafd298be7ec664afb"
+	{
+		"en"		"#nmo_asylum_Objective_Drop"
+		"es"		"#nmo_asylum_Objective_Drop"
+	}
+	"ce121bc10277daea4fef2ed48049fee8"
+	{
+		"en"		"#nmo_asylum_Objective_Goto_Attic"
+		"es"		"#nmo_asylum_Objective_Goto_Attic"
+	}
+	"178e99cac0accb6a1a9959b4a249bb67"
+	{
+		"en"		"#nmo_asylum_Objective_Evac"
+		"es"		"#nmo_asylum_Objective_Evac"
+	}
+	"d8c66e8dd6e2942ea6d8075ddff3ed8e"
+	{
+		"en"		"#nmo_asylum_Objective_Intro"
+		"es"		"#nmo_asylum_Objective_Intro"
+	}
+	"ab56aca4ac11c5038e2c34b4b75a6fae"
+	{
+		"en"		"#nmo_asylum_Objective_Defend"
+		"es"		"#nmo_asylum_Objective_Defend"
+	}
+	"9d6ef0651d2e595b5be38a3ee6f16a67"
+	{
+		"en"		"#nmo_asylum_Objective_Summon"
+		"es"		"#nmo_asylum_Objective_Summon"
+	}
+	"b9869059d67c505cdc8514a4b5ce0256"
+	{
+		"en"		"#nmo_asylum_Objective_Summon_Alt"
+		"es"		"#nmo_asylum_Objective_Summon_Alt"
+	}
+	"d57cc7577bd4dbc6a0f4281b07063c02"
+	{
+		"en"		"#nmo_asylum_Objective_Court"
+		"es"		"#nmo_asylum_Objective_Court"
+	}
+	"36bab66f2ab9831290289e4c8f07f034"
+	{
+		"en"		"#nmo_asylum_Objective_Attic"
+		"es"		"#nmo_asylum_Objective_Attic"
+	}
+	"b1684a8d47419a74b3d05de1f2e06a7e"
+	{
+		"en"		"#nmo_asylum_Objective_Power"
+		"es"		"#nmo_asylum_Objective_Power"
+	}
+	"628db243cda30e47239b1ff2287db935"
+	{
+		"en"		"#nmo_asylum_Objective_Bomb"
+		"es"		"#nmo_asylum_Objective_Bomb"
+	}
+	"edbd9b35b16dc232bfc327b784eeebf1"
+	{
+		"en"		"#nmo_asylum_Objective_Welder"
+		"es"		"#nmo_asylum_Objective_Welder"
+	}
+	"54149627205b86e5d3a4016338a6f9f2"
+	{
+		"en"		"#nmo_asylum_Objective_Room_Key"
+		"es"		"#nmo_asylum_Objective_Room_Key"
+	}
+	"8b52e305865f05730e04f75f6841d021"
+	{
+		"en"		"#nmo_asylum_Objective_Wet_Key"
+		"es"		"#nmo_asylum_Objective_Wet_Key"
+	}
+	"607b6df6e85f1791008fd0e3f35be589"
+	{
+		"en"		"#nmo_asylum_Objective_Drain"
+		"es"		"#nmo_asylum_Objective_Drain"
+	}
+}

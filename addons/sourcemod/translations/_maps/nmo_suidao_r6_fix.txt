@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"dea4317ad1a32d5d775865acb68bc9e9"
+	{
+		"en"		"Extinguish the remaining flames and evacuate before the doors close"
+		"es"		"Apaga el fuego restante y escapa antes de que se cierren las puertas"
+	}
+	"f8c973f2a21333d135bc4e819f414294"
+	{
+		"en"		"Open the isolation gate"
+		"es"		"Abre la puerta de aislamiento"
+	}
+	"dbb9e8e38ab361465bc8bd4866e6ed2d"
+	{
+		"en"		"Find a head to open the security door"
+		"es"		"Encuentra una cabeza para abrir la puerta de seguridad"
+	}
+	"669aebf474a19625c12fb2499c8a9c66"
+	{
+		"en"		"Put out the fire on three oil tankers within fifteen minutes"
+		"es"		"Apaga el fuego de los tres camiones cisterna antes de que pasen 15 minutos"
+	}
+	"05b10e4e537c8c519f521051ea823437"
+	{
+		"en"		"Explore forward, extinguish flames, escape the tunnel."
+		"es"		"Explora hacia adelante, apaga las llamas, escapa del túnel."
+	}
+	"8778456c1f78933b7a890414a9adb874"
+	{
+		"en"		"Use C4 to clear the roadblock, the activation code is 7355608"
+		"es"		"Usa un C4 para despejar el camino. El código de activación es 7355608"
+	}
+	"404f2a80ded492ed531261dc290dbfba"
+	{
+		"en"		"Push the van that's obstructing the road"
+		"es"		"Mueve la furgoneta que bloquea el camino"
+	}
+	"af5f3c5bf7ba498f8c3c63b6bd3ea3c5"
+	{
+		"en"		"Destroy the wooden barricade"
+		"es"		"Destruye la barricada de madera"
+	}
+	"6c8e4ee1f4a8bb9f1c5e4126e165a4cc"
+	{
+		"en"		"Use explosives to destroy the roadblock."
+		"es"		"Usa explosivos para destruir el bloqueo"
+	}
+	"354b918e907129e58d4e51b6fc06ce93"
+	{
+		"en"		"Runners inbound"
+		"es"		"Corredores llegando"
+	}
+	"4a141f71af431e22521f525bad7ec74b"
+	{
+		"en"		"Runners Wave Countdown"
+		"es"		"Ola de corredores"
+	}
+	"4968afc9915c1b88899425077282ef45"
+	{
+		"en"		"Map by Wuxin | 2023.04.15 suidao_r6"
+		"es"		"Mapa por Wuxin | 2023.04.15 suidao_r6"
+	}
+	"c4b53b2884c77eb248cb46cd46c9b1e9"
+	{
+		"en"		"Find an extinguisher"
+		"es"		"Encuentra un extintor"
+	}
+}

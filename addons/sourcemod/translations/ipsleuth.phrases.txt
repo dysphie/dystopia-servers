@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"Menu Title"
+	{
+		"#format"	"{1:s}"
+		"en"	"Matches for \"{1}\""
+		"es"	"Resultados para \"{1}\""
+	}
+
+	"No Results For Name"
+	{
+		"#format"	"{1:s}"
+		"en"	"No results for \"{1}\""
+		"es"	"No hay resultados para \"{1}\""
+	}
+	"Potential Accounts"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{lightpink}Possible recent accounts of {hotpink}{1}{lightpink}: {hotpink}{2} "
+		"es"	"{lightpink}Posibles cuentas recientes de {hotpink}{1}{lightpink}: {hotpink}{2} "
+	}
+
+	"Disclaimer"
+	{
+		"#format" "{1:d}"
+		"en" "{orange}Data for the last {1} days. May include false positives."		
+		"es" "{orange}Mostrando los últimos {1} días. Puede contener falsos positivos."
+	}
+
+	"Account Name"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1}"
+	}
+
+
+}

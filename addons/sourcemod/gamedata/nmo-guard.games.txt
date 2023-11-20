@@ -1,0 +1,209 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Addresses"
+		{
+			"CNMRiH_ObjectiveManager"
+			{
+				"windows"
+				{
+					"signature" "ObjectivesParser::ParseObjectives"				
+					"read" "10"	
+				}
+
+				"linux"
+				{
+					"signature" "g_ObjectiveManager"
+				}
+			}
+		}
+
+		"Offsets"
+		{
+			"IsLinux"
+			{
+				"windows" "0"
+				"mac"	"0"
+				"linux" "1"
+			}
+			
+			"CBaseEntity::GetDataDescMap"
+			{
+				"windows" "11"
+				"linux" "12"
+			}
+
+			"datamap_t::dataDesc"
+			{
+				"windows" "0"
+				"linux" "0"
+			}
+
+			"datamap_t::baseMap"
+			{
+				"windows" "12"
+				"linux" "12"
+			}
+
+			"datamap_t::dataNumFields"
+			{
+				"windows" "4"
+				"linux" "4"
+			}
+
+			"typedescription_t::fieldName"
+			{
+				"windows" "4"
+				"linux" "4"
+			}
+
+			"typedescription_t::externalName"
+			{
+				"windows" "20"
+				"linux" "20"
+			}
+
+			"typedescription_t::fieldOffset"
+			{
+				"windows" "8"
+				"linux" "8"
+			}
+
+			"typedescription_t::flags"
+			{
+				"windows" "18"
+				"linux" "18"
+			}
+
+			"sizeof typedescription_t"
+			{
+				"windows" "52"
+				"linux" "56"
+			}
+
+			"CBaseEntityOutput::m_ActionList"
+			{
+				"windows" "20"
+				"linux" "20"
+			}
+
+
+			"CEventAction::m_iTarget"
+			{
+				"windows" "0"
+				"linux" "0"
+			}
+
+			"CEventAction::m_iTargetInput"
+			{
+				"windows" "4"
+				"linux" "4"
+			}
+
+			"CEventAction::m_iParameter"
+			{
+				"windows" "8"
+				"linux" "8"
+			}
+
+			"CEventAction::m_flDelay"
+			{
+				"windows" "12"
+				"linux" "12"
+			}
+
+			"CEventAction::m_nTimesToFire"
+			{
+				"windows" "16"
+				"linux" "16"
+			}
+
+			"CEventAction::m_iIDStamp"
+			{
+				"windows" "20"
+				"linux" "20"
+			}
+
+			"CEventAction::m_pNext"
+			{
+				"windows" "24"
+				"linux" "24"
+			}
+
+			"Objective::m_iId"
+			{
+				"windows"	"0"
+				"linux"		"0"
+			}
+
+			"UtlVector::m_pElements"
+			{
+				"windows"	"0"
+				"linux"		"0"
+			}
+
+			"UtlVector::m_Size"
+			{
+				"windows"	"12"
+				"linux"		"12"
+			}
+
+			"CNMRiH_ObjectiveManager::_currentObjectiveIndex"
+			{
+				"windows"	"112"
+				"linux"		"112"
+			}
+
+			"CNMRiH_ObjectiveManager::_currentObjective"
+			{
+				"windows"	"120"
+				"linux"	"120"
+			}
+
+			"CNMRiH_ObjectiveManager::_objectiveChain"
+			{
+				"windows"	"88"
+				"linux"	"88"
+			}
+		}
+
+		"Signatures"
+		{
+			"CBasePlayer::CanPickupObject"
+			{
+				"library"	"server"
+				"linux"		"@_ZN11CBasePlayer15CanPickupObjectEP11CBaseEntityff"
+				"windows"	"\x55\x8B\xEC\xB8\x08\x10\x00\x00\xE8\x2A\x2A\x2A\x2A\x57\x8B\x7D"
+			}
+
+			"CNMRiH_ObjectiveBoundary::Finish"
+			{
+				"library"	"server"
+				"linux"		"@_ZN24CNMRiH_ObjectiveBoundary6FinishEv"
+				"windows"	"\x55\x8B\xEC\x51\x56\x57\x8B\xF9\xC6\x45\xFF\x00\x8D\x4D\xFF\x8A\x87\xC8\x03\x00\x00"
+			}
+
+			"CNMRiH_ObjectiveManager::StartNextObjective"
+			{
+				"library"	"server"
+				"linux"		"@_ZN23CNMRiH_ObjectiveManager18StartNextObjectiveEv"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x2C\x53\x56\x57\x8B\xF9\x89\x7D\xF8"
+			}
+
+			/* Used to find g_ObjectiveManager on Windows */
+			"ObjectivesParser::ParseObjectives"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x81\xEC\x40\x01\x00\x00\xB9\x2A\x2A\x2A\x2A\xE8"
+			}
+
+			/* Used to find g_ObjectiveManager on Linux */
+			"g_ObjectiveManager"
+			{
+				"library"	"server"
+				"linux"		"@g_ObjectiveManager"
+			}
+		}
+	}
+}

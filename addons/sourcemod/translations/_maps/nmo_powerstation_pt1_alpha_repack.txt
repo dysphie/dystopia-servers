@@ -1,0 +1,118 @@
+"Phrases"
+{
+	"8de08093b83c7b63d942510d55279310"
+	{
+		"en"		"Regroup and rest.  Soon we'll push on to the reactor room.  (Change map to nmo_powerstation_pt2 - COMING SOON)"
+		"es"		"Reagrupémonos y descansamos. Pronto avanzaremos hacia la sala del reactor. (Cambiar mapa a nmo_powerstation_pt2 - PRÓXIMAMENTE)"
+	}
+	"2e9bba608d9205adc523d54d141acc3d"
+	{
+		"en"		"Push foward and close the doors where the zombies are coming from...we need to rest!"
+		"es"		"Empuja hacia adelante y cierra las puertas de donde vienen los zombies... ¡necesitamos descansar!"
+	}
+	"1ee0ec88476d4846fd8046c09dc6ccce"
+	{
+		"en"		"Survive!"
+		"es"		"¡Sobrevive!"
+	}
+	"fa19b2bb56d747f8745ba73bd0fc09ad"
+	{
+		"en"		"Get to the control panel upstairs to open the big door."
+		"es"		"Ve al panel de control de arriba para abrir la puerta grande."
+	}
+	"1ac6bf1f5504f6882e9dc36d6ff36930"
+	{
+		"en"		"Find the keycard to open the office doors."
+		"es"		"Encuentra la tarjeta para abrir las puerta de las oficinas."
+	}
+	"11a160f87c84ab572c784439ec5fbe66"
+	{
+		"en"		"Press the call button and survive until the elevator gets there."
+		"es"		"Llama al ascensor y espera a que llegue."
+	}
+	"9a7acd5b09e4788d219cf9b070268619"
+	{
+		"en"		"Find two fuses to turn on the elevator."
+		"es"		"Encuentra dos fusibles para encender el ascensor."
+	}
+	"791c65b3a31704962791202b3f165c50"
+	{
+		"en"		"Use the torches to cut the locks, then prime the cooling pumps for reactivation."
+		"es"		"Suelda los candados y arranca las bombas de refrigeración."
+	}
+	"969e5e61b80c522cbf40203f8246487c"
+	{
+		"en"		"Find a way into the pump room."
+		"es"		"Encuentra una manera de entrar al cuarto de bombas."
+	}
+	"aea7502e164f4b38c23be81a7dc2e165"
+	{
+		"en"		"Get to the lower levels through door B3.  On the way, close doors B1, B2, and B4."
+		"es"		"Baja de piso por la puerta B3 y cierra las puertas B1, B2 y B4."
+	}
+	"c3896dc0e8fbb73f1def976dc146caa8"
+	{
+		"en"		"Press the button to open door B3."
+		"es"		"Apreta el botón para abrir la puerta B3."
+	}
+	"77945bb01f7a65936e80361fbe1d58b6"
+	{
+		"en"		"Find a way into the security control room."
+		"es"		"Encuentra una entrada a la sala de seguridad."
+	}
+	"98f3f760011b30c5fb57346fd9e20655"
+	{
+		"en"		"Go through door A1 and use the security override keypad.  The code is 1776."
+		"es"		"Ve por la puerta A1 y usa el teclado numérico de seguridad. El código es 1776."
+	}
+	"29b6b99b828820a9e731dba7b068c22c"
+	{
+		"en"		"Button can be pressed in 20 seconds, get ready."
+		"es"		"Los botones se desbloquearán en 20 segundos, prepárate."
+	}
+	"d8e2abaa69ce7199f459f4c6de244840"
+	{
+		"en"		"Break the hatch, it won't open........Touch the machine gun to use it."
+		"es"		"Rompe la escotilla, no abre... Toca la ametralladora para usarla."
+	}
+	"36a8a51ea1ea886d111261a18436c821"
+	{
+		"en"		"SHOOT Left Mouse; CHANGE VIEW Right Mouse; EXIT Jump - Use Key - S"
+		"es"		"DISPARAR Click izquierdo; CAMBIAR VISTA Click derecho; SALIR Salto - Use Key - S"
+	}
+	"1f268b7a355196d08632ecc47625f855"
+	{
+		"en"		"Machine Gun is out of ammo"
+		"es"		"La ametralladora se ha quedado sin munición."
+	}
+	"db4a7c8d1f541e3e9c6ebf70f92420ed"
+	{
+		"en"		"The gas is coming up through the elevator shaft.  Stay out of the offices."
+		"es"		"El gas está subiendo por el hueco del ascensor. Manténganse fuera de las oficinas."
+	}
+	"81c6bfc888e986e09b2894915951123f"
+	{
+		"en"		"We need to prime the pumps before moving on."
+		"es"		"Necesitamos arrancar las bombas antes de avanzar."
+	}
+	"ad9ac3d44a4bfe5fb2f58523545ba0ed"
+	{
+		"en"		"The gas is poisonous.  The elevator leaves in 20 seconds."
+		"es"		"El gas es venenoso. El ascensor partirá en 20 segundos."
+	}
+	"93209f235a5ab1afaa5ed51fa411e04b"
+	{
+		"en"		"Close door B1, B2, and B4 to proceed."
+		"es"		"Cierra las puertas B1, B2 y B4 para proceder."
+	}
+	"4259c0d78e5190de91adf0ce5c9c2fae"
+	{
+		"en"		"We may be able to use this keycard again...in part 2."
+		"es"		"Es posible que podamos usar esta tarjeta de acceso nuevamente... en la segunda parte."
+	}
+	"5f28f0ee4a9f63ece0f6d4636d7ea304"
+	{
+		"en"		"Damn, the keypad is busted....We'll have to use the retinal scanner."
+		"es"		"Mierda, el teclado está estropeado... Tendremos que usar el escáner de retina."
+	}
+}

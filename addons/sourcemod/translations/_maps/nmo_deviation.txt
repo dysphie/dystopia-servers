@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"34d0b7572b8878e811e9f0a37ec4537f"
+	{
+		"en"		"Get to the helicopter and escape!"
+		"es"		"Ve al helicóptero y escapa!"
+	}
+	"4237d1ac4ed043d2bbac6fd7a0dd0f75"
+	{
+		"en"		"Refuel the helicopter. It will require two minutes of filling to be able to take off!"
+		"es"		"Reabastece el helicóptero. Va a requerir dos minutos para que pueda arrancar"
+	}
+	"f9189ccc5caf34887ac93cff03f34eae"
+	{
+		"en"		"Fire the tank and breach into the military base"
+		"es"		"Dispara con el tanque para irrumpir en la base militar"
+	}
+	"19bbcd8dcf8700952f4c2cb71171653f"
+	{
+		"en"		"Load the tank with a rocket"
+		"es"		"Coloca munición en el tanque"
+	}
+	"15d87c5a390e062c9161f08ad3735b66"
+	{
+		"en"		"Turn on the turbine to lift the water gate"
+		"es"		"Enciende la turbina para levantar la compuerta del agua"
+	}
+	"8e3e191bfd10125b8ecd53870e90a87c"
+	{
+		"en"		"Descend into the sewers and reach the other side of the town"
+		"es"		"Desciende por las alcantarillas y llega al otro lado de la ciudad."
+	}
+	"54832acbb1ac7223975975e8318be216"
+	{
+		"en"		"Use the hoist to access the offices and leave the building"
+		"es"		"Usa el elevador para acceder a las oficinas y salir del depósito."
+	}
+	"831d0c882fb42a624e2d6351655b77f7"
+	{
+		"en"		"Search nearby shelves for 3 fuses and use them to re-power the hoist"
+		"es"		"Encuentra 3 fusibles en los estantes del depósito para encender el elevador"
+	}
+	"dd1b3b605f1d65d3033f3ff4fa7878c3"
+	{
+		"en"		"Enter the building and find a way to cross it"
+		"es"		"Entra al depósito y encuentra una manera de cruzarlo"
+	}
+	"e0272b0b282487e4abf41a3311290eb0"
+	{
+		"en"		"Bring electricity back to the gates"
+		"es"		"Restablece la electricidad de los portones"
+	}
+	"cc4ed1ee68cc5ea168d8925fb916d377"
+	{
+		"en"		"Find a car battery and some gasoline to fuel the generator"
+		"es"		"Encuentra una batería y gasolina para encender el generador"
+	}
+	"be4afbc1d44151c774b3956e9f6a335d"
+	{
+		"en"		"Find a way to enter the freight company building"
+		"es"		"Encuentra una manera de irrumpir en el depósito de la empresa de transporte"
+	}
+	"c47c7ffc68119ee01bf5b042e448c8cc"
+	{
+		"en"		"Retrieve the key and use it to open the lock"
+		"es"		"Encuentra una llave y úsala para abrir el candado"
+	}
+	"049b1daf841df95dff157920e2abafbe"
+	{
+		"en"		"Find a welder and use it to destroy the lock"
+		"es"		"Encuentra un soldador y úsalo para abrir la reja"
+	}
+	"594083e94b181e8eddb430ba0ce2a835"
+	{
+		"en"		"Make your way into town"
+		"es"		"Sigue el camino hasta llegar al pueblo"
+	}
+}

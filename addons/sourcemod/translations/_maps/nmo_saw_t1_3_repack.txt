@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"c19e67b984f07d4525dda28eb72ae17a"
+	{
+		"en"		"We need a player to step into the boiler"
+		"es"		"Necesitamos que un jugador entre a la caldera"
+	}
+	"7a224e1a297fced0f1afee68f98c2bee"
+	{
+		"en"		">-Map by TaskuVaras-<"
+		"es"		">-Mapa por TaskuVaras-<"
+	}
+	"17b8a4eb8a3b7984e4de26ff20324a5b"
+	{
+		"en"		">-Ported by Fong-<"
+		"es"		">-Adaptado por Fong-<"
+	}
+	"2c5bb5a42329e6843c093009dffcc01e"
+	{
+		"en"		"Enter the blast door"
+		"es"		"Entra por la puerta blindada"
+	}
+	"c2e68a81a46fe11dff5be1180d30fa5e"
+	{
+		"en"		"Get out of here"
+		"es"		"Sal de aquí"
+	}
+	"b643d75fb3b2b4d5633ad7e56a467435"
+	{
+		"en"		"Destroy the pipes in the room"
+		"es"		"Rompe las tuberías en la cámara"
+	}
+	"73a72b7b789b447cc422194bc43eacc0"
+	{
+		"en"		"Forcibly stop the fans"
+		"es"		"Destruye los ventiladores"
+	}
+	"7d49abadfa8a8c78b75821991a408adb"
+	{
+		"en"		"The elevator stopped on the fourth floor, watch out for the barbed wire"
+		"es"		"El ascensor paró en el cuarto piso, cuidado con el alambre de púas"
+	}
+	"66021dff5a24d3acfdc559afe78f462e"
+	{
+		"en"		"Search for a key"
+		"es"		"Encuentra una llave"
+	}
+	"cd08f4000eabf6ccdd459b0513266c97"
+	{
+		"en"		"The elevator stopped on the third floor, try to open the door"
+		"es"		"El ascensor paró en el tercer piso, trata de abrir la puerta"
+	}
+	"153acc1d5cbd80aeaa0d35b23680ab9f"
+	{
+		"en"		"Open the iron gate"
+		"es"		"Abre la puerta de hierro"
+	}
+	"7b748f25ca8708f95d3a5fcfbd1c353b"
+	{
+		"en"		"Build a line of defense"
+		"es"		"Crea una línea de defensa"
+	}
+	"ad5226743b78a7d93c876123e32ce181"
+	{
+		"en"		"The elevator stopped on the first floor, keep going"
+		"es"		"El ascensor paró en el primer piso, sigue avanzando"
+	}
+	"48a1a9c09ad5b73dcd5e8ceb9b83385b"
+	{
+		"en"		"Go to the elevator and try to fix it"
+		"es"		"Ve al ascensor y trata de arreglarlo"
+	}
+	"e81b2f7027cda959bbcd43832da56a47"
+	{
+		"en"		"Open the gate"
+		"es"		"Abre la reja"
+	}
+	"4fea6cbbedc2c9bbba8d8712b1579ad7"
+	{
+		"en"		"Find a bomb to blow up the wall"
+		"es"		"Encuentra una bomba para destruir el muro"
+	}
+	"b10720d54217bb8632f05d1167535e1f"
+	{
+		"en"		"Bust A doors open"
+		"es"		"Destruye las puertas A"
+	}
+	"c31e2129e7023ba12e14829fc103dc64"
+	{
+		"en"		"Bust B doors open"
+		"es"		"Destruye las puertas B"
+	}
+	"65023630baa844394deac4525a224fa7"
+	{
+		"en"		"Find a way out"
+		"es"		"Encuentra una salida"
+	}
+	"02da1fe058f1bd515c18e50a6e5187c5"
+	{
+		"en"		"Map originally created for CSS Zombie Escape"
+		"es"		"Mapa originado en CSS Zombie Escape"
+	}
+	"2dc78e93c71a321605d1db2f2d8b902a"
+	{
+		"en"		"Thanks to PENGUIN S por helping with the port"
+		"es"		"Gracias a PENGUIN S por ayudar a adaptar el mapa"
+	}
+	"5a29572b663cad85807ea57edf0ea8cc"
+	{
+		"en"		"We need a player to donate blood to open the gate"
+		"es"		"Necesitamos que un jugador done sangre para abrir la reja"
+	}
+	"3897bee671d3e2edac7539486cb1ec7d"
+	{
+		"en"		"The elevator is coming, get in quickly!!"
+		"es"		"Ya viene el ascensor, entra rápido!!"
+	}
+	"6067d1025e564e9ad7227af310e2fede"
+	{
+		"en"		"Elevator has been called, hold for 3 minutes"
+		"es"		"Esperando al ascensor, aguanta por tres minutos"
+	}
+	"db051381a8644f596e9b3ea425ebb926"
+	{
+		"en"		"All players are required!!"
+		"es"		"¡Todos los jugadores deben estar presentes!"
+	}
+	"d8570a6f6375a287e0a341c1361034d9"
+	{
+		"en"		"The bomb has been placed!!"
+		"es"		"¡La bomba ha sido colocada!"
+	}
+	"d18d491c862189036d2c1a6a67b79220"
+	{
+		"en"		"The gates are starting to close!!"
+		"es"		"¡Las puertas se están cerrando!"
+	}
+	"79a6baa30db3bf1e8f4f96f5ec741cb2"
+	{
+		"en"		"All players must be in the room"
+		"es"		"Todos los jugadores deben entrar a la sala"
+	}
+	"3fed69ab1cbf08aea928429e662001d2"
+	{
+		"en"		"All players must be here!! Deploy barricades until the iron gate is unlocked!!"
+		"es"		"¡Todos los jugadores deben estar presentes! ¡Pon obstáculos hasta que se desbloquee la puerta de hierro!"
+	}
+	"939dc640793df133367d99d66f2eab42"
+	{
+		"en"		"Hurry, the spike bomb is about to go off"
+		"es"		"Rápido, la bomba de púas está a punto de explotar"
+	}
+	"2ea283dddcb3df5e8355d45354aa9b23"
+	{
+		"en"		"大门即将关闭！！"
+		"es"		"¡La puerta está a punto de cerrarse!"
+	}
+	"54b57c96c354d98272c4e1354a1c8ac2"
+	{
+		"en"		"铁门已经解锁，转动机关打开铁门"
+		"es"		"La puerta de hierro se ha desbloqueado, gira su mecanismo para abrirla"
+	}
+	"164cb58d2ef9e4b047f71677e1614d99"
+	{
+		"en"		"防爆门开始关闭！！"
+		"es"		"¡Las puertas blindadas se están cerrando!"
+	}
+}

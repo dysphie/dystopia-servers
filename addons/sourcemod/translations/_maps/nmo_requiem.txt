@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"3892d2c7cb2ada8698f53d1306662ef7"
+	{
+		"en"		"Restore power to the 6 generators"
+		"es"		"Restaura la electricidad de los 6 generadores."
+	}
+	"5af1906bf7a097daf5d07debede8304b"
+	{
+		"en"		"Requiem"
+		"es"		"Requiem"
+	}
+	"69f77d4c3e024841b2ca605eb0723a1c"
+	{
+		"en"		"all of which are marked with the Lambda symbol"
+		"es"		"los cuales están marcados con el símbolo Lambda"
+	}
+	"8519a97e222f76c0dbef85341a3c2133"
+	{
+		"en"		"The facility contains multiple generator/power switches..."
+		"es"		"La planta contiene multiples generadores e interruptores..."
+	}
+	"3a232518712c4e25f00c3022b4e1e6b5"
+	{
+		"en"		"Restore full power to the facility"
+		"es"		"Restaura toda la electricidad de la planta"
+	}
+}

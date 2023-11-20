@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"8f1af21f1e600011c1fcbdc93a61d570"
+	{
+		"en"		"Light a Signal Fire."
+		"es"		"Light a Signal Fire."
+	}
+	"b0d08821a414146ed100ad168b0da8e3"
+	{
+		"en"		"Make Your Way to the Safehouse."
+		"es"		"Make Your Way to the Safehouse."
+	}
+	"06ced8b37b8ab4ed9ccb1a644b8b652d"
+	{
+		"en"		"Burn Away the Obstruction."
+		"es"		"Burn Away the Obstruction."
+	}
+	"9dbac98f9ca8692c65e4b3cbda25c4a9"
+	{
+		"en"		"Breach the Barricade."
+		"es"		"Breach the Barricade."
+	}
+	"731b30b10b3da64b33b75b97fa08d33d"
+	{
+		"en"		"Hold Out Until Help Arrives."
+		"es"		"Hold Out Until Help Arrives."
+	}
+	"7fd2f9f6e35e26d94e58beca333d50dd"
+	{
+		"en"		"Survive."
+		"es"		"Survive."
+	}
+	"9458f887d6cb9d8dc28bd38dc6c272ab"
+	{
+		"en"		"Find a Key to Open the Door."
+		"es"		"Find a Key to Open the Door."
+	}
+	"9dd1ea3cbc8097cbdea3e0f01aa8d5dd"
+	{
+		"en"		"Use the Radio to Call for Help."
+		"es"		"Use the Radio to Call for Help."
+	}
+	"a80ab02203b3b6348aa5402064856694"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Signal"
+		"es"		"#nmo_boardwalk_Objectives_Signal"
+	}
+	"f0b5e6e910357a5a8faf60974614e0ff"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Gauntlet"
+		"es"		"#nmo_boardwalk_Objectives_Gauntlet"
+	}
+	"27bf8ede1666f5188c95392c9e0c4f5d"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Can"
+		"es"		"#nmo_boardwalk_Objectives_Can"
+	}
+	"39546f929b52a17378964e9fc4ebe554"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Propane"
+		"es"		"#nmo_boardwalk_Objectives_Propane"
+	}
+	"72425d0d2577b82644c8ae5b284b84d9"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Secure"
+		"es"		"#nmo_boardwalk_Objectives_Secure"
+	}
+	"5bf7593da10b83e44cef6cd9a52b4c9c"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Survive"
+		"es"		"#nmo_boardwalk_Objectives_Survive"
+	}
+	"814a055fefd27456365811214e121487"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Door"
+		"es"		"#nmo_boardwalk_Objectives_Door"
+	}
+	"2d6be9b96b687cf96485c7a2ac5b61cd"
+	{
+		"en"		"#nmo_boardwalk_Objectives_Radio"
+		"es"		"#nmo_boardwalk_Objectives_Radio"
+	}
+}

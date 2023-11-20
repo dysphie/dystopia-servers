@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"es"		"Mapa por HAMMERCORE"
+	}
+	"b4d85e23312804c0f1835ed91a8bfd1b"
+	{
+		"en"		"Help by MRBLAGUES"
+		"es"		"Ayudado por MRBLAGUES"
+	}
+	"9cf1f70404816907a611f9d9e56a92e5"
+	{
+		"en"		"Escape on the van at the train station's exit"
+		"es"		"Escapa en la camioneta a la salida de la estación."
+	}
+	"b2129ebf660a7b221fa2496f0adb009e"
+	{
+		"en"		"Find a walkie-talkie to call for help"
+		"es"		"Encuentra un walkie-talkie para pedir ayuda"
+	}
+	"32bda420ea5c5753779e62d451a42785"
+	{
+		"en"		"Go through the parking lot and find the key to the subway station"
+		"es"		"Ve por el estacionamiento y encuentra la llave de la estación del metro"
+	}
+	"79cffd5210ea26a0fc430e176f275f47"
+	{
+		"en"		"Find a keycard to open the parking lot gate"
+		"es"		"Encuentra una tarjeta de acceso para abrir la reja"
+	}
+	"f8fbad14d72fd2a672ea676f90ab5729"
+	{
+		"en"		"Find a ladder to climb into the vents"
+		"es"		"Encuentra una escalera para entrar al ducto"
+	}
+	"51208a4ca8ded741b496944c5c2a6d9c"
+	{
+		"en"		"Walk down the stairwell and find a way to skip past the barricade"
+		"es"		"Baja por las escaleras y busca un camino para saltear la barricada"
+	}
+	"ed6a34c02a7ce5852beadfb7afa916e3"
+	{
+		"en"		"Go to the elevator, find a way to exit the building"
+		"es"		"Ve hacia el elevador y encuentra una manera para escapar del edificio"
+	}
+}

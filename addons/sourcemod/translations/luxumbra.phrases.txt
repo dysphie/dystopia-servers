@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"Player Destroyed 23-Core"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"	"{limegreen}{1}{olive} disabled a core ({limegreen}{2}{olive}/{limegreen}23{olive})"
+		"es"	"{limegreen}{1}{olive} desactivó un núcleo ({limegreen}{2}{olive}/{limegreen}23{olive})"
+	}
+	"Something Destroyed 23-Core"
+	{
+		"#format"	"{1:d}"
+		"en"	"A core was disabled ({limegreen}{1}{olive}/{limegreen}23{olive})"
+		"es"	"Núcleo desactivado ({limegreen}{1}{olive}/{limegreen}23{olive})"
+	}
+	"Destroyed Left Side Core"
+	{
+		"#format"	"{1:N}"
+		"en"	"{limegreen}{1}{olive} disabled the {limegreen}left{olive} core"
+		"es"	"{limegreen}{1}{olive} desactivó el núcleo {limegreen}izquierdo"
+	}
+	"Destroyed Right Side Core"
+	{
+		"#format"	"{1:N}"
+		"en"	"{limegreen}{1}{olive} disabled the {limegreen}right{olive} core"
+		"es"	"{limegreen}{1}{olive} desactivó el núcleo {limegreen}derecho"
+	}
+	"Destroyed Central Core"
+	{
+		"#format"	"{1:N}"
+		"en"	"{limegreen}{1}{olive} disabled the {limegreen}central{olive} core"
+		"es"	"{limegreen}{1}{olive} desactivó el núcleo {limegreen}central"
+	}
+}

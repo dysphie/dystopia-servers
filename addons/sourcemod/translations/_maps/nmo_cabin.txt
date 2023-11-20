@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"9164658aaca23b38da41e634b4c8231d"
+	{
+		"en"		"Proceed through the underground."
+		"es"		"Proceed through the underground."
+	}
+	"856fe2129ca1ee31a9afaa381cc1e039"
+	{
+		"en"		"Find the car battery, power up the generator and call for help!"
+		"es"		"Find the car battery, power up the generator and call for help!"
+	}
+	"2becc85a0570d883add223e42bafc0e9"
+	{
+		"en"		"Reconnect the telegraph line."
+		"es"		"Reconnect the telegraph line."
+	}
+	"1a6fed3153fedc9d2cde889237ede069"
+	{
+		"en"		"Weld through the kitchen door."
+		"es"		"Weld through the kitchen door."
+	}
+	"77ccdbe326e764b8f0b1891abe60b9e9"
+	{
+		"en"		"Enter the book into the shelf."
+		"es"		"Enter the book into the shelf."
+	}
+	"1823b80b619be0043750ae3477a1e25c"
+	{
+		"en"		"Blast through cabin wall."
+		"es"		"Blast through cabin wall."
+	}
+	"72fc700fbcc1e25db19ed308a405d6c6"
+	{
+		"en"		"Release stair gate."
+		"es"		"Release stair gate."
+	}
+	"5c5e7cb34f703447af925ae211c1e0fa"
+	{
+		"en"		"Family is the answer, find the secret book."
+		"es"		"Family is the answer, find the secret book."
+	}
+	"7df9626347dd3af11703457e6fa29031"
+	{
+		"en"		"Break planks to proceed."
+		"es"		"Break planks to proceed."
+	}
+	"dc1d2ed897954681df169fc2c4459f4e"
+	{
+		"en"		"Find keys to unlock door."
+		"es"		"Find keys to unlock door."
+	}
+	"cc1ef8ac76c5b618dacf2b1d99518b2b"
+	{
+		"en"		"Break out of the attic."
+		"es"		"Break out of the attic."
+	}
+	"2f3f5f65d497488e1719ba48a4245a82"
+	{
+		"en"		"#nmo_cabin_ObjG2"
+		"es"		"#nmo_cabin_ObjG2"
+	}
+	"e4191026745ce4a05e93c6966b83b326"
+	{
+		"en"		"#nmo_cabin_ObjI"
+		"es"		"#nmo_cabin_ObjI"
+	}
+	"688698caec6c0c07993ba4237535e585"
+	{
+		"en"		"#nmo_cabin_ObjH"
+		"es"		"#nmo_cabin_ObjH"
+	}
+	"272a0cc277fee193bef33f3ffa7ece80"
+	{
+		"en"		"#nmo_cabin_ObjG"
+		"es"		"#nmo_cabin_ObjG"
+	}
+	"6244663ea3a03d0a9e2d6e18ce23f4ca"
+	{
+		"en"		"#nmo_cabin_ObjF"
+		"es"		"#nmo_cabin_ObjF"
+	}
+	"3117944206e4fa101007cfec0145b9e7"
+	{
+		"en"		"#nmo_cabin_ObjE"
+		"es"		"#nmo_cabin_ObjE"
+	}
+	"226e64105397a82ef4a6227642855954"
+	{
+		"en"		"#nmo_cabin_ObjD"
+		"es"		"#nmo_cabin_ObjD"
+	}
+	"09816bb656b84ada13056e55b639e2e9"
+	{
+		"en"		"#nmo_cabin_ObjC"
+		"es"		"#nmo_cabin_ObjC"
+	}
+	"9a950ad6dbba08ff93d607d067db22da"
+	{
+		"en"		"#nmo_cabin_ObjB"
+		"es"		"#nmo_cabin_ObjB"
+	}
+	"9027bbd1e5a5b987063bb155615c4e92"
+	{
+		"en"		"#nmo_cabin_ObjA"
+		"es"		"#nmo_cabin_ObjA"
+	}
+	"6189dadecaf7b8f748a4c707c9e56d69"
+	{
+		"en"		"#nmo_cabin_objStart"
+		"es"		"#nmo_cabin_objStart"
+	}
+}

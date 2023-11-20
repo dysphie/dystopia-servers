@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Hatsune Miku"
+		"es"		"Mapa creado por Hatsune Miku"
+	}
+	"75e8e74ee3d3b6b093aaea2896df78af"
+	{
+		"en"		"Chopper leaves in 40 seconds!"
+		"es"		"El helicóptero se va en 40 segundos!"
+	}
+	"026b005ae8686c9fd5278da6fb5bca32"
+	{
+		"en"		"Hacking failed! Find a welder inside any of the supply boxes"
+		"es"		"Hackeo fallido. Encuentra un soldador adentro de una caja de suministros"
+	}
+	"db8f6904bea2849b1e312d2591774416"
+	{
+		"en"		"Hack PC and get welder to break main cabin padlock"
+		"es"		"Hackea la PC y obtén un soldador para irrumpir en la cabina principal"
+	}
+	"3c10f31ae6e8a616bd7ab8b1e3bb186e"
+	{
+		"en"		"Enter engine room using back door"
+		"es"		"Entra a la sala de máquinas desde la puerta trasera"
+	}
+	"b20c6f58d4d467c0ef85eaffd9e32d61"
+	{
+		"en"		"Extinguish the fire coming from the machines"
+		"es"		"Apaga el fuego generado por las máquinas"
+	}
+	"ce2e03d6e4889dd0dd484d9acef07a70"
+	{
+		"en"		"Use a crowbar to get inside the building"
+		"es"		"Usa una palanca para entrar al edificio"
+	}
+	"07a373cb65d82ca641f5198c32e0ed2d"
+	{
+		"en"		"Repair faulty generator and escape!"
+		"es"		"Repara el generador y escapa!"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"es"		"Pide ayuda"
+	}
+	"c6b2888c593c698e2e4006cb595a7d32"
+	{
+		"en"		"Enter engine room through an open vent"
+		"es"		"Entra a la sala de máquinas por un ducto de ventilación"
+	}
+	"810006dddc0a086dec15d3a077ff6d09"
+	{
+		"en"		"Resist until elevator reaches the main platform"
+		"es"		"Sobrevive hasta que el elevador llegue a la plataforma"
+	}
+	"9ed6117e7f17a91d9bbaa7ffac0d7784"
+	{
+		"en"		"Search for fuel to power up main cargo lift"
+		"es"		"Busca combustible para encender el elevador de carga"
+	}
+	"045c3c285b843a9c79bd354fb907df1a"
+	{
+		"en"		"Find a way to escape from bunks area"
+		"es"		"Encuentra una manera de escapar de los dormitorios"
+	}
+	"c205673012f317b5536a9a1629f55c68"
+	{
+		"en"		"Find the main key to exit bunks area"
+		"es"		"Encuentra la llave para salir de los dormitorios"
+	}
+	"de2808f439f37b35a8b705a1b3851e72"
+	{
+		"en"		"Clear the area and resist until chopper arrival"
+		"es"		"Despeja el área y sobrevive hasta que llegue el helicóptero"
+	}
+	"62b2fd7fd27902f89afcb4c35693785b"
+	{
+		"en"		"Find the access code of the helipad"
+		"es"		"Encuentra el código de acceso para el helipuerto"
+	}
+	"9876ae538744f8f7788538e482ce41fb"
+	{
+		"en"		"Look for the missing fuse box and fix electrical systems"
+		"es"		"Busca el disyuntor faltante y repara los sistemas eléctricos"
+	}
+	"836fc7a12ec0d4561b3fb2e07f3eb3a6"
+	{
+		"en"		"Use a gas tank to destroy the main door of the engine room"
+		"es"		"Usa una garrafa para irrumpir en la sala de máquinas"
+	}
+	"43d5668492d4e6bfe51089fa29247084"
+	{
+		"en"		"Access code:"
+		"es"		"Código de acceso:"
+	}
+	"0001bbed733efa5aff0405698a86e90b"
+	{
+		"en"		"Access code 2465"
+		"es"		"Access code 2465"
+	}
+	"36bde7bf594f0da22939d8b0cd5b1276"
+	{
+		"en"		"Access code 4868"
+		"es"		"Access code 4868"
+	}
+	"97628b429f3b5d383f6afe34d757a8e3"
+	{
+		"en"		"Access code 3934"
+		"es"		"Access code 3934"
+	}
+	"2b07a069d1296ed4406d7a3d80fac7ba"
+	{
+		"en"		"Access code 9582"
+		"es"		"Access code 9582"
+	}
+	"f8c52d6a0ff21cb91691e5f1cffa5f78"
+	{
+		"en"		"Access code 6631"
+		"es"		"Access code 6631"
+	}
+	"5228183b2acb80b8a2d3353b2f3ded45"
+	{
+		"en"		"Access code 1523"
+		"es"		"Access code 1523"
+	}
+	"de69711bd7fc5a1cfdba342a8a95a427"
+	{
+		"en"		"Access code 9814"
+		"es"		"Access code 9814"
+	}
+	"2e180c69fe299cfa67370b99e58bcf62"
+	{
+		"en"		"Access code 8134"
+		"es"		"Access code 8134"
+	}
+	"326a86ab1d0dbcdd6df11f6e84216276"
+	{
+		"en"		"Access code 7486"
+		"es"		"Access code 7486"
+	}
+	"5b0c9f6ddf453f18f4b4f74b072c6f5e"
+	{
+		"en"		"Access code 6017"
+		"es"		"Access code 6017"
+	}
+	"ae818a24e926f323ecbae60eb7bb31ec"
+	{
+		"en"		"Access code 5320"
+		"es"		"Access code 5320"
+	}
+	"e545ae43600ad8a4c2633df6da46ac60"
+	{
+		"en"		"Access code 4125"
+		"es"		"Access code 4125"
+	}
+	"70455dc467e4a20141b09edaaba41ad5"
+	{
+		"en"		"Access code 3048"
+		"es"		"Access code 3048"
+	}
+	"31a2919b1432e932d61208eb695dc2fb"
+	{
+		"en"		"Access code 2681"
+		"es"		"Access code 2681"
+	}
+	"3fe79eaf8f5ae4ef9edbb6906c84a55b"
+	{
+		"en"		"Access code 1283"
+		"es"		"Access code 1283"
+	}
+	"215099b96a9391323e4e017a2886daf0"
+	{
+		"en"		"Access code 0672"
+		"es"		"Access code 0672"
+	}
+}

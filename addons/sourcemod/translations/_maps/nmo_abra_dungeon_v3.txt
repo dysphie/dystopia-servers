@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"89a7803f9ddbc3b9336c9f2e27852ca8"
+	{
+		"ru"		"Переместите труп, что-то лежит под ним"
+		"en"		"Move corpse, something lies beneath it"
+		"es"		"Mueve el cadáver, algo yace debajo de él."
+	}
+	"bc939f97cc6d20525ca6d0de808f4dee"
+	{
+		"ru"		"Продержитесь 240 секунд до прибытия вертолета."
+		"en"		"Hold on for 240 seconds before the helicopter arrives."
+		"es"		"Aguanta por 4 minutos hasta que llegue el helicóptero"
+	}
+	"e54dcea7b7b84d95f0f67d96845c8505"
+	{
+		"ru"		"Сбегите из подземелий."
+		"en"		"Escape from the dungeon."
+		"es"		"Escapa del templo."
+	}
+	"45e3ce348f2933633f5e10a0c0395e58"
+	{
+		"ru"		"Пройдите ловушки и возьмите идола."
+		"en"		"Go through the traps and take the relic"
+		"es"		"Evade las trampas y toma la reliquia"
+	}
+	"e183dcb09db7658eed5b6d68e2811e70"
+	{
+		"ru"		"Продержитесь 120 секунд до открытия двери."
+		"en"		"Hold for 2 minutes until the gate opens."
+		"es"		"Aguanta por 2 minutos hasta que la puerta se habra"
+	}
+	"d24aee6e8cb627c9f532e4e5a0ecf2d3"
+	{
+		"ru"		"Назад пути нет, только вперед."
+		"en"		"There is no turning back, only forward."
+		"es"		"No hay vuelta atrás, avanza."
+	}
+	"ff6d8abb70a33b3b98113dcc3910519e"
+	{
+		"ru"		"Узнайте что впереди."
+		"en"		"Find out what's ahead."
+		"es"		"Investiga qué hay adelante."
+	}
+	"af0fd7529101d6eb9243fde756e6cecc"
+	{
+		"ru"		"Дверь впереди возможно закрыта, найдите чем открыть."
+		"en"		"The door is closed, find something to open it."
+		"es"		"La puerta esta cerrada, encuentra algo para abrirla"
+	}
+	"ab0c2585a75bec1a18d7bf022874ecdc"
+	{
+		"ru"		"Найдите способ открыть с кодом дверь"
+		"en"		"Find a code to open the door"
+		"es"		"Encuentra un código para abrir la puerta"
+	}
+	"5cf3ea0d72d61f73e4d68b4378ebfa9a"
+	{
+		"ru"		"Войдите в гробницу."
+		"en"		"Enter the dungeon."
+		"es"		"Entra al templo."
+	}
+}

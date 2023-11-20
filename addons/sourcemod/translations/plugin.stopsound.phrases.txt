@@ -1,0 +1,75 @@
+"Phrases"
+{
+	"Chat Prefix"
+	{
+		"en"	"{green}[StopSound]{default}"
+		"ru"	"{green}[StopSound]{default}"
+	}
+
+	"Weapon sounds enabled"
+	{
+		"en"	"Weapon sounds {green}enabled{default}!"
+		"ru"	"Звуки стрельбы {green}включены{default}!"
+		"es"	"No deberías ver este mensaje"
+	}
+
+	"Weapon sounds disabled"
+	{
+		"en"	"Weapon sounds {darkred}disabled{default}!"
+		"ru"	"Звуки стрельбы {darkred}отключены{default}!"
+	}
+
+	"Map music enabled"
+	{
+		"en"	"{lightpink}Map music {green}enabled{default}"
+		"ru"	"{lightpink}Музыка на картах {green}включена{default}"
+		"es"	"{lightpink}Música {green}activada{default}"
+	}
+
+	"Map music disabled"
+	{
+		"en"	"{lightpink}Map music {red}disabled"
+		"ru"	"{lightpink}Музыка на картах {red}отключена"
+		"es"	"{lightpink}Música {red}desactivada"
+	}
+
+	"Cookie Menu Stop Sounds"
+	{
+		"en"	"Stop Sounds"
+		"ru"	"Отключение звуков"
+		"es"	"Silenciar música"
+	}
+
+	"Cookie Menu Stop Sounds Title"
+	{
+		"en"	"Stop Sounds Configuration"
+		"ru"	"Настройки Отключения Звуков"
+	}
+
+	"Weapon Sounds"
+	{
+		"en"	"Weapon sounds"
+		"ru"	"Звуки стрельбы"
+	}
+
+	"Map Sounds"
+	{
+		"en"	"Map music"
+		"ru"	"Музыка на картах"
+		"es"	"Música"
+	}
+
+	"Disabled"
+	{
+		"en"	": Disabled"
+		"ru"	" [Выключено]"
+		"es"	": Desactivada"
+	}
+
+	"Enabled"
+	{
+		"en"	": Enabled"
+		"ru"	" [Включено]"
+		"es"	": Activada"
+	}
+}

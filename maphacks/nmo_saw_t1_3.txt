@@ -1,0 +1,332 @@
+"Maphack"
+{
+	"pre_entities"
+	{
+		"math_counter"
+		{
+			"max" "0"
+			"min" "0"
+			"StartDisabled" "0"
+			"startvalue" "0"
+			"targetname" "bossbar_calculator"
+			"connections"
+			{
+				"OnGetValue" "!self,Divide,5100,0,-1"
+				"OutValue" "bossbar,SetProgress,,0,-1"
+			}
+		}
+
+		"logic_progress"
+		{
+			"broadcast" "1"
+			"invert" "0"
+			"length" "5100"
+			"spawnflags" "12"
+			"static" "1"
+			"targetname" "bossbar"
+		}
+
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"Jigsaw_tem"
+			}
+			"insert"
+			{
+				"OnEntitySpawned" "bossbar,StartProgress,,0.01,-1"
+				"OnEntitySpawned" "bossbar,SetProgress,1.0,0,-1"
+			}
+		}
+
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"Jigsaw_tem2"
+			}
+			"insert"
+			{
+				"OnEntitySpawned" "bossbar,StartProgress,,0.01,-1"
+				"OnEntitySpawned" "bossbar,SetProgress,1.0,0,-1"
+			}
+		}
+
+		$modify 
+		{
+			"match"
+			{
+				"targetname"	"Jigsaw_Box"
+			}
+			"insert"
+			{
+				"OnHealthChanged" "bossbar_calculator,SetValue,,0,-1"
+				"OnDamaged" "!self,RunScriptCodeQuotable,self.EmitSound(''Flesh.SharpImpact''),0,-1"
+				"OnDamaged" "!self,RunScriptCodeQuotable,self.EmitSound(''NPC_NMR_ZombieRunner_Male.Pain''),0,-1"	
+				"OnBreak" "bossbar,StopProgress,,0,-1"
+				"OnBreak" "bossbar,Kill,,0.01,-1"
+				"OnBreak" "bossbar_calculator,Kill,0,-1"
+			}
+			"replace"
+			{
+				"health"	"5100" // If we don't set this, OnHealthChanged's SetValue will always be 1 for some reason
+			}
+		}
+
+		$modify 
+		{
+			"match"
+			{
+				"targetname"	"Jigsaw_Box2"
+			}
+			"insert"
+			{
+				"OnHealthChanged" "bossbar_calculator,SetValue,,0,-1"
+				"OnDamaged" "!self,RunScriptCodeQuotable,self.EmitSound(''Flesh.SharpImpact''),0,-1"
+				"OnDamaged" "!self,RunScriptCodeQuotable,self.EmitSound(''NPC_NMR_ZombieRunner_Male.Pain''),0,-1"	
+				"OnBreak" "bossbar,StopProgress,,0,-1"
+				"OnBreak" "bossbar,Kill,,0.01,-1"
+				"OnBreak" "bossbar_calculator,Kill,0,-1"
+			}
+			"replace"
+			{
+				"health"	"5100" // If we don't set this, OnHealthChanged's SetValue will always be 1 for some reason
+			}
+		}
+
+		// Make inventory boxes glow less distracting and match inventory item color
+		$modify
+		{
+			"match"
+			{
+				"classname"	"item_inventory_box"
+			}
+			"replace"
+			{
+				"glowdistance"	"90"
+				"glowcolor"	"0 255 0"
+			}
+		}
+
+		// Add timer to elevator
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"elevator_button"
+			}
+
+			"insert"
+			{
+				"OnTrigger" "elevator_timer,ShowTimer,,0.01,-1"
+				"OnTrigger" "elevator_timer,StartTimer,,0,-1"
+			}
+		}
+
+		"env_timer"
+		{
+			"broadcast" "1"
+			"color" "255 37 37"
+			"countdown" "1"
+			"resolution" "0"
+			"spawnflags" "1"
+			"starttime" "180"
+			"targetname" "elevator_timer"
+			"xpos" "-1"
+			"ypos" "-1"		
+		}
+	
+
+		// Remove annoying BGM
+		$remove
+		{
+			"targetname" "saw_theme"
+		}
+
+		// Prevent doors from insta killing you on touch
+		$edit
+		{
+			"targetname"	"pendulum_doors"
+			"keyvalues"
+			{
+				"dmg"		"0"
+			}
+		}
+
+		// Add name to sacrifice knife so it can glow
+		$edit
+		{
+			"id" "82427"
+			"keyvalues"
+			{
+				"targetname"	"knife_hintprop"
+			}
+		}
+
+		// Fix furnace door insta killing you
+		$edit
+		{
+			"targetname" "Door-fire"
+			"keyvalues"
+			{
+				"forceclosed" "0"
+			}
+		}
+
+		// Create dyn prop so we can make the elevator button glow
+		"prop_dynamic"
+		{
+			"keyvalues"
+			{
+				"origin" "1324 -1123.93 -73"
+				"model" "models/props_lab/freightelevatorbutton.mdl"
+				"solid" "0"
+				"spawnflags" "256"
+				"targetname"	"elevator_hintprop"
+			}
+		}
+
+		// Glow the elevator button and welder
+		$edit
+		{
+			"targetname"	"elevator_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"elevator_hintprop"
+				"GlowEntity2Name"	"welder"
+			}
+		}
+
+		// Glow the freezer's fans
+		$edit
+		{
+			"targetname"	"freeser_door_break_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"freeser_fan1"
+				"GlowEntity2Name"	"freeser_fan2"
+				"GlowEntity3Name"	"freeser_fan3"
+				"GlowEntity4Name"	"freeser_fan4"
+			}
+		}
+
+		$edit
+		{
+			"targetname"	"pendulum_doors2_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"pendulum_doors2_key"
+			}
+		}
+
+		$edit
+		{
+			"targetname"	"glass_box_door_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"glass_box_pipes"
+			}
+		}
+
+		$edit
+		{
+			"targetname"	"bomb_cover_door_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"bomb_cover_prop"
+				"GlowEntity2Name"	"bomb_cover_prop2"
+				"GlowEntity3Name"	"bomb_cover_prop3"
+				"GlowEntity4Name"	"bomb_cover_button_prop"
+				"GlowEntity5Name"	"bomb_cover_button2_prop"
+				"GlowEntity6Name"	"bomb_cover_button3_prop"
+			}
+		}
+
+		$edit
+		{
+			"targetname"	"reitti1and2_brushes_key_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"reitti1and2_brushes_key"
+			}
+		}
+
+		$edit
+		{
+			"targetname"	"c4_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"c4_2"
+				"GlowEntity2Name"	"c4"
+				"GlowEntity3Name"	"furnace_hintprop"
+			}
+		}
+
+		$edit
+		{
+			"targetname" "reitti1and2_brushes_break_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"reitti1and2_brushes_tool"	
+			}
+		}
+
+		$edit
+		{
+			"targetname" "reitti1and2_brushes_break2_obj"
+			"keyvalues"
+			{
+				"GlowEntity1Name"	"reitti1and2_brushes_tool"	
+			}
+		}
+
+		$edit
+		{
+			"id" "1326325"
+			"keyvalues"
+			{
+				"targetname"	"padlock_hintprop"
+			}
+		}
+
+		$edit
+		{
+			"id" "270398"
+			"keyvalues"
+			{
+				"targetname" "furnace_hintprop"
+				"glowcolor" "255 0 0"
+			}
+		}
+	}
+
+	"entities"
+	{
+		// Move glowing elevator button to the right pos, doesn't teleport properly when spawned
+		$setpos { "targetname" "elevator_hintprop" "value" "1324 -1123.93 -73"}
+		
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"ele_door_hurt_obj"
+			}
+			"replace"
+			{
+				"GlowEntity1Name"	"knife_hintprop"
+			}
+		}
+
+		$modify
+		{
+			"match"
+			{
+				"targetname"	"pendulum_doors_obj"
+			}
+			"insert"
+			{
+				"GlowEntity1Name" "pendulum_doors_lock"
+			}
+		}
+	}
+}

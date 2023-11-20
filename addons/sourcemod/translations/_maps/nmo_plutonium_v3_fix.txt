@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"7ab595ada3bf5091bff36018d50e32ac"
+	{
+		"en"		"Proceed further ahead!"
+		"es"		"¡Sigue avanzando!"
+	}
+	"25c9b96bbda15650e786cb380a6632a6"
+	{
+		"en"		"Survive 3 minutes!"
+		"es"		"¡Sobrevive por 3 minutos!"
+	}
+	"45845fb9042c8065cece3b8eb9cc1edd"
+	{
+		"en"		"Turn on the portal with the final interface! Prepare yourselves!"
+		"es"		"Activa el portal con la última interfaz ¡Prepárate primero!"
+	}
+	"9c796d7920ff82fe9da9878190110ab9"
+	{
+		"en"		"Find a gas can to power up the generator "
+		"es"		"Encuentra una lata de gasolina para encender el generador"
+	}
+	"d767568e159514b1f2f19cb78fea55d2"
+	{
+		"en"		"Find a lever to open up the gate"
+		"es"		"Encuentra una palanca para abrir la reja"
+	}
+	"35554f908982eed543e04020ff9fb8a6"
+	{
+		"en"		"Choose the right color to proceed ahead"
+		"es"		"Elige el color correcto para continuar"
+	}
+	"1708cf12864609a06cf16abaacdcfbd9"
+	{
+		"en"		"Find another lever to turn on the power "
+		"es"		"Encuentra otra palanca para activar la electricidad"
+	}
+	"8e75469229bfd2f2435398634248634b"
+	{
+		"en"		"Use the interface to proceed something crazy"
+		"es"		"Usa la interfaz para acceder a algo loco"
+	}
+	"9ddd27af8c7c32fed37f8eacfb9ae42a"
+	{
+		"en"		"Find a lever to open the door"
+		"es"		"Encuentra una palanca para abrir la puerta"
+	}
+	"772ed620f385f88d230fb0bf5a71a591"
+	{
+		"en"		"Respawn has been activated."
+		"es"		"Respawn activado"
+	}
+	"cb82e7614403866618bec0f3064aaec0"
+	{
+		"en"		"Watch your step!"
+		"es"		"¡Mira dónde pisas!"
+	}
+	"b628fbc5338d89262024301d107fde57"
+	{
+		"en"		"Press E on generator"
+		"es"		"Presiona E en el generador"
+	}
+	"9eb8c327f3a16c123a72ceaf3e008c3e"
+	{
+		"en"		"All players need to be at interface!"
+		"es"		"¡Todos los jugadores deben estar en la interfaz!"
+	}
+	"a007e72626cc339e5bbac6be0312439d"
+	{
+		"en"		"Map ported by Y#shieon"
+		"es"		"Mapa adaptado por Y#shieon"
+	}
+	"67a02c9f50780ebf7a19c78b63ac03f0"
+	{
+		"en"		"Map by AL'sMoonL.Night"
+		"es"		"Mapa creado por AL'sMoonL.Night"
+	}
+}
