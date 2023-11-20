@@ -1,8 +1,8 @@
 # Dystopia
 
-This repository contains the source code for Dystopia servers in No More Room in Hell.
+This repository holds the source code for Dystopia servers in No More Room in Hell.
 
-Please note that the code is provided as-is. There may be some missing or incomplete files, and no support will be provided.
+The code is shared as-is and I will not be providing support for it. I developed it for personal use so there is little documentation. Some files may be spare, missing, or incomplete, and dependencies are not clearly outlined. You're encouraged to explore, understand, and modify the code on your own
 
 ## Some hints
 
