@@ -1,0 +1,33 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Signatures"
+		{
+			"CBasePlayer::InputSetFogController"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x56\x8B\xF1\x8B\x4D\x08\x83\xC1\x08\x83\x79\x10\x02\x75\x2A\x8B\x01\xBA\x2A\x2A\x2A\x2A\x85\xC0\x0F\x45\xD0\xEB\x2A\xE8\x2A\x2A\x2A\x2A\x8B\xD0\x6A\x00"
+                "linux"     "@_ZN11CBasePlayer21InputSetFogControllerER11inputdata_t"
+			}
+		}
+
+		"Functions"
+        {
+            "CBasePlayer::InputSetFogController"
+            {
+                "signature"  "CBasePlayer::InputSetFogController"
+                "callconv"  "thiscall"
+                "return"  "void"
+                "this"  "entity"
+                "arguments"
+                {
+                    "inputdata"
+                    {
+                        "type"  "objectptr"
+                    }
+                }
+            }
+        }
+	}
+}
